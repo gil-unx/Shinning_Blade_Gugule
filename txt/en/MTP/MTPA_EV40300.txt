@@ -1,119 +1,96 @@
 [0026]
 *****************
 [00000000][none]
-@lt1@fcFF00FFFFワールドマップについて
+@lt1@fcFF00FFFF　About the world map　
 --------------------------------
 [00000001][none]
-ワールドマップに移動できるようになりました。
-今後、クエストやタウンへの移動は
-このワールドマップから行うことになります。
+You can now move to the world map.  From now on, quests and movement to towns
+will be done from this world map.
 --------------------------------
 [00000002][none]
-タウンアイコンを選択して○ボタンを押すと
-そのタウンに移動することができます。
+Select a town icon and press the ○ button to move to that town.
 --------------------------------
 [00000003][none]
-クエストアイコンは
-現在受注しているクエストを表しており、
-○ボタンを押すとクエストが発生します。
+The quest icon represents the currently accepted quest, the quest will occur
+when you press the ○ button.
 --------------------------------
 [00000004][none]
-フリーバトルは
-受注せずに行うことが出来るクエストです。
-他のクエストを受注中でも挑戦することが可能です。
+Free battles are quests that can be done without accepting orders.  You can
+challenge this even if you are currently accepting other quests.
 --------------------------------
 [00000005][none]
-また、ワールドマップ上でも△ボタンで
-メニューを開くことができますので、
-こまめにセーブを行うことを心がけましょう。
+You can also open the menu by pressing the △ button on the world map, so be sure
+to save frequently.
 --------------------------------
 [00000006][none]
-@lt1@fcFF00FFFFフリーバトルについて
+@lt1@fcFF00FFFF　About free battle　
 --------------------------------
 [00000007][none]
-フリーバトルは
-ワールドマップ上から選択することで
-いつでも挑戦できるクエストです。
+Free battles are quests that you can challenge at any time by selecting them on
+the world map.
 --------------------------------
 [00000008][none]
-フリーバトルは何回でもクリアすることが可能です。
-また、敵の強さは
-ストーリーが進むごとに強くなっていきます。
+Free battles can be cleared as many times as you like.  Also, the strength of
+the enemy will become stronger as the story progresses.
 --------------------------------
 [00000009][none]
-また、フリーバトルでは
-一定確率で普段よりも強い敵が
-出現することがあります。
+Also, in free battles, there is a certain probability that stronger enemies than
+usual will appear.
 --------------------------------
 [00000010][none]
-強敵ですが、
-レアなマテリアルを入手することが可能です。
-また、レア宝箱が出現することもあります。
+Although it is a strong enemy, it is possible to obtain rare materials.  Also,
+rare treasure chests may appear.
 --------------------------------
 [00000011][none]
-メンバー全体の状況などを見て
-戦うかどうかを判断するようにしましょう。
+Look at the situation of all members and decide whether to fight or not.
 --------------------------------
 [00000012][none]
-@lt1@fcFF00FFFFリターンについて
+@lt1@fcFF00FFFF　About return　
 --------------------------------
 [00000013][none]
-リターンを使用できるようになりました。
-バトルマップで△ボタンで表示されるメニューから
-リターンを使用することが可能です。
+return is now available.  You can use Return from the menu displayed by pressing
+the △ button on the battle map.
 --------------------------------
 [00000014][none]
-リターンを使用すると、クエストを中断して
-ワールドマップに戻ることが可能です。
+Return allows you to interrupt the quest and return to the world map.
 --------------------------------
 [00000015][none]
-その際、クエスト中に得た経験値と
-宝箱から入手したアイテムが
-失われることはありません。
+In this case, the experience points gained during the quest and the items
+obtained from the treasure chest will not be lost.
 --------------------------------
 [00000016][none]
-ただし、リザルトでの報酬は受け取れません。
-また、リターンの際には
-パンの効果も切れてしまうので注意しましょう。
+However, you will not receive rewards for results.  Also, when you return, the
+panning effect will also wear off, so be careful.
 --------------------------------
 [00000017][none]
-@lt1@fcFF00FFFFメンバーセレクトについて
+@lt1@fcFF00FFFF　About member selection　
 --------------------------------
 [00000018][none]
-メンバーが５人以上になりました。
-これ以降はメンバーセレクト時に
-自由にバトルメンバーを選ぶことが可能です。
+There are 5 or more members.  From now on, you can freely select battle members
+when selecting members. 
 --------------------------------
 [00000019][none]
-メンバーセレクトでは
-戦闘に参加するバトルメンバーと
-控えのリザーブメンバーを選択することができます。
+In member selection, you can select the battle members who will participate in
+the battle and the reserve members who will stand by.
 --------------------------------
 [00000020][none]
-エリアクエスト終了時には
-メンバーの入れ替えを行うことが可能です。
+It is possible to change members at the end of the area quest.
 --------------------------------
 [00000021][none]
-前のエリアクエストで瀕死状態（ＨＰ０）になった
-キャラクターは、次のエリアクエストでは
-ＨＰが１の状態となってしまいます。
+A character who was on the verge of death (0 HP) in the previous area quest will
+have 1 HP in the next area quest.
 --------------------------------
 [00000022][none]
-このような時はリザーブメンバーと
-入れ替えを行うと良いでしょう。
-
+In such a case, it would be a good idea to swap with a reserve member.  
 --------------------------------
 [00000023][none]
-入れ替えを行ったメンバーは
-次のエリアクエストまでに
-ＨＰを回復させることが可能です。
+The replaced member can recover HP before the next area quest.
 --------------------------------
 [00000024][none]
-また、クエストクリア時の経験値は
-両方のメンバーに与えられます。
+Also, the experience points upon clearing the quest will be given to both
+members.
 --------------------------------
 [00000025][none]
-レベルの低いキャラクターは
-リザーブメンバーとして参加させ、
-安全に育成を行うと良いでしょう。
+It is a good idea to have low-level characters participate as reserve members
+and train them safely.
 --------------------------------

@@ -1,645 +1,483 @@
 [0157]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　ヴァーゼル北東部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt11935 Northeastern Basel
 --------------------------------
 [00000001][none]
-帝国軍の精鋭部隊を
-撃破、ですか
-我々だけで……？
+Defeated the elite forces of the Imperial Army, by ourselves...?
 --------------------------------
 [00000002][none]
-お前さんの
-言いたいことは分かる
+I understand what you're trying to say.
 --------------------------------
 [00000003][none]
-相手が悪いってんだろ？
-だが正式に決まったことだ
+The other person is at fault, right?  But it has been officially decided.
 --------------------------------
 [00000004][none]
-残念だが、決まったことは
-やるしかないんだよ
+I'm sorry, but we have no choice but to do what's been decided.
 --------------------------------
 [00000005][none]
-司令部は可能な事と
-不可能な事の
-区別も付かないのですか？
+Does the command center not even know the difference between what is possible
+and what is not possible?
 --------------------------------
 [00000006][none]
-まあ落ち着けって
-事の重大さぐらい
-俺さんにだって分かってる
+Well, calm down Even I understand the seriousness of this situation.
 --------------------------------
 [00000007][none]
-どうしたのです？
-今日はいつもと
-態度が違うようですが
+What's wrong?  It seems like your attitude is different today than usual.
 --------------------------------
 [00000008][none]
-……上層部のヤローが
-諜報部は役立たずだと
-挑発してきやがってな
+...Someone in the upper echelons is provoking saying that the intelligence
+department is useless. 
 --------------------------------
 [00000009][none]
-つい売り言葉に
-買い言葉で……
-分かるだろ？
+Sales words and buying words... You get it, right?
 --------------------------------
 [00000010][none]
-諜報部の仕事は戦場で
-敵部隊を攻撃することでは
-ないはずですが？
+The job of intelligence is not to attack enemy forces on the battlefield, right?
 --------------------------------
 [00000011][none]
-やるって言っちまったんだ！
-しょうがねえだろ！
+I said I would do it!  It can't be helped!
 --------------------------------
 [00000012][none]
-困ったな、まったく……
+I'm in trouble, at all...
 --------------------------------
 [00000013][none]
-困るのは
-こっちの方です……
+The problem is this one...
 --------------------------------
 [00000014][none]
-やあ、フレデリカちゃん
-元気かい？
+Hello, Frederica-chan How are you doing?
 --------------------------------
 [00000015][none]
-うふふ、ジュリオ
-また私のために
-おいしいものを作ってね
+Hehehe, Julio Make me something delicious again 
 --------------------------------
 [00000016][none]
-もちろんだよ
+Of course.
 --------------------------------
 [00000017][none]
-私を感動させる事が
-もしできたら
-お返しは期待していいわよ
+If you can impress me then you can expect something in return.
 --------------------------------
 [00000018][none]
-きみのような女性を
-感動させるのは
-おれのような男が相応しい
+A man like me deserves to impress a woman like you.
 --------------------------------
 [00000019][none]
-あらアルフォンス
-相変わらず可愛いくて
-柔らかそうなお肌ね
+Oh Alphonse You're as cute as ever Your skin looks soft.
 --------------------------------
 [00000020][none]
-このおれでよければ
-いつでも甘えていいんだぜ
+If you're okay with me, you can spoil me anytime.
 --------------------------------
 [00000021][none]
-甘えていいの？
-それなら２人きりで
-お話がしたいなあ
+Is it okay to be spoiled?  In that case, I'd like to talk to you alone.
 --------------------------------
 [00000022][none]
-いいとも
-夕日の見える丘にでも
-行ってみるかい？
+Would you like to go to a hill where you can see the sunset?
 --------------------------------
 [00000023][none]
-げはっ!!
-後ろからいきなり!?
+Geha!! Suddenly from behind!?
 --------------------------------
 [00000024][none]
-この私の目の前で
-隊の風紀を乱すとは
-いい度胸じゃないの
+You don't have the courage to disturb the morale of the squad right in front of
+me.
 --------------------------------
 [00000025][none]
-よっぽど教育に
-飢えていたようね！
+Looks like you're really hungry for education!
 --------------------------------
 [00000026][none]
-おお、スイート
-弾けるほどにスイートだ
+Oh, sweet So sweet that you can play it.
 --------------------------------
 [00000027][none]
-……残念だけどお話は
-また今度の機会みたいね
+...I'm sorry, but I guess we'll have to talk about it another time.
 --------------------------------
 [00000028][none]
-その時はぜひ
-いろんな情報をよろしくね
-うふふ
+At that time, please please give me all kinds of information hehe
 --------------------------------
 [00000029][none]
-情報ねえ……
+No information...
 --------------------------------
 [00000030][none]
-アンタ、アタシの若い頃と
-同じ手を使って
-仕事をしているみたいだね
+Looks like you're working with the same hands you used when I was younger.
 --------------------------------
 [00000031][none]
-あらグロリア、いたの？
+Oh, Gloria, were you there?
 --------------------------------
 [00000032][none]
-アタシゃずっと横にいたさ
+I was next to you the whole time.
 --------------------------------
 [00000033][none]
-それとも女は
-目に入らないのかい？
+Or do you just not see women?
 --------------------------------
 [00000034][none]
-ごめんなさい
-私は男の人が好きだから
+I'm sorry I like men.
 --------------------------------
 [00000035][none]
-男は私に
-何でも話してくれるもの
+A man can tell me anything.
 --------------------------------
 [00000036][none]
-だから大好き
+That's why I love it
 --------------------------------
 [00000037][none]
-相当の曲者みたいだね
+Looks like he's quite a songwriter.
 --------------------------------
 [00000038][none]
-アンタほどの腕の女がなぜ
-こんなところにいるのさ
+Why is a woman as skilled as you in a place like this?
 --------------------------------
 [00000039][none]
-何かとんでもない
-大失敗でもしたのかい？
+Did you make some terrible mistake?
 --------------------------------
 [00000040][none]
-……これだから女は苦手
-私は聞く方で
-答える方ではないわ
+...That's why I don't like women I'm a listener, not an answerer.
 --------------------------------
 [00000041][none]
-でも、ひとつだけ
-答えてあげる
+But I'll give you one answer.
 --------------------------------
 [00000042][none]
-私は、望んでここに来たの
+I came here hoping
 --------------------------------
 [00000043][none]
-グロリア
-暇だから話相手に
-なってもらえないかしら？
+Gloria I'm bored, so could you talk to me ?
 --------------------------------
 [00000044][none]
-……ふん、女は
-苦手じゃなかったのかい？
+...Hmm, aren't you bad at women?
 --------------------------------
 [00000045][none]
-うふふ、女は苦手だけど
-アンタは何となく好きよ
+Hehehe, I'm not good with women, but I kind of like you.
 --------------------------------
 [00000046][none]
-だって
-同じ匂いがするから
+Because they smell the same
 --------------------------------
 [00000047][none]
-それは大変不名誉だね
+That's a great disgrace.
 --------------------------------
 [00000048][none]
-まあ、そう言わずに
-楽しいおしゃべりしましょ
+Well, don't say that. Let's have a nice chat.
 --------------------------------
 [00000049][none]
-私が特別に
-面白い話をしてあげる
+I'll tell you a special interesting story.
 --------------------------------
 [00000050][none]
-ほう、それは楽しみだね
+Oh, I'm looking forward to that.
 --------------------------------
 [00000051][none]
-マクシミリアンが
-なぜ『準』皇太子なのか
-知ってる？
+Do you know why Maximilian is a 'quasi' crown prince ?
 --------------------------------
 [00000052][none]
-彼は皇帝の実子だけど
+He is the emperor's biological son.
 --------------------------------
 [00000053][none]
-母親の身分が低かった事を
-理由に、正当後継者から
-外されてしまったからなの
+Because her mother's status was low, she was excluded from being the legitimate
+successor.
 --------------------------------
 [00000054][none]
-彼は帝国を憎んでいるわ
-ガリア侵略には何か大きな
-狙いがあるはずよ
+He hates the Empire There must be some big intention behind invading Gaul.
 --------------------------------
 [00000055][none]
-ただの戦争屋じゃないとは
-思っていたけど
-私怨がからんでいるのかね
+I thought he wasn't just a warmonger, but I wonder if he has some personal
+grudge involved.
 --------------------------------
 [00000056][none]
-彼の母親は事故で
-死んだとされているけど
-殺されたらしいわよ
+His mother is said to have died in an accident, but apparently she was murdered.
 --------------------------------
 [00000057][none]
-復讐を考えているのは
-間違いないでしょうね
+I'm sure you're thinking of revenge.
 --------------------------------
 [00000058][none]
-それは誰から聞いた話だい
+Who told you that?
 --------------------------------
 [00000059][none]
-帝国のお偉いさんよ
+Imperial boss
 --------------------------------
 [00000060][none]
-よくそんな危ない話を
-女に話したものだねえ！
+I used to tell such dangerous stories to women!
 --------------------------------
 [00000061][none]
-私は誰にも話さないから
-大丈夫だけどね
+I won't tell anyone, so it's okay.
 --------------------------------
 [00000062][none]
-お金にならない限りは……
+Unless it makes money...
 --------------------------------
 [00000063][none]
-じゃあ、なぜアタシに
-話したんだい？
+Then why did you tell me?
 --------------------------------
 [00000064][none]
-顧客ルートの
-開拓になるかと思ってね
-コネ、あるんでしょ？
+I thought it would open up customer routes. You have connections, right?
 --------------------------------
 [00000065][none]
-どうせそんなことだろうと
-思ったけどね
+I thought that was the case anyway.
 --------------------------------
 [00000066][none]
-他にもいろいろあるわよ
+There are many other things too.
 --------------------------------
 [00000067][none]
-連邦の事とかはどう？
+What about the Federation?
 --------------------------------
 [00000068][none]
-なんだい、連邦のネタまで
-握っているのかい？
+What, do you even know about the Federation?
 --------------------------------
 [00000069][none]
-私の行動範囲は広いのよ
+My range of action is wide.
 --------------------------------
 [00000070][none]
-それはたいしたもんだね
-だけど、せっかくなら
-ガリアの話が聞きたいね
+That's a big deal, but I'd like to hear about Gaul.
 --------------------------------
 [00000071][none]
-それなら
-ダモン将軍の娘について
-なんてどう？
+Then, what about General Damon's daughter ?
 --------------------------------
 [00000072][none]
-ほう、どんな話だい？
+Oh, what's the story?
 --------------------------------
 [00000073][none]
-ダモン将軍の娘はね
-実は……
+General Damon's daughter Actually...
 --------------------------------
 [00000074][none]
-フレデリカ
-ちょっといいか？
+Frederica Can I have a moment?
 --------------------------------
 [00000075][none]
-あら……
+Oh...
 --------------------------------
 [00000076][none]
-クロウ中佐が
-君に会いたいそうだ
-来てくれるか
+Commander Crow wants to see you. Could you come?
 --------------------------------
 [00000077][none]
-分かったわ
-すぐに行きます
+Okay, I'll go right away.
 --------------------------------
 [00000078][none]
-グロリア、残念だけど
-この話はまた今度ね
+Gloria, I'm sorry but we'll talk about this another time.
 --------------------------------
 [00000079][none]
-最後にひとつ
-聞かせとくれ
+Let me ask you one last thing 
 --------------------------------
 [00000080][none]
-望んでここに来たと
-言ったが、どうやって
-潜り込んだんだい？
+You said you came here because you wanted to, but how did you sneak in?
 --------------------------------
 [00000081][none]
-それは簡単よ
-ここは懲罰者の部隊でしょ
+That's easy This is the Punisher's unit.
 --------------------------------
 [00000082][none]
-仕事相手を使って
-ちょっとスキャンダルを
-演出してみただけよ
+I just tried to create a scandal using my work partner.
 --------------------------------
 [00000083][none]
-徹底してるねえ
-分かりやすいよ、アンタは
+You're thorough. It's easy to understand, you.
 --------------------------------
 [00000084][none]
-クロウ中佐
-№19を連れてきました
+I brought Commander Crow No.19.
 --------------------------------
 [00000085][none]
-こんにちは、クロウ中佐
+Hello, Commander Crow.
 --------------------------------
 [00000086][none]
-ご苦労
-№7、お前さんは
-下がっていいぞ
+Thank you for your hard work №7, you can stand back.
 --------------------------------
 [00000087][none]
-はっ！
+Ha!
 --------------------------------
 [00000088][none]
-元気そうだな
-フレデリカ
+You look fine Frederica
 --------------------------------
 [00000089][none]
-うふふ……
-彼の前で『ラムゼイ』って
-呼べばよかったかしら
+Hehehe... Maybe I should have called him ``Ramsay'' in front of him.
 --------------------------------
 [00000090][none]
-悪い冗談だ
+It's a bad joke
 --------------------------------
 [00000091][none]
-それで、どっちのご用件で
-私を呼んだの？
+So, for what purpose did you call me?
 --------------------------------
 [00000092][none]
-……金を払う方だ
+...the one who pays the money
 --------------------------------
 [00000093][none]
-ああ、つまんない方ね
+Oh, that's boring.
 --------------------------------
 [00000094][none]
-ちょいとまずいことに
-なっていてな
-帝国軍の情報を買いたい
+Things are getting a little bad. I want to buy information on the Imperial Army.
 --------------------------------
 [00000095][none]
-ふうん……
-それで、どんな相手なの？
+Hmm... So, what kind of person is he?
 --------------------------------
 [00000096][none]
-帝国軍第１４機甲部隊……
-帝国軍の中でも精鋭揃いと
-言われている部隊だ
+The 14th Armored Division of the Imperial Army... It is said to be one of the
+most elite units in the Imperial Army.
 --------------------------------
 [00000097][none]
-……第１４機甲部隊ねえ
+...14th Armored Unit.
 --------------------------------
 [00000098][none]
-有名な部隊じゃない
-確か得意げに語ってくれた
-将校がいたわね
+It's not a famous unit I'm sure there was an officer who spoke proudly of it.
 --------------------------------
 [00000099][none]
-要は彼らの裏をかいて
-勝つ方法が分かれば
-いいってことね？
+All you have to do is figure out how to outsmart them and win, right?
 --------------------------------
 [00000100][none]
-できるのか!?
+Can you do it!?
 --------------------------------
 [00000101][none]
-私が教えてあげられるのは
-敵の情報よ
+All I can give you is information about the enemy.
 --------------------------------
 [00000102][none]
-どうやって勝つかは
-自分で考えてね
+Think for yourself how to win.
 --------------------------------
 [00000103][none]
-それで充分だ
-頼む、教えてくれ
+That's enough Please, tell me.
 --------------------------------
 [00000104][none]
-そうね……
+Yeah...
 --------------------------------
 [00000105][none]
-いくらまで出せるの？
+How much can I spend?
 --------------------------------
 [00000106][none]
-隊員に支払われている
-給料で、ってわけには
-いかないか
+Isn't it just the salaries paid to the members?
 --------------------------------
 [00000107][none]
-相手を怒らせるのは
-金額交渉じゃないわよ？
+It's not the price negotiation that makes the other person angry, right?
 --------------------------------
 [00000108][none]
-隊長さんに
-私達の間柄を
-バラしちゃおうかな
+I think I should tell the Captain about our relationship.
 --------------------------------
 [00000109][none]
-分かったよ！
-言い値で買う！
-それでいいだろ
+Got it!  Buy at the asking price!  That's fine.
 --------------------------------
 [00000110][none]
-うふふ、お買い上げ
-ありがとう
-大好きよ、ラムゼイ
+Hehehe, thank you for your purchase I love you, Ramsay.
 --------------------------------
 [00000111][none]
-……やれやれ、
-この手だけは
-使いたくなかったんだがな
+...Well, I just didn't want to use this move.
 --------------------------------
 [00000112][none]
-この資料を使えば
-お前なら勝てるだろ
+If you use this material, you can win.
 --------------------------------
 [00000113][none]
-第１４機甲部隊の
-戦闘記録……？
+14th Armored Corps battle record...?
 --------------------------------
 [00000114][none]
-これをどこで？
+Where is this?
 --------------------------------
 [00000115][none]
-諜報部には諜報部のやり方
-戦い方ってもんがあんのさ
+The intelligence department has its own way of fighting 
 --------------------------------
 [00000116][none]
-記録を見ての通り
-この部隊は動き方に
-法則性がある
+As you can see from the records, this unit has a regular movement .
 --------------------------------
 [00000117][none]
-明らかに右翼偏重ですね
-行動の順番も、戦果も
-右翼に集中しています
+It's obvious that the right wing is biased. The order of actions and military
+results are concentrated on the right wing.
 --------------------------------
 [00000118][none]
-狙うなら左翼からだ
-右翼が動きにくい地形に
-誘い込んで戦え
+If you want to aim, start from the left wing. Lure the right wing into terrain
+where it is difficult to move and fight.
 --------------------------------
 [00000119][none]
-そうですね
-……しかしこの資料
-信用できるのですか？
+Yes, ...but can you trust this material ?
 --------------------------------
 [00000120][none]
-当然だろ
-帝国軍の
-生の情報なんだからな
+Of course It's raw information from the Imperial Army.
 --------------------------------
 [00000121][none]
-はあ……
+Sigh...
 --------------------------------
 [00000122][none]
-俺さんが
-いくら払うと思ってんだ！
+How much do you think I'll pay!
 --------------------------------
 [00000123][none]
-ガセだったら
-シャレにならねえよ！
+If it's fake, it won't be funny!
 --------------------------------
 [00000124][none]
-フレデリカがポテンシャル@fcFF008800「情報通」@fciに
-目覚めました。
+Frederica has awakened to the potential @fcFF008800 "Informant" @fci.
 --------------------------------
 [00000125][none]
-……勝った
+... won
 --------------------------------
 [00000126][none]
-クルト、今回は一段と
-冴えてたな
+Kurt, you were even more brilliant this time.
 --------------------------------
 [00000127][none]
-……いや
-クロウ中佐の助言が
-的確だっただけだ
+...No, It's just that Commander Crow's advice was accurate.
 --------------------------------
 [00000128][none]
-不自然なほどにな……
+So unnatural...
 --------------------------------
 [00000129][none]
-うふふ
-私の情報もなかなか
-使えるじゃない
+Ufufu My information is also quite useful. 
 --------------------------------
 [00000130][none]
-フレデリカ
-それはどういうことだ？
+Frederica What does that mean?
 --------------------------------
 [00000131][none]
-戦闘前にクロウ中佐と
-話していたが
-何か関係があるのか？
+I spoke with Commander Crow before the battle. Does this have something to do
+with it?
 --------------------------------
 [00000132][none]
-それは私じゃなくて
-クロウ中佐に聞いてね
+That's not me, ask Commander Crow.
 --------------------------------
 [00000133][none]
-これで面子が保てたわね
-ラムゼイ
+This saved face Ramsay.
 --------------------------------
 [00000134][none]
-ああ、助かったよ
+Ah, that's helpful.
 --------------------------------
 [00000135][none]
-支払いは
-例の口座にお願いね
+Please pay to the same account.
 --------------------------------
 [00000136][none]
-……それはそうと
-今回の一件でお前の事が
-少し分かったよ
+...By the way I learned a little bit about you from this incident 
 --------------------------------
 [00000137][none]
-どういう風に？
+How?
 --------------------------------
 [00000138][none]
-まさかお前が……
+I can't believe you...
 --------------------------------
 [00000139][none]
-そこまでよ、ラムゼイ
+That's it, Ramsay.
 --------------------------------
 [00000140][none]
-ネームレスの
-個人情報は機密扱いなのよ？
+Is Nameless's personal information confidential?
 --------------------------------
 [00000141][none]
-それを喋ったら
-色々とまずいんじゃない？
+If you say that, wouldn't it be bad in a lot of ways?
 --------------------------------
 [00000142][none]
-う……
+Uh...
 --------------------------------
 [00000143][none]
-こんな世の中よ
-お互い助け合わないとね
+This is the world We need to help each other.
 --------------------------------
 [00000144][none]
-ネームレスを
-陥れるようなことだけは
-するんじゃないぞ
+Just don't do anything that would bring down Nameless.
 --------------------------------
 [00000145][none]
-ご心配なく
+Don't worry
 --------------------------------
 [00000146][none]
-いくら私だって
-仲間をハメるような事は
-しない
+No matter how much I do, I would never do something that would hurt a friend. 
 --------------------------------
 [00000147][none]
-ここはしばらく
-私の家になるんだから
+This will be my home for a while.
 --------------------------------
 [00000148][none]
-うふふ……
-危ない危ない
+Hehehe... Danger, danger
 --------------------------------
 [00000149][none]
-ここから追い出されたら
-私を守ってくれるものが
-なくなっちゃうもの……
+If I get kicked out of here, there will be nothing left to protect me...
 --------------------------------
 [00000150][none]
-他国でのスパイ活動が
-バレそうになって
-逃げ込んだ先
+My espionage activity in another country was about to be discovered, so I took
+refuge there.
 --------------------------------
 [00000151][none]
-それがここなんだから
+That's what it is here
 --------------------------------
 [00000152][none]
-……まあ、当分ここで
-生きていけそうなのは
-間違いないけど
+...Well, I'm sure I can survive here for the time being.
 --------------------------------
 [00000153][none]
-フレデリカちゃん
-新作料理ができたんだが
-味見してみないか？
+Frederica-chan I've made a new dish. Would you like to try it?
 --------------------------------
 [00000154][none]
-もちろん、今行くわ
+Of course, I'll go now.
 --------------------------------
 [00000155][none]
-これからもよろしくね
-みんな
+Thank you for your continued support Everyone
 --------------------------------
 [00000156][none]
-まったく……
-女ってのは、本当に
-怖い生き物だねえ……
+Absolutely... Women are really scary creatures...
 --------------------------------

@@ -4,7 +4,7 @@
 CheckInfoForseOpenFlag
 --------------------------------
 [00000001]
-%sのフォース\n「零式奥義　雪」が使用可能になりました。
+%s Force 「Type 0 Secret Technique Snow」\n is now available.
 --------------------------------
 [00000002]
 CheckInfoForseOpenFlag

@@ -1,297 +1,255 @@
 [0076]
 *****************
 [00000000][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ、なにをもたもたしておる！
-さっさと修行場所へ向かうのだ。
-ぐずぐずしていると日が暮れてしまうぞ！
+Rage, what are you delaying!  Let's quickly head to the training place.  If you
+wait too long, the sun will set!
 --------------------------------
 [00000001][ユキヒメ,ユキヒメ,ユキヒメ]
-今日の修行は、いつもとひと味違うぞ。
-覚悟しておけ。
+Today's training is a little different than usual.  Be prepared.
 --------------------------------
 [00000002][サクヤ,マキシマ,サクヤ]
-レイジ、急ぎましょう。
-なんだか嫌な予感がするの。
+Rage, let's hurry.  I have a bad feeling.
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-もしかすると、またあいつが……。
-レイジ、急ぐわよ。
+Maybe it's that guy again...  Rage, hurry up.
 --------------------------------
 [00000004][リック,エルウッド,リック]
-おい、なに油売ってんだよ！
-急がないと大変なことになるぞ！
+Hey, what oil are you selling?  If you don't hurry, you'll be in trouble!
 --------------------------------
 [00000005][リック,エルウッド,リック]
-レイジ……恩に着るぜ。
+Rage...I'll be grateful to you.
 --------------------------------
 [00000006][ローゼリンデ,フレイア,ローゼリンデ]
-……わかってる。
-すぐに行くわ。心配しないで。
+...I know.  I'll go right away. do not worry.
 --------------------------------
 [00000007][アルティナ,メル・シルフィス,アルティナ]
-ケフィア……どこに行っちゃったのかしら。
+Kefir...I wonder where it went.
 --------------------------------
 [00000008][アルティナ,メル・シルフィス,アルティナ]
-な、なによ！
-私にかまわないで!!
+W-what!  Don't bother me!!
 --------------------------------
 [00000009][エルミナ,ローデリア,エルミナ]
-レイジさん。私、頑張ります！
+Mr. Rage. I'll do my best!
 --------------------------------
 [00000010][エルミナ,ローデリア,エルミナ]
-アイラ様……すぐ助けに行きます。
-待っていてください！
+Isla-sama...I'll go help you right away.  Please wait!
 --------------------------------
 [00000011][ミストラル,ネレイス,ミスティ]
-わらわはひとりで行くと言ったはずじゃ。
-ついてくるな！
+I thought you said you were going alone.  Don't follow me!
 --------------------------------
 [00000012][ミストラル,ネレイス,ミスティ]
-なんじゃ？
-用がないなら、わらわに話しかけるな。
+What?  If you don't have any use for it, don't talk to me.
 --------------------------------
 [00000013][エルウィン,ラナ・シルフィス,ラナ]
-レイジ、念のために言っておくけど
-アイラに余計なこと言ったら、
-あとで痛い目見るからね？
+Rage, just to be sure, if you say anything unnecessary to Isla, you'll get hurt
+later, right?
 --------------------------------
 [00000014][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エルミナ……お願い、無事でいて……！
+Elmina... please stay safe...!
 --------------------------------
 [00000015][龍那,,龍那]
-レイジさん。ご協力、感謝いたします！
+Mr. Rage. Thank you for your cooperation!
 --------------------------------
 [00000016][剛龍鬼,,剛龍鬼]
-お前の助太刀に感謝する。
-さあ、戦場へ向かうぞ！
+Thank you for your help.  Now, let's head to the battlefield!
 --------------------------------
 [00000017][リン,シャオメイ,リンリン]
-どこへ行くのか知りたい？
-ふふっ、着いてからのお楽しみだよ。
+Do you want to know where we're going?  Hehe, I'm looking forward to it after we
+arrive.
 --------------------------------
 [00000018][カノン,シーナ,カノン]
-いい？　あんたはついてこないでよ！
-わかったわね？
+Okay? Don't follow me!  You understand, right?
 --------------------------------
 [00000019][ゼクティ,アイン,アイン]
-レイジ……ごめんね。
+Rage...I'm sorry.
 --------------------------------
 [00000020][トウカ,クレハ,トウカ]
-レイジくん。
-お話は、あとでゆっくりとね。
+Rage-kun.  We'll talk about it later.
 --------------------------------
 [00000021][クララクラン,クララクラン,クララクラン]
-ベスティアの危機はわたくしどもの危機！
-命をかけて、ご恩に報います！
+Bestia's crisis is our crisis!  I will repay your kindness with my life!
 --------------------------------
 [00000022][刃九郎,,刃九郎]
-ベスティアの民が心配だ。
-レイジ、急ぐぞ！
+I'm worried about the people of Bestia.  Rage, hurry up!
 --------------------------------
 [00000023][フェンリル,,フェンリル]
-俺のことは気にするな。
-それより準備を急げ！
+Don't worry about me.  Rather than that, hurry up and prepare!
 --------------------------------
 [00000024][ガデム,,ガデム]
-おぬしの力量、たっぷりと見せてもらうぞ。
+I'm going to show you your full potential.
 --------------------------------
 [00000025][ディラン,ローエン,ディラン]
-今度のドラゴンはかなり凶暴らしいぜ。
-レイジ、油断すんじゃねーぞ。
+Looks like this dragon is pretty ferocious.  Rage, don't let your guard down.
 --------------------------------
 [00000026][イサリ,ジェラード,イサリ]
-ふふ……ふふふ……。
+Hehe...hehehe...
 --------------------------------
 [00000027][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-呼んでる……行かなきゃ……。
+I'm calling... I have to go...
 --------------------------------
 [00000028][ネリス,フィリアム,ネリス]
-おつかれさま！　これが報酬よ！
+Good job! This is your reward!
 --------------------------------
 [00000029][フェンリル,,フェンリル]
-よくやったな。これが報酬だ。
+Well done. This is your reward.
 --------------------------------
 [00000030][刃九郎,,刃九郎]
-うむ。これが報酬だ。
+Hmm. This is your reward.
 --------------------------------
 [00000031][村人,村人,ウェーバー]
-さすがだな！　これが報酬だ!!
+As expected! This is your reward!!
 --------------------------------
 [00000032][村人,村人,テルムッド]
-見事だ。これが報酬となる。
+Great. This will be your reward.
 --------------------------------
 [00000033][村人,村人,レストック]
-やり遂げたか。報酬を受け取るがいい。
+Did you do it? Receive your reward.
 --------------------------------
 [00000034][村人,村人,ジュウゾウ]
-よくやった！　これが報酬だぞ!!
+Well done! This is your reward!!
 --------------------------------
 [00000035][エアリィ,マナフレア,エアリィ]
-あの……リックを見ませんでしたか？
-どこに行ってしまったのかしら……。
+Um...didn't you see Rick?  I wonder where it went...
 --------------------------------
 [00000036][アミル,アーデット,アミル]
-ねぇ、リックを見なかった？
-どこ行っちゃったのかしら……。
+Hey, haven't you seen Rick?  I wonder where it went...
 --------------------------------
 [00000037][none]
-サクヤのモード
-@fcFFFF7F00「Ｍｏｄｅ：クリムゾン」@fciが使用可能になりました。
+Sakuya's mode
+@fcFFFF7F00 "Mode:Crimson" @fci is now available.
 --------------------------------
 [00000038][none]
-サクヤのモード
-@fcFFFF7F00「Ｍｏｄｅ：セルリアン」@fciが使用可能になりました。
+Sakuya's mode
+@fcFFFF7F00 "Mode:Cerulean" @fci is now available.
 --------------------------------
 [00000039][none]
-サクヤのモード
-@fcFFFF7F00「Ｍｏｄｅ：ゲルブリッツ」@fciが使用可能になりました。
+Sakuya's mode
+@fcFFFF7F00 "Mode:Gel Blitz" @fci is now available.
 --------------------------------
 [00000040][none]
-サクヤのモード
-@fcFFFF7F00「Ｍｏｄｅ：グリューネ」@fciが使用可能になりました。
+Sakuya's mode
+@fcFFFF7F00 "Mode:Grune" @fci is now available.
 --------------------------------
 [00000041][none]
-リックのモード
-@fcFFFF7F00「Ａｒｍｓ：エアリィ」@fciが使用可能になりました。
+Rick's mode
+@fcFFFF7F00 "Arms:Airy" @fci is now available.
 --------------------------------
 [00000042][none]
-リックのモード
-@fcFFFF7F00「Ａｒｍｓ：ネリス」@fciが使用可能になりました。
+Rick's mode
+@fcFFFF7F00 "Arms:Neris" @fci is now available.
 --------------------------------
 [00000043][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：ローレライ」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Lorelei" @fci is now available.
 --------------------------------
 [00000044][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：エア」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Air" @fci is now available.
 --------------------------------
 [00000045][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：ソナー」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Sonar" @fci is now available.
 --------------------------------
 [00000046][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：ライトニング」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Lightning" @fci is now available.
 --------------------------------
 [00000047][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：アーミー」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Army" @fci is now available.
 --------------------------------
 [00000048][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：フォトン」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 ``Type:Photon'' @fci is now available.
 --------------------------------
 [00000049][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：アイドル」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Idle" @fci is now available.
 --------------------------------
 [00000050][none]
-ケルベロスのモード
-@fcFFFF7F00「Ｔｙｐｅ：ネイビー」@fciが使用可能になりました。
+Kerberos mode
+@fcFFFF7F00 "Type:Navy" @fci is now available.
 --------------------------------
 [00000051][none]
-リックのモードが@fcFFFF7F00「Ａｒｍｓ：エアリィ」@fciになりました。
-このクエスト中は変更することができません。
+Rick's mode is now @fcFFFF7F00 "Arms:Airy" @fci. 
+Cannot be changed during this quest.
 --------------------------------
 [00000052][none]
-リックのモードが@fcFFFF7F00「Ａｒｍｓ：ネリス」@fciになりました。
-このクエスト中は変更することができません。
+Rick's mode is now @fcFFFF7F00 "Arms:Neris" @fci. 
+Cannot be changed during this quest.
 --------------------------------
 [00000053][ユキヒメ,ユキヒメ,ユキヒメ]
-……ふむ、お前も精進しているようだな。
-よし、これをやろう。
-これからも修行に励むのだぞ。
+...Hmm, it seems like you're working hard too.  Okay, let's do this.  I will
+continue to train hard.
 --------------------------------
 [00000054][サクヤ,マキシマ,サクヤ]
-最近がんばってるみたいね。
-ごほうびにこれをあげるわ。
+It seems like you've been working hard lately.  I'll give you this as a reward.
 --------------------------------
 [00000055][リック,エルウッド,リック]
-…………これをやる。
-持っていても邪魔なだけだからな。
+...I'll do this.  Even if you have it, it will only get in the way.
 --------------------------------
 [00000056][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ。
-これ、よかったら使って。
+Rage.  Use this if you like.
 --------------------------------
 [00000057][アルティナ,メル・シルフィス,アルティナ]
-これ、あげるわ。
-べ、別に私には必要ないものだし。
-勘違いしないでよね！
+I'll give you this.  Well, I don't really need it.  Don't get me wrong!
 --------------------------------
 [00000058][エルミナ,ローデリア,エルミナ]
-あ、あの……。
-これ、受け取ってください。
+Oh, uh...  Please take this.
 --------------------------------
 [00000059][ミストラル,ネレイス,ミスティ]
-わらわは今、気分がいい。
-これをやろう。
-存分に感謝するがよいぞ。
+I feel good now.  Let's do this.  Thank you very much.
 --------------------------------
 [00000060][エルウィン,ラナ・シルフィス,ラナ]
-そういえば、さっきこんなの拾ったの。
-あたしいらないからレイジにあげるね！
+By the way, I just picked this up.  I don't need it, so I'll give it to Rage!
 --------------------------------
 [00000061][アイラ,ブランネージュ・ガルディニアス,アイラ]
-こんなものを拾ったのだが、
-私には不要な物だ。お前にやろう。
+I found something like this, I don't need it. I'll do it to you.
 --------------------------------
 [00000062][龍那,,龍那]
-このようなものを拾ったのですが、
-私には使い方がよくわかりません。
-よかったらレイジさんに差し上げますわ。
+I found something like this, but I don't really know how to use it.  I'll give
+it to Rage-san if you like.
 --------------------------------
 [00000063][リン,シャオメイ,リンリン]
-レイジもだいぶしっかりしてきたわね。
-その成長ぶりを祝して、これをあげるわ。
+Rage has also gotten a lot better.  I'll give you this to celebrate your growth.
 --------------------------------
 [00000064][カノン,シーナ,カノン]
-あんたもちょっとは成長してきたみたいね。
-はい、お姉ちゃんからプレゼントをあげるわ！
+It looks like you've grown up a bit.  Yes, my sister will give you a present!
 --------------------------------
 [00000065][トウカ,クレハ,トウカ]
-さっき街の人からこれを受け取ったの。
-戦いに役立ててください、って。
-ふふふ……レイジくんにあげる。
+I just received this from someone in town.  Please use it in battle. 
+Hehehe...I'll give it to Rage-kun.
 --------------------------------
 [00000066][ゼクティ,アイン,アイン]
-街の人が、これをくれた。
-「シャイニング・フォース」のために、だって。
-レイジ、もらって。
+A person in town gave me this.  Because of "Shining Force".  Rage, get it.
 --------------------------------
 [00000067][クララクラン,クララクラン,クララクラン]
-レイジ殿、フィリアスから届いた物資ですわ。
-よかったら使ってくださいね。
+Rage-dono, these are supplies from Phileas.  Please use it if you like.
 --------------------------------
 [00000068][フェンリル,,フェンリル]
-昔のツテを頼って物資を補給してきた。
-使ってくれ。
+I've been relying on old tips to replenish supplies.  Please use it.
 --------------------------------
 [00000069][ガデム,,ガデム]
-先ほどこのようなものを拾ったのだが、
-拙者には不要なものだ。
-レイジよ、受け取ってくれるか。
+I found something like this earlier, but I don't need it.  Rage, will you accept
+it?
 --------------------------------
 [00000070][ディラン,ローエン,ディラン]
-おう、お前にこれやるよ。
-大したもんじゃねえが、まあ使ってくれや。
+Hey, I'll do this for you.  It's not a big deal, but please use it.
 --------------------------------
 [00000071][剛龍鬼,,剛龍鬼]
-お前は見所がある男だ。
-これをやろう。
+You're a man with a lot to offer.  Let's do this.
 --------------------------------
 [00000072][刃九郎,,刃九郎]
-お主ならば、どんな困難でも打ち砕くであろうな。
-その助けとなるかはわからんが、これをやろう。
+If you're my master, I'm sure you'll overcome any difficulty.  I don't know if
+it will help you, but let's do this.
 --------------------------------
 [00000073][イサリ,ジェラード,イサリ]
-…………やる。
+...I'll do it.
 --------------------------------
 [00000074][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-所有者が確認できない拾得物があります。
-利用価値ありと認めます。
+There are some found items whose owners cannot be confirmed.  I agree that it is
+useful.
 --------------------------------
 [00000075][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-レイジー！　これあげるー！
+Lazy! I'll give you this!
 --------------------------------

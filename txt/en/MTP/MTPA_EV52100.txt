@@ -1,73 +1,55 @@
 [0016]
 *****************
 [00000000][ユキヒメ,ユキヒメ,ユキヒメ]
-よし。このあたりなら、手頃な相手がいるはずだ。
-さっそく修行を始めるか。
+Okay. There should be someone suitable around here.  Let's start training right
+away.
 --------------------------------
 [00000001][レイジ,レイジ,レイジ]
-修行って、なにをするんだ？
-さっき実戦形式とか言ってたけど……。
+What do you do when you train?  I mentioned earlier that it would be a battle
+format, but...
 --------------------------------
 [00000002][ユキヒメ,ユキヒメ,ユキヒメ]
-その通り。今日の修行は
-お前の望み通りの実戦形式！
+That's right. Today's training will be in a practical format just as you wish!
 --------------------------------
 [00000003][ユキヒメ,ユキヒメ,ユキヒメ]
-このあたりには、凶暴なモンスターどもが
-うろついておる。
-そいつらを撃退してみせよ、レイジ！
+There are ferocious monsters roaming around here.  Let's fight them off, Rage!
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-え～っ!?
-それって、実戦形式じゃなくて実戦じゃないか!?
+Huh!? Isn't that a real battle, not a real battle format?
 --------------------------------
 [00000005][ユキヒメ,ユキヒメ,ユキヒメ]
-細かいことを言うな。
-ほら、モンスターに見つかったぞ！
-さっさと倒してみせよ！
+Don't get into details.  Look, a monster has found us!  Let's defeat it quickly!
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-どうやら文句を言っているヒマも
-ないみたいだな……。
-いいぜ、やってやろうじゃねえか！
+Looks like you don't have time to complain...  Okay, let's do it!
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-ふう、やれやれ。
-どうだ、ユキヒメ？
-これで全部倒したぜ。
+Whew, here we go.  What do you think, Yukihime?  I've defeated them all now.
 --------------------------------
 [00000008][ユキヒメ,ユキヒメ,ユキヒメ]
-ふむ……少し時間がかかったが、まあ合格と
-しておいてやるか。
+Hmm... It took a while, but I guess I'll call it a pass.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-まったく、厳しいなあ。
-でも、いちおう合格なんだな？
-なら帰ろうぜ。
+That's really harsh.  But I guess I passed the exam?  Let's go home then.
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-あれ？　この場所は……。
-ユキヒメが初めて霊刃化したっていう
-あの場所……？
+Huh? This place……. 
 --------------------------------
 [00000011][ユキヒメ,ユキヒメ,ユキヒメ]
-そう。そして、この地にふたたび
-凶悪なモンスターが集まってきておる。
+Yes. And once again, vicious monsters are gathering in this area.
 --------------------------------
 [00000012][ユキヒメ,ユキヒメ,ユキヒメ]
-あのモンスターどもは、先日の奴らより凶暴だぞ？
-お前にあいつらが倒せるか？
+Those monsters are more ferocious than the ones from the other day, aren't they?
+Can you defeat them?
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-ああ、もちろんだ。
-あの程度の連中、簡単に倒してやるぜ！
-見てろよ!?
+Oh, of course.  I'll easily defeat people like that!  Look!?
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-ふう……どうだ！　全員きっちり倒してやったぜ！
-これでもう、この場所を荒らすヤツはいないはずだ。
+Huh...how is it! I defeated them all!  Now there shouldn't be anyone vandalizing
+this place anymore.
 --------------------------------
 [00000015][ユキヒメ,ユキヒメ,ユキヒメ]
-……うむ。よくやったな、レイジ。
-この地もようやく安全を取り戻したようだ。
+...Hmm. Well done, Rage.  It seems that safety has finally returned to this
+area.
 --------------------------------

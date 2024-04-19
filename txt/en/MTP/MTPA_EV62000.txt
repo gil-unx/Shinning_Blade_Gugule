@@ -1,1342 +1,951 @@
 [0268]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-@lt0ユキヒメ、というか、霊刀・雪姫を使えるのは
-オレだけらしい。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Yukihime, or rather, I seem to be the only one who can use the spiritual 
+sword Yukihime.                    
 --------------------------------
 [00000001][none]
-@lt0ユキヒメから、先代がどうしたとか血筋がなんだとか
-理由は説明されたんだけど……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Yukihime explained to me what happened to my predecessor and what my 
+lineage was. But...                    
 --------------------------------
 [00000002][none]
-@lt0細かいことは忘れちまった！
-まあ、いいよな？　別に。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I forgot the details!  Well, it's okay, right? Not really.                 
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-@lt0あっちの世界でサクヤ先生に習った剣術が、
-こんなところで役に立つとは思わなかったなぁ……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I never thought that the swordsmanship I learned from Sakuya-sensei in 
+that world would be useful in a place like this...                    
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-@lt0ローゼリンデは、この世界で初めてできた
-友達なんだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Roselinde is the first friend I made in this world.                    
 --------------------------------
 [00000005][none]
-@lt0だから、絶対に守ってやりたい……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0, so I definitely want to protect it...                       
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-@lt0オレはレイジ。いちおう「勇者」って
-ことになってるらしい。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Rage. Apparently he's supposed to be called a ``hero.''                
 --------------------------------
 [00000007][none]
-@lt0クラントールの巫女、ローゼリンデに呼ばれて、
-この世界へとやって来たんだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I was called to this world by Roselinde, the priestess of Crantor. I came 
+to this world.
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-@lt0光と闇の戦いは繰り返されてきた。
-でも、どちらかに完全に傾くことはなかったのよ。
-まるで天秤のように……。　　　　　　　　　　　　　
+@lt0The battle between light and darkness has been repeated.  But I didn't 
+lean completely in one direction or the other.  It's like a scale...  
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-@lt0アミルたちを助けるためには、
-魂をソウルブレイドにするしか
-なかったのだけど……。　　　　　　　　　　　　　　
+@lt0In order to save Amil and the others, I had no choice but to turn my soul 
+into a Soul Blade...
 --------------------------------
 [00000010][none]
-@lt0彼女たちのことを考えると、
-本当にそれでよかったのか……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0When you think about them, was that really a good thing...?
 --------------------------------
 [00000011][サクヤ,マキシマ,サクヤ]
-@lt0私は、ソウルを物体として
-練成する能力を持っているのよ。
-なにか必要な物はあるかしら？　　　　　　　　　　　
+@lt0I have the ability to refine souls as objects.  Is there anything you 
+need?
 --------------------------------
 [00000012][サクヤ,マキシマ,サクヤ]
-@lt0私はサクヤ。
-義勇兵たちを率いて、帝国と戦っているわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Sakuya.  I'm leading volunteer soldiers and fighting against the 
+Empire.
 --------------------------------
 [00000013][none]
-@lt0本当は他にも役目があるんだけど、ごめんなさい。
-そのことは、あまりくわしくお話できないの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Actually, I have other duties, but I'm sorry.  I can't talk about that in 
+detail.
 --------------------------------
 [00000014][リック,エルウッド,リック]
-@lt0自警団に入った時は、まさか村が
-あんなことになるとは思わなかった。
-帝国軍が、攻めてくるなんて……。　　　　　　　　　
+@lt0When I joined the vigilante group, I never thought that something like 
+that would happen to the village.  I can't believe the Imperial Army is 
+attacking...   
 --------------------------------
 [00000015][リック,エルウッド,リック]
-@lt0村にいたときは、パン屋を手伝ったり、
-畑を耕したり、平和に暮らしていたんだ。
-それなのに……アルベリッヒの奴！　　　　　　　　　
+@lt0When I was in the village, I helped out at the bakery, plowed the fields, 
+and lived peacefully.  And yet... it's Alberich!   
 --------------------------------
 [00000016][リック,エルウッド,リック]
-@lt0俺が死神？　……言いたい奴は
-勝手に言わせておけ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Am I the Grim Reaper? ...Anyone who wants to say something, let them say 
+what they want.
 --------------------------------
 [00000017][リック,エルウッド,リック]
-@lt0……リックだ。クラントールから来た。
-ソウルブレイドになった友達と一緒に戦っている。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0...It's Rick. He came from Crantor.  I'm fighting alongside my friends who 
+have become Soul Blades.
 --------------------------------
 [00000018][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0巫女としての力を、
-あんなことに使ってしまうなんて……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I can't believe you used your power as a shrine maiden for something like 
+that...
 --------------------------------
 [00000019][none]
-@lt0私にはもう、人の魂を導く資格など
-ないのかもしれない……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Maybe I don't have the qualifications to guide people's souls anymore...   
 --------------------------------
 [00000020][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0初めてレイジに会った時は、
-少し変わった人だな、と思ったわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0When I first met Rage, I thought he was a bit strange.
 --------------------------------
 [00000021][none]
-@lt0だけど、いろいろ話をしているうちに、
-とてもまっすぐで心の優しい、
-いい人だということがわかってきたの。　　　　　　　
+@lt0But as we talked about various things, I came to realize that he is a very 
+straightforward, kind-hearted, nice person.  
 --------------------------------
 [00000022][none]
-@lt0レイジと友達になれて、本当によかった……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 I'm really glad to be friends with Rage...   
 --------------------------------
 [00000023][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0クラントールが襲われた時、
-私は古くからの言い伝えに従い、
-異世界から勇者を召喚したの。　　　　　　　　　　　
+@lt0When Crantor was attacked, I followed an ancient legend and summoned a 
+hero from another world.
 --------------------------------
 [00000024][none]
-@lt0霊刀・雪姫を振るう能力を持った、
-建国王の血筋に連なる人物を。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0A person who has the ability to wield the spiritual sword Yukihime and is 
+related to the Founding King's bloodline.
 --------------------------------
 [00000025][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0ローゼリンデといいます。
-クラントール王国で、巫女を務めています。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0My name is Roselinde.  She works as a shrine maiden in the Kingdom of 
+Crantor.
 --------------------------------
 [00000026][none]
-@lt0……いえ、そうではないですね。
-務めて……いました。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0...No, that's not true.  I was working...
 --------------------------------
 [00000027][アルティナ,メル・シルフィス,アルティナ]
-@lt0姉さんったら、いつも勝手なんだから！
-少しは私の苦労も考えてよね！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 When it comes to my sister, she always does whatever she wants!  Please 
+consider my hardships a little!
 --------------------------------
 [00000028][アルティナ,メル・シルフィス,アルティナ]
-@lt0べ、別に、人間や他の種族に
-同情したりなんかしないわ。
-関心がないんだもの。　　　　　　　　　　　　　　　
+@lt0Be, I have no pity for humans or any other species.  I'm not interested.   
 --------------------------------
 [00000029][none]
-@lt0レイジを助けたのは、ケフィアに頼まれたから。
-それだけのことよ！　ホントに！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I helped Rage because Kefir asked me to.  That's all! Really! 
 --------------------------------
 [00000030][アルティナ,メル・シルフィス,アルティナ]
-@lt0森を襲い、私の両親を殺した帝国軍……。
-絶対に許さないわ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0The imperial army that attacked the forest and killed my parents...  I 
+will never forgive you!
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-@lt0私はアルティナ。銀の森の守り人。
-エルフの伝統に反して森を出たのは、
-フォンティーナを帝国から守るためよ。　　　　　　　
+@lt0I'm Altina. Guardian of the Silver Forest.  The reason I left the forest, 
+contrary to elven tradition, was to protect Fontina from the Empire.  
 --------------------------------
 [00000032][none]
-@lt0ちゃんと長老会議の許可も取ったし、
-勝手に森を飛び出した
-姉さんとは違うんですからね！　　　　　　　　　　　
+@lt0 I got permission from the elders meeting, and I'm different from my 
+sister who ran out of the forest without permission!
 --------------------------------
 [00000033][エルミナ,ローデリア,エルミナ]
-@lt0アイラ様は、私にとって姉のような方です。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Isla-sama is like a sister to me.   
 --------------------------------
 [00000034][none]
-@lt0少しでも、アイラ様のお役に立てれば……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0If I can be of any help to Isla-sama...   
 --------------------------------
 [00000035][エルミナ,ローデリア,エルミナ]
-@lt0す、すみません。
-私、実は、ものすごい方向音痴でして……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0, sorry.  Actually, I have a terrible sense of direction...
 --------------------------------
 [00000036][none]
-@lt0でも、まさか、あんなものすごい
-迷い方をするなんて……。
-自分でも信じられません……。　　　　　　　　　　　
+@lt0But I never expected you to get so confused...  I can't believe it 
+myself...
 --------------------------------
 [00000037][エルミナ,ローデリア,エルミナ]
-@lt0私、実は最近まで魔法なんて
-使えなかったんです。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Actually, I couldn't use magic until recently.
 --------------------------------
 [00000038][none]
-@lt0ですが、アイラ様のお役に立ちたい
-一心でがんばって勉強しました……！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0, but I wanted to be of help to Isla-sama I studied hard with all my 
+heart...!
 --------------------------------
 [00000039][エルミナ,ローデリア,エルミナ]
-@lt0エ、エルミナと申します……。
-ルーンベールから参りました……。
-よろしくお願いいたします……。　　　　　　　　　　
+@lt0E, my name is Elmina...  I came from Runevale...  Thank you in advance...  
 --------------------------------
 [00000040][ミストラル,ネレイス,ミスティ]
-@lt0わらわは「竜の血族」に連なるもの。
-いわばドラゴンより格上の存在じゃ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Warawa is related to "dragon bloodline".  In other words, it's a 
+higher-ranking being than a dragon.
 --------------------------------
 [00000041][none]
-@lt0ブレイバーンのような、脳みそまで
-筋肉でできた単細胞ドラゴンなど
-わらわの敵ではないわ！　　　　　　　　　　　　　　
+@lt0 A single-celled dragon like Braeburn, whose brain is made of muscle, is 
+not a weak enemy!
 --------------------------------
 [00000042][ミストラル,ネレイス,ミスティ]
-@lt0「セイレーン」じゃと？　
-ふむ、わらわのことを
-そう呼ぶものもおるらしいな。　　　　　　　　　　　
+@lt0 Is it "Siren"?  Hmm, I guess some people call Warawa that that.
 --------------------------------
 [00000043][ミストラル,ネレイス,ミスティ]
-@lt0ガデムはわらわのしもべじゃ。
-おぬしもガデムを見習い、
-わらわに忠実に仕えるがよいぞ。　　　　　　　　　　
+@lt0 Gadem is a bastard servant.  You should follow Gadem's example and serve 
+him faithfully.
 --------------------------------
 [00000044][ミストラル,ネレイス,ミスティ]
-@lt0わらわはミスティ。
-海賊団の首領にして、見ての通り絶世の美女じゃ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0It's Misty.  She's the leader of a pirate group, and as you can see, she's 
+a peerless beauty.
 --------------------------------
 [00000045][none]
-@lt0それ以上なにか聞きたいのならば、
-なんぞお宝をもってまいれ。
-話はそれからじゃ。　　　　　　　　　　　　　　　　
+@lt0If you want to hear anything more, just bring some treasure.  Let's talk 
+after that.  
 --------------------------------
 [00000046][エルウィン,ラナ・シルフィス,ラナ]
-@lt0アルティナはホントにしっかりしてるわ。
-あの子がいてくれれば、
-フォンティーナの将来は安泰って感じ。　　　　　　　
+@lt0 Altina is really solid.  If that girl is here, I feel like Fontina's 
+future will be safe.  
 --------------------------------
 [00000047][none]
-@lt0むしろあたしがいると、
-足を引っ張るだけなのよねえ……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0In fact, if I'm here, I'll just be holding you back...
 --------------------------------
 [00000048][エルウィン,ラナ・シルフィス,ラナ]
-@lt0アイラとはよく一緒に旅をするわ。
-あの子と一緒だと、
-いろいろ面白いことが起きるのよね。　　　　　　　　
+@lt0Ira and I travel together a lot.  When you're with that girl,  all kinds 
+of interesting things happen.  
 --------------------------------
 [00000049][エルウィン,ラナ・シルフィス,ラナ]
-@lt0こう見えてもあたし、弓の名人なのよ？
-どんな的にでも当ててみせるわ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Even though I look like this, I'm an expert archer, right?  I'll hit any 
+target!
 --------------------------------
 [00000050][none]
-@lt0とりあえず、頭にこれ乗っけて
-向こうに立ってみて……。
-って、なんで逃げるのよ？　　　　　　　　　　　　　
+@lt0For now, put this on your head and stand over there...  Why are you 
+running away?  
 --------------------------------
 [00000051][エルウィン,ラナ・シルフィス,ラナ]
-@lt0どもー！　あたし、ラナ！
-アルティナのお姉ちゃんよ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 guys! It's me, Ranah!  It's Altina's older sister!
 --------------------------------
 [00000052][none]
-@lt0窮屈なフォンティーナを飛び出して、
-あちこちを旅して回ってたんだけど、
-妹のために森に戻ってきたわ。　　　　　　　　　　　
+@lt0I left cramped Fontina and traveled all over the place, but I came back to 
+the forest for my sister.
 --------------------------------
 [00000053][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@lt0エルミナは、私にとって大事な妹のようなものだ。
-あの子を守ってやりたい……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Elmina is like a precious little sister to me.  I want to protect that 
+child...
 --------------------------------
 [00000054][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@lt0ラナとは長い付き合いになる。
-まあ、主に私が彼女の世話を
-しているようなものだが。　　　　　　　　　　　　　
+@lt0 I've known Ranah for a long time.  Well, I'm mainly taking care of her.
 --------------------------------
 [00000055][none]
-@lt0……なんだ、その疑わしそうな目は。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0...What's with those suspicious eyes?   
 --------------------------------
 [00000056][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@lt0ルーンベール、そしてヴァレリアに平和を取り戻す。
-それが、王女としての私の役目だ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Peace restored to Runeveil and Valeria.  That's my role as a princess.
 --------------------------------
 [00000057][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@lt0私はアイラ。ルーンベールの王女だ。
-人によっては「氷刃の魔女」などと呼ぶものもいる。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Islay. She is the princess of Runevale.  Some people call her the 
+``Ice Blade Witch.''
 --------------------------------
 [00000058][龍那,,龍那]
-@lt0いつも神殿にこもってばかりいるので、
-こうして皆さんとお話できるのは
-とっても楽しいです。ふふふっ。　　　　　　　　　　
+@lt0I'm always holed up in the temple, so it's really fun to be able to talk 
+to you all like this. Hehehe.
 --------------------------------
 [00000059][龍那,,龍那]
-@lt0帝国がエトワール神殿を破壊したのは
-そこが光の竜を崇拝する
-白竜教団の本拠だからでしょう。　　　　　　　　　　
+@lt0The reason why the Empire destroyed Etoile Temple is because it is the 
+headquarters of the White Dragon Cult, which worships the Dragon of Light. 
 --------------------------------
 [00000060][none]
-@lt0ダークドラゴンを崇拝する
-帝国にとって、あの神殿は、
-受け入れがたい存在だったのです。　　　　　　　　　
+@lt0For the Empire, which worships the Dark Dragon, that temple was 
+unacceptable.   
 --------------------------------
 [00000061][龍那,,龍那]
-@lt0剛龍鬼は私の護衛を務める者。
-そして、私にとっては一番の近しい友人です。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Gouryuki is my bodyguard.  And he is my closest friend.
 --------------------------------
 [00000062][龍那,,龍那]
-@lt0私は龍那。
-白竜教団の巫女を務めております。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Ryuna.  I am a shrine maiden of the White Dragon Church.
 --------------------------------
 [00000063][none]
-@lt0帝国を打ち倒すため、
-皆様に協力させていただきます。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0We will work with you to defeat the Empire.
 --------------------------------
 [00000064][リン,シャオメイ,リンリン]
-@lt0にゃぁあああ～……。
-ふにぃい……。んー……？
-あー……お昼寝したい……。　　　　　　　　　　　　
+@lt0 Nyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... 
+Funii... Hmm……? 　　　　　　　　　
 --------------------------------
 [00000065][リン,シャオメイ,リンリン]
-@lt0サクヤはいろいろ仕事を抱え込んでて
-ホントに大変よねえ……。
-私も手を貸してあげなきゃ。　　　　　　　　　　　　
+@lt0 Sakuya has a lot of work to do and it's really tough...  I have to lend a 
+hand too. 
 --------------------------------
 [00000066][none]
-@lt0……猫の獣人だけに「猫の手も貸したい」……。
-うぷぷぷぷ……っ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0...I want to lend a helping hand to the cat beastman...  Upupupupupu...
 --------------------------------
 [00000067][リン,シャオメイ,リンリン]
-@lt0人間の姿になると、なんか頭使うのが
-めんどくさくなるのよねえ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0When you're in human form, it's kind of a pain to use your brain.  
 --------------------------------
 [00000068][none]
-@lt0２本足で歩くことに、
-神経を使いすぎるせいかしら？
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Maybe it's because I'm too nervous about walking on two legs?  
 --------------------------------
 [00000069][リン,シャオメイ,リンリン]
-@lt0にゃっはー！　お待たせ！
-あたしはリンリン！　え？　猫の時と
-性格が違うって？　だからなぁに？　　　　　　　　　
+@lt0 Nyahaha! Thank you for waiting!  I'm Rinrin! picture? That's why?   
 --------------------------------
 [00000070][カノン,シーナ,カノン]
-@lt0久しぶりにこっちに来てみたら、
-懐かしいメンバーが集まってるじゃない。
-よーっし！　またひと暴れしますか！　　　　　　　　
+@lt0When I came here for the first time in a while, the nostalgic members were 
+there.  Okay! Are you going to go wild again?  
 --------------------------------
 [00000071][カノン,シーナ,カノン]
-@lt0弟に、同級生に、学校の先生……。
-なんか、ずいぶん知った顔ばかりが
-異世界に集まったものよねえ。　　　　　　　　　　　
+@lt0My younger brother, my classmate, my school teacher...  It's like a bunch 
+of familiar faces gathered together in another world.
 --------------------------------
 [00000072][カノン,シーナ,カノン]
-@lt0レイジには、あたしの武勇伝を
-いろいろ聞かせてやったものだけど、
-ちゃんと参考にしてるかしら？　　　　　　　　　　　
+@lt0 I've told Rage many stories of my heroics, but do you use them as 
+references?
 --------------------------------
 [00000073][カノン,シーナ,カノン]
-@lt0あたしはカノン！　
-ルミナスナイツ団長！
-そして、レイジのお姉ちゃんよ！　　　　　　　　　　
+@lt0 I'm Kanon!  Captain of the Luminous Knights!  And Rage's sister!
 --------------------------------
 [00000074][トウカ,クレハ,トウカ]
-@lt0学校では、好きな人がいるのかって
-よく質問されるから……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0At school, people often ask me if I like someone...
 --------------------------------
 [00000075][none]
-@lt0みんなのことが好きよって答えるの……。
-そしたら不思議な顔をされるのよね。
-どうしてかしら？　　　　　　　　　　　　　　　　　
+@lt0The answer is that I love everyone...  Then you get a strange look.  I 
+wonder why?  
 --------------------------------
 [00000076][トウカ,クレハ,トウカ]
-@lt0カノンさんとは中学校も同じで、
-レイジくんともそのころからの知り合い。
-２人とも、とっても楽しい人よね。　　　　　　　　　
+@lt0I went to the same junior high school with Kanon-san, and I've known 
+Rage-kun since then.  They're both really fun people.   
 --------------------------------
 [00000077][トウカ,クレハ,トウカ]
-@lt0家が神社で、ずっと巫女の仕事を
-していたせいか、おかしな事件に
-巻き込まれやすくて……。　　　　　　　　　　　　　
+@lt0Maybe it's because my family works at a shrine and I've always worked as a 
+shrine maiden, so I tend to get involved in strange incidents...  
 --------------------------------
 [00000078][トウカ,クレハ,トウカ]
-@lt0トウカといいます。
-レイジくんやカノンさんとは、
-エルデで同じ学校に通っています。　　　　　　　　　
+@lt0My name is Touka.  Rage-kun and Kanon-san go to the same school in Elde.   
 --------------------------------
 [00000079][ゼクティ,アイン,アイン]
-@lt0私、見た目はエルフなんだけど、
-純粋なエルフとは少し違うの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I look like an elf, but I'm a little different from a pure elf.
 --------------------------------
 [00000080][none]
-@lt0だから、フォンティーナのことは
-よく知らないな……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0So I don't know much about Fontina...
 --------------------------------
 [00000081][ゼクティ,アイン,アイン]
-@lt0こっちには連れてこなかったけど、
-私には精霊王のことに詳しい友達がいるの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I didn't bring you here, but I have a friend who knows a lot about the 
+Spirit King.
 --------------------------------
 [00000082][ゼクティ,アイン,アイン]
-@lt0私は、ある人によって作られた、
-人造生命体……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I am an artificial life form created by someone...
 --------------------------------
 [00000083][ゼクティ,アイン,アイン]
-@lt0私は、アイン。
-カノンやトウカの友達で、
-ルミナスナイツの団員だよ。　　　　　　　　　　　　
+@lt0I'm Ain.  A friend of Kanon and Touka, A member of the Luminous Knights.   
 --------------------------------
 [00000084][クララクラン,クララクラン,クララクラン]
-@lt0フィリアス王国に残してきた、
-弟のことが少し心配です……。
-今ごろどうしているかしら。　　　　　　　　　　　　
+@lt0I'm a little worried about my younger brother, who I left behind in the 
+Philias Kingdom...  I wonder what you're doing these days.  
 --------------------------------
 [00000085][クララクラン,クララクラン,クララクラン]
-@lt0わたくし、王族のたしなみとして
-それなりには武術を心得ております。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0As a member of the royal family, I know some martial arts. 
 --------------------------------
 [00000086][none]
-@lt0戦闘でも、足を引っ張るようなことは
-ございませんのでご安心を。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Don't worry, there won't be anything that will hold you back in battle.
 --------------------------------
 [00000087][クララクラン,クララクラン,クララクラン]
-@lt0わたくし、以前から勇者様というものに
-大変な興味と関心を持っておりまして。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I have always had a great interest in heroes.
 --------------------------------
 [00000088][none]
-@lt0今回も勇者様にお会いできると聞いて
-真っ先に遠征軍の指揮官に
-名乗りを上げたのですわ。　　　　　　　　　　　　　
+@lt0When I heard that I would be able to meet the hero again this time, I 
+immediately volunteered to be the commander of the expeditionary force.
 --------------------------------
 [00000089][クララクラン,クララクラン,クララクラン]
-@lt0わたくしは、聖フィリアス王国の王女、
-クララクランと申します。
-以後、お見知りおき下さい。　　　　　　　　　　　　
+@lt0My name is Clalaclan, the princess of the Kingdom of St. Philias.  Please 
+see me from now on.  
 --------------------------------
 [00000090][フェンリル,,フェンリル]
-@lt0お前たちを誰１人として失うことなく、
-帝国軍からヴァレリアを救う。
-それが俺の目標だ。　　　　　　　　　　　　　　　　
+@lt0We will save Valeria from the Imperial Army without losing any of you.  
+That's my goal.  
 --------------------------------
 [00000091][フェンリル,,フェンリル]
-@lt0闇の力に目覚めたスルトは、
-恐ろしく強くなっていた。
-いままでとはケタ違いに……。　　　　　　　　　　　
+@lt0 Surt awakened to the power of darkness and became frighteningly strong.  
+It's a whole lot different than before...
 --------------------------------
 [00000092][フェンリル,,フェンリル]
-@lt0暗殺拳は力なき者、虐げられた者を
-救うための最後の手段。
-師匠は、そう教えてくれた。　　　　　　　　　　　　
+@lt0The assassination fist is the last resort to save the powerless and 
+oppressed.  My master taught me that. 
 --------------------------------
 [00000093][フェンリル,,フェンリル]
-@lt0俺はフェンリル。
-砦の運営や、兵たちの訓練などを任されている。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Fenrir.  He is in charge of running the fort and training the 
+soldiers.
 --------------------------------
 [00000094][none]
-@lt0お前もこれから、ビシビシ鍛えてやるぞ！
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 I'm going to train you hard from now on too!   
 --------------------------------
 [00000095][ガデム,,ガデム]
-@lt0ディランたちの噂は聞いているが、
-奴らはしょせん並みの人間。
-ミスティ様にはかなうまい。　　　　　　　　　　　　
+@lt0I've heard rumors about Dyran and the others, but they're just average 
+people.  It's as good as Misty-sama.  
 --------------------------------
 [00000096][ガデム,,ガデム]
-@lt0霊刀・雪姫……。実に素晴らしい刀よ。
-ぜひ一度、立ち合ってみたいものだが……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Spirit sword Yukihime... It's truly a wonderful sword.  I'd really like 
+to meet him once, but...
 --------------------------------
 [00000097][ガデム,,ガデム]
-@lt0ミスティ様に救われたこの命、
-ミスティ様のためなら惜しくはない！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0This life that was saved by Misty-sama, I won't regret it if it's for 
+Misty-sama!
 --------------------------------
 [00000098][ガデム,,ガデム]
-@lt0拙者、ガデムと申す。
-ミスティ様にお仕えしておる。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0My name is Gadem.  I serve Misty-sama.
 --------------------------------
 [00000099][ディラン,ローエン,ディラン]
-@lt0欲しいものがありゃ奪う。
-酒がありゃ飲む。きれいな姉ちゃんは
-口説く。それが海賊のやり方さ。　　　　　　　　　　
+@lt0If I want something, I'll take it.  If there's alcohol, I'll drink it. The 
+beautiful older sister is wooing me. That's the pirate way.
 --------------------------------
 [00000100][ディラン,ローエン,ディラン]
-@lt0イサリはちょっと変わったやつだが、
-ああ見えても腕は確かだ。
-戦闘じゃ頼りになるぜ。　　　　　　　　　　　　　　
+@lt0Isari is a bit of an odd guy, but despite his looks, he's definitely 
+skilled.  You can rely on it in battle.
 --------------------------------
 [00000101][ディラン,ローエン,ディラン]
-@lt0海賊稼業ってのはいいもんだ。
-自由だし、刺激に満ち溢れてる。
-お前も仲間に入らねえか？　　　　　　　　　　　　　
+@lt0 Piracy is a good thing.  It's free and full of stimulation.  Would you 
+like to join us too?  
 --------------------------------
 [00000102][ディラン,ローエン,ディラン]
-@lt0オレはディラン。海賊騎士団
-「アークバッカニア」のリーダーだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Dyran. He is the leader of the Pirate Knights ``Archbuccaneer''.   
 --------------------------------
 [00000103][none]
-@lt0こう見えてもベスティアあたりじゃ、
-ちったぁ知られた海賊だぜ？
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Even if it looks like this, Bestia is a well-known pirate, right?  
 --------------------------------
 [00000104][剛龍鬼,,剛龍鬼]
-@lt0俺は、どこまでも龍那に従う。
-龍那がお前たちと共に戦うのなら、
-俺も最後までお前たちと共に戦う。　　　　　　　　　
+@lt0I will follow Ryuna forever.  If Ryuna fights with you, I will fight 
+with you until the end.   
 --------------------------------
 [00000105][剛龍鬼,,剛龍鬼]
-@lt0龍那と俺は、白竜教団の一員。
-「シャイニング・ドラゴン」の力を
-信じる者だ。　　　　　　　　　　　　　　　　　　　
+@lt0Ryuna and I are members of the White Dragon Church.  He believes in the 
+power of ``Shining Dragon.''   
 --------------------------------
 [00000106][剛龍鬼,,剛龍鬼]
-@lt0俺は、龍那を守るために生まれた。
-だから龍那を守る。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I was born to protect Ryuna.  That's why I protect Ryuna.
 --------------------------------
 [00000107][剛龍鬼,,剛龍鬼]
-@lt0俺は剛龍鬼。
-龍那を守るのが俺の役目だ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I am Gouryuki.  My role is to protect Ryuna.
 --------------------------------
 [00000108][刃九郎,,刃九郎]
-@lt0拙者は元々ベスティア出身なのだが
-訳あって長い間この地を離れていた。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm originally from Bestia, but for some reason I've been away from this 
+place for a long time.
 --------------------------------
 [00000109][none]
-@lt0故郷の危機を耳にして
-こうして舞い戻ってきたのだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I heard about the crisis in my hometown and came back.
 --------------------------------
 [00000110][刃九郎,,刃九郎]
-@lt0拙者の翼の片方は、見てのとおりの
-作り物でな。
-残念ながら飛ぶことはできん。　　　　　　　　　　　
+@lt0One of my wings is fake, as you can see.  Unfortunately, I can't fly.  
 --------------------------------
 [00000111][刃九郎,,刃九郎]
-@lt0拙者の兄は獣王十二将の１人として
-ベスティア防衛の任についていたが、
-首都陥落以来行方がわからん……。　　　　　　　　　
+@lt0My older brother was in charge of defending Bestia as one of the twelve 
+generals of the Beast King, but since the capital fell, his whereabouts are 
+unknown...   
 --------------------------------
 [00000112][刃九郎,,刃九郎]
-@lt0拙者は刃九郎。
-ベスティアの戦士たちと共に、帝国軍と戦っている。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I am Hakuro.  Fighting the Imperial Army with the warriors of Bestia.  
 --------------------------------
 [00000113][イサリ,ジェラード,イサリ]
-@lt0釣りをしていると……。
-気持ちが……落ち着く。
-ふっ、ふふっ、ふふふふふふ……。　　　　　　　　　
+@lt0When I was fishing...  I feel... calm.  Hehe, hehe, hehehehehe...   
 --------------------------------
 [00000114][イサリ,ジェラード,イサリ]
-@lt0海は……いいな。
-広いし……きれいだし……。
-魚がたくさんいるし…………。　　　　　　　　　　　
+@lt0The sea is... nice.  It's spacious...and beautiful...  There are a lot of 
+fish………….
 --------------------------------
 [00000115][イサリ,ジェラード,イサリ]
-@lt0俺は……魚が好きだが……。
-ドラゴンと戦うのも好きだ……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I...I like fish...  I also like fighting dragons...
 --------------------------------
 [00000116][イサリ,ジェラード,イサリ]
-@lt0………………イサリだ。
-……趣味は釣りだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0………………It’s Isari.  ...My hobby is fishing.
 --------------------------------
 [00000117][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-@lt0動力システムに異常なし。
-メンテナンスの必要はありません。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 There is nothing wrong with the power system.  No maintenance required.   
 --------------------------------
 [00000118][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-@lt0各システム、オールグリーン。
-行動の指示を。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Each system, all green.  Instructions for action.
 --------------------------------
 [00000119][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-@lt0索敵を完了。
-周囲に敵影は確認されません。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Completed search.  No enemy shadows are detected in the surrounding area. 
 --------------------------------
 [00000120][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-@lt0Ｘ型ガーディアン、タイプ【ケルベロス】、
-各部システムチェックを開始します。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0X-type guardian, type [Kerberos], Starting a system check of each part.
 --------------------------------
 [00000121][ユキヒメ,ユキヒメ,ユキヒメ]
-@lt0私のことをやきもち焼きで怒りっぽい、
-などというものもいるが……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Some people say I'm jealous and angry, but...
 --------------------------------
 [00000122][none]
-@lt0それはとんでもない誤解だ！
-そのような事実はまったくない！
-だいたい、上位精霊たる私が……。　　　　　　　　　
+@lt0That's a huge misunderstanding!  There is no such fact!  Most of the time, 
+I'm the superior spirit...   
 --------------------------------
 [00000123][none]
-@lt0……おい、レイジ。
-そこでなにを笑っている。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0...Hey, Rage.  What are you laughing at there?
 --------------------------------
 [00000124][ユキヒメ,ユキヒメ,ユキヒメ]
-@lt0思えば先代は力量、風格、外見、
-そして知性とすべてを備えた、
-まったくもって偉大な英雄であった。　　　　　　　　
+@lt0If you think about it, the previous generation was a truly great hero, 
+possessing everything from strength, style, appearance, and intelligence.  
 --------------------------------
 [00000125][none]
-@lt0レイジが少しでも先代に近づけるよう、
-私がしっかりと指導してやらねばな！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I need to give proper guidance so that Rage can get as close to his 
+predecessor as possible!
 --------------------------------
 [00000126][ユキヒメ,ユキヒメ,ユキヒメ]
-@lt0私は先代との盟約により、
-長きに渡ってクラントールの
-国土と民を見守り続けてきた。　　　　　　　　　　　
+@lt0Because of my pact with my predecessor, I have continued to watch over the 
+land and people of Crantor for a long time.
 --------------------------------
 [00000127][none]
-@lt0だがどうやら、本来の役目を
-果たすときが来たようだな。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0But it seems the time has come for you to fulfill your original role.  
 --------------------------------
 [00000128][ユキヒメ,ユキヒメ,ユキヒメ]
-@lt0我はユキヒメ。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I am Yukihime.   
 --------------------------------
 [00000129][none]
-@lt0クラントール王国を守護し、
-闇を滅する霊刀・雪姫とは
-我のことなり。　　　　　　　　　　　　　　　　　　
+@lt0Yukihime, the spiritual sword that protects the Kingdom of Crantor and 
+destroys darkness, is mine.   
 --------------------------------
 [00000130][アミル,アーデット,アミル]
-@lt0わたしと一緒に戦ってみたい？
-ごめんね！　わたし、リックにしか
-扱えないの。　　　　　　　　　　　　　　　　　　　
+@lt0Do you want to fight with me?  Sorry! I can only handle Rick.
 --------------------------------
 [00000131][アミル,アーデット,アミル]
-@lt0サクヤさんが、わたしを
-ソウルブレイドにしてくれたの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Sakuya-san made me a soul blade.
 --------------------------------
 [00000132][none]
-@lt0あの人がいなかったら
-わたし、今ごろどうなってたか……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0If it weren't for that person, I don't know what would have happened to me 
+now...
 --------------------------------
 [00000133][アミル,アーデット,アミル]
-@lt0わたし、クラントールにいたころは、
-パン屋だったの。村では評判の、
-おいしいパンを売ってたんだから！　　　　　　　　　
+@lt0When I was in Crantor, I worked at a bakery. They sold delicious bread 
+that was popular in the village!   
 --------------------------------
 [00000134][アミル,アーデット,アミル]
-@lt0わたしはアミル。リックの友達よ。
-少し前までは普通の女の子だったんだけど……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I'm Amil. Rick's friend.  She was a normal girl until a while ago...   
 --------------------------------
 [00000135][none]
-@lt0今は、ソウルブレイドになって
-リックと一緒に戦ってるわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Now I'm a Soul Blade and fighting alongside Rick.
 --------------------------------
 [00000136][エアリィ,マナフレア,エアリィ]
-@lt0平和になったら……。
-また、みんなと一緒に……。
-のんびり暮らしたいな……。　　　　　　　　　　　　
+@lt0When there is peace...  Together with everyone again...  I want to live a 
+relaxing life...  
 --------------------------------
 [00000137][エアリィ,マナフレア,エアリィ]
-@lt0サクヤさんがわたしを
-ソウルブレイドにしたのは……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Sakuya-san turned me into Soul Blade...
 --------------------------------
 [00000138][none]
-@lt0それ以外に、わたしを助ける方法が
-なかったからだけど……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Because there was no other way to help me...
 --------------------------------
 [00000139][none]
-@lt0リックと一緒に
-戦えるようになって……。
-少し、嬉しいかも……。　　　　　　　　　　　　　　
+@lt0Now I can fight with Rick...  I might be a little happy...
 --------------------------------
 [00000140][エアリィ,マナフレア,エアリィ]
-@lt0サクヤさんに見つけてもらえて、
-リックに会わせてもらえて……。
-嬉しかった……。　　　　　　　　　　　　　　　　　
+@lt0Sakuya-san found me and let me meet Rick...  I was happy...  
 --------------------------------
 [00000141][none]
-@lt0ずっと１人で、不安だったから……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I was alone for a long time and felt anxious...   
 --------------------------------
 [00000142][エアリィ,マナフレア,エアリィ]
-@lt0エアリィ……です。
-クラントールから……来たの。
-リックと……同じ村。　　　　　　　　　　　　　　　
+@lt0 Airy...  I came from Crantor...  Same village as Rick...
 --------------------------------
 [00000143][none]
-@lt0今は……。
-ソウルブレイドを……やってるの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Now...  I'm playing Soul Blade...
 --------------------------------
 [00000144][ネリス,フィリアム,ネリス]
-@lt0リックは私たちと暮らしていた頃より
-剣の腕が上達してるわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Rick is better with a sword than when he lived with us.
 --------------------------------
 [00000145][none]
-@lt0サクヤさんが鍛えてくれたみたい。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Looks like Sakuya trained me.   
 --------------------------------
 [00000146][ネリス,フィリアム,ネリス]
-@lt0アルベリッヒの奴……。
-わたしだけじゃなく、
-村のみんなにひどいことを……。　　　　　　　　　　
+@lt0 Alberich guy...  Not only to me, but to everyone in the village...
 --------------------------------
 [00000147][none]
-@lt0思い出しても腹が立つわっ！
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Even remembering it makes me angry!   
 --------------------------------
 [00000148][ネリス,フィリアム,ネリス]
-@lt0……見つけてもらった時は、
-びっくりしたわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0... I was surprised when you found it.
 --------------------------------
 [00000149][none]
-@lt0目の前でリックが苦しんでて……。
-サクヤさんの力でソウルブレイドとしての
-新しい命をもらったりね。　　　　　　　　　　　　　
+@lt0Rick was suffering right in front of me...  With Sakuya-san's power, I 
+received a new life as a Soul Blade.  
 --------------------------------
 [00000150][none]
-@lt0でも、リックやアミル、エアリィと、
-一緒に戦えるようになってよかった！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0But I'm glad I can now fight alongside Rick, Amil, and Airy!   
 --------------------------------
 [00000151][ネリス,フィリアム,ネリス]
-@lt0やっほー！　わたしネリス！
-わたしのことは、
-リックから聞いてるよね？　　　　　　　　　　　　　
+@lt0 Yahoo! I'm Neris!  You heard about me from Rick, right?  
 --------------------------------
 [00000152][none]
-@lt0ソウルブレイドになって、
-リックと一緒に戦うことになったから、
-よろしくね！　　　　　　　　　　　　　　　　　　　
+@lt0I'm going to become a Soul Blade and fight alongside Rick, so please take 
+care of me!   
 --------------------------------
 [00000153][フェンリル,,フェンリル]
-@lt0シルディアは城塞都市を中心として
-その周辺の通商路を治める国家だ。
-そして今は、我々の本拠地でもある。　　　　　　　　
+@lt0Sildia is a nation that controls the trade routes around the fortified 
+city.  And now it's our home base.  
 --------------------------------
 [00000154][エルミナ,ローデリア,エルミナ]
-@lt0ル、ルーンベールは……。
-本当はとてものどかで、
-住みやすいところなんですよ……？　　　　　　　　　
+@lt0Ru, Rune Veil is...  It's actually a very peaceful and comfortable place 
+to live...?   
 --------------------------------
 [00000155][none]
-@lt0戦いが終わったら、皆さんにも
-そういうルーンベールの様子を
-見ていただきたいです……。　　　　　　　　　　　　
+@lt0Once the battle is over, I'd like everyone to see what Rune Veil looks 
+like ...  
 --------------------------------
 [00000156][アルティナ,メル・シルフィス,アルティナ]
-@lt0エルフの隠れ里には敵の目から逃れたエルフ族が、
-ひっそりと暮らしているわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0In the Elf Hidden Village, elves live quietly, escaping from the eyes of 
+their enemies.
 --------------------------------
 [00000157][none]
-@lt0早くみんなが安心して暮らせるように
-してあげなきゃ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0We need to do something quickly so that everyone can live in peace!
 --------------------------------
 [00000158][刃九郎,,刃九郎]
-@lt0ベスティアは獣人の国。
-そして、強大な軍事力を持った
-ヴァレリア随一の大国でもあった。　　　　　　　　　
+@lt0Bestia is a country of beastmen.  It was also the largest power in 
+Valeria, with a powerful military.   
 --------------------------------
 [00000159][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0クラントールの王都がある島には、
-大陸沿岸の港町から船で向かうの。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0The island where the royal capital of Crantor is located is reached by 
+boat from a port town on the coast of the continent.
 --------------------------------
 [00000160][none]
-@lt0帝国軍に襲われる前の王都は、
-とてもきれいな街だったのよ……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0The royal capital was a very beautiful city before it was attacked by the 
+imperial army...
 --------------------------------
 [00000161][none]
-@lt0バトルマップ上でＳＴＡＲＴボタンを押すと
-メニューを開くことができます。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0You can open the menu by pressing the START button on the battle map.  
 --------------------------------
 [00000162][none]
-@lt0メニューでは
-クエスト情報の確認やオプション設定、
-リターンによるクエスト離脱を行うことが可能です。　
+@lt0The menu allows you to check quest information, set options, and exit the 
+quest by returning. 
 --------------------------------
 [00000163][none]
-@lt0バトルフィールドでの行動を終了する際は、
-×ボタンで簡単に実行することが可能です。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0When you want to end an action on the battlefield, you can easily do it by 
+pressing the × button.
 --------------------------------
 [00000164][none]
-@lt0初期設定状態では
-必ず『確認メッセージ』が表示されますので、
-間違って行動終了してしまう心配はありません。　　　
+@lt0In the initial setting, a ``confirmation message'' is always displayed, so 
+there is no need to worry about ending the action by mistake.   
 --------------------------------
 [00000165][none]
-@lt0オプションで非表示にすることもできますので、
-操作に慣れてきたらプレイスタイルに合わせて
-カスタマイズしてみると良いでしょう。　　　　　　　
+@lt0 option, so once you get used to the controls, you can try customizing it 
+to suit your play style.  
 --------------------------------
 [00000166][none]
-@lt0レイジとリンクアタックを行ったキャラクターは
-好感度がアップします。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Characters who perform link attacks with Rage will have their likability 
+increased.
 --------------------------------
 [00000167][none]
-@lt0好感度を上げたいキャラクターがいる場合は
-積極的にリンクアタックを狙うとよいでしょう。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0If you have a character you want to increase their favorability, it would 
+be a good idea to actively aim for link attacks.
 --------------------------------
 [00000168][none]
-@lt0敗北、もしくは途中でリターンを使用すると、
-クエスト中に上昇した好感度は
-リセットされてしまいますので注意して下さい。　　　
+@lt0Please note that if you lose or use Return during the quest, the 
+favorability that increased during the quest will be reset .   
 --------------------------------
 [00000169][none]
-@lt0近接攻撃キャラクターの場合、
-△ボタンで『オートロックオン』が使用できます。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0If you are a melee attack character, you can use ``Auto Lock-on'' by 
+pressing the  ? button.
 --------------------------------
 [00000170][none]
-@lt0△ボタンを一回押すと単体にフルロックオン、
-二回押すと
-複数対称に分散してフルロックオンになります。　　　
+@lt0Press the ? button once to perform full lock-on on a single object, press 
+twice to apply full lock-on to multiple units symmetrically.   
 --------------------------------
 [00000171][none]
-@lt0また、□ボタンを押せば
-全てのロックオンがリセットされます。
-操作に慣れてきたら積極的に活用してみましょう。　　
+@lt0Also, pressing the ? button will reset all lock-ons.  Once you get used to 
+the operation, try using it actively.  
 --------------------------------
 [00000172][none]
-@lt0クエスト中は
-フォースゲージを溜めることによって、
-必殺技『フォース』を使用することができます。　　　
+@lt0During the quest, by filling up the force gauge, you can use the special 
+move 'Force'.   
 --------------------------------
 [00000173][none]
-@lt0フォースゲージは
-攻撃や回復といった行動をとることで
-溜めることが可能です。　　　　　　　　　　　　　　
+@lt0The force gauge can be filled by taking actions such as attacks and 
+recovery .
 --------------------------------
 [00000174][none]
-@lt0バトルコマンドでは
-『アイテム』を選択することで、
-回復アイテムを使用することができます。　　　　　　
+@lt0In the battle command, by selecting ``Item'', you can use recovery items.  
 --------------------------------
 [00000175][none]
-@lt0回復アイテムは
-アイテム屋で購入する以外にも
-宝箱などから入手することが可能です。　　　　　　　
+@lt0Recovery items can be obtained from treasure chests in addition to 
+purchasing them at the item shop.  
 --------------------------------
 [00000176][none]
-@lt0パーソナリティには
-それぞれ発生条件があります。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Each personality has its own conditions.
 --------------------------------
 [00000177][none]
-@lt0発生条件はステータスメニューの
-パーソナリティ項目で確認することができます。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0The occurrence conditions can be checked in the Personality item in the 
+status menu.
 --------------------------------
 [00000178][none]
-@lt0モンスターにはそれぞれ
-『弱点属性』というものが設定されています。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Each monster has a ``weakness attribute''.
 --------------------------------
 [00000179][none]
-@lt0『アタック』や『フォース』は
-必ず何かしらの属性をもっていますので
-有効な攻撃を見つけて使用していきましょう。　　　　
+@lt0 ``Attack'' and ``Force'' always have some kind of attribute, so find an 
+effective attack and use it.   
 --------------------------------
 [00000180][none]
-@lt0ユキヒメの機嫌度が上昇すると
-『ハイテンションモード』が発動します。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0When Yukihime's mood increases 'High Tension Mode' will be activated.  
 --------------------------------
 [00000181][none]
-@lt0機嫌度を上げるには、
-レイジが敵を倒したりして活躍する様子を
-ユキヒメに見せてあげると良いでしょう。　　　　　　
+@lt0To raise her mood, it would be a good idea to show Yukihime how Rage is 
+active, by defeating enemies. 
 --------------------------------
 [00000182][none]
-@lt0逆にレイジが他の女性をバトルメンバーに加えたり
-リンクアタックを行ったりすると
-彼女の機嫌度は低下してしまうようです。　　　　　　
+@lt0On the other hand, when Rage adds another woman to the battle squad or 
+performs a link attack, her mood seems to drop. 
 --------------------------------
 [00000183][none]
-@lt0フォースソングを使用するには
-バトルマップで歌姫のアイコンに
-カーソルを合わせて□ボタンを押して下さい。　　　　
+@lt0To use Force Song Move the cursor to the Diva icon on the battle map  and 
+press the ? button.   
 --------------------------------
 [00000184][none]
-@lt0すると
-歌えるフォースソングが表示されますので
-○ボタンで決定して使用することができます。　　　　
+@lt0 A force song that can be sung will be displayed. You can select and use 
+it by pressing the ? button.   
 --------------------------------
 [00000185][none]
-@lt0また、フォースソングを使用すれば、
-ボスクラスの敵が発動する
-『フォースフィールド』を解除することも可能です。　
+@lt0Also, by using Force Song, it is also possible to remove the ``force 
+field'' activated by boss class enemies. 
 --------------------------------
 [00000186][none]
-@lt0タウンの中には
-随所に○ボタンで『調べる』ことができる場所が
-隠されています。　　　　　　　　　　　　　　　　　
+@lt0 There are places hidden all over town that you can ``investigate'' with 
+the ? button .  
 --------------------------------
 [00000187][none]
-@lt0レイジがそれらに近づくと
-画面上にキーヘルプが表示され、
-プレイヤーに存在を知らせてくれます。　　　　　　　
+@lt0When Rage approaches them, key help will appear on the screen to alert the 
+player of their presence.  
 --------------------------------
 [00000188][none]
-@lt0アイテムを入手したり、時には
-意外な会話を聞いたりできることもありますので、
-気が付いたときには調べてみて下さい。　　　　　　　
+@lt0You may be able to obtain items and sometimes listen to unexpected 
+conversations, so please check it out when you feel like it.  
 --------------------------------
 [00000189][none]
-@lt0Ｍ．Ｏ．Ｅ．Ｓでは、選んだ選択肢によって
-キャラクターの好感度が変動します。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0M. O. E. In S, the character's likability changes depending on the choices 
+you make.
 --------------------------------
 [00000190][none]
-@lt0好感度が上昇する選択肢を選んだ場合、
-そのキャラクターから
-アイテムをもらうことができます。　　　　　　　　　
+@lt0If you choose an option that increases your favorability, you can receive 
+items from that character.   
 --------------------------------
 [00000191][none]
-@lt0セーブは
-タウンおよびワールドマップの
-メニューから行うことができます。　　　　　　　　　　
+@lt0Save can be done from the town and world map menu.
 --------------------------------
 [00000192][none]
-@lt0プレイ後には
-忘れずにセーブを行うよう心がけましょう。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Don't forget to save after playing.
 --------------------------------
 [00000193][none]
-@lt0ステータスメニューで□ボタンを押すと、
-『キャラクタービューワー』が起動します。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Press the ? button in the status menu to start ``Character Viewer''.   
 --------------------------------
 [00000194][none]
-@lt0お気に入りの３Dキャラクターを
-さまざまな角度から眺めることができますので、
-ぜひ一度お試し下さい。　　　　　　　　　　　　　　
+@lt0You can view your favorite 3D characters from various angles, so please 
+give it a try.
 --------------------------------
 [00000195][none]
-@lt0練成工房ではサクヤに
-『アーティファクトの作成』『強化』を
-依頼することができます。　　　　　　　　　　　　　
+@lt0At the training workshop, you can ask Sakuya to ``create artifacts'' or 
+``strengthen'' .  
 --------------------------------
 [00000196][none]
-@lt0街の工房を借りているため、
-マテリアルやソウル以外に
-使用料金を取られますのでご注意下さい。　　　　　　
+@lt0Please note that since we are renting a workshop in town, we will charge 
+usage fees in addition to materials and souls. 
 --------------------------------
 [00000197][none]
-@lt0パン屋でパンを食べると
-クエスト中にさまざまな効果が発生します。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Eating bread at the bakery various effects will occur during the quest.
 --------------------------------
 [00000198][none]
-@lt0この効果は１クエスト中のみ有効です。
-リターンでも効果は消えてしまうので
-気をつけましょう。　　　　　　　　　　　　　　　　
+@lt0This effect is only valid during one quest.  Even if you return, the 
+effect will disappear,  so be careful.  
 --------------------------------
 [00000199][none]
-@lt0また、パンを食べて『スタンプ』をためれば
-素敵なアイテムがもらえることがありますので、
-パン屋は積極的に活用していくと良いでしょう。　　　
+@lt0Also, if you eat bread and accumulate ``stamps,'' you may receive 
+wonderful items, so it's a good idea to actively use them at the bakery.   
 --------------------------------
 [00000200][none]
-@lt0アイテム屋では
-『アイテム』『アクセサリ』『マテリアル』の
-購入ができます。　　　　　　　　　　　　　　　　　
+@lt0You can purchase ``items'', ``accessories'', and ``materials'' at the item 
+shop.  
 --------------------------------
 [00000201][none]
-@lt0また『掘り出し物』には
-貴重な品物が並ぶこともあるので
-チェックを忘れないように心がけましょう。　　　　　
+@lt0Also, valuable items may be lined up in the ``bargain'' section, so don't 
+forget to check.
 --------------------------------
 [00000202][none]
-@lt0クエスト屋では
-『フリークエスト』を受けることができます。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0You can receive ``Free Quests'' at the quest shop .
 --------------------------------
 [00000203][none]
-@lt0フリークエストは章が進むことによって
-各タウンに追加されていきますので
-腕に自信のある方は、ぜひ挑戦してみて下さい。　　　
+@lt0Free quests will be added to each town as the chapter progresses, so if 
+you are confident in your skills, please give it a try.   
 --------------------------------
 [00000204][none]
-@lt0一部のキャラクターは
-『モードチェンジ』によって
-特性を変化させることができます。　　　　　　　　　
+@lt0Some characters can change their characteristics by ``Mode Change''.   
 --------------------------------
 [00000205][none]
-@lt0モードチェンジは
-ステータスメニューで行うことが可能ですが、
-クエスト中は実行できませんのでご注意下さい。　　　
+@lt0Mode changes can be done from the status menu, but please note that you 
+cannot do it during a quest.   
 --------------------------------
 [00000206][none]
-@lt0タウンのメニューには
-『ワールドマップへ』という項目があります。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0There is an item called ``Go to World Map'' in the town menu.  
 --------------------------------
 [00000207][none]
-@lt0この項目を選択すると、
-一瞬でワールドマップに移動することが可能です。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0If you select this item, you can instantly move to the world map.  
 --------------------------------
 [00000208][none]
-@lt0歩いてタウンを出るのが大変な場合などに
-非常に便利ですので活用してみて下さい。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0It is very convenient when it is difficult to leave town on foot, so 
+please try using it.
 --------------------------------
 [00000209][レイジ,レイジ,レイジ]
-@lt0リックといいアミルといい……。
-なにか秘密がありそうだよなぁ、あいつら。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Rick and Amil...  It seems like they have some kind of secret. 
 --------------------------------
 [00000210][none]
-@lt0特に、アミルがどうして急に
-いなくなっちまったのか。
-ちょっと気になるな……。　　　　　　　　　　　　　
+@lt0In particular, why did Amil suddenly disappear?  I'm a little concerned... 
 --------------------------------
 [00000211][リック,エルウッド,リック]
-@lt0レイジのヤツ、エアリィを見て
-驚いていたようだが、大きなお世話だ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Rage seemed surprised to see Airy, but it's a big help.
 --------------------------------
 [00000212][none]
-@lt0自分のソウルブレイドとでも話を
-していればいいんだ。
-人のことに首を突っ込むな。　　　　　　　　　　　　
+@lt0 All you have to do is talk to your own soul blade.  Don't get involved in 
+other people's affairs.  
 --------------------------------
 [00000213][ユキヒメ,ユキヒメ,ユキヒメ]
-@lt0まったく、レイジときたら。
-まるっきり未熟ではないか！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Exactly, when it comes to Rage.  You're completely immature!  
 --------------------------------
 [00000214][none]
-@lt0もう少し経験を積み、
-腕を上げさせなければならんな！
-そうでなければ話にならん！　　　　　　　　　　　　
+@lt0I need to gain a little more experience and improve my skills!  Otherwise, 
+there's no point! 
 --------------------------------
 [00000215][レイジ,レイジ,レイジ]
-@lt0リックが死神だなんて……。
-どう考えても無責任な噂だよな。
-だってオレ、無事に生きてるじゃないか。　　　　　　
+@lt0 Rick is the Grim Reaper...  No matter how you look at it, it's an 
+irresponsible rumor.  Because I'm alive and well. 
 --------------------------------
 [00000216][サクヤ,マキシマ,サクヤ]
-@lt0龍那と剛龍鬼が仲間に加われば、
-戦いも少しは楽になるかも。
-事態が好転するよう祈りたいわね。　　　　　　　　　
+@lt0If Ryuna and Gouryuki join the party, the battle might become a little 
+easier.  I hope things get better.   
 --------------------------------
 [00000217][フェンリル,,フェンリル]
-@lt0スルトめ……。なんてことをしてくれた。
-これ以上の非道を働く前に、
-俺の手で奴を倒さなければ……！　　　　　　　　　　
+@lt0 Surt... What a wonderful thing he did for me.  Before he commits even 
+more outrageous acts, I have to defeat him with my own hands...!
 --------------------------------
 [00000218][エルミナ,ローデリア,エルミナ]
-@lt0精霊王からの承認はいただきました。
-ですが……これからどうすればいいのでしょう？
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I received approval from the Spirit King.  But...what should I do now? 
 --------------------------------
 [00000219][none]
-@lt0街に戻って、皆さんに相談してみましょうか……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Let's go back to town and talk to everyone...   
 --------------------------------
 [00000220][レイジ,レイジ,レイジ]
-@lt0スルト自身を逃がしちまったのは残念だけど……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 It's a pity that Surtur himself escaped...   
 --------------------------------
 [00000221][none]
-@lt0アイラ姫とエルミナのおかげで、
-だいぶ敵戦力は減らせたな。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Thanks to Princess Isla and Elmina, the enemy strength has been reduced 
+considerably.
 --------------------------------
 [00000222][レイジ,レイジ,レイジ]
-@lt0ローゼリンデ……。
-どうして帝国軍なんかに……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Roselinde...  Why the Imperial Army...?
 --------------------------------
 [00000223][none]
-@lt0あの、ファフナーって奴に、
-操られてるのか……？
-それとも……。　　　　　　　　　　　　　　　　　　
+@lt0Umm, are you being manipulated by Fafner...?  Or...   
 --------------------------------
 [00000224][アルティナ,メル・シルフィス,アルティナ]
-@lt0姉さん……私のために、どうもありがとう……。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Unnie... Thank you so much for everything you did for me...
 --------------------------------
 [00000225][none]
-@lt0これからは、森のために一緒に戦いましょう！
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0From now on, let's fight together for the forest!   
 --------------------------------
 [00000226][レイジ,レイジ,レイジ]
-@lt0スレイプニルの奴、
-まだまだ森を荒らすつもりみたいだ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Looks like Sleipnir is still planning on destroying the forest.
 --------------------------------
 [00000227][none]
-@lt0だが、そんなことは、俺たちが許さねえぞ！
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 But we won't allow that!   
 --------------------------------
 [00000228][レイジ,レイジ,レイジ]
-@lt0どうにか、スレイプニルたちを
-フォンティーナから追い出せたな。
-これで少しは森も静かになるだろう。　　　　　　　　
+@lt0Somehow you managed to get Sleipnir and the others out of Fontina.  Now 
+the forest will be a little quieter.  
 --------------------------------
 [00000229][レイジ,レイジ,レイジ]
-@lt0たくさんの人をこんなところに押し込めて……。
-帝国の奴ら、なにを考えてるんだ？
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 You can cram so many people into a place like this...  What are the 
+people of the Empire thinking?
 --------------------------------
 [00000230][サクヤ,マキシマ,サクヤ]
-@lt0収容所の件はひとまず解決ね。
-次は、火山島に渡る方法をみつけないと……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 The camp issue is resolved for now.  Next, we have to find a way to cross 
+to the volcanic island...
 --------------------------------
 [00000231][ディラン,ローエン,ディラン]
-@lt0お前らのおかげでいい船が手に入ったぜ。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Thanks to you guys I got a nice ship.   
 --------------------------------
 [00000232][none]
-@lt0オレたちは街にいるから、
-島に渡りたいときは声をかけてくれよ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0We're in town, so if you want to cross over to the island, just call us.   
 --------------------------------
 [00000233][ミストラル,ネレイス,ミスティ]
-@lt0敵側の歌姫のことが気になるのか？
-帝国軍と戦っていれば、
-いつかは姿を現すのではないかの。　　　　　　　　　
+@lt0Are you concerned about the enemy's diva?  If we fight against the 
+Imperial Army, I'm sure he'll show up someday.   
 --------------------------------
 [00000234][レイジ,レイジ,レイジ]
-@lt0帝国の奴らは、こんなことまで……。
-あいつら、人の魂をどうするつもりなんだ……！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 The people of the empire would do something like this...  What are they 
+planning to do with people's souls...!
 --------------------------------
 [00000235][レイジ,レイジ,レイジ]
-@lt0ローゼリンデ……。
-もう少し待っててくれよ。
-必ず、助け出してやるからな！　　　　　　　　　　　
+@lt0Roselinde...  Please wait a little longer.  I'll make sure to rescue you!  
 --------------------------------
 [00000236][レイジ,レイジ,レイジ]
-@lt0まずいなぁ……。
-敵がこんなに戦力を持ってたなんて。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0That's bad...  I can't believe the enemy had such strength.
 --------------------------------
 [00000237][none]
-@lt0とにかく、他の街も心配だ。
-様子を見てこないと！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Anyway, I'm worried about other cities as well.  I have to wait and see!   
 --------------------------------
 [00000238][レイジ,レイジ,レイジ]
-@lt0くそ……古代兵器のせいで
-シルディアが完全に包囲されちまった。
-なんとかして、突破口を開かないと！　　　　　　　　
+@lt0Damn... Syldia is completely surrounded by ancient weapons.  We have to 
+make a breakthrough somehow!  
 --------------------------------
 [00000239][レイジ,レイジ,レイジ]
-@lt0やっと敵を撃退できた……。
-帝国軍め、見てろよ。
-今度はこっちが攻め込む番だぜ！　　　　　　　　　　
+@lt0 We were finally able to repel the enemy...  Look, Imperial Army.  Now 
+it's our turn to attack!
 --------------------------------
 [00000240][カノン,シーナ,カノン]
-@lt0まったくもう、レイジったら。
-こっちの世界に来てもいまいち頼りないわね。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0It's totally gone, if you get angry.  Even if I come to this world, I'm 
+not very reliable.
 --------------------------------
 [00000241][none]
-@lt0ここは一発、姉としてハッパをかけてやらなきゃ！
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 As a big sister, I have to give this a shot!   
 --------------------------------
 [00000242][トウカ,クレハ,トウカ]
-@lt0ここでは卵は見つからなかった……。
-いったい、どこにあるのかしら。
-砂漠のもう少し奥なのかも……。　　　　　　　　　　
+@lt0No eggs were found here...  I wonder where it is.  Maybe it's a little 
+deeper into the desert...
 --------------------------------
 [00000243][レイジ,レイジ,レイジ]
-@lt0これで、４人目の精霊王から
-承認を得たことになるんだな。
-よし！　あと１人だ！　　　　　　　　　　　　　　　
+@lt0This means you have received approval from the fourth Spirit King.  Okay! 
+There's only one person left!
 --------------------------------
 [00000244][レイジ,レイジ,レイジ]
-@lt0まずは港町を奪回……。
-ここから、クラントール全土の
-解放を目指すぞ！　　　　　　　　　　　　　　　　　
+@lt0First, let's recapture the port town...  From here, we will aim to 
+liberate all of Crantor!  
 --------------------------------
 [00000245][レイジ,レイジ,レイジ]
-@lt0雪姫が、みんなの歌に反応している？
-これは、もしかして……？
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Is Yukihime responding to everyone's songs?  Maybe this is...?
 --------------------------------
 [00000246][リック,エルウッド,リック]
-@lt0アルベリッヒは倒した。
-アミル、エアリィ、ネリスは見つけ出した……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 Alberich was defeated.  Amil, Airy, and Neris found it... 
 --------------------------------
 [00000247][none]
-@lt0これから俺は、あの村で起きたことを
-繰り返させないために戦う……！
-レイジ、一緒にやろう！　　　　　　　　　　　　　　
+@lt0From now on, I will fight to prevent what happened in that village from 
+happening again...!  Rage, let's do it together!
 --------------------------------
 [00000248][レイジ,レイジ,レイジ]
-@lt0ファ、ファフナーが先輩で、
-ローゼリンデが気絶して、サクヤさんが
-なにか知ってるみたいで……。　　　　　　　　　　　
+@lt0Fa, Fafner is my senior, Roselinde fainted, and Sakuya-san seems to know 
+something...
 --------------------------------
 [00000249][none]
-@lt0なにがなんだかわかんねえけど、
-とにかく目の前の敵をやっつけるぞ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I don't know what's going on, but I'll just destroy the enemy in front of 
+me!
 --------------------------------
 [00000250][サクヤ,マキシマ,サクヤ]
-@lt0どうにか、私の計画がうまくいったみたいね。
-　
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Looks like my plan worked somehow.   
 --------------------------------
 [00000251][none]
-@lt0カイト、ご苦労様。
-協力してくれて、ありがとう……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Kite, thank you for your hard work.  Thank you for your cooperation... 
 --------------------------------
 [00000252][サクヤ,マキシマ,サクヤ]
-@lt0古代兵器……。
-本当にやっかいな相手だわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Ancient weapon...  He's a really troublesome opponent.
 --------------------------------
 [00000253][none]
-@lt0とにかく直接対決は避けて、
-少しずつ敵の数を減らす方向で
-戦うしかなさそうね。　　　　　　　　　　　　　　　
+@lt0In any case, it seems like we have no choice but to avoid direct 
+confrontation and fight by reducing the number of enemies little by little.
 --------------------------------
 [00000254][ローゼリンデ,フレイア,ローゼリンデ]
-@lt0古代兵器はなんとか壊滅させた……。
-いよいよ、クラントールの首都に
-向かう時が来たのね……！　　　　　　　　　　　　　
+@lt0The ancient weapon was somehow destroyed...  It's finally time to head to 
+the capital of Crantor ...!  
 --------------------------------
 [00000255][レイジ,レイジ,レイジ]
-@lt0クラントールの大聖堂！
-あの中にバルドルがいるんだな！
-よーし、行くぜっ！　　　　　　　　　　　　　　　　
+@lt0Crantor Cathedral!  There's Balder in there!  Alright, let's go!   
 --------------------------------
 [00000256][レイジ,レイジ,レイジ]
-@lt0待ってろよ、バルドル！
-今そっちに行くぞ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0Wait, Baldur!  Let's go there now!
 --------------------------------
 [00000257][none]
-@lt0ダークドラゴンの復活は、
-俺が絶対に阻止してやる！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I will absolutely prevent the return of the Dark Dragon!
 --------------------------------
 [00000258][レイジ,レイジ,レイジ]
-@lt0やった……！
-ダークドラゴンを倒した……！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 I did it...!  I defeated the dark dragon...!
 --------------------------------
 [00000259][none]
-@lt0これでヴァレリアに……。
-いや、エンディアスに
-平和な日々が戻ってくるんだ！　　　　　　　　　　　
+@lt0Now for Valeria...  No, peaceful days will return to Endias!
 --------------------------------
 [00000260][サクヤ,マキシマ,サクヤ]
-@lt0ケルベロス用のディスクが
-落ちているなんて……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0The disk for Kerberos is falling...
 --------------------------------
 [00000261][none]
-@lt0いったい、ここはどういう遺跡なのかしら。
-もっとよく調べてみないと……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I wonder what kind of ruins this place is.  I need to look into it more 
+closely...
 --------------------------------
 [00000262][サクヤ,マキシマ,サクヤ]
-@lt0どうやら、面倒な相手がこの遺跡で
-なにかを企んでいるようね。
-早めに手を打たないと……。　　　　　　　　　　　　
+@lt0It looks like some troublesome person is planning something in these 
+ruins.  If we don't take action soon...  
 --------------------------------
 [00000263][サクヤ,マキシマ,サクヤ]
-@lt0やられた……。
-伯爵に完全に先手を打たれたわ。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 I was defeated...  The Count completely took the initiative.    
 --------------------------------
 [00000264][none]
-@lt0でも、まだ封印は残ってる。
-これ以上は解除させないわよ！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0 But the seal still remains.  I won't let you release it any more! 
 --------------------------------
 [00000265][サクヤ,マキシマ,サクヤ]
-@lt0最後の鍵まで伯爵の手に……。
-でも、まだ負けたわけじゃない！
-あいつの思い通りにはさせないわ！　　　　　　　　　
+@lt0Even the last key is in the earl's hands...  But we haven't lost yet!  I 
+won't let him do what he wants!   
 --------------------------------
 [00000266][レイジ,レイジ,レイジ]
-@lt0伯爵の目覚めさせた「失敗作」も
-やっつけた……。
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0I also defeated the "failure" that Earl awakened...
 --------------------------------
 [00000267][none]
-@lt0今度こそ、この世界に平和が
-やってくるんだな！
-　　　　　　　　　　　　　　　　　　　　　　　　　
+@lt0This time, peace will come to this world!
 --------------------------------

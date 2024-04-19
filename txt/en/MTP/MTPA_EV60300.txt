@@ -1,688 +1,575 @@
 [0175]
 *****************
 [00000000][サクヤ,マキシマ,サクヤ]
-「シャイニング・ブレイド」の封印を解くには
-ヴァレリア中を回って精霊王を探す
-必要がありそうね。
+In order to break the seal of Shining Blade, I think we'll need to travel all
+over Valeria and find the Spirit King.
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-この状況では、旅をするだけでも
-かなり苦労させられそうだわ。
+In this situation, it seems like just traveling would be quite a struggle.
 --------------------------------
 [00000002][サクヤ,マキシマ,サクヤ]
-いろいろな国を見られるのはいいですよね
+It's great to see different countries.
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-難しいかもしれないけど、がんばります
+It may be difficult, but I'll do my best.
 --------------------------------
 [00000004][サクヤ,マキシマ,サクヤ]
-あー……めんどくせえ
+Ah... how troublesome.
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-ふふふっ、レイジはのん気ね。
-でも、それぐらいの気持ちでいてくれると
-かえって頼もしいわ。
+Hehe, Rage is so carefree.  However, if you feel that way, I'm actually more
+reliable.
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-そうね。私たちもできる限り協力するわ。
-がんばりましょう。
+Yes. We will also cooperate as much as possible.  Let's do our best.
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-こらっ！　そういうことを言わないの！
-今のを聞いたら、ユキヒメもきっと怒るわよ！
+Come on! Don't say things like that!  I'm sure Yukihime will get angry if she
+hears what she just said!
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-不安かしら？
-大丈夫よ。私たちも協力するから。
+Are you worried?  It's okay. We will also cooperate.
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-龍那も言っていたけど、
-確かにこの寒さは異状ね。
-早く原因を突き止めないと。
+As Ryuna said, this cold is certainly unusual.  We need to find out the cause
+soon.
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-エールブランにもらった力で武器を錬成してみたの。
-きっと役に立つと思うわ。
+I tried transmuting a weapon with the power I received from Alebran.  I'm sure
+it will be useful.
 --------------------------------
 [00000011][サクヤ,マキシマ,サクヤ]
-さあ、出発よ。
-エールブランのところへ行きましょう。
+Now, let's leave.  Let's go to Ale Blanc.
 --------------------------------
 [00000012][サクヤ,マキシマ,サクヤ]
-事態は急展開しているわ。
-現場に急ぎなさい、レイジ。
+Things are rapidly evolving.  Hurry to the scene, Rage.
 --------------------------------
 [00000013][サクヤ,マキシマ,サクヤ]
-ルーンベールでなにが起きているのか、
-それを確かめないとね。
+I have to find out what's going on in Runevale.
 --------------------------------
 [00000014][リック,エルウッド,リック]
-おい、アミルとエアリィから
-なにを吹き込まれたか知らないが、
-余計な世話を焼くな。
+Hey, I don't know what Amil and Airy taught you, but don't take care of yourself
+unnecessarily.
 --------------------------------
 [00000015][リック,エルウッド,リック]
-お前の手助けなど一切必要ない。
+I don't need any help from you.
 --------------------------------
 [00000016][リック,エルウッド,リック]
-アミルとエアリィ、いい子だよな
+Amil and Airy are good kids.
 --------------------------------
 [00000017][リック,エルウッド,リック]
-別に世話なんか……
+I don't really care...
 --------------------------------
 [00000018][リック,エルウッド,リック]
-なんでだよ。いいじゃねえか
+Why? Isn't it good?
 --------------------------------
 [00000019][リック,エルウッド,リック]
-ああ。そうだな。
-あの２人は昔から……。
+Yeah. That's right.  Those two have been together for a long time...
 --------------------------------
 [00000020][リック,エルウッド,リック]
-……いや、そんなことを言ってるんじゃない！
-話をはぐらかすな！
+...No, that's not what I'm talking about!  Don't digress!
 --------------------------------
 [00000021][リック,エルウッド,リック]
-俺のまわりをウロウロされるのが
-迷惑だと言ってるんだ。
-目障りだからな！
+I'm just saying it's annoying when people wander around me.  It's an eyesore!
 --------------------------------
 [00000022][リック,エルウッド,リック]
-よくない！
-お前なんかの手は借りない！
-いいか？　俺に近づくな。
+Not good!  I won't need any help from you!  Is it okay? Don't come close to me.
 --------------------------------
 [00000023][リック,エルウッド,リック]
-これ以上、俺のまわりをうろつくな。
-わかったか？
+Don't hang around me anymore.  Do you understand?
 --------------------------------
 [00000024][リック,エルウッド,リック]
-……お前に用はない。
+...I don't need you.
 --------------------------------
 [00000025][アルティナ,メル・シルフィス,アルティナ]
-もう、エルミナったら……。
-ルーンベールって、フォンティーナからも
-シルディアからも全然遠いじゃないの。
+Now that I have Elmina...  Runevale isn't far from Fontina or Syldia at all.
 --------------------------------
 [00000026][アルティナ,メル・シルフィス,アルティナ]
-どうして、あんなメチャクチャな
-迷い方ができるのかしら。
+I wonder how you can be so confused.
 --------------------------------
 [00000027][アルティナ,メル・シルフィス,アルティナ]
-アルティナが見つけてくれてよかったな
+I'm glad Altina found it.
 --------------------------------
 [00000028][アルティナ,メル・シルフィス,アルティナ]
-仕方ないさ。混乱してたんだ
+I can't help it. I was confused.
 --------------------------------
 [00000029][アルティナ,メル・シルフィス,アルティナ]
-そういうところがかわいいよな
+That kind of thing is cute.
 --------------------------------
 [00000030][アルティナ,メル・シルフィス,アルティナ]
-べ、別に、見つけようと思って
-見つけたわけじゃないわ。
-最初は敵だと思っていたわけだし。
+I-I didn't really try to find it.  At first I thought they were enemies.
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-だいたい、それを言ったら
-あなただって現場にいたじゃないの。
+Well, if you say that, you were there too.
 --------------------------------
 [00000032][アルティナ,メル・シルフィス,アルティナ]
-まあ、それはそうなんだけど……。
-で、でも、ものには限度があるでしょ！
+Well, that's true...  But, there's a limit to things, right?
 --------------------------------
 [00000033][アルティナ,メル・シルフィス,アルティナ]
-なに言ってるのよ！
-そういう問題じゃないでしょう！
+What are you talking about!  That's not the problem!
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-これだから人間は……。
-っていうか男はダメなのよ！
+This is why humans...  Or rather, men are not allowed!
 --------------------------------
 [00000035][アルティナ,メル・シルフィス,アルティナ]
-ね？　あなたも全然わからないでしょ？
-まったくもう、あの子ときたら。
-危なくて目が離せないのよね……。
+Right? You don't understand at all, do you?  It's all about that girl.  It's
+dangerous and I can't take my eyes off it...
 --------------------------------
 [00000036][アルティナ,メル・シルフィス,アルティナ]
-……あの件は私の誤解だったみたい。
-あなたの言うとおりだったわ。
+...I think that was a misunderstanding on my part.  You were right.
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-なんのことかって？　決まってるじゃない、
-ケンタウロスのことよ！
+What do you mean? It's obvious, It's about centaurs!
 --------------------------------
 [00000038][アルティナ,メル・シルフィス,アルティナ]
-森を襲っていたのは、ルーンベールの
-ケンタウロスたちとは無関係だったのね。
-……それがようやく確信できたわ。
+The ones attacking the forest had nothing to do with Runeveil's centaurs. 
+...I'm finally convinced of that.
 --------------------------------
 [00000039][エルミナ,ローデリア,エルミナ]
-アイラ様は小さいころから、
-実のお姉さまのように
-私に優しくしてくださいました……。
+Ever since I was little, Isla-sama has been kind to me, like my real sister...
 --------------------------------
 [00000040][エルミナ,ローデリア,エルミナ]
-だから私は……少しでもアイラ様の
-お役に立ちたいんです……。
+That's why...I want to be of some help to Isla-sama...
 --------------------------------
 [00000041][エルミナ,ローデリア,エルミナ]
-ど、どうして私、あんな間違いを……。
-本当に、ご迷惑をおかけしてしまいまして、
-申し訳ございません……。
+W-why did I make such a mistake...?  We sincerely apologize for the
+inconvenience. We apologize for any inconvenience this may cause you.
 --------------------------------
 [00000042][エルミナ,ローデリア,エルミナ]
-いや、けっこう面白かったぜ？
+No, it was pretty interesting, wasn't it?
 --------------------------------
 [00000043][エルミナ,ローデリア,エルミナ]
-気にすんなよ
+Don't worry about it.
 --------------------------------
 [00000044][エルミナ,ローデリア,エルミナ]
-次から気をつけろよ！
+Be careful next time!
 --------------------------------
 [00000045][エルミナ,ローデリア,エルミナ]
-そ、そうですか？　そう言っていただけると……。
-あ、いえ！　それじゃダメです！
-そんなことじゃ、私は……。
+I-Is that so? If you can say that...  Oh, no! That's no good!  If that's the
+case, then I...
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-で、でも……。
-すみません……これから気をつけます……。
+But...  I'm sorry...I'll be more careful from now on...
 --------------------------------
 [00000047][エルミナ,ローデリア,エルミナ]
-は、はいっ！　ご、ごめんなさい……。
+Yes! Sorry...
 --------------------------------
 [00000048][エルミナ,ローデリア,エルミナ]
-あ、あの……。レイジ……さん？
-ご、ご、ごめんなさいっ！
+Oh, uh... Rage...?  I-I'm sorry!
 --------------------------------
 [00000049][エルミナ,ローデリア,エルミナ]
-私が、伝説の歌姫だったなんて……。
-今でも信じられません……。
+I was a legendary diva...  I still can't believe it...
 --------------------------------
 [00000050][エルミナ,ローデリア,エルミナ]
-は、早く補給部隊のみなさんの
-救援に向かいましょう！
+Let's quickly go to the rescue of the supply troops!
 --------------------------------
 [00000051][アイラ,ブランネージュ・ガルディニアス,アイラ]
-私はアイラだ。私のことは、エルミナから
-いろいろ聞いていると思うが。
-……どんな風に言っていた？
+I'm Islay. I think you've heard a lot about me from Elmina.  ...How did you say
+it?
 --------------------------------
 [00000052][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ずいぶん尊敬してるみたいだったぜ
+He seemed to respect me a lot.
 --------------------------------
 [00000053][アイラ,ブランネージュ・ガルディニアス,アイラ]
-まあ、いろいろと
+Well, a lot of things.
 --------------------------------
 [00000054][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……ごめん。忘れた
+...Sorry. I forgot
 --------------------------------
 [00000055][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうか。ふふっ。小さいころからあの子は、
-私のことを慕ってくれていてな。
-……本当に、かわいい子だ。
+I see. Hehe. That girl has loved me since I was little.  ...She's really a cute
+girl.
 --------------------------------
 [00000056][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうか。彼女とは長い付き合いで、
-いろいろな思い出もあるからな。
-話すことはたくさんあるだろう。
+I see. I've known her for a long time, and I have a lot of memories with her. 
+We'll have a lot to talk about.
 --------------------------------
 [00000057][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……そうか。
+...I see.
 --------------------------------
 [00000058][アイラ,ブランネージュ・ガルディニアス,アイラ]
-まあ、いい。これから、よろしく頼む。
+Well, okay. From now on, I ask for your help.
 --------------------------------
 [00000059][アイラ,ブランネージュ・ガルディニアス,アイラ]
-レイジ、エルミナはいい子だろう？
-いろいろと手助けをしてやってほしい。
+Rage, isn't Elmina a good girl?  I would like you to help me in various ways.
 --------------------------------
 [00000060][アイラ,ブランネージュ・ガルディニアス,アイラ]
-なにをしている？
-こちらの準備は終わったぞ。
+What are you doing?  Our preparations are complete.
 --------------------------------
 [00000061][龍那,,龍那]
-神殿まで助けに来ていただいて、
-ありがとうございました。
+Thank you very much for coming to the temple to help me.
 --------------------------------
 [00000062][龍那,,龍那]
-私と剛龍鬼だけでは、どうにもならなく
-なりかけていたところだったのです。
+With just me and Gouryuki, we were on the verge of being helpless.
 --------------------------------
 [00000063][龍那,,龍那]
-間に合ってよかったよ
+I'm glad I made it in time.
 --------------------------------
 [00000064][龍那,,龍那]
-そうだったのか？　危なかった……
+Was it? It was dangerous...
 --------------------------------
 [00000065][龍那,,龍那]
-剛龍鬼も意外とだらしないな
+Gouryuki is also surprisingly sloppy.
 --------------------------------
 [00000066][龍那,,龍那]
-ええ。本当に。
-助けに来てくれた時のあなたたちは、
-本当に格好よく見えました……。
+Yeah. Really. 
 --------------------------------
 [00000067][龍那,,龍那]
-……あ、あら、私、
-なにを言っているのでしょう……。
+...Ah, oh, I wonder what you're talking about...
 --------------------------------
 [00000068][龍那,,龍那]
-ええ、本当に危ないところだったのです。
+Yes, it was a really dangerous situation.
 --------------------------------
 [00000069][龍那,,龍那]
-あと少し救援が遅かったら、
-私も剛龍鬼も、こうしてレイジさんと
-お話してはいられないところでした。
+If the rescue had been a little slower, Gouryuki and I wouldn't have been able
+to talk to Rage-san like this.
 --------------------------------
 [00000070][龍那,,龍那]
-そんなことはありません。剛龍鬼は、
-とても頼りになる人ですよ。
-ただ、敵の数が多すぎたので……。
+That's not true. Gouryuki is a very reliable person.  However, there were too
+many enemies...
 --------------------------------
 [00000071][龍那,,龍那]
-どうも、ありがとうございました。
+Thank you very much.
 --------------------------------
 [00000072][龍那,,龍那]
-この異常な寒さは、
-精霊力の低下に端を発しているに違いありません。
+This abnormal cold must be caused by a decrease in spiritual power.
 --------------------------------
 [00000073][龍那,,龍那]
-きっと氷の精霊王に、
-なにか異変が起きたのでしょう……。
+Something must have happened to the Ice Spirit King...
 --------------------------------
 [00000074][龍那,,龍那]
-歌姫は歌を通して精霊王に呼びかけ
-「シャイニング・ブレイド」の
-封印を解く役目を負っています。
+The Diva calls out to the Spirit King through song and is tasked with breaking
+the seal of the ``Shining Blade.''
 --------------------------------
 [00000075][龍那,,龍那]
-５人の精霊王それぞれに、
-対応する歌姫がいるはずです。
+There should be a Diva corresponding to each of the five Spirit Kings.
 --------------------------------
 [00000076][フェンリル,,フェンリル]
-ルーンベールも大変な状況だな。
-まして寒波が当分は続くとなると……。
-思うように戦えない場合もあるのだろうな。
+Runeveil is also in a difficult situation.   Especially if the cold wave
+continues for some time...  There may be times when you can't fight as you want.
 --------------------------------
 [00000077][フェンリル,,フェンリル]
-だからオレたちが助けに行くんじゃないか
+I guess that's why we're going to help.
 --------------------------------
 [00000078][フェンリル,,フェンリル]
-装備を整えた方がいいのかな
+Maybe I should prepare my equipment.
 --------------------------------
 [00000079][フェンリル,,フェンリル]
-寒いのは苦手だなぁ……
+I don't like the cold...
 --------------------------------
 [00000080][フェンリル,,フェンリル]
-お？　なかなか言うじゃないか、レイジ。
-よし、まずはルーンベール解放のために
-一肌脱ぐとするか！
+Oh? That's quite a statement, Rage.  Okay, first of all, let's take off our skin
+to liberate Rune Veil!
 --------------------------------
 [00000081][フェンリル,,フェンリル]
-それも大事だろうな。
-なにか必要な物があれば、
-街の道具屋に行ってみるといい。
+I guess that's important too.  If you need anything, just go to the tool shop in
+town.
 --------------------------------
 [00000082][フェンリル,,フェンリル]
-なんだなんだ、子供じゃあるまいし。
-寒さぐらいで弱音をはいてたら、
-帝国軍には勝てんぞ！
+What the heck, you're not a child.  If we keep complaining about the cold, we
+won't be able to defeat the Imperial Army!
 --------------------------------
 [00000083][フェンリル,,フェンリル]
-おいおい、なにを黙っている？
-たかが寒さにビビってるんじゃあるまいな？
+Hey, what are you silent about?  Maybe he's just scared of the cold?
 --------------------------------
 [00000084][フェンリル,,フェンリル]
-シルディアでも敵の攻撃は続いている。
-こちらの防衛にも気を配らなければな。
+Enemy attacks continue in Syldia.  We have to pay attention to our defense as
+well.
 --------------------------------
 [00000085][剛龍鬼,,剛龍鬼]
-俺は剛龍鬼。
-龍那を守るのが俺の仕事だ。
+I am Gouryuki.  It's my job to protect Ryuna.
 --------------------------------
 [00000086][剛龍鬼,,剛龍鬼]
-ああ、よろしくな
+Oh, nice to meet you.
 --------------------------------
 [00000087][剛龍鬼,,剛龍鬼]
-こっちにも手を貸してくれよな
+Please lend a hand here too.
 --------------------------------
 [00000088][剛龍鬼,,剛龍鬼]
-他にやることないのか？
+Don't you have anything else to do?
 --------------------------------
 [00000089][剛龍鬼,,剛龍鬼]
-こちらこそ、よろしく頼む。
-できるだけ協力はする。
+Thank you very much.  I will cooperate as much as possible.
 --------------------------------
 [00000090][剛龍鬼,,剛龍鬼]
-それが、龍那の望みでもあるし、
-仲間たちは龍那と同様、
-俺の守るべき対象だからな。
+That's what Ryuna wants, and my friends are my targets just like Ryuna.
 --------------------------------
 [00000091][剛龍鬼,,剛龍鬼]
-もちろんだ。
-龍那だけでなく、お前たちも精一杯守る。
-お前たちは、俺と龍那の仲間だからな。
+Of course.  I'll do my best to protect not only Ryuna, but also you guys.  You
+guys are friends with me and Ryuna.
 --------------------------------
 [00000092][剛龍鬼,,剛龍鬼]
-共に、帝国軍から世界を守っていこう！
+Together, let's protect the world from the Imperial Army!
 --------------------------------
 [00000093][剛龍鬼,,剛龍鬼]
-ないな。
-……それがどうした？
+Not really.  ...What happened to that?
 --------------------------------
 [00000094][剛龍鬼,,剛龍鬼]
-どうした？　俺の顔になにかついているか？
+What's wrong? Is there something on my face?
 --------------------------------
 [00000095][剛龍鬼,,剛龍鬼]
-ウロコを通して寒さがしみる……。
-ウロコもないお前たちは、
-きっと俺より寒いのだろうな……。
+The cold seeps through my scales...  Since you guys don't have scales, I'm sure
+you're colder than me...
 --------------------------------
 [00000096][剛龍鬼,,剛龍鬼]
-エールブラン、大したヤツだった。
-だが、俺ほど強くはなかったな。
+Ale Blanc was a big deal.  But you weren't as strong as me.
 --------------------------------
 [00000097][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-友軍戦闘員と接触。
-個人名を確認します。
-あなたはレイジですね？
+Contact with friendly combatants.  Confirm the person's name.  You're Rage,
+right?
 --------------------------------
 [00000098][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-ああ。よろしくな
+Yeah. nice to meet you
 --------------------------------
 [00000099][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-そ、そうだけど……。
+Yeah, but...
 --------------------------------
 [00000100][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-え？　え？
+Huh? picture?
 --------------------------------
 [00000101][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解。登録しました。
-よろしくお願いします。
-私はケルベロスです。
+Understood. Has registered.  I'm Kerberos.
 --------------------------------
 [00000102][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解しました。以後、個体識別が可能です。
+Understood. After that, individual identification is possible.
 --------------------------------
 [00000103][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-名前を認識できません。
-質問を繰り返しますか？
+Name not recognized.  Do you want to repeat the question?
 --------------------------------
 [00000104][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-タイムアウトしました。
+Timed out.
 --------------------------------
 [00000105][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-0342260通常会話
+0342260Normal conversation
 --------------------------------
 [00000106][ユキヒメ,ユキヒメ,ユキヒメ]
-なあ、レイジ。例の「シャイニング・ブレイド」の
-話だが……。正直なところ、私にはまだ
-ピンとこないのだ。
+Hey, Rage. As an example, the story of ``Shining Blade''... To be honest, I
+still don't have a clue about it.
 --------------------------------
 [00000107][ユキヒメ,ユキヒメ,ユキヒメ]
-お前はあの話、どう思った？
+What did you think of that story?
 --------------------------------
 [00000108][ユキヒメ,ユキヒメ,ユキヒメ]
-お前ならありえる
+You can do it.
 --------------------------------
 [00000109][ユキヒメ,ユキヒメ,ユキヒメ]
-オレもピンとこないなぁ……
+I don't get it either...
 --------------------------------
 [00000110][ユキヒメ,ユキヒメ,ユキヒメ]
-なにかの間違いじゃないのか？
+Isn't there some kind of mistake?
 --------------------------------
 [00000111][ユキヒメ,ユキヒメ,ユキヒメ]
-そ、そうか？　私なら、ありえるというのか？
-私になら、ダークドラゴンを封じるほどの
-力があってもおかしくはないと？
+Oh, really? Is it possible for me?  Wouldn't it be strange if I had the power to
+restrain the Dark Dragon?
 --------------------------------
 [00000112][ユキヒメ,ユキヒメ,ユキヒメ]
-そういってくれるのは嬉しいが……。
-なにぶん覚えていないのでな……。
+I'm glad to hear that, but...  I don't remember anything...
 --------------------------------
 [00000113][ユキヒメ,ユキヒメ,ユキヒメ]
-だが、お前は私を信頼してくれているのだな。
-そのことには礼を言っておこう。
+But you trust me.  I'd like to thank you for that.
 --------------------------------
 [00000114][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだろう？　いきなり言われてもな。
-なにしろ、記憶がないのだからなぁ……。
+Isn't that so? Even if you say it out of the blue.  After all, I don't have any
+memories...
 --------------------------------
 [00000115][ユキヒメ,ユキヒメ,ユキヒメ]
-……おい、待て。それはどういう意味だ？
-私が、伝説の剣ではなにかおかしいとでも
-いうのか？
+...Hey, wait. What does that mean?  Am I saying that there's something wrong
+with the legendary sword?
 --------------------------------
 [00000116][ユキヒメ,ユキヒメ,ユキヒメ]
-お前、私のことをなんだと思っているのだ？
-いいか！　私はだな、先代との盟約により
-クラントールの国と民を守り……。
+What do you think of me?  Okay! As a result of my pact with my predecessor, I
+will protect the country and people of Crantor...
 --------------------------------
 [00000117][ユキヒメ,ユキヒメ,ユキヒメ]
-おい、待てレイジ！　人の話を聞け！
+Hey, wait, Rage! Listen to what people say!
 --------------------------------
 [00000118][ユキヒメ,ユキヒメ,ユキヒメ]
-……答えられんか。まあ、それはそうだろうな。
-本人にすらわからんのに、
-お前にわかるわけもないな……。
+...Can you answer that? Well, I guess that's true.  Even he himself doesn't
+know, There's no way you can understand...
 --------------------------------
 [00000119][ユキヒメ,ユキヒメ,ユキヒメ]
-……「シャイニング・ブレイド」か。
-いきなりそのようなことを言われてもな。
-なんというか、実感が湧かんな……。
+..."Shining Blade"?  Even if someone suddenly says something like that to me. 
+What can I say, I can't really feel it...
 --------------------------------
 [00000120][リン,シャオメイ,リンリン]
-ルーンベールは寒波に襲われているそうね。
-いやだわ、寒いのは。
+I hear Runevale is being hit by a cold wave.  I don't want it to be cold.
 --------------------------------
 [00000121][リン,シャオメイ,リンリン]
-そのうち寒波は収まるさ
+The cold wave will subside eventually.
 --------------------------------
 [00000122][リン,シャオメイ,リンリン]
-シルディアで留守番してるか？
+Are you house-sitting in Syldia?
 --------------------------------
 [00000123][リン,シャオメイ,リンリン]
-猫は雪が好きなんじゃなかったっけ
+Don't cats like snow?
 --------------------------------
 [00000124][リン,シャオメイ,リンリン]
-そうね。異変が収まれば、
-気候もいつも通りに戻っていくと思うけど。
-それに期待しましょうか。
+Yes. Once the strange situation subsides, I think the climate will return to
+normal.  Let's hope for that.
 --------------------------------
 [00000125][リン,シャオメイ,リンリン]
-そういうわけにもいかないわよね。
-がんばって寒さに耐えるわ。
+That can't be true.  I'll do my best to endure the cold.
 --------------------------------
 [00000126][リン,シャオメイ,リンリン]
-それは犬でしょ。私が好きなのは、
-ひなたぼっことかストーブとか……。
-とにかく暖かいものよ。
+That's a dog, right? What I like are  basking in the sun and stoves...  Anyway,
+it's warm.
 --------------------------------
 [00000127][リン,シャオメイ,リンリン]
-食べ物は冷たい方がいいけどね。
+It's better if the food is cold though.
 --------------------------------
 [00000128][リン,シャオメイ,リンリン]
-私、とにかく寒いのは苦手なのよ。
+I just don't like the cold.
 --------------------------------
 [00000129][リン,シャオメイ,リンリン]
-なんでずっと猫の姿でいるのかって？
-獣人の姿より、こっちの方が楽だからよ。
+Why are you always in cat form?  This is easier than the beastman form.
 --------------------------------
 [00000130][村人,村人,ウェーバー]
-他の街も大変だろうが、シルディアも
-まだまだ平和ってわけじゃないからな。
-こっちの依頼もよろしく頼むぜ。
+Other cities may be in trouble, but Syldia is still far from peaceful.  Please
+take this request as well.
 --------------------------------
 [00000131][村人,村人,ロアン]
-兄ちゃん、店をのぞいていかないか？
-他の国にはないような品物だって、
-ここならきっと手に入るよ！
+Brother, would you like to take a look at the store?  If you have items that you
+can't find in other countries, you can definitely get them here!
 --------------------------------
 [00000132][村人,村人,ジュリア]
-パンにはやっぱり
-シルディアの粉が一番ですね。
-きめの細かさが全然違うんですよ。
+Syldia flour is definitely the best for bread.  The level of detail is
+completely different.
 --------------------------------
 [00000133][村人,村人,ダリオ]
-毎年ルーンベールからは収穫の時期になると
-たくさんの農作物が運ばれてくるのじゃが。
+Every year, during harvest time, many crops are brought from Runevale.
 --------------------------------
 [00000134][村人,村人,ダリオ]
-この調子では、今年は無理かのぉ……。
+At this rate, I don't think it will be possible this year...
 --------------------------------
 [00000135][村人,村人,ジェゼフ]
-ルーンベールのフィラルド山脈で採れる
-鉱石は細工物作りには最適なんだが、
-入荷が途絶えちまってなぁ……。
+The ore that can be found in Runevale's Filard Mountains is perfect for making
+crafts, but we've run out of supplies...
 --------------------------------
 [00000136][村人,村人,ジェゼフ]
-砦の近くでモンスターが暴れてるらしいぜ。
+Apparently monsters are rampaging near the fort.
 --------------------------------
 [00000137][村人,村人,ジェゼフ]
-退治しなきゃならないんだが、
-あんたたちでなけりゃ手が付けられん。
-どうにかしてくれねえか？
+We have to get rid of them, but only you guys can do it.  Can you do something
+about it?
 --------------------------------
 [00000138][村人,村人,ジェゼフ]
-例のモンスター、けっこう手ごわいのかい？
-大変だとは思うけどさ、
-早いとこなんとかしてくれよ。
+Is that monster quite formidable?  I know it's difficult, but please do
+something as soon as possible.
 --------------------------------
 [00000139][村人,村人,ジェゼフ]
-モンスターをやっつけてくれたんだな。
-ありがとう！　大助かりだ！
+You defeated the monster.  Thank you! That's a big help!
 --------------------------------
 [00000140][村人,村人,クロード]
-この街は寒いでしょう？
-風邪ひかないように対策はしっかりしてくださいね。
+It's cold in this town, isn't it?  Please take proper measures to avoid catching
+a cold.
 --------------------------------
 [00000141][村人,村人,クロード]
-防寒用具なら、うちの店でなんでもそろいますよ。
+If you need cold weather gear, you can find it all at our store.
 --------------------------------
 [00000142][村人,村人,クロード]
-エールブランと勝負して
-勝ったんですって？
-お客さんすごいですね！
+So you competed against Ale Blanc and won?  The customers are amazing!
 --------------------------------
 [00000143][村人,村人,フリント]
-アイラ姫は、霊峰グレイシアに入られたまま
-いまだにお帰りになりません。
+Princess Isla has been sent to the sacred mountain Glacier and has not yet
+returned.
 --------------------------------
 [00000144][村人,村人,フリント]
-聖王陛下の亡くなられた今、この国を率いるお方は
-アイラ姫しかいないのですが……。
+Now that His Majesty the Holy King has passed away, the only person left to lead
+this country is Princess Isla...
 --------------------------------
 [00000145][村人,村人,フリント]
-アイラ姫がお帰りになられたのは
-よかったのですが……。
+I'm glad that Princess Isla has returned, but...
 --------------------------------
 [00000146][村人,村人,フリント]
-帝国軍はまだまだルーンベールに
-居座ったままです。
-まだまだ安心はできません……。
+The Imperial Army is still in Runevale.  I still don't feel safe...
 --------------------------------
 [00000147][村人,村人,カタリーナ]
-そこのお兄さん！
-ホカホカのパンはいかがです？
-寒さなんか吹き飛びますよ！
+That guy over there!  How about some toasty bread?  The cold will be blown away!
 --------------------------------
 [00000148][村人,村人,クロード]
-寒さがゆるんできたのは、
-あなたたちのおかげなんですって？
-ありがとうございます！
+It's thanks to you guys that the cold weather has eased?  Thank you!
 --------------------------------
 [00000149][村人,村人,ジュリオン]
-ぶるるるるるっ！　寒いなぁ……。
-こんなに寒いと、外で遊ぶのも
-嫌になっちゃうよ。
+Burururururu! It's cold...  When it's this cold, I don't even want to play
+outside.
 --------------------------------
 [00000150][村人,村人,ジュリオン]
-まだ寒いけど、こないだよりは
-ぜんぜんいいや！
+It's still cold, but it's much better than the other day!
 --------------------------------
 [00000151][村人,村人,ジュリオン]
-うちの母さんが、街の近くでモンスターを
-見たんだって。
-そいつが街に入ってきたら大変だよ……。
+My mother said she saw a monster near the town.  It would be a big problem if
+that person came into town...
 --------------------------------
 [00000152][村人,村人,ジュリオン]
-ねえ、お兄ちゃん、お願いだよ！
-モンスターをやっつけて！
+Hey, brother, please!  Defeat the monster!
 --------------------------------
 [00000153][村人,村人,ジュリオン]
-モンスター……どうなった？
-まだいる？
+Monster...what happened?  Are you still there?
 --------------------------------
 [00000154][村人,村人,ジュリオン]
-モンスターをやっつけてくれたの？　ありがとう！
-お兄ちゃんたちって、ホントに強いんだね！
+Did you defeat the monster? thank you! 
 --------------------------------
 [00000155][村人,村人,セドリック]
-おお、寒い寒い……。
-年寄りにはこの寒さが堪えるのう……。
+Oh, it's so cold...  This cold is unbearable for the elderly...
 --------------------------------
 [00000156][村人,村人,テルムッド]
-寒さと関係あるのかは知らないが、
-悪さをするモンスターどもが
-増えて困っているのだ。
+I don't know if it has something to do with the cold, but the number of evil
+monsters has increased and I'm in trouble.
 --------------------------------
 [00000157][村人,村人,テルムッド]
-詳しくは依頼の内容を見てくれ。
+Please see the request for details.
 --------------------------------
 [00000158][村人,村人,テルムッド]
-次世代の精霊王が生まれたそうだな。
+It seems that the next generation of Spirit King has been born.
 --------------------------------
 [00000159][村人,村人,テルムッド]
-これでルーンベール全域の精霊力が復活し、
-厳しい寒さも和らぐだろう。
+This will restore the spirit power throughout Runevale and ease the bitter cold.
 --------------------------------
 [00000160][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000161][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000162][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000163][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000164][none]
-クエストが増えてきている。
-モンスターの動きが活発化しているようだ。
+The number of quests is increasing.  It seems the monsters are becoming more
+active.
 --------------------------------
 [00000165][none]
-噴水が涼しげな音を立てている。
-街の人々の憩いの場のようだ。
+The fountain is making a cool sound.  It seems to be a place for people in town
+to relax.
 --------------------------------
 [00000166][none]
-ドアの向こうから声が聞こえる。
+A voice can be heard from the other side of the door.
 --------------------------------
 [00000167][none]
-「フェンリルさんの尻尾って、
-　ふさふさして気持ちよさそうだよね！」
+"Fenrir-san's tail is so fluffy and feels so good!"
 --------------------------------
 [00000168][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000169][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000170][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000171][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000172][none]
-木が凍り付いて真っ白になっている。
+The trees are frozen and completely white.
 --------------------------------
 [00000173][none]
-ショーウィンドウの向こうは
-おいしそうなパンでいっぱいだ！
+There are lots of delicious-looking breads behind the shop window!
 --------------------------------
 [00000174][none]
-鍛冶屋の熱で雪が溶けている。
-寒いときはここに来れば温まれそうだ。
+The snow is melting due to the heat from the blacksmith.  If you come here when
+it's cold, you'll feel warm.
 --------------------------------

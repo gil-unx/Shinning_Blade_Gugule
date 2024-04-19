@@ -1,456 +1,376 @@
 [0113]
 *****************
 [00000000][サクヤ,マキシマ,サクヤ]
-あなたもいよいよ、本格的に帝国との戦いに
-加わることになるわけだけど……。
-自信のほどはどう？
+You're finally going to join the fight against the Empire in earnest...  How
+confident are you?
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-バッチリですよ！
+It's perfect!
 --------------------------------
 [00000002][サクヤ,マキシマ,サクヤ]
-クラントールや銀の森でも戦いましたよ？
+We also fought in Crantor and the Silver Forest, right?
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-うーん、どうですかね……
+Hmm, what do you think...
 --------------------------------
 [00000004][サクヤ,マキシマ,サクヤ]
-ふふっ。頼もしいわね。
-でも、自信過剰にならないように気を付けて。
+Hehe. It's reliable.  But be careful not to get overconfident.
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-これからの戦いは、あれよりももっと
-規模が大きくて激しいものになるはずよ。
-覚悟しておきなさいね？
+The upcoming battle will be even bigger and more intense than that one.  Be
+prepared, okay?
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-なんだか頼りないわね……。
-今からもう一度、
-ビシビシ鍛えなおしてあげましょうか？
+It's kind of unreliable...  Would you like me to train you hard again now?
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-答えられない？　つまり自信がないということ？
-あらあら。困ったものね。
+Can't answer?　Does that mean you don't have confidence?  Oh my. That's a
+problem.
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-アーティファクトは持ってる？
-持っていたら、私の能力で強化してあげるわよ。
+Do you have any artifacts?  If you have it, I will strengthen it with my
+ability.
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-どうかした？
-急がないとリックに置いていかれるわよ？
+What's wrong?  If you don't hurry, Rick will leave you behind, okay?
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-どうしたの？
-リックはもう出かけるみたいよ？
+What happened?  I think Rick is leaving now?
 --------------------------------
 [00000011][サクヤ,マキシマ,サクヤ]
-早く神殿に行かないと。
-出かける用意をしてちょうだい。
+I have to go to the temple soon.  Please get ready to go out.
 --------------------------------
 [00000012][リック,エルウッド,リック]
-お前なんかがこの砦に来て、
-いったいなにをするつもりなんだ？
-役立たずは目障りだ。とっとと失せろ。
+What the hell do you think you're going to do when you come to this fort? 
+Useless is an eyesore. Lose it quickly.
 --------------------------------
 [00000013][リック,エルウッド,リック]
-オレにだって、やれることはある！
+Even I can do something!
 --------------------------------
 [00000014][リック,エルウッド,リック]
-ちょっと待ってくれよ！　オレは……
+Wait a minute! I am……
 --------------------------------
 [00000015][リック,エルウッド,リック]
-ふざけんじゃねえ！　勝手に決めつけるな！
+Don't be silly! Don't make your own decisions!
 --------------------------------
 [00000016][リック,エルウッド,リック]
-……ふん、どうだかな。
+...Hmm, I don't know.
 --------------------------------
 [00000017][リック,エルウッド,リック]
-だったらせいぜい、これからの戦いで
-その言葉を証明してみせることだな。
+In that case, the best you can do is prove your words in the upcoming battle.
 --------------------------------
 [00000018][リック,エルウッド,リック]
-……なんだ？　言い訳か？
-みっともない奴だ。
+...What? Is that an excuse?  He's an ugly guy.
 --------------------------------
 [00000019][リック,エルウッド,リック]
-お前なんかと話すことは、なにもない。
+I don't have anything to talk about with you.
 --------------------------------
 [00000020][リック,エルウッド,リック]
-実際お前は、
-クラントールを守ることができなかった。
-正真正銘の役立たずじゃないか。
+Actually, you couldn't protect Krantor.  Isn't he truly useless?
 --------------------------------
 [00000021][リック,エルウッド,リック]
-……なにが伝説の勇者だ！
+...What a legendary hero!
 --------------------------------
 [00000022][リック,エルウッド,リック]
-……ふん。反論もできないってことか。
-まあ、そうだろうよ。
+...Hmm. Does that mean you can't even argue?  Well, I guess so.
 --------------------------------
 [00000023][リック,エルウッド,リック]
-役立たずがなにをしている？
-お前なんかこの隊には必要ない。
-さっさとどこかへ行っちまえ。
+What's that good-for-nothing guy doing?  This team doesn't need you.  Go
+somewhere quickly.
 --------------------------------
 [00000024][アルティナ,メル・シルフィス,アルティナ]
-やっぱり、森の外になんか
-出るんじゃなかったわ。
+I wasn't supposed to go out of the woods after all.
 --------------------------------
 [00000025][アルティナ,メル・シルフィス,アルティナ]
-人間たちの住む場所って、やかましくて
-ほこりっぽくて、ケバケバしいんですもの。
-見ているだけで疲れるわ。
+The places where humans live are noisy, dusty, and messy.  I get tired just
+looking at it.
 --------------------------------
 [00000026][アルティナ,メル・シルフィス,アルティナ]
-でも、にぎやかで面白いだろ？
+But it's lively and interesting, right?
 --------------------------------
 [00000027][アルティナ,メル・シルフィス,アルティナ]
-やっぱり、森の方が好きか？
+After all, do you prefer the forest?
 --------------------------------
 [00000028][アルティナ,メル・シルフィス,アルティナ]
-はははっ、田舎もん丸出しだなぁ
+Hahaha, the country side is exposed.
 --------------------------------
 [00000029][アルティナ,メル・シルフィス,アルティナ]
-……そ、そんなことないわ。
-いろんな人がいて、いろんな物が並んでて、
-見てて退屈しないなんて……。
+...That's not true.  There are so many people and so many things lined up, I
+never get bored looking at them...
 --------------------------------
 [00000030][アルティナ,メル・シルフィス,アルティナ]
-そんなこと、絶対に思ってないんだから！
+I never thought that!
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-それはそうよ。住み慣れた故郷なんだし。
+That's right. It's my hometown, which I'm used to living in.
 --------------------------------
 [00000032][アルティナ,メル・シルフィス,アルティナ]
-……あ。でも、考えてみたらここだって、
-暮らしている人たちにとっては
-大切な故郷なのよね……。
+...Ah. But if you think about it, this place is also an important hometown for
+the people who live here...
 --------------------------------
 [00000033][アルティナ,メル・シルフィス,アルティナ]
-……し、仕方ないわね。
-もう少し、ここで我慢して暮らしてあげる！
+...I-I can't help it.  I'll be patient and live here for a little while longer!
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-なによそれ！
-フォンティーナが田舎だっていうの!?
+What is that?  Are you saying Fontina is in the countryside?
 --------------------------------
 [00000035][アルティナ,メル・シルフィス,アルティナ]
-冗談じゃないわよ！　あの森は、
-人間たちが街を作り出すずっと前から
-栄えてきた歴史のある場所なのよ!?
+I'm not kidding! That forest is a place with a history of flourishing long
+before humans created cities!?
 --------------------------------
 [00000036][アルティナ,メル・シルフィス,アルティナ]
-決して田舎なんかじゃないんだから！
+It's definitely not the countryside!
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-……まあ、あなたにこんなこと
-言っても仕方ないんだけど。
+...Well, there's no point in saying this to you.
 --------------------------------
 [00000038][アルティナ,メル・シルフィス,アルティナ]
-……人間の街って、疲れるわ。
-露店だの見世物小屋だの、
-いろんなものが並んでいるのに……。
+...Human cities are tiring.  There are street stalls, show houses,  all sorts of
+things lined up...
 --------------------------------
 [00000039][アルティナ,メル・シルフィス,アルティナ]
-お金がないとなにもできないのよ？
-これって変じゃない？
+You can't do anything without money, right?  Isn't this strange?
 --------------------------------
 [00000040][エルミナ,ローデリア,エルミナ]
-と、砦の中は知らない人ばかりで……。
-少し怖いです……。
+Well, there are a lot of people inside the fort that I don't know...  It's a
+little scary...
 --------------------------------
 [00000041][エルミナ,ローデリア,エルミナ]
-俺もアルティナもいるから、心配しないで
+Me and Altina are here, so don't worry.
 --------------------------------
 [00000042][エルミナ,ローデリア,エルミナ]
-すぐに慣れるさ
+You'll get used to it quickly.
 --------------------------------
 [00000043][エルミナ,ローデリア,エルミナ]
-がんばってなじまなきゃな
+I'll have to try my best to fit in.
 --------------------------------
 [00000044][エルミナ,ローデリア,エルミナ]
-そ、そうですね……。
-お２人がいてくださると思うと……。
-だいぶ、心強いです……。
+Oh, that's right...  I think you two will be here...  It's quite reassuring...
 --------------------------------
 [00000045][エルミナ,ローデリア,エルミナ]
-そうだと、いいんですが……。
-私、知らない方とは
-なかなかなじめないんです……。
+I hope so...  I have a hard time getting used to people I don't know.
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-と、特に、男性の方とは……。
+Especially with men...
 --------------------------------
 [00000047][エルミナ,ローデリア,エルミナ]
-え、ええ。そうですね。
-そうは……思うんですが……。
+Oh, yeah. I agree. 
 --------------------------------
 [00000048][エルミナ,ローデリア,エルミナ]
-レ、レイジさん？
-どうして、黙ってしまうんですか？
+Rage-san?  Why are you silent?
 --------------------------------
 [00000049][エルミナ,ローデリア,エルミナ]
-な、なにか、話してください。
-怖いです……。
+Please tell me something.  It's scary...
 --------------------------------
 [00000050][エルミナ,ローデリア,エルミナ]
-…………。
-……あ、レ、レイジさん。ごめんなさい。
-いえ、ちょっと考えごとをしていたんです。
+………….  ...Ah, Rage-san. sorry. 
 --------------------------------
 [00000051][エルミナ,ローデリア,エルミナ]
-私、この間からなにか大事なことを
-忘れているような気がして……。
+I feel like I've forgotten something important the other day...
 --------------------------------
 [00000052][フェンリル,,フェンリル]
-「ヴァレリア解放戦線」の雰囲気はどうだ？
-うまくなじめそうか？
+What's the atmosphere like at the "Valeria Liberation Front"?  Do you think it
+will fit in well?
 --------------------------------
 [00000053][フェンリル,,フェンリル]
-なんとかやれそうだ
+I think we can manage.
 --------------------------------
 [00000054][フェンリル,,フェンリル]
-なじめるように、がんばるよ
+I'll do my best to get used to it.
 --------------------------------
 [00000055][フェンリル,,フェンリル]
-正直、不安だな……
+Honestly, I'm worried...
 --------------------------------
 [00000056][フェンリル,,フェンリル]
-そうか。ならばよかった。
-お前には期待してるぞ。
+I see. That would be fine.  I have high hopes for you.
 --------------------------------
 [00000057][フェンリル,,フェンリル]
-ふふふっ、心配そうだな。
-だが大丈夫だ。みんな荒っぽくは見えるが、
-気のいい連中だからな。
+Hehe, you look worried.  But it's okay. They all look rough, but they're all
+good-natured people.
 --------------------------------
 [00000058][フェンリル,,フェンリル]
-……リックも、きっといつかお前のことを
-わかってくれるだろうしな。
+...I'm sure Rick will understand you someday.
 --------------------------------
 [00000059][フェンリル,,フェンリル]
-今からそんな頼りないことでどうする。
-もっと自信を持て。
+What are we going to do with such an unreliable thing now?  Be more confident.
 --------------------------------
 [00000060][フェンリル,,フェンリル]
-どうした？　自信がないのか？
-そんなだらしのないことでどうする。
+What happened? Are you not confident?  What should I do with such sloppy
+behavior?
 --------------------------------
 [00000061][フェンリル,,フェンリル]
-ヴァレリア解放戦線は、
-帝国軍と戦うため自発的に集まった
-義勇兵たちの部隊だ。
+The Valeria Liberation Front is a group of volunteer soldiers who voluntarily
+assembled to fight against the Imperial Army.
 --------------------------------
 [00000062][フェンリル,,フェンリル]
-帝国に滅ぼされた国の元兵士や、
-冒険者、傭兵など、いろいろな経歴を
-持つ者たちが参加している。
+People with various backgrounds are participating, including former soldiers
+from countries destroyed by the Empire, adventurers, and mercenaries.
 --------------------------------
 [00000063][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ。何度も何度も口を酸っぱくして
-言っていることだが、お前はまだまだ
-修行が足りん！
+Rage. As I have said over and over again, you still don't have enough training!
 --------------------------------
 [00000064][ユキヒメ,ユキヒメ,ユキヒメ]
-きちんと毎日、怠ることなく鍛錬を続けているか？
+Do you continue to train regularly every day?
 --------------------------------
 [00000065][ユキヒメ,ユキヒメ,ユキヒメ]
-もちろん！
+Of course!
 --------------------------------
 [00000066][ユキヒメ,ユキヒメ,ユキヒメ]
-いちおう、そのつもりだ
+Well, that's my intention.
 --------------------------------
 [00000067][ユキヒメ,ユキヒメ,ユキヒメ]
-まあ、時々は……
+Well, sometimes...
 --------------------------------
 [00000068][ユキヒメ,ユキヒメ,ユキヒメ]
-そうか！　いい心がけだ。
-その調子で続けるのだぞ。
+I see! That's a good idea.  Keep going like that.
 --------------------------------
 [00000069][ユキヒメ,ユキヒメ,ユキヒメ]
-そうすればいつかは先代のように
-指先ひとつで数万の軍勢を吹き飛ばすほどの
-偉大な英雄になれないとも限らんからな。
+If you do that, there's no guarantee that someday you won't become a great hero
+like your predecessors, capable of blowing away tens of thousands of armies with
+a single fingertip.
 --------------------------------
 [00000070][ユキヒメ,ユキヒメ,ユキヒメ]
-……今ひとつ頼りないな。
-そのようなことでは、先代の足元にも及ばんぞ！
-もっともっと精進するのだ！　いいな！
+...I can't rely on you at all.  If you do that, you won't even be able to match
+your predecessor!  I'll work harder and harder! Nice!
 --------------------------------
 [00000071][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……。お前はなぁ……。
-そんなことで先代のようになれると……。
+Rage... What about you...  That's how I can become like my predecessor...
 --------------------------------
 [00000072][ユキヒメ,ユキヒメ,ユキヒメ]
-いや、それ以前に、
-帝国軍に勝てると思っているのか！
-まったく、たるんどる！
+No, before that, do you think you can defeat the Imperial Army!  It's totally
+boring!
 --------------------------------
 [00000073][ユキヒメ,ユキヒメ,ユキヒメ]
-おい、レイジ。なぜ黙っている？
-……さては、なにもしていないのだな？
-まったく！　お前というヤツは！
+Hey, Rage. why are you silent?  ...Well, you haven't done anything, have you? 
+Absolutely! That guy called you!
 --------------------------------
 [00000074][ユキヒメ,ユキヒメ,ユキヒメ]
-何度も言うようだがレイジ。
-お前はまだまだ修行が足りん！
+As I've said many times, Rage.  You still don't have enough training!
 --------------------------------
 [00000075][ユキヒメ,ユキヒメ,ユキヒメ]
-立派な英雄であった先代に
-少しでも近づけるよう、
-日々努力を続けるのだぞ！　いいな！
+I will continue to work hard every day to become as close as possible to my
+predecessor, who was a fine hero! Nice!
 --------------------------------
 [00000076][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ！　なにをぐずぐずしている！
-さあ、行くぞ！
+Rage! What are you delaying?  Let's go!
 --------------------------------
 [00000077][リン,シャオメイ,リンリン]
-クラントールで海に落ちた時は
-どうなることかと思ったけど……。
-どうにか助かってよかったわ。
+I wondered what would happen when I fell into the sea in Crantor...  I'm glad I
+was able to help you somehow.
 --------------------------------
 [00000078][リン,シャオメイ,リンリン]
-リンリンが助けてくれたんだろ？
+Rin-Rin helped you, right?
 --------------------------------
 [00000079][リン,シャオメイ,リンリン]
-アルティナのおかげだな
+Thanks to Altina.
 --------------------------------
 [00000080][リン,シャオメイ,リンリン]
-あの時は、死ぬのを覚悟したけど
+At that time, I was prepared to die.
 --------------------------------
 [00000081][リン,シャオメイ,リンリン]
-そう思ってくれるのは嬉しいけど、
-それはちょっと買いかぶりすぎよ。
-私にはそんな力はないわ。
+I'm glad you think so, but that's a bit too much.  I don't have that kind of
+power.
 --------------------------------
 [00000082][リン,シャオメイ,リンリン]
-あなたが助かったのは運の強さと、
-それからアルティナのおかげ。
+You were saved because of your luck and thanks to Altina.
 --------------------------------
 [00000083][リン,シャオメイ,リンリン]
-そうね。しっかり感謝しておきなさいよ？
+Yes. Please be thankful, okay?
 --------------------------------
 [00000084][リン,シャオメイ,リンリン]
-なに言ってるのよ。
-そんなに簡単にあきらめちゃダメじゃないの。
-あなたにはまだまだやることがあるのよ。
+What are you talking about?  You shouldn't give up so easily.  You still have
+much to do.
 --------------------------------
 [00000085][リン,シャオメイ,リンリン]
-それに、やることがなかったとしても、
-そんな風にあっさりあきらめちゃダメよ。
-もっと粘り強くね。
+And even if you don't have anything to do, don't give up so easily.  Be more
+persistent.
 --------------------------------
 [00000086][リン,シャオメイ,リンリン]
-どうしたの？　海に落ちた時のこと、
-思い出しちゃった？
+What happened? Do you remember when you fell into the sea?
 --------------------------------
 [00000087][リン,シャオメイ,リンリン]
-なにかわからないことがあったら、
-いつでも相談しなさいね。
-この私が教えてあげるから。
+If you don't understand something, please feel free to ask.  I'll teach you.
 --------------------------------
 [00000088][村人,村人,ウェーバー]
-帝国軍やモンスターどもが
-好き勝手に暴れてるせいで、
-困ってる人たちも多いんだ。
+Many people are in trouble because of the imperial army and monsters doing
+whatever they want.
 --------------------------------
 [00000089][村人,村人,ウェーバー]
-依頼を受けて、その人たちを
-助けてやっちゃくれないか。
+Will you please accept my request and help these people?
 --------------------------------
 [00000090][村人,村人,ロアン]
-義勇兵さん、うちの店はどうだい？
-帝国軍のせいで仕入れが大変だけど、
-必要最低限のものは用意してあるよ。
+Volunteer, how is our store?  Because of the Imperial Army, it's difficult to
+purchase supplies, but we have the bare minimum necessary.
 --------------------------------
 [00000091][村人,村人,ジュリア]
-こんにちは！
-うちのパンを食べて元気を出して、
-帝国軍をやっつけてくださいね。
+Hello!  Please eat our bread, cheer yourself up, and defeat the imperial army.
 --------------------------------
 [00000092][村人,村人,ジュリア]
-義勇兵さん、お願いがあるんです。
-実は、私がいつも小麦を仕入れている
-農家があるんですが……。
+Volunteer, I have a favor to ask of you.  Actually, there is a farmer from whom
+I always buy wheat...
 --------------------------------
 [00000093][村人,村人,ジュリア]
-そこに向かう途中にモンスターが出て、
-私も農家の人も困っているんです。
+Monsters appeared on the way there, and both the farmer and I are in trouble.
 --------------------------------
 [00000094][村人,村人,ジュリア]
-どうか、モンスターを
-退治してもらえませんか？
+Please, could you please kill the monsters?
 --------------------------------
 [00000095][村人,村人,ジュリア]
-よろしくお願いしますね。
+Thank you very much.
 --------------------------------
 [00000096][村人,村人,ジュリア]
-モンスターを倒してくれたんですね？
-ありがとうございました！
+You killed the monster, right?  Thank you very much!
 --------------------------------
 [00000097][村人,村人,ジュリア]
-これでまた、おいしいパンが焼けます。
+Now you can bake delicious bread again.
 --------------------------------
 [00000098][村人,村人,アンナ]
-このシルディアは、多くの街道が交わる
-交易の中心地でのぉ。
+This Syldia is a trading center where many roads intersect.
 --------------------------------
 [00000099][村人,村人,アンナ]
-平和なころにはあちこちから
-商人や旅人たちが集まり、
-それはそれは賑やかな街じゃった……。
+In peaceful times, merchants and travelers from all over the place gathered, so
+it was a lively town...
 --------------------------------
 [00000100][村人,村人,グレゴリ]
-シルディアに攻め込んだ帝国軍は、
-あっという間に守備隊を壊滅させ、
-街の城壁にも大穴を開けちまった。
+The imperial army invaded Syldia, quickly destroying the garrison, and punching
+a huge hole in the city's walls.
 --------------------------------
 [00000101][村人,村人,グレゴリ]
-俺は命からがら、砦の方に
-逃げ込んだんだが……。街じゃ
-かなりの被害が出たようだ。
+I ran towards the fort for my life, but... It seems that there was considerable
+damage in the city.
 --------------------------------
 [00000102][村人,村人,グレゴリ]
-まいったなぁ……。
-街道沿いにモンスターが出て、
-おちおち商売にも行けないんだ。
+It's gone...  There are monsters along the road, so I can't even go to business.
 --------------------------------
 [00000103][村人,村人,グレゴリ]
-なあ、あんた。すまないんだけど
-そいつを退治しちゃくれないか？
+Hey, you. I'm sorry, but could you please get rid of that thing?
 --------------------------------
 [00000104][村人,村人,グレゴリ]
-モンスターの方はどうだい？
-みんなも困ってるようだし、
-早くどうにかしてくれよ。
+What about monsters?  Everyone seems to be in trouble, so please do something
+about it quickly.
 --------------------------------
 [00000105][村人,村人,グレゴリ]
-ありがとう、あんたたちがモンスターを
-倒してくれたんだな。
-おかげで大助かりだよ。
+Thank you, you guys helped us defeat the monster.  Thanks for your help.
 --------------------------------
 [00000106][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000107][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000108][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000109][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000110][none]
-掲示板に様々なクエストが張り出されている。
-街の人からの依頼が多いようだ。
+Various quests are posted on the bulletin board.  It seems like there are a lot
+of requests from people in town.
 --------------------------------
 [00000111][none]
-焼きたてのパンが並んでいる。
-見ているだけでお腹が空いてくるようだ。
+Freshly baked bread is lined up.  I feel hungry just looking at it.
 --------------------------------
 [00000112][none]
-売り物のアイテムが並んでいる。
-じっくり吟味して購入しよう。
+Items for sale are lined up.  Please consider carefully before purchasing.
 --------------------------------

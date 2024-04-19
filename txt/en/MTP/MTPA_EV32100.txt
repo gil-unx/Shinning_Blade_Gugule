@@ -1,813 +1,592 @@
 [0190]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1ガリア公国外
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Outside the Principality of Gaul
 --------------------------------
 [00000001][none]
-……この軍服に
-また袖を通すとは
-思わなかったな
+...I never thought I'd wear this military uniform again.
 --------------------------------
 [00000002][none]
-いいじゃないか
-同窓会みたいなもんだろ？
+Isn't it good? It's like a class reunion, right?
 --------------------------------
 [00000003][none]
-この服には
-色々な思い出が
-詰まっているからね
+These clothes are filled with all kinds of memories.
 --------------------------------
 [00000004][none]
-キツい毎日でしたけど
-今ではすべてが
-懐かしいですね！
+It was a tough day, but now I feel nostalgic about everything!
 --------------------------------
 [00000005][none]
-この服、もう着られないと
-思ってたのに
-まだピッタリでした……
+I thought I wouldn't be able to wear this dress anymore, but it still fit me
+perfectly...
 --------------------------------
 [00000006][none]
-よしよし
-エイミーは
-かわいいからいいのよ
+Okay, okay Amy is cute so it's okay.
 --------------------------------
 [00000007][none]
-隊長とリエラさん
-本当に結婚するんですよね
+Captain and Riera-san are really getting married, aren't they?
 --------------------------------
 [00000008][none]
-信じられないの？
-私達はみんな
-くっつくと思ってたわよ
+Don't you believe it?  We all thought we'd end up together.
 --------------------------------
 [00000009][none]
-ですよね！
-絶対そうだと思いました
+That's right!  I thought that was definitely the case.
 --------------------------------
 [00000010][none]
-クルトを狙ってた子も
-多かったんじゃないかい？
+There must have been a lot of kids who were targeting Kurt?
 --------------------------------
 [00000011][none]
-ええ、クルト隊長は……
-輝いてましたから
+Yes, Captain Kurt... He was shining.
 --------------------------------
 [00000012][none]
-あなたが言うのは
-問題があるでしょ！
+What you say is problematic!
 --------------------------------
 [00000013][none]
-招待状が届いた時は
-驚きました
+I was surprised when I received the invitation.
 --------------------------------
 [00000014][none]
-全員の住所を調べるのは
-さすがの俺でも
-大変だったんだぜ？
+It was hard for even me to find everyone's addresses, wasn't it?
 --------------------------------
 [00000015][none]
-全員ガリア国外へ
-逃亡したってのに
-よく調べあげたもんだぜ
+Even though they all fled outside of Gaul, I did a thorough investigation.
 --------------------------------
 [00000016][none]
-へへっ、隊長命令じゃ
-やるしかないだろ？
+Hehe, you have no choice but to do what the captain orders you to do, right?
 --------------------------------
 [00000017][none]
-今日の料理
-シェフはオレだ
-期待してくれよ！
+Today's dish I'm the chef Look forward to it!
 --------------------------------
 [00000018][none]
-料理人、続けてるんだな
+The chef continues.
 --------------------------------
 [00000019][none]
-戦場で食ったジュリオの
-メシが懐かしくてね
-うまかったよなあ！
+I miss the Julio food I ate on the battlefield. It was delicious!
 --------------------------------
 [00000020][none]
-お前……
-また太ったんじゃないのか？
+You... Have you gained weight again?
 --------------------------------
 [00000021][none]
-じゃあアルフォンスだけ
-懐かしの軍隊糧食にするか
+Well, let's just use Alphonse as nostalgic military rations.
 --------------------------------
 [00000022][none]
-軍の食生活でも
-あの体型を維持したおれだ
-その程度じゃやせないぜ？
+I maintained that body shape even on a military diet. I can't lose weight just
+like that, can I?
 --------------------------------
 [00000023][none]
-お久しぶりです
-あの時は本当に
-ありがとうございました
+It's been a long time Thank you very much for that time 
 --------------------------------
 [00000024][none]
-彼とは再会できたのか？
+Were you able to meet him again?
 --------------------------------
 [00000025][none]
-ええ、今日は家で
-子どもの面倒を
-みてくれています
+Yes, I'm at home today taking care of the children 
 --------------------------------
 [00000026][none]
-子ども……？　
-てことは……
+Children...?  That means...
 --------------------------------
 [00000027][none]
-はい、今日の新郎新婦より
-一足先に……
-子どもも産まれたんです
+Yes, a child was born before today's bride and groom... 
 --------------------------------
 [00000028][none]
-そうだったのか！
-そいつはおめでとう！
+That's right!  Congratulations on that!
 --------------------------------
 [00000029][none]
-大恋愛ってやつだね
-おれもそんな
-恋がしてみたいぜ
+It's a great love. I want to have a love like that, too.
 --------------------------------
 [00000030][none]
-……いい気分だな
-家族同然の仲間が
-家族を持つってのは……
+...It feels good It feels good to have friends who are like family to have a
+family...
 --------------------------------
 [00000031][none]
-ふふ、フェリクスさんも
-仲間以上の家族を持つことを
-考えてみたらどうですか？
+Hehe, Felix-san, why don't you think about having a family that's more than just
+friends?
 --------------------------------
 [00000032][none]
-きっといいお父さんに
-なると思いますよ！
+I'm sure he'll be a good father!
 --------------------------------
 [00000033][none]
-幸せそうね、クラリッサ
+You look happy, Clarissa.
 --------------------------------
 [00000034][none]
-はい
-子どもってすごく
-かわいいんですよ
+Yes Children are really cute.
 --------------------------------
 [00000035][none]
-旦那が浮気しないように
-教育してあげましょうか？
+Should I educate my husband so he doesn't cheat?
 --------------------------------
 [00000036][none]
-ふふ……大丈夫です
-夫の教育は妻の仕事でしょ？
+Hehe... It's okay Educating a husband is a wife's job, right?
 --------------------------------
 [00000037][none]
-あらあら
-これは手強そうね
+Oh my, This looks tough.
 --------------------------------
 [00000038][none]
-アルフォンス！
-私の引き立て役が
-どこほっつき歩いてるのよ！
+Alphonse!  Where is my foil walking around?!
 --------------------------------
 [00000039][none]
-やっぱりおれがいないと
-しっくりこないのかい？
+After all, it doesn't feel right without me?
 --------------------------------
 [00000040][none]
-あなたがいないと
-ムチが退屈しちゃうのよ！
+Whip gets bored without you!
 --------------------------------
 [00000041][none]
-おおっ！
-懐かしさで涙が出そうだ
+Oh!  I feel like crying with nostalgia
 --------------------------------
 [00000042][none]
-今もダメ男達の教育に
-励んでいるのかい？
+Are you still working hard to educate useless men?
 --------------------------------
 [00000043][none]
-まあね
-どこの国にもダメな男は
-いるから退屈しないわ
+Well, there are bad men in every country, so I won't be bored.
 --------------------------------
 [00000044][none]
-ちっちゃな国なら
-本当に絶対女王制が
-実現しちゃうかもな？
+If it's a small country, maybe an absolute queen system can be realized ?
 --------------------------------
 [00000045][none]
-ちっぽけな国なんて
-いらないわ！
-目指すは大陸！　世界よ！
+I don't need a small country!  Aim for the continent!　World!
 --------------------------------
 [00000046][none]
-じゃ、おれも負けずに
-ガリアの隼から
-ガリアの不死鳥を目指すか
+Well then, without giving up, I'll aim from the Gallic Falcon to the Gallic
+Phoenix.
 --------------------------------
 [00000047][none]
-鳥の丸焼きみたいな
-お腹で何言ってんのよ！
-教育！
+What are you saying with a stomach that looks like a roasted bird?  Education!
 --------------------------------
 [00000048][none]
-ぶは!?
+Buha!?
 --------------------------------
 [00000049][none]
-相変わらずだな……
+Same as always...
 --------------------------------
 [00000050][none]
-ああ、見慣れた光景だな
+Ah, that's a familiar sight.
 --------------------------------
 [00000051][none]
-ああ、リエラちゃん……
-ついにこの日が
-来てしまったんだね
+Ah, Riera-chan... This day has finally come. 
 --------------------------------
 [00000052][none]
-女々しいねイルマリ
-クルトくんはいい男だ
-祝ってやろうよ
+You're so effeminate, Ilmari. Kurt-kun is a good man. Let's celebrate.
 --------------------------------
 [00000053][none]
-オレはリエラちゃんの
-新たな人生の門出を
-心から祝福しているさ
+I sincerely congratulate Riera-chan on starting a new life.
 --------------------------------
 [00000054][none]
-クルトがいい男なのも
-認める……二番は俺だけど
+I admit that Kurt is a good man...I'm number two though.
 --------------------------------
 [00000055][none]
-その顔でよく言うよ
-クルトの次はぼくさ
-誰に聞いたってそう言うぜ
+I often say it with that face. After Kurt, I'm next. Anyone who asks me will say
+that.
 --------------------------------
 [00000056][none]
-じゃあ、どっちが上か
-彼女達に
-判断してもらおうぜ
+Well, let's let them decide which one is better.
 --------------------------------
 [00000057][none]
-いいとも！
-もしかしたら
-新たな出会いがあるかもな
+Good!  Maybe We might have a new encounter.
 --------------------------------
 [00000058][none]
-やあジゼル
-今日もキレイだね
+Hi Gisele You look beautiful today too.
 --------------------------------
 [00000059][none]
-そんなことより
-クルトさんは
-冷たいですよね
+Beyond that, Kurt-san is cold, isn't he?
 --------------------------------
 [00000060][none]
-クルトと何かあったのか？
+Did something happen with Kurt?
 --------------------------------
 [00000061][none]
-せっかくあたしが
-出し物を用意したのに
-ダメだって……
+Even though I had prepared the performance, it was no good...
 --------------------------------
 [00000062][none]
-ジゼルちゃんの
-出し物って
-もしかして……
+Gisele-chan's performance Maybe...
 --------------------------------
 [00000063][none]
-炎上する式場から
-新郎新婦が飛び出す
-奇跡の脱出ショーを……
+A miraculous escape show where the bride and groom jump out of the burning
+ceremony hall...
 --------------------------------
 [00000064][none]
-奇跡とかいらねえから！
-普通に祝おうぜ、普通に
+I don't need a miracle!  Let's celebrate normally, normally.
 --------------------------------
 [00000065][none]
-で、あたしに用ですか？
-新郎新婦の代わりに
-脱出してみます？
+So, is it for me?  Would you like to escape in place of the bride and groom?
 --------------------------------
 [00000066][none]
-い、いや何でもないんだ！
-あはは
+No, it's nothing!  Ahaha
 --------------------------------
 [00000067][none]
-あなた達と付き合って
-何か得するんですか？
+Will I gain anything by dating you guys?
 --------------------------------
 [00000068][none]
-ばっさりだな、おい
+That's perfect, dude.
 --------------------------------
 [00000069][none]
-それより２人とも
-会費払ってくださいね
-わたし、幹事ですから
+Rather, both of you Please pay the membership fee. I'm the secretary.
 --------------------------------
 [00000070][none]
-あはは、相変わらず
-きっちりしてるね……
+Haha, it's still neat...
 --------------------------------
 [00000071][none]
-ところでおふたりさん
-戦車を１台ずつ買いません？
-３割ぐらい引けますけど
+By the way, would you two like to buy one tank each?  You can get about 30% off.
 --------------------------------
 [00000072][none]
-戦車で
-ドライブでもしろってか
+Maybe drive in a tank.
 --------------------------------
 [00000073][none]
-気に入らない奴の
-１人や２人いるでしょ？
+There are one or two people you don't like, right?
 --------------------------------
 [00000074][none]
-撃っちゃえ！
+Shoot!
 --------------------------------
 [00000075][none]
-待て待て
-もうそういう
-時代じゃないだろ
+Wait, wait We're not in that era anymore.
 --------------------------------
 [00000076][none]
-ふふ……
-ケチな男はモテませんよ
+Hehe... A stingy man is not popular.
 --------------------------------
 [00000077][none]
-不合格ね
+Fail.
 --------------------------------
 [00000078][none]
-さすがはマルギットちゃん
-予想通りの反応だね
+As expected from Margit-chan That's the expected reaction.
 --------------------------------
 [00000079][none]
-まだ軍人をやってる
-らしいじゃないか
+Apparently he's still a soldier 
 --------------------------------
 [00000080][none]
-国籍を取るために
-異国に住む親戚の
-養子にしてもらってね
+In order to obtain nationality, have your relatives living in a foreign country
+adopt you.
 --------------------------------
 [00000081][none]
-小さな国だけど
-今は大尉まで昇進したわ
+It's a small country, but I've been promoted to captain now.
 --------------------------------
 [00000082][none]
-すごいじゃないか
-よく異国で軍に入れたな
+Isn't it amazing? I often joined the army in a foreign country.
 --------------------------------
 [00000083][none]
-経験を買ってもらえたの
-まだまだ大陸の戦争は
-終わらないから
+You bought me experience Because the war on the continent is still not over 
 --------------------------------
 [00000084][none]
-そういえば
-養子になったってことは
-名前は？
+Come to think of it, So you're adopted. What's your name?
 --------------------------------
 [00000085][none]
-今の名前は
-マルギット・ヘルムズよ
+My current name is Margit Helms.
 --------------------------------
 [00000086][none]
-……本当はマルギット・
-アーヴィングに
-なりたかったけどね
+...Actually, I wanted to be Margit Irving.
 --------------------------------
 [00000087][none]
-え？
-クルトに気があったのか？
+Huh?  Did you have feelings for Kurt?
 --------------------------------
 [00000088][none]
-憧れよ、ただの
+Admiration, just
 --------------------------------
 [00000089][none]
-その気持ちは
-ちょっとだけ分かるぜ
-今日は呑もう
+I understand that feeling just a little bit. Let's drink today.
 --------------------------------
 [00000090][none]
-そうね
-酔えるお酒がいいわ
+Yes, I'd like a drink that gets you drunk.
 --------------------------------
 [00000091][none]
-見てたわよ
-さっきから何してるの？
+I saw you. What have you been doing?
 --------------------------------
 [00000092][none]
-やあ、フレデリカちゃん
+Hello, Frederica
 --------------------------------
 [00000093][none]
-相変わらずね
-ホント男ってバカで
-かわいいんだから
+As always Men are really stupid and cute.
 --------------------------------
 [00000094][none]
-まだ男をたらしこむ
-仕事をやってんのか？
+Are you still working to bring in men?
 --------------------------------
 [00000095][none]
-生き甲斐だもの
-そうだ、女たらしさん達
-あたしの仕事を手伝わない？
+It's worth living That's right, womanizers Would you like to help me with my
+work?
 --------------------------------
 [00000096][none]
-命がいくつあっても
-足らなそうだね
+No matter how many lives you have it seems like it's not enough.
 --------------------------------
 [00000097][none]
-だな、遠慮しとく
+Okay, I'll refrain from saying that.
 --------------------------------
 [00000098][none]
-何よ、いいじゃない！
+What, that's fine!
 --------------------------------
 [00000099][none]
-やっぱりとんでもない
-部隊だったね
-ネームレスってのは
+It was an incredible troop after all. Nameless is
 --------------------------------
 [00000100][none]
-ああ、ここの女は
-オレ達には荷が重いぜ……
+Ah, this woman is a heavy burden for us...
 --------------------------------
 [00000101][none]
-今日は楽しみすぎて
-日の出前から会場に
-着いちゃいました！
+I was so excited today that I arrived at the venue before sunrise!
 --------------------------------
 [00000102][none]
-早起きは相変わらずだね
-今も修行は
-続けてるのかい？
+You still wake up early. Are you still training ?
 --------------------------------
 [00000103][none]
-本当の強さには
-まだまだ届かないです！
-来月は山ごもりをしますよ！
+I still haven't reached my true strength!  Next month I'm going to stay in the
+mountains!
 --------------------------------
 [00000104][none]
-その一途な情熱……
-まぶしいねえ
+That single-minded passion... It's dazzling.
 --------------------------------
 [00000105][none]
-グロリアさん
-まだ生きてましたか
+Mr. Gloria Are you still alive?
 --------------------------------
 [00000106][none]
-それはこっちのセリフだよ
-今にもくたばりそうだと
-言ってたくせに
+That's my line even though I said I was about to give up 
 --------------------------------
 [00000107][none]
-少し欲が出てきたんです
-この日までは生きようと
-決めていました
+I felt a little greedy. I decided to live until this day. 
 --------------------------------
 [00000108][none]
-そんなこと言わないで
-自分がどこまでやれるか
-チャレンジしましょう！
+Don't say that Let's challenge ourselves to see how far we can go!
 --------------------------------
 [00000109][none]
-ええ、悔いのないように
-生きてみますよ
-クルトさんのように！
+Yes, I'll try to live my life with no regrets, just like Kurt!
 --------------------------------
 [00000110][none]
-セドリックは
-来ないだろうな
+I don't think Cedric will come.
 --------------------------------
 [00000111][none]
-さすがのアルフォンスも
-所在が掴めなかったと
-ぼやいていたね
+As expected of Alphonse, he was grumbling that he couldn't find his whereabouts.
 --------------------------------
 [00000112][none]
-誰が来られないって？
+Who can't come?
 --------------------------------
 [00000113][none]
-セドリック!?
-なぜお前がここに！
+Cedric!? Why are you here?
 --------------------------------
 [00000114][none]
-俺が欠けたら
-全員揃わないじゃないか
+If I'm missing, we won't have everyone.
 --------------------------------
 [00000115][none]
-逃がさんぞ……
-今度こそ逮捕する！
+I won't let you escape... I'll arrest you this time!
 --------------------------------
 [00000116][none]
-罪状は？
-俺は死亡扱いでガリアでの
-罪は全部消えてるんだよ？
+What are the charges?  Since I'm treated as dead, all my sins in Gaul are
+erased, right?
 --------------------------------
 [00000117][none]
-それに、エイダちゃんに
-逮捕権あるの？
+Besides, does Ada have the right to arrest ?
 --------------------------------
 [00000118][none]
-現行犯逮捕ならば
-警察職でなくとも可能だ
+You don't have to be a police officer to catch a criminal red-handed.
 --------------------------------
 [00000119][none]
-じゃ、何もしなければ
-別に一緒にいても
-問題ないよね？
+So, as long as we don't do anything, there's no problem with us being together,
+right?
 --------------------------------
 [00000120][none]
-目を離さんぞ、セドリック
-逃げられると思うなよ
+Keep an eye on me, Cedric Don't think you can escape.
 --------------------------------
 [00000121][none]
-今日は世話になった人の
-おめでたい日だ
-笑顔で迎えてやろうぜ
+Today is an auspicious day for those who have taken care of us Let's greet them
+with a smile.
 --------------------------------
 [00000122][none]
-……無論だ
-だが、逃がさんぞ
-絶対にな……！
+...Of course but I won't let you escape absolutely...!
 --------------------------------
 [00000123][none]
-やれやれ、そんなに一緒に
-いたいなら、お嫁さんに
-してあげようか？
+Well, if you want to be with me that much, why don't you make me your wife?
 --------------------------------
 [00000124][none]
-史上最悪の嫁になど
-誰がなるか！
+Who would be the worst wife in history?
 --------------------------------
 [00000125][none]
-ザハール殿、杯が空ですぞ
-一献さしあげましょう
+Zahar-dono, your cup is empty Let me offer you a drink.
 --------------------------------
 [00000126][none]
-いただこう
-次、呑んだら死ぬって
-医者にいわれてんだがな！
+Let's have it. The doctor said that if I drink it again, I'll die!
 --------------------------------
 [00000127][none]
-なんと！
-そうとは知らず
-ご無礼を！
+Oh my god!  I didn't know that. Sorry!
 --------------------------------
 [00000128][none]
-気にすんな！
-めでたい席だろうが！
+Don't worry about it!  That's an auspicious seat!
 --------------------------------
 [00000129][none]
-めでたさに浮かれ
-お加減を気遣えぬとは……
-腹を切ってわびねば！
+You're so happy that you can't take care of yourself... You have to apologize
+with all your heart!
 --------------------------------
 [00000130][none]
-お前、酔ってるだろ？
-ほどほどにしておけよ
+You're drunk, aren't you?  Keep it in moderation.
 --------------------------------
 [00000131][none]
-ほどほどに、なんて
-酒呑み将軍さんの言葉とは
-思えないわね
+"In moderation" doesn't sound like the words of a drunken general.
 --------------------------------
 [00000132][none]
-酒は強くないのですが
-めでたき日ゆえ
-呑まねばと思い……
+I'm not a strong drinker, but since it's a happy day, I feel like I should
+drink...
 --------------------------------
 [00000133][none]
-無理はいかんぞ無理は
+Don't overdo it, don't overdo it.
 --------------------------------
 [00000134][none]
-ザハールさんが
-控えめに呑むなんて
-人生に未練が出てきたのね？
+Mr. Zahar drinks so modestly. Does that mean he has some regrets in his life?
 --------------------------------
 [00000135][none]
-フィラルド王国の
-再興を見ずに死ねるか！
+Can I die without seeing the restoration of Filard Kingdom?
 --------------------------------
 [00000136][none]
-イェーガーの小僧には
-負けられねえんだよ！
+I can't lose to the Jaeger brat!
 --------------------------------
 [00000137][none]
-なんと立派な生き様！
-感激しました！
+What a wonderful way of life!  I was impressed!
 --------------------------------
 [00000138][none]
-いいわね、いまの台詞
-あなたが死んだら
-歴史書に書いてあげる
+Okay, these lines When you die, I'll write them in the history books.
 --------------------------------
 [00000139][none]
-ダイトさん！　こっちよ！
-よかった……
-来ないかと思った
+Mr. Daito! Over here!  Good... I thought you wouldn't come.
 --------------------------------
 [00000140][none]
-来るつもりはなかった
-でも、行かないと
-後悔すると思ってな
+I didn't mean to come, but I thought I'd regret it if I didn't go.
 --------------------------------
 [00000141][none]
-そうだ、エイミーの
-お父さんは元気か？
+Yes, how is Amy's father?
 --------------------------------
 [00000142][none]
-ガリアには一度も
-戻っていないんです
-手紙は、返事がなくて……
+I've never returned to Gaul. My letters went unanswered...
 --------------------------------
 [00000143][none]
-そうか……
-今は１人で
-暮らしているのか？
+I see... Do you live alone now ?
 --------------------------------
 [00000144][none]
-今は下宿の管理人の
-お仕事をしています
+Currently I am working as a boarding house manager.
 --------------------------------
 [00000145][none]
-世話好きのエイミーに
-似合っているよ
+It suits the caring Amy.
 --------------------------------
 [00000146][none]
-部屋、空いてますから
-もしよかったら
-ダイトさんも……
+The room is empty, so if you'd like, Daito-san too...
 --------------------------------
 [00000147][none]
-気持ちはありがたいが
-俺の事は心配するな
+I appreciate your feelings, but don't worry about me.
 --------------------------------
 [00000148][none]
-うん……
-でも困った時は
-連絡、くださいね
+Yeah... But if you have any problems, please contact me.
 --------------------------------
 [00000149][none]
-ああ、約束する
+Oh, I promise.
 --------------------------------
 [00000150][none]
-ヴァレリー
-研究は続けているのか？
+Valerie Are you continuing your research?
 --------------------------------
 [00000151][none]
-まあ、なんとかね
-大学には戻れないし
-資料も集め直しだけど
+Well, somehow I can't go back to university I have to collect all the materials
+again.
 --------------------------------
 [00000152][none]
-個人的なつながりのある
-研究者もいるから
-どうにかやれてるわ
+There are some researchers I have personal connections with, so I'm managing
+somehow.
 --------------------------------
 [00000153][none]
-例の……
-ダルクスの災厄についての
-研究は？
+For example... What about the research on the Calamity of Darcus?
 --------------------------------
 [00000154][none]
-コーデリア姫が
-ダルクス人宣言したのは
-知っているわね？
+You know that Princess Cordelia declared herself a Dalxian, right?
 --------------------------------
 [00000155][none]
-アンタが隠された真実と
-言っていたのはあれなのか？
+Is that what you were talking about as the hidden truth?
 --------------------------------
 [00000156][none]
-そう、ランドグリーズ家の
-偽りの歴史よ
+Yes, the false history of the Landgris family.
 --------------------------------
 [00000157][none]
-コーデリア姫の公表で
-ダルクス人の歴史研究は
-加速度的に進むでしょうね
+With the publication of Princess Cordelia, the historical research of the Darcus
+people will progress at an accelerated pace.
 --------------------------------
 [00000158][none]
-ダルクス人を
-取り巻く世界は確実に
-変わっていくはずだわ
+The world surrounding the Dalxians will definitely change.
 --------------------------------
 [00000159][none]
-相談なんだが……
-俺もヴァレリーの研究に
-協力させてくれないか？
+I'm just asking... Would you be willing to let me cooperate with Valerie's
+research?
 --------------------------------
 [00000160][none]
-あなたが？
+You?
 --------------------------------
 [00000161][none]
-戦争が終わってからも
-俺は何も生きる意味を
-見つけられずに生きてきた
+Even after the war ended I continued to live without finding any reason to live 
 --------------------------------
 [00000162][none]
-そんな俺でも
-もし何かできるなら……
+If even I can do something...
 --------------------------------
 [00000163][none]
-できるわよ！
+You can do it!
 --------------------------------
 [00000164][none]
-え……？
+Huh...?
 --------------------------------
 [00000165][none]
-ダルクス史の研究には
-ダルクス人の力が必要よ
+Researching the history of Darcus requires the power of the Darcus people.
 --------------------------------
 [00000166][none]
-共に新たな歴史の扉を
-開きましょう！
+Let's open the door to a new history together!
 --------------------------------
 [00000167][none]
-……ありがとう
+...Thank you
 --------------------------------
 [00000168][none]
-おっ、いよいよだな！
+Whoa, it's finally here!
 --------------------------------
 [00000169][none]
-ふふふ……
+Hehehe...
 --------------------------------
 [00000170][none]
-その前に、写真を
-撮っておこうぜ！
+Before that, let's take a photo!
 --------------------------------
 [00000171][none]
-いいわね！
-じゃあ私を中心に
-全員整列しなさい！
+Good!  Then everyone line up around me!
 --------------------------------
 [00000172][none]
-よーし、あたしはここ！
+Okay, I'm here!
 --------------------------------
 [00000173][none]
-自分は後ろですな
+I'm behind.
 --------------------------------
 [00000174][none]
-ワシと肩でも組むか！
+Should I join hands with you?
 --------------------------------
 [00000175][none]
-酔っぱらいは集まりな！
-マルギット、イルマリ
-アンタ達も来るんだよ！
+Drunk people should gather together!  Margit, Ilmari You guys are coming too!
 --------------------------------
 [00000176][none]
-リエラちゃああああん！
+Riera chaaaaaan!
 --------------------------------
 [00000177][none]
-クルトさあああああん！
+Kurt, come on!
 --------------------------------
 [00000178][none]
-式の前なのに、完全に
-できあがっちゃってる……
+Even before the ceremony, it's completely finished...
 --------------------------------
 [00000179][none]
-困ったものだ……
+That's a problem...
 --------------------------------
 [00000180][none]
-わたしは一番前ですね
+I'm in the front.
 --------------------------------
 [00000181][none]
-じゃ、俺も一番前に
+Okay, I'll be in the front too.
 --------------------------------
 [00000182][none]
-お前のような奴が
-前に出るな！
-端に寄れ！
+People like you don't come forward!  Get to the edge!
 --------------------------------
 [00000183][none]
-エリオット、腕組まない？
+Elliot, why don't you fold your arms?
 --------------------------------
 [00000184][none]
-女性の誘いは
-断らない主義だが
-きみだけは遠慮させてくれ
+I don't refuse invitations from women, but please let me refrain from asking
+you.
 --------------------------------
 [00000185][none]
-じゃあ私にします？
+Then do you want me?
 --------------------------------
 [00000186][none]
-……いくら
-払わされるんだい？
+...How much do you have to pay?
 --------------------------------
 [00000187][none]
-なかなか
-まとまらないですね
+I can't seem to get it together.
 --------------------------------
 [00000188][none]
-クルトさんが指示すると
-一瞬で決まるんですけどね
+When Kurt gives an instruction, it's decided in an instant.
 --------------------------------
 [00000189][none]
-もう時間がない！
-撮っちゃうからな！
-せーのっ！
+There's no time left!  I'll take a picture!  Seino!
 --------------------------------

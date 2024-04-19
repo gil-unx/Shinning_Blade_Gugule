@@ -1,1125 +1,895 @@
 [0285]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1１０月上旬、ギルランダイオ要塞への攻撃を前に
-カール・アイスラー少将が逮捕される
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1In early October, Major General Karl Eisler was arrested before the attack on Fortress Ghirlandaio.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1これにより、ネームレスは造反部隊として
-友軍から追われることはなくなった
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1As a result, Nameless will no longer be chased by friendly forces as a rebel force.
 --------------------------------
 [00000002][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1そしてガリア戦役は今、最終局面へと向かう
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1 And the Gallic campaign is now heading into its final phase.
 --------------------------------
 [00000003][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　１０月上旬　ランドグリーズ近郊
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seireki 1935 Early October Near Landgris
 --------------------------------
 [00000004][none]
-帝国軍は
-ギルランダイオ要塞に
-撤退を完了したらしいな
+It appears that the Imperial Army has completed their retreat to Fortress
+Ghirlandaio.
 --------------------------------
 [00000005][none]
-ここまできたら
-あと一押しか？
+If you've come this far, just one more push?
 --------------------------------
 [00000006][none]
-いえ
-あの要塞を攻略するのは
-簡単なことではないですよ
+No, It won't be easy to capture that fortress.
 --------------------------------
 [00000007][none]
-ナジアル会戦で
-ガリア軍もかなり戦力を
-失っているからねえ
+The Gallic army also lost a lot of strength in the Battle of Nazial.
 --------------------------------
 [00000008][none]
-兵糧攻めができれば
-楽勝ですけど、帝国側から
-補給できちゃいますからね
+It would be an easy victory if we could attack with supplies, but the empire
+could provide us with supplies.
 --------------------------------
 [00000009][none]
-ガリア軍は
-ギルランダイオ要塞に
-突撃する気らしいじゃない
+It looks like the Gallic army is going to attack Fortress Ghirlandaio.
 --------------------------------
 [00000010][none]
-最悪だな……
-愚策という次元を
-越えてるぞ
+That's the worst... It's beyond stupidity.
 --------------------------------
 [00000011][none]
-気になるのは両軍の
-ヴァルキュリアね
+What I'm curious about is the Valkyria on both sides.
 --------------------------------
 [00000012][none]
-あのふたりがどう動くか
-それが鍵となるのは
-間違いないと思うわ
+I think the key is definitely how those two behave 
 --------------------------------
 [00000013][none]
-ガリア軍の
-ヴァルキュリアの方が
-強いんじゃないですか？
+Aren't the Valkyries of the Gallic army stronger?
 --------------------------------
 [00000014][none]
-そんな単純じゃないわよ
-リエラを見ていれば
-分かるでしょ？
+It's not that simple If you look at Riera, you'll understand, right?
 --------------------------------
 [00000015][none]
-ヴァルキュリアって
-何なんでしょうか……
+What is Valkyria?...
 --------------------------------
 [00000016][none]
-ユグド教の教える
-ヴァルキュリアとは
-違うような気がします
+I think it's different from the Valkyria taught by Yggdism.
 --------------------------------
 [00000017][none]
-よく分からないよ
-私にも……
+I don't really understand Neither do I...
 --------------------------------
 [00000018][none]
-なぜこの時代に蘇ったのか？
-意味があるのか、それとも
-ただの偶然なのか……？
+Why did it come back to life in this era?  Does it have any meaning or is it
+just a coincidence...?
 --------------------------------
 [00000019][none]
-学者としてはとても
-興味をそそられるのだけど
+As a scholar, I find it very interesting.
 --------------------------------
 [00000020][none]
-今はそれを究明している
-時ではないわね
+Now is not the time to find out that.
 --------------------------------
 [00000021][none]
-そうだよな……クルト
-ギルランダイオ要塞の
-攻撃には参加するのか？
+That's right... Kurt Will you participate in the attack on Ghirlandaio Fortress?
 --------------------------------
 [00000022][none]
-ガリア軍から
-攻撃されなくなった以上
-当然参加する
+Now that we are no longer being attacked by the Gallic army, we will naturally
+participate.
 --------------------------------
 [00000023][none]
-しかしまだ軍の命令系統に
-入ったわけではない
-どう動くか検討しないとな
+But it hasn't entered the military chain of command yet. We need to consider how
+it will work.
 --------------------------------
 [00000024][none]
 ……
 --------------------------------
 [00000025][none]
-……思い残すことは無い
+...I have no memories
 --------------------------------
 [00000026][none]
-ん……
+Hmm...
 --------------------------------
 [00000027][none]
-手紙……
-イムカからか？
+A letter... Is it from Imka?
 --------------------------------
 [00000028][none]
-№7へ
-ギルランダイオ要塞へ行く
-復讐を果たさねばならない
+Go to No. 7 Go to Ghirlandaio Fortress I must exact my revenge.
 --------------------------------
 [00000029][none]
-軍に正式復帰していない
-今なら、部隊を抜けて
-単独行動しても
+I haven't officially returned to the military Now, I can leave the unit and go
+solo.
 --------------------------------
 [00000030][none]
-部隊の連帯責任にならない
+Not jointly responsible for the unit.
 --------------------------------
 [00000031][none]
-自分が目的を果たす時に
-№7と部隊が協力するという
-取引は履行する必要はない
+There is no need to fulfill the transaction that №7 and the unit will cooperate
+when you accomplish your objective.
 --------------------------------
 [00000032][none]
-復讐すべき相手を発見し
-所在を特定できた
-これ以上の協力はいらない
+We have found and located the person we want to take revenge on. We do not need
+any further assistance.
 --------------------------------
 [00000033][none]
-あとは自分でやる
-もう会うことは無い
+I'll do the rest myself We won't meet again
 --------------------------------
 [00000034][none]
-イムカ……！
+Imuka...!
 --------------------------------
 [00000035][none]
-イムカが……!?
+Imuka...!?
 --------------------------------
 [00000036][none]
-ひとりで
-要塞に向かっただと!?
+You went to the fortress alone!?
 --------------------------------
 [00000037][none]
-そうだ
-俺は後を追い、イムカの
-目的達成のために協力する
+That's right I will follow and help Imka achieve his goals.
 --------------------------------
 [00000038][none]
-ひとりで行く気かよ？
+Are you going alone?
 --------------------------------
 [00000039][none]
-イムカと約束したことだ
-俺は行く
+That's what I promised Imka. I'm going.
 --------------------------------
 [00000040][none]
-本来はイムカが部隊に
-協力することと引き替えに
+Originally, in exchange for Imuka's cooperation with the troops.
 --------------------------------
 [00000041][none]
-俺と部隊が
-彼女の目的に
-協力するはずだった
+My troops and I were supposed to help her cause.
 --------------------------------
 [00000042][none]
-だが今、俺の
-個人的な決定を君達に
-強制することはできない
+But now I can't force my personal decisions on you.
 --------------------------------
 [00000043][none]
-クルト……
+Kurt...
 --------------------------------
 [00000044][none]
-教育！
+Education!
 --------------------------------
 [00000045][none]
-っ……!!
+Oh...!!
 --------------------------------
 [00000046][none]
-バカにしないで！
-私達ってその程度の
-どうでもいい存在なわけ!?
+Don't make fun of me!  Are we such insignificant beings?
 --------------------------------
 [00000047][none]
-今更言うのもアレだが
-俺達のこと
-全然分かってねえのな
+It's hard to say this now but you don't understand us at all 
 --------------------------------
 [00000048][none]
-個人の動機で
-部隊は動かない
-それは当然の……
+The unit does not move due to personal motives Of course...
 --------------------------------
 [00000049][none]
-やれやれ……レイラに
-もう一発かまされる前に
-教えてやるよ
+Well... I'll tell you before Layla bites you again.
 --------------------------------
 [00000050][none]
-クルト、きみはおれ達が
-イムカのお陰で命拾いした
-回数を知っているか？
+Kurt, do you know how many times we saved our lives thanks to Imka?
 --------------------------------
 [00000051][none]
-一度や二度じゃないぞ
+Not once or twice
 --------------------------------
 [00000052][none]
-無愛想ですけど
-イムカさんは一度も文句を
-言わずに戦ってきました
+Although I'm unfriendly, Imuka-san has fought without complaining even once.
 --------------------------------
 [00000053][none]
-あいつは俺なんかより
-よほど部隊に
-貢献したはずだ
+I'm sure he contributed more to the unit than I did.
 --------------------------------
 [00000054][none]
-イムカさんは№1なんです！
-あたしの目標ですよ！
+Imuka-san is number 1!  That's my goal!
 --------------------------------
 [00000055][none]
-アタシの唯一の先輩を
-気安く離隊させないで
-欲しいね
+I don't want my only senior to leave the army so easily.
 --------------------------------
 [00000056][none]
-彼女にはまだたくさん
-聞きたいことがあるの
-いなくなられたら困るわ
+There are still so many things I want to ask her. I'd be in trouble if she
+disappeared.
 --------------------------------
 [00000057][none]
-あのヴァールって武器
-量産を考えているんですよ
-もう一度ちゃんと見たいわ
+That Vaal weapon They're thinking of mass producing it. I'd like to see it
+properly again.
 --------------------------------
 [00000058][none]
-ギルランダイオ要塞へ
-行くのが少し早まったと
-考えればいいんです
+Just think that it's a little early to go to Ghirlandaio Fortress 
 --------------------------------
 [00000059][none]
-クルト、イムカは
-私達の仲間なの
+Kurt, Imka is one of us.
 --------------------------------
 [00000060][none]
-クルトだけの動機じゃない
-みんなが行く気なんだから
-隊が動くのは当たり前よ
+It's not just Kurt's motivation Everyone wants to go, so it's natural for the
+squad to move.
 --------------------------------
 [00000061][none]
-本当に、いいのか？
+Is it really okay?
 --------------------------------
 [00000062][none]
-ネームレスの隊長は
-推薦で決まるってことを
-忘れてないだろうな
+I bet you haven't forgotten that the nameless captain is decided by
+recommendation.
 --------------------------------
 [00000063][none]
-軍属であろうとなかろうと
-クルトは俺達の隊長だ
+Military or not, Kurt is our captain.
 --------------------------------
 [00000064][none]
-分かったら
-早く指示を出しなさい
+If you understand, please give instructions as soon as possible.
 --------------------------------
 [00000065][none]
-ぐだぐだ言ってると
-私が隊長になって
-出発しちゃうわよ？
+If you keep talking, I'll become the captain and I'll leave.
 --------------------------------
 [00000066][none]
-……分かった
-みんなの力
-イムカのために貸してくれ
+...I understand Everyone's strength Please lend me for Imuka's sake.
 --------------------------------
 [00000067][none]
-行こう！
-ギルランダイオ要塞へ！
+Let's go!  Go to Fortress Ghirlandaio!
 --------------------------------
 [00000068][none]
-ああ！
+Oh!
 --------------------------------
 [00000069][none]
-現状を整理しよう
-話を聞いてくれ
+Let's sort out the current situation Please listen to me.
 --------------------------------
 [00000070][none]
-イムカが単独でギルランダイオ要塞に
-向かったようだ。
+Looks like Imca headed to Ghirlandaio Fortress alone.
 --------------------------------
 [00000071][none]
-我々は、要塞正面から陽動を仕掛け、
-敵部隊の迎撃行動を誘い
+We will launch a diversion from the front of the fortress and invite enemy
+forces to intercept.
 --------------------------------
 [00000072][none]
-可能な限り敵部隊の注意をひきつける。
+Attract the enemy's attention as much as possible.
 --------------------------------
 [00000073][none]
-イムカならばその隙に潜入できるはずだ。
+Imca should be able to sneak into that gap.
 --------------------------------
 [00000074][none]
-俺はイムカに協力すると約束したんだ。
-イムカのために、皆の力を貸してくれ。
+I promised to cooperate with Imka.  For Imuka's sake, please lend us your
+strength.
 --------------------------------
 [00000075][none]
-みんなよろしく頼む
-それでは行動開始
+Thank you everyone Let's start taking action.
 --------------------------------
 [00000076][none]
-ここまで接近できたが
-さすがに警戒が厳重だ
-簡単には潜入できない……
+We were able to get this far, but the security is really tight. It's not easy to
+infiltrate...
 --------------------------------
 [00000077][none]
-ガリア軍の攻撃開始を
-待つしかないか……？
+Is there no choice but to wait for the Gallic army to start attacking...?
 --------------------------------
 [00000078][none]
-ガリア軍の攻撃は明日だ
-それまでは帝国軍も
-動かないだろう
+The Gallic army will attack tomorrow The Imperial army will not move until then 
 --------------------------------
 [00000079][none]
-イムカは無事かな……？
+Is Imuka okay...?
 --------------------------------
 [00000080][none]
-偵察より報告
-要塞は門を閉じたままで
-周辺には警備兵しかいない
+Report from the scout The gates of the fortress remain closed There are only
+guards around.
 --------------------------------
 [00000081][none]
-要塞外に部隊を
-展開していないのか
+Are you not deploying troops outside the fortress?
 --------------------------------
 [00000082][none]
-ガリア軍の
-ヴァルキュリアを
-警戒しているんだろうな
+I guess they're wary of the Valkyria in the Gallic army.
 --------------------------------
 [00000083][none]
-クルト、私が出れば……！
+Kurt, if I show up...!
 --------------------------------
 [00000084][none]
-いや、それは最後の手段だ
-まずは通常戦力で
-陽動をかける
+No, that's a last resort. First of all, we use conventional forces. We use
+diversionary tactics.
 --------------------------------
 [00000085][none]
-アルフォンス
-要塞の外に帝国の部隊は
-出ていないんだな？
+Alphonse There are no Imperial troops outside the fortress, right?
 --------------------------------
 [00000086][none]
-間違いない
-こちらが動いたら
-どう対応してくるか、だ
+There is no doubt that If we move How will we respond?
 --------------------------------
 [00000087][none]
-分かった
-各員、戦闘準備！
-要塞に陽動攻撃を行う！
+Understood Everyone, prepare for battle!  Make a diversionary attack on the
+fortress!
 --------------------------------
 [00000088][none]
-迎撃部隊が出てきたら
-どうするんだ？
+What will we do if an interception force appears?
 --------------------------------
 [00000089][none]
-敵が大部隊を
-出してくるとは
-考えられない
+It is unthinkable that the enemy will send out a large force.
 --------------------------------
 [00000090][none]
-戦力はガリア軍本隊との
-戦いまで温存するはずだ
+The force should be preserved until the battle with the main Gallic army.
 --------------------------------
 [00000091][none]
-もし大部隊を出してきたら
-リエラの力を借りて
-撤退する
+If you send out a large force, with the help of Riela, withdraw.
 --------------------------------
 [00000092][none]
-うん、分かった！
+Yes, I understand!
 --------------------------------
 [00000093][none]
-了解だ
-あとはイムカが動ける
-チャンスを作ればいいな？
+Understood. All we have to do now is create a chance for Imka to move, okay?
 --------------------------------
 [00000094][none]
-すまない
+Sorry
 --------------------------------
 [00000095][none]
-お前は謝るな
-似合わねえ
+Don't apologize It doesn't suit you
 --------------------------------
 [00000096][none]
-じゃあ、何て言えばいい？
+So what should I say?
 --------------------------------
 [00000097][none]
-俺様は天才だ！
-負けるわけがねえ！
+I'm a genius!  There's no way we'll lose!
 --------------------------------
 [00000098][none]
-と言ってレイラにぶたれて
-みんなを笑わせりゃ
-いいんじゃねえか？
+Isn't it okay to say that and get hit by Layla and make everyone laugh?
 --------------------------------
 [00000099][none]
-そうなのか？
+Is that so?
 --------------------------------
 [00000100][none]
-お前なあ……
-リエラ、あとは任せた
+It's you... Riera, I'll leave the rest to you.
 --------------------------------
 [00000101][none]
-ちょっと!?
-フェリクスってば!!
+Wait!? It's Felix!!
 --------------------------------
 [00000102][none]
-大丈夫、フェリクスの
-言いたいことは分かる
+It's okay, I understand what Felix is ??trying to say.
 --------------------------------
 [00000103][none]
-俺がダメな時は
-ちゃんとみんなが
-支えてくれるってことだ
+It means that when I'm not good, everyone will support me.
 --------------------------------
 [00000104][none]
-クルト……
+Kurt...
 --------------------------------
 [00000105][none]
-今は俺じゃなく
-イムカを支える時だ
-行くぞ、リエラ
+Now's the time to support Imuka, not me. Let's go, Riela.
 --------------------------------
 [00000106][none]
-うん！
+Yes!
 --------------------------------
 [00000107][none]
-ん？　何事か？
+Huh? What's going on?
 --------------------------------
 [00000108][none]
-ブレス大佐に報告！
-ガリア軍の部隊が
-攻撃してきました！
+Report to Colonel Brace!  Gaul troops are attacking!
 --------------------------------
 [00000109][none]
-規模はおよそ一個小隊です！
+About the size of a platoon!
 --------------------------------
 [00000110][none]
-ふん、陽動のつもりか……
-相手にするまでもない
+Hmm, you're trying to be a diversion... There's no need to deal with him.
 --------------------------------
 [00000111][none]
-外部の警備兵が
-撤退の支援を
-求めていますが
+Outside guards request assistance with evacuation.
 --------------------------------
 [00000112][none]
-……捕獲されて
-情報を吐かれても困る
-最小限の戦力を迎撃に出せ
+...I don't want to be captured and have information leaked out. Send the minimum
+force to intercept.
 --------------------------------
 [00000113][none]
-はっ！
+Ha!
 --------------------------------
 [00000114][none]
-……これは無意味な
-攻撃だと考えていいのか？
+...Can we consider this a pointless attack?
 --------------------------------
 [00000115][none]
-ガリア軍は奇策の使い手が
-多いのだったな
-この攻撃、もしや……
+The Gallic army had a lot of people using strange strategies. This attack, I
+wonder...
 --------------------------------
 [00000116][none]
-何だ？
-要塞に攻撃をしかけている
-部隊がいるのか？
+What?  Are there troops attacking the fortress?
 --------------------------------
 [00000117][none]
-あれは！
-ネームレス……！
+That's it!  Nameless...!
 --------------------------------
 [00000118][none]
-……要塞から
-敵部隊が出てくる？
-行くなら、今だ……！
+...will enemy troops come out of the fortress?  If you want to go, now is the
+time...!
 --------------------------------
 [00000119][none]
-迎撃部隊が出てくれたか！
-よし、これで俺達は
-要塞に戻れ……
+An interception unit has arrived!  Okay, now we can return to the fortress...
 --------------------------------
 [00000120][none]
-動くな
+don't move
 --------------------------------
 [00000121][none]
-はっ!?
+Huh!?
 --------------------------------
 [00000122][none]
-こっちへ来い
-抵抗すれば殺す
+Come here If you resist, I'll kill you.
 --------------------------------
 [00000123][none]
-要塞から迎撃部隊が
-出てきたわ！
+An interceptor squad has come out of the fortress!
 --------------------------------
 [00000124][none]
-やはり大部隊ではないな
-このまましばらく交戦する！
-みんな頼むぞ！
+It's not a large force after all. We'll continue to engage in the battle for a
+while!  Everyone please!
 --------------------------------
 [00000125][none]
-一小隊での攻撃……
-ガリア軍本隊に動きはない
-つまり……
+Attack with one platoon... There is no movement in the main force of the Gallic
+army. In other words...
 --------------------------------
 [00000126][none]
-いるのは分かっている
-出てくるがいい
+I know you're there You should come out.
 --------------------------------
 [00000127][none]
 ……
 --------------------------------
 [00000128][none]
-陽動の目的は読めていた
-狙いが殿下ではなく
-私だとは思わなかったがな
+I understood the purpose of the diversion. I didn't think that the target was me
+and not His Highness.
 --------------------------------
 [00000129][none]
-楽に殺せるとは
-思っていなかった
+I didn't think it would be easy to kill.
 --------------------------------
 [00000130][none]
-お前と話している暇はない
-さっさとかかってこい
+I don't have time to talk to you Come on quickly.
 --------------------------------
 [00000131][none]
-……ティルカ村
+...Tilka Village
 --------------------------------
 [00000132][none]
-ティルカ村……？
+Tilka village...?
 --------------------------------
 [00000133][none]
-貴様の蒼い炎が
-一瞬で焼き尽くした
-私の故郷の名だ
+Your blue flame  burned it up in an instant It's the name of my hometown.
 --------------------------------
 [00000134][none]
-あの時の……
+At that time...
 --------------------------------
 [00000135][none]
-私は！
-貴様を
-殺すために生きてきた！
+I am!  I lived to kill you!
 --------------------------------
 [00000136][none]
-ティルカ村
-最後の生き残りだ！
+Tilka Village The last survivor!
 --------------------------------
 [00000137][none]
-それが私を狙う理由か
+Is that why you're targeting me?
 --------------------------------
 [00000138][none]
-ここで死んでもらうぞ！
-ヴァルキュリア！
+I'll let you die here!  Valkyria!
 --------------------------------
 [00000139][none]
-ふん……私は
-ヴァルキュリアではない
-ひとりの人間だ
+Hmm...I'm not a Valkyrie. I'm a human being.
 --------------------------------
 [00000140][none]
-なに……？
+What...?
 --------------------------------
 [00000141][none]
-あの力は
-二度と使わぬと決めた
+I decided not to use that power again.
 --------------------------------
 [00000142][none]
-貴様……なめているのか
+You... are you licking me?
 --------------------------------
 [00000143][none]
-かかってこないのか
-私を殺しに来たのだろう？
+Didn't you call? You came to kill me, didn't you?
 --------------------------------
 [00000144][none]
-……ああ、殺してやる！
+...Oh, I'll kill you!
 --------------------------------
 [00000145][none]
-このチャンスはあの人……
-クルトがくれたものだ！
-無駄にはできない！
+This chance was given to me by that person... Kurt!  I can't waste it!
 --------------------------------
 [00000146][none]
-クルト……？
+Kurt...?
 --------------------------------
 [00000147][none]
-クルト、私に力を！
+Kurt, give me power!
 --------------------------------
 [00000148][none]
-はあっ!!
+Ha!!
 --------------------------------
 [00000149][none]
-速い!?
+Fast!?
 --------------------------------
 [00000150][none]
-よく止めた
+Stopped well
 --------------------------------
 [00000151][none]
-だが!!
+But!!
 --------------------------------
 [00000152][none]
-な……!?
+What...!?
 --------------------------------
 [00000153][none]
-死ねっ!!
+Die!!
 --------------------------------
 [00000154][none]
-っ!!
+!!
 --------------------------------
 [00000155][none]
 ……
 --------------------------------
 [00000156][none]
-その動き、お前は……！
+That move, you...!
 --------------------------------
 [00000157][none]
-何を驚いている？
-私はヴァルキュリアを
-殺しに来たのだ
+What are you surprised about?  I came to kill Valkyria 
 --------------------------------
 [00000158][none]
-三度も命拾いさせるほど
-私は甘くないぞ
+I'm not naive enough to let you save your life three times.
 --------------------------------
 [00000159][none]
-改めて勝負を申し込む！
+Challenge yourself again!
 --------------------------------
 [00000160][none]
-ティルカ村の生き残り
-イムカの決闘を受けろ！
-ヴァルキュリア！
+Survivors of Tilka Village Take Imka's duel!  Valkyria!
 --------------------------------
 [00000161][none]
 ……
 --------------------------------
 [00000162][none]
-二度と使わぬと封じた力
-しかし殿下のため、ここで
-不覚をとるわけにはいかぬ！
+I have sealed the power so that it will never be used again However, for Your
+Highness' sake, I cannot afford to lose consciousness here!
 --------------------------------
 [00000163][none]
-……よかろう
+...Okay.
 --------------------------------
 [00000164][none]
-これで満足か
+Are you satisfied with this?
 --------------------------------
 [00000165][none]
-ヴァルキュリア……！
-今こそ！　無念を!!
+Valkyria...!  Now is the time!　Regret!!
 --------------------------------
 [00000166][none]
-@dt3@dcFF000000@fcFFFFFFFFうわあああぁぁぁっっ！！！
+@dt3@dcFF000000@fcFFFFFFFF Wow! ! !
 --------------------------------
 [00000167][none]
-@dt3@dcFF000000@fcFFFFFFFF貴様のせいだ！
+@dt3@dcFF000000@fcFFFFFFFF It's your fault!
 --------------------------------
 [00000168][none]
-@dt3@dcFF000000@fcFFFFFFFF貴様が生きている限り、私も死ねない！！
+@dt3@dcFF000000@fcFFFFFFFFAs long as you are alive, I can't die either! !
 --------------------------------
 [00000169][none]
-@dt3@dcFF000000@fcFFFFFFFF死ねないんだぁーーー！
+@dt3@dcFF000000@fcFFFFFFFF I can't die!
 --------------------------------
 [00000170][none]
-@dt3@dcFF000000@fcFFFFFFFFだから、貴様は死ねえぇぇぇっっ！！
+@dt3@dcFF000000@fcFFFFFFFF, so you won't die! !
 --------------------------------
 [00000171][none]
-@dt3@dcFF000000@fcFFFFFFFFハァ……ハァ……ハァ……
+@dt3@dcFF000000@fcFFFFFFFF ha... ha... ha...
 --------------------------------
 [00000172][none]
-@dt3@dcFF000000@fcFFFFFFFF悪いが、お前の手で死ぬわけにはいかない
+@dt3@dcFF000000@fcFFFFFFFF I'm sorry, but I can't die by your hands.
 --------------------------------
 [00000173][none]
-@dt3@dcFF000000@fcFFFFFFFFお前の村を壊滅させたことも
+@dt3@dcFF000000@fcFFFFFFFF I also destroyed your village.
 --------------------------------
 [00000174][none]
-@dt3@dcFF000000@fcFFFFFFFFぐっ
+@dt3@dcFF000000@fcFFFFFFFF
 --------------------------------
 [00000175][none]
-@dt3@dcFF000000@fcFFFFFFFF私が死することも
+@dt3@dcFF000000@fcFFFFFFFF I may die
 --------------------------------
 [00000176][none]
-@dt3@dcFF000000@fcFFFFFFFFぐっ
+@dt3@dcFF000000@fcFFFFFFFF
 --------------------------------
 [00000177][none]
-@dt3@dcFF000000@fcFFFFFFFFくっ
+@dt3@dcFF000000@fcFFFFFFFF
 --------------------------------
 [00000178][none]
-@dt3@dcFF000000@fcFFFFFFFFうわあああっ！
+@dt3@dcFF000000@fcFFFFFFFF Wow!
 --------------------------------
 [00000179][none]
-@dt3@dcFF000000@fcFFFFFFFFぐっ……ぐう……
+@dt3@dcFF000000@fcFFFFFFFF ugh... ugh...
 --------------------------------
 [00000180][none]
-@dt3@dcFF000000@fcFFFFFFFF全ては殿下の為だ
+@dt3@dcFF000000@fcFFFFFFFF It's all for His Highness.
 --------------------------------
 [00000181][none]
-う……く……っ！
+U...ku...!
 --------------------------------
 [00000182][none]
-滅びし村の生き残りよ
-……終わりだ
+Survivor of a destroyed village ...It's over.
 --------------------------------
 [00000183][none]
-だが、お前には
-ここで死ぬ資格はない
+But you don't deserve to die here.
 --------------------------------
 [00000184][none]
-復讐を挑み、破れて死ぬ
-それはそれで満足だろうが
-私は断じて許さん
+If you seek revenge and die defeated, that would be satisfying, but I will never
+forgive you.
 --------------------------------
 [00000185][none]
-お前にはまだ
-戻るべき場所が
-あるのだから……
+You still have some place to go back to...
 --------------------------------
 [00000186][none]
-楽に死ねると思うな
+I think you can die easily.
 --------------------------------
 [00000187][none]
-私とて
-まだ諦めたわけじゃない
+I haven't given up yet.
 --------------------------------
 [00000188][none]
-要塞防衛に成功すれば
-まだ戻る場所が……
+If we succeed in defending the fortress, we still have nowhere to go back...
 --------------------------------
 [00000189][none]
-殿下……
+Your Highness...
 --------------------------------
 [00000190][none]
-クルト！
-また敵部隊が出てくるわ！
+Kurt!  Another enemy unit will appear!
 --------------------------------
 [00000191][none]
-きりがねえぜ！
-当たり前だけどよ！
+There is no end!  Of course!
 --------------------------------
 [00000192][none]
-敵は戦力を
-小出しにしている
-まだ粘れる……！
+The enemy has reduced its strength We can still hold out...!
 --------------------------------
 [00000193][none]
-イムカ……！
+Imuka...!
 --------------------------------
 [00000194][none]
-敵が退いていきますよ！
+The enemy will retreat!
 --------------------------------
 [00000195][none]
-む……！
+Hmm...!
 --------------------------------
 [00000196][none]
-見て、替わりに
-誰か出てきたわ！
+Look, someone came in my place!
 --------------------------------
 [00000197][none]
-私は帝国軍ガリア方面
-侵攻部隊指揮官
-セルベリア・ブレス大佐だ！
+I am Colonel Selvaria Bress, commander of the Imperial Army's Gallia invasion
+force!
 --------------------------------
 [00000198][none]
-ガリア軍部隊に告ぐ！
-これより捕虜１名の
-引き渡しを行いたい！
+Tell the Gallic troops!  From now on, I would like to hand over one POW!
 --------------------------------
 [00000199][none]
-あれは……!!
+That's...!!
 --------------------------------
 [00000200][none]
-ただし捕虜引き渡し後は
-すみやかに撤退することを
-条件とするが
+However, after handing over the prisoners, the condition is that you withdraw
+immediately. 
 --------------------------------
 [00000201][none]
-交渉に応じる気はあるか！
+Are you willing to negotiate?
 --------------------------------
 [00000202][none]
-……了解した！
-戦闘行動を中止し
-交渉に応じる！
+...Understood!  Cease combat operations Accept negotiations!
 --------------------------------
 [00000203][none]
-では、代表者１名が
-引き取りに来られよ！
+Well then, one representative should come and pick it up!
 --------------------------------
 [00000204][none]
-先ほど捕獲した
-貴軍兵士を引き渡す
+Hand over your soldier captured earlier.
 --------------------------------
 [00000205][none]
 ……
 --------------------------------
 [00000206][none]
-隊員への恩情、感謝する
+Thank you for your kindness towards the members.
 --------------------------------
 [00000207][none]
-伝言を頼みたい
-構わないか？
+I'd like to ask you to leave a message Do you mind?
 --------------------------------
 [00000208][none]
-承ろう
+Accept
 --------------------------------
 [00000209][none]
-勝者より敗者に告ぐ
-この敗北を背負い
-生き続けろ、と
+I say to the losers rather than the winners To bear this defeat on your
+shoulders keep on living.
 --------------------------------
 [00000210][none]
-分かった
-必ず伝える
+I understand I'll be sure to tell you
 --------------------------------
 [00000211][none]
-それと、クルトというのは
-貴官か？
+Also, is Kurt your official?
 --------------------------------
 [00000212][none]
-私だが、その名をどこで？
+It's me, but where is the name?
 --------------------------------
 [00000213][none]
-ふ……そうか
+Huh...I see.
 --------------------------------
 [00000214][none]
-ではもうひとつ頼みがある
+Well, I have one more request.
 --------------------------------
 [00000215][none]
-お前がこの子の
-戻るべき場所……
-故郷になってやってくれ
+You are the place this child should return to... Please be his hometown.
 --------------------------------
 [00000216][none]
-え……
+Eh...
 --------------------------------
 [00000217][none]
-さらばだ
+Goodbye
 --------------------------------
 [00000218][none]
-翌日、ガリア軍のギルランダイオ要塞
-攻略作戦が開始された
+The next day, the Gallic army's operation to capture Ghirlandaio Fortress began.
 --------------------------------
 [00000219][none]
-義勇軍第３中隊第７小隊の働きにより
-要塞は陥落
+The fortress fell due to the efforts of the volunteer army's 3rd company and 7th
+platoon.
 --------------------------------
 [00000220][none]
-セルベリア・ブレス大佐は
-ヴァルキュリアの力を使うことなく敗北した
+Colonel Selvaria Brace was defeated without using Valkyria's powers.
 --------------------------------
 [00000221][none]
-そして──
+And──
 --------------------------------
 [00000222][none]
-ヴァルキュリアの最期の炎を燃やし
-要塞に集結したガリア軍主力部隊を道連れに
+Burn the final flame of Valkyria Take the main forces of the Gallic army
+gathered at the fortress with you
 --------------------------------
 [00000223][none]
-爆死した
+died
 --------------------------------
 [00000224][none]
-イムカは
-ポテンシャル@fcFF008800「復讐の誓い」@fciに代わって
-@fcFF008800「新たなる道」@fciに目覚めました。
+Imuka has awakened to
+@fcFF008800 ``A New Path'' @fci instead of 
+@fcFF008800 ``Vow of Vengeance'' @fci.
 --------------------------------
 [00000225][none]
-ん……う、あ
+Hmm...uh, ah
 --------------------------------
 [00000226][none]
-気がついたか、イムカ
+Did you notice, Imka?
 --------------------------------
 [00000227][none]
-え……ここは
-……死んで、ない？
+Huh... there's no one here ... dead?
 --------------------------------
 [00000228][none]
-戻ってきたんだ、君は
+You're back.
 --------------------------------
 [00000229][none]
-なぜ……？
-ヴァルキュリアはどこだ？
-まだ復讐は終わってない
+Why...?  Where's Valkyria?  The revenge isn't over yet.
 --------------------------------
 [00000230][none]
-彼女は……
-セルベリア・ブレス大佐は
-死んだ
+She is... Colonel Selvaria Brace dead.
 --------------------------------
 [00000231][none]
 ……!?
 --------------------------------
 [00000232][none]
-ギルランダイオ要塞は
-大爆発を起こし
-跡形もなく消滅した
+Fortress Ghirlandaio caused a huge explosion and disappeared without a trace.
 --------------------------------
 [00000233][none]
-捕虜となっていた彼女も
-生きてはいないだろう
+She was a prisoner of war and probably won't be alive.
 --------------------------------
 [00000234][none]
-そんな!?
-嘘だ！　信じられない!!
+Is that so!? That's a lie! can't believe it!!
 --------------------------------
 [00000235][none]
-嘘ではない
-いくらヴァルキュリアでも
-あの爆発では……
+It's not a lie No matter how Valkyrie is, that explosion...
 --------------------------------
 [00000236][none]
-間違っている！
-なぜ奴が死んで
-私が生きているのか!?
+Wrong!  Why is he dead and I am still alive!?
 --------------------------------
 [00000237][none]
-そんなはずはない!!
+That can't be true!!
 --------------------------------
 [00000238][none]
-君の復讐は終わった
-イムカ
+Your revenge is over Imka
 --------------------------------
 [00000239][none]
-……銃を貸せ！
+...Give me your gun!
 --------------------------------
 [00000240][none]
-何をする!?
+What to do!?
 --------------------------------
 [00000241][none]
-奴を追って地獄へ行く
-復讐はまだ終わっていない！
+Follow him to hell The revenge isn't over yet!
 --------------------------------
 [00000242][none]
-何を言ってるんだ！
-よせ！
+What are you talking about?  Get away!
 --------------------------------
 [00000243][none]
-ヴァルキュリアを
-殺すために生きてきた！
+I lived to kill Valkyria!
 --------------------------------
 [00000244][none]
-奴が死ねば私も死んでいい！
-地獄で奴に復讐する
-生に未練はない！
+If he dies, then I can die too!  I will take revenge on him in hell There are no
+regrets in life!
 --------------------------------
 [00000245][none]
-君を生かしたのが
-セルベリアだとしてもか！
+Even if it was Selvaria who kept you alive!
 --------------------------------
 [00000246][none]
-っ!?
+Huh!?
 --------------------------------
 [00000247][none]
-彼女は君を殺さず
-捕虜として俺に返しにきた
+She didn't kill you and returned you to me as a prisoner.
 --------------------------------
 [00000248][none]
-あり得ない……！
-私を生かす理由が無い！
+Impossible...!  There's no reason to keep me alive!
 --------------------------------
 [00000249][none]
-彼女から君へ
-伝言を頼まれている
+She has asked you to send a message to you.
 --------------------------------
 [00000250][none]
-『勝者より敗者に告ぐ
-この敗北を背負い
-生き続けろ』と
+``I say to the losers rather than the winners Take this defeat on your shoulders
+Keep on living.''
 --------------------------------
 [00000251][none]
-い……生き……続けろ……？
+Please...live...keep going...?
 --------------------------------
 [00000252][none]
-生きろ、生きろだと？
-こんな無様に生き残った
-敗者に生きろというのか！
+Live, live?  Are you telling a loser who survived in such a miserable way to
+live on?
 --------------------------------
 [00000253][none]
-うっ、ううっ……！
-うああ……あああああ！
+Ugh...!  Aaaaaaaaaaaaaaa!
 --------------------------------
 [00000254][none]
-私には生きる意味などない！
-復讐のない世界では
-生きていけない！
+I have no reason to live!  You can't live in a world without revenge !
 --------------------------------
 [00000255][none]
-……イムカ
+...imka
 --------------------------------
 [00000256][none]
-俺のためでは、だめか？
+Not for me?
 --------------------------------
 [00000257][none]
-え……
+Eh...
 --------------------------------
 [00000258][none]
-俺はまだイムカの目的に
-協力するという
-約束を果たしていない
+I have not yet fulfilled my promise to cooperate with Imka's cause.
 --------------------------------
 [00000259][none]
-約束を果たすまで
-俺のために
-生きてくれないか
+Will you live for me until I fulfill my promise?
 --------------------------------
 [00000260][none]
-目的はもう無い
+no longer has a purpose
 --------------------------------
 [00000261][none]
-目的は変えてもいい
+You can change the purpose
 --------------------------------
 [00000262][none]
-復讐の他には……無い
+There is nothing other than revenge.
 --------------------------------
 [00000263][none]
-だったら、俺も一緒に
-地獄へ行こう
+Then I'll go to hell with you.
 --------------------------------
 [00000264][none]
-そんな!?　いけない！
-クルトは死んではいけない！
+Is that so!? No!  Kurt can't die!
 --------------------------------
 [00000265][none]
-イムカ……？
-今、俺の名前を？
+Imuka...?  What's my name now?
 --------------------------------
 [00000266][none]
-あっ
+Ah
 --------------------------------
 [00000267][none]
 ……
 --------------------------------
 [00000268][none]
-初めて呼んでくれたな
+It's the first time you called me.
 --------------------------------
 [00000269][none]
-呼ぶのは、初めてじゃない
+It's not the first time I've called it.
 --------------------------------
 [00000270][none]
-……そうか
+...I see.
 --------------------------------
 [00000271][none]
-私のせいで
-クルトが死ぬなんて
-許すわけにはいかない
+I can't let Kurt die because of me.
 --------------------------------
 [00000272][none]
-他に約束を果たす
-方法がないなら
-俺は君と地獄へ行く
+If there's no other way to fulfill my promise, I'll go to hell with you.
 --------------------------------
 [00000273][none]
-約束は必ず守る
-それが俺の生き方だ
+I always keep my promises. That's how I live my life.
 --------------------------------
 [00000274][none]
-困る……
-目的なんて無い
+I'm in trouble... I have no purpose.
 --------------------------------
 [00000275][none]
-無ければ探そう
-今すぐじゃなくていい
+If it doesn't exist, I'll look for it. It doesn't have to be right away.
 --------------------------------
 [00000276][none]
-どうしていいか分からない
+I don't know what to do
 --------------------------------
 [00000277][none]
-地獄に行きたくなったら
-言ってくれ
-その時は俺も一緒だ
+If you feel like going to hell just tell me then I'll be with you.
 --------------------------------
 [00000278][none]
-嫌だ……
-一緒には行きたくない
+I don't like it... I don't want to go with you
 --------------------------------
 [00000279][none]
-……嫌われたものだな
+...It was hated.
 --------------------------------
 [00000280][none]
-そうじゃない
-全然分かってない……
+No, I don't understand it at all...
 --------------------------------
 [00000281][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1ネームレスはガリア軍の
-ギルランダイオ要塞攻撃には参加しなかった　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 Nameless did not participate in the Gallic army's
+attack on Ghirlandaio Fortress.
 --------------------------------
 [00000282][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1この攻防で両軍はヴァルキュリアを出さず　　　　　　　
-結果としてガリア軍が勝利する
+@fcFFFFF5F0@dc9F555555@db2@dt1In this battle, neither side sent out Valkyria, and as a result, the Gallic army won.
 --------------------------------
 [00000283][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1遠方にてギルランダイオ要塞の爆発を見た　　　　　　　
-ネームレス一同は──
+@fcFFFFF5F0@dc9F555555@db2@dt1They saw the explosion of Fort Ghirlandaio in the distance.
+All the Nameless members ──
 --------------------------------
 [00000284][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1あまりにも凄惨な爆発と被害に　　　　　　　　　　　　
-言葉も無かった
+@fcFFFFF5F0@dc9F555555@db2@dt1The explosion and damage was so horrific that I was speechless.
 --------------------------------

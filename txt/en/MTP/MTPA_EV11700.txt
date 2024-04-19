@@ -1,749 +1,574 @@
 [0178]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1１０月上旬、国境まで押し返された帝国軍は
-ギルランダイオ要塞に立てこもる
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1In early October, the imperial army, pushed back to the border
+, barricaded itself in Fortress Ghirlandaio.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1ガリア軍も主力部隊を投入し、最後の攻撃を仕掛けようとしていた
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Gallic army also sent in its main forces and was about to launch a final attack.
 --------------------------------
 [00000002][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1一方ネームレスは諜報部の連絡を受けクロウ中佐の邸宅へと向かう
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1Meanwhile, Nameless is contacted by the intelligence department and heads to Commander Crow's mansion.
 --------------------------------
 [00000003][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　１０月上旬　ランドグリーズ近郊
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seireki 1935 Early October Near Landgris
 --------------------------------
 [00000004][none]
 ……
 --------------------------------
 [00000005][none]
-よう
+like
 --------------------------------
 [00000006][none]
-警備はもっと厳重だと
-思っていたのですが
+I thought the security would be tighter 
 --------------------------------
 [00000007][none]
-何のために俺さんが
-ボンクラ軍人を
-やってたと思う？
+Why do you think I was acting as a Bonkura soldier?
 --------------------------------
 [00000008][none]
-こういう時に楽だからさ
+Because it's easy at times like this
 --------------------------------
 [00000009][none]
-誰かさんは有能すぎて
-目を付けられて
+Someone is too talented to be noticed.
 --------------------------------
 [00000010][none]
-大変だったみたいだがな
-はははっ！
+Looks like it was difficult Haha!
 --------------------------------
 [00000011][none]
-……！
+……!
 --------------------------------
 [00000012][none]
-まあ、お前さんもそのうち
-楽な生き方ってもんを
-分かるようになるだろ
+Well, eventually you'll understand what's an easy way to live.
 --------------------------------
 [00000013][none]
-……監視の兵が
-いないようですが？
+...It seems that there are no soldiers to monitor it?
 --------------------------------
 [00000014][none]
-どうなったか聞きたいか？
-食欲が無くなっても
-いいなら話すが
+Do you want to know what happened?  Even if I lose my appetite, I'll tell you if
+you don't mind.
 --------------------------------
 [00000015][none]
-結構です
+That's fine.
 --------------------------------
 [00000016][none]
-じゃ、ランドグリーズまで
-送ってくれ
+Well then, please send me to Landgriz.
 --------------------------------
 [00000017][none]
-裏切り者の証拠を
-掴んだのですね？
+So you got proof of the traitor?
 --------------------------------
 [00000018][none]
-じゃなけりゃ
-アイスラーの子分どもを
-片付けたりしねえよ
+Otherwise I wouldn't clean up Eisler's henchmen.
 --------------------------------
 [00000019][none]
-やはり、アイスラー少将が
-帝国と通じていたのですね
+As expected, Major General Eisler was in touch with the Empire.
 --------------------------------
 [00000020][none]
-さすがに気付いていたか
+Did you really notice?
 --------------------------------
 [00000021][none]
-ああ、やっこさんを
-地獄に落とすための
-証拠がやっと揃ったんだ
+Ah, we finally have the evidence to condemn Yakko to hell.
 --------------------------------
 [00000022][none]
-お前さん達に
-来てもらったのは
-この市街地にいる衛兵と
+I asked you guys to come with the guards in this city area.
 --------------------------------
 [00000023][none]
-道中の護衛を任せるためだ
+To be entrusted with escorting you along the way.
 --------------------------------
 [00000024][none]
-ランドグリーズに着いたら
-あとは俺さんの仕事だ
-現場復帰……
+Once we arrive at Landgriz, it's my job to return to the field...
 --------------------------------
 [00000025][none]
-というか禁酒、禁欲生活と
-ようやくおさらばだ！
-俺さんはよく頑張った！
+In other words, it's finally time to say goodbye to alcohol and an abstinent
+life!  I did a great job!
 --------------------------------
 [00000026][none]
-アイスラーの野郎
-今度はてめえが監獄で
-慎ましく暮らす番だ！
+Eisler's bastard Now it's Teme's turn to live a modest life in prison!
 --------------------------------
 [00000027][none]
 ……
 --------------------------------
 [00000028][none]
-どうした？
+What's wrong?
 --------------------------------
 [00000029][none]
-いえ、それだけのために
-軍の内偵が
-できるものなのかと
+No, I wonder if that's what military intelligence can do for that reason.
 --------------------------------
 [00000030][none]
-それだけとは何だ！
-酒と女を取り上げられたら
-暴動もんだろうが！
+What's that?  If alcohol and women were taken away, there would probably be a
+riot!
 --------------------------------
 [00000031][none]
-それとも何か？
-俺さんはガリアの平和と
-人民の幸福のために
+Or what?  I am for the peace of Gaul and the happiness of the people.
 --------------------------------
 [00000032][none]
-悪の権化アイスラーを
-成敗するために正義の炎を
-燃やさないといかんのか？
+Do we have to burn the flame of justice in order to defeat Eisler, the
+embodiment of evil?
 --------------------------------
 [00000033][none]
-違うのですか？
+No?
 --------------------------------
 [00000034][none]
-……小学生かお前さんは！
+...you are an elementary school student!
 --------------------------------
 [00000035][none]
-部隊の待機場所は
-こちらです、中佐
+The unit's waiting area is here, Lieutenant Colonel.
 --------------------------------
 [00000036][none]
-遠いよ！
-家の前まで
-戦車で来いっての！
+It's far!  Come to the front of my house with a tank!
 --------------------------------
 [00000037][none]
-市内に車輌を
-入れるだけでも大変でした
-さあ走って！
+Just getting the vehicle into the city was difficult Now run!
 --------------------------------
 [00000038][none]
-くそ、夜の運動不足だな
-すぐ息があがりやがる！
+Shit, I don't get enough exercise at night I'm out of breath so easily!
 --------------------------------
 [00000039][none]
-む？
-そこのふたり、止まれ！
+Huh?  You two, stop!
 --------------------------------
 [00000040][none]
-止まるかボケが！
+Stop or it's blurry!
 --------------------------------
 [00000041][none]
-待て！　全衛兵に告ぐ！
-ラムゼイ・クロウが
-脱走したぞ！
+Wait! Announcement to all guards!  Ramsay Crowe has escaped!
 --------------------------------
 [00000042][none]
-№7、部隊を呼べ！
-あいつら潰すぞ！
+№7, call the troops!  We'll crush them!
 --------------------------------
 [00000043][none]
-了解！
+Understood!
 --------------------------------
 [00000044][none]
-状況を説明する
-よく聞いてくれ
+Explain the situation Listen carefully
 --------------------------------
 [00000045][none]
-ラムゼイ・クロウ中佐が造反者の証拠を掴んだ。
+Commander Ramsay Crowe has obtained evidence of a rebel.
 --------------------------------
 [00000046][none]
-造反者を軍事法廷で告発するため、
+To prosecute rebels in military courts,
 --------------------------------
 [00000047][none]
-中佐をランドグリーズ市内に
-無事に送り届けるのが今回の作戦となる。
+Our mission is to safely deliver the lieutenant colonel to Landgriz city.
 --------------------------------
 [00000048][none]
-クロウ中佐の脱走はすでに衛兵に察知されている。
+Commander Crow's escape has already been detected by the guards.
 --------------------------------
 [00000049][none]
-まずはこの市を包囲する敵部隊を叩き、
-突破しなければならない。
+First, you must attack and break through the enemy forces surrounding this city.
 --------------------------------
 [00000050][none]
-包囲網を突破後は、クロウ中佐の身の安全を最優先に
-ランドグリーズへ向けて進軍する。
+After breaking through the siege, we will advance towards Landgriz, placing
+Commander Crow's safety first.
 --------------------------------
 [00000051][none]
-途中、我々の行動を妨害する部隊が
-現れる可能性が高い。
+There is a high possibility that some troops will appear on the way that will
+interfere with our actions.
 --------------------------------
 [00000052][none]
-遭遇した場合は全て撃退し、
-最短距離で目的地に向かう。
+If encountered, repel them all and head to the destination in the shortest
+distance.
 --------------------------------
 [00000053][none]
-この作戦が成功すれば、
-我々にかけられた疑いが晴らせるかもしれない。
+If this operation is successful, the suspicions leveled against us may be
+cleared.
 --------------------------------
 [00000054][none]
-なんとしてもクロウ中佐を守りきるぞ。
+I will protect Commander Crow at all costs.
 --------------------------------
 [00000055][none]
-各自警戒を怠らないように
-では行くぞ
+Please be on your guard Let's go.
 --------------------------------
 [00000056][none]
-よし、脱出したのち
-ランドグリーズへ……
+Okay, after escaping to Landgriz...
 --------------------------------
 [00000057][none]
-隠密性は度外視だ
-最短距離を全速で進め！
-敵は排除しろ！
+Stealth is of no use. Go the shortest distance at full speed!  Eliminate the
+enemy!
 --------------------------------
 [00000058][none]
-……失礼ですが
-クロウ中佐
+...Excuse me, Lieutenant Colonel Crow.
 --------------------------------
 [00000059][none]
-何だ？
+What?
 --------------------------------
 [00000060][none]
-指揮は私がとっても
-よろしいですか
+Is it okay for me to take command?
 --------------------------------
 [00000061][none]
-ダメだ
+no
 --------------------------------
 [00000062][none]
-我々は現在
-軍属ではないのですが
+We are not currently part of the military.
 --------------------------------
 [00000063][none]
-細かい野郎だな！
-俺さんの指揮に
-文句でもあんのか？
+What a petty bastard!  Are you even complaining about my command?
 --------------------------------
 [00000064][none]
-隊の風紀上の問題で
-女性隊員から中佐の
-指揮権は認めるなという
+Due to morale issues in the unit, female members told the lieutenant colonel not
+to give command authority.
 --------------------------------
 [00000065][none]
-要求があります
+There is a request
 --------------------------------
 [00000066][none]
-何だよ、ちょっと
-触るぐらいいいだろうが！
+What? It would be nice to just touch it!
 --------------------------------
 [00000067][none]
-護衛を拒否することも
-できますが？
+Is it possible to refuse the escort?
 --------------------------------
 [00000068][none]
-ちっ、後で覚えてろよ！
-軍属に復帰したら
-職権乱用してやるからな！
+Tsk, remember it later!  If you return to the military, I'll abuse your
+authority!
 --------------------------------
 [00000069][none]
-まさか俺さんが
-ネームレスの設備を
-使うことになるとはな……
+I never thought I'd be using  nameless equipment...
 --------------------------------
 [00000070][none]
-ぶっちゃけ狭いな
-どこもかしこも
+To be honest, it's really small everywhere.
 --------------------------------
 [00000071][none]
-中佐、お部屋へ
-ご案内いたします
+Commander, I will show you to your room.
 --------------------------------
 [00000072][none]
-あん？　チェンジ
+Huh? Change
 --------------------------------
 [00000073][none]
-はい？
+Yes?
 --------------------------------
 [00000074][none]
-チェンジだよ
-３回までありだろ？
+It's a change There are up to three times, right?
 --------------------------------
 [00000075][none]
-どういう意味ですか？
+What does it mean?
 --------------------------------
 [00000076][none]
-子どもはいいから
-年頃の姉ちゃん出せって
-言ってるんだよ！
+I'm saying it's okay to have a child, and to send a sister around your age!
 --------------------------------
 [00000077][none]
-子どもじゃないです！
-……年上の人と
-替わればいいんですね？
+I'm not a child!  ...Is it okay if I change places with someone older than me?
 --------------------------------
 [00000078][none]
-いらっしゃいませ
-ご注文は何でしょうか？
+Welcome. What is your order?
 --------------------------------
 [00000079][none]
-触ったら１秒につき１台
-戦車を買ってもらいます
+If you touch it, you will be asked to buy one tank per second 
 --------------------------------
 [00000080][none]
-もちろん支払いは現金で
+Payment must be made in cash, of course.
 --------------------------------
 [00000081][none]
-ふざけんな！　チェンジだ！
-言っとくが
-バアさんはだめだからな！
+Don't be silly! It's a change!  I'm telling you, Baa-san is no good!
 --------------------------------
 [00000082][none]
 ……
 --------------------------------
 [00000083][none]
-また色気のねえのが
-来ちまったなあ、おい！
+Another unsexy one has arrived, hey!
 --------------------------------
 [00000084][none]
-すまない
+Sorry
 --------------------------------
 [00000085][none]
-……まさかイムカが
-来るとは思わなかったぞ
+...I never expected Imuka to come.
 --------------------------------
 [00000086][none]
-自分が案内するのは
-気に入らないか？
+Don't you like being the one to guide you?
 --------------------------------
 [00000087][none]
-なに……お前さん
-ずいぶん雰囲気が
-変わったな？
+What... Your atmosphere has changed a lot?
 --------------------------------
 [00000088][none]
-俺さんが拾った時は
-警戒心の塊みたいな
-奴だったのに
+When I picked him up, he was a bit wary 
 --------------------------------
 [00000089][none]
-中佐には
-感謝しないといけない
+I have to thank the lieutenant colonel.
 --------------------------------
 [00000090][none]
-感謝されるようなことは
-しちゃいねえよ
+Don't do anything that will make you appreciate it.
 --------------------------------
 [00000091][none]
-お前さんには
-兵士の素質があった
-それだけのことだ
+You had the makings of a soldier. That's all.
 --------------------------------
 [00000092][none]
 ……
 --------------------------------
 [00000093][none]
-そんな顔
-するようになったんだな
+I guess he started making that face 
 --------------------------------
 [00000094][none]
-３年経てばもっと
-いい女になるだろうさ
-そうしたら口説いてやるよ
+I'm sure you'll become a better woman in three years, then I'll woo you.
 --------------------------------
 [00000095][none]
-無い！
+None!
 --------------------------------
 [00000096][none]
-ははは！
-俺さんはこんな男だ
-感謝なんてするなよ！
+Hahaha!  That's the kind of man I am. Don't be grateful!
 --------------------------------
 [00000097][none]
-……中佐はよく分からない
+...I don't really understand the lieutenant colonel.
 --------------------------------
 [00000098][none]
-クルトの野郎
-よくまあこいつを
-柔らかくしたもんだな
+Kurt's bastard Well, you made him softer.
 --------------------------------
 [00000099][none]
-なに!?
+What!?
 --------------------------------
 [00000100][none]
-クロウ中佐とネームレスが
-ランドグリーズへ
-向かっているだと！
+Commander Crow and Nameless are heading to Landgriz!
 --------------------------------
 [00000101][none]
-おのれ
-大人しくしていれば
-いいものを……
+If you be quiet things will be fine for you...
 --------------------------------
 [00000102][none]
-いいだろう
-わたくしの直属部隊を送り
-完全に葬ってやる
+Okay, I'll send my direct unit I'll kill you once and for all.
 --------------------------------
 [00000103][none]
-ランドグリーズへ
-来るということは
+Coming to Landgriz means
 --------------------------------
 [00000104][none]
-何かを掴んだな……？
-いつの間に！
+Did you catch something...?  Before I knew it!
 --------------------------------
 [00000105][none]
-確実に殺すしかない！
-確実にな……！
+I have no choice but to kill him for sure!  For sure...!
 --------------------------------
 [00000106][none]
-これより軍法会議を開く！
-ラムゼイ・クロウ中佐
-告発内容を申し述べよ
+A court martial will now be held!  Lieutenant Colonel Ramsay Crowe State your
+accusations.
 --------------------------------
 [00000107][none]
-私、ラムゼイ・クロウは
-公国軍内部のある人物が
-帝国軍と内通し
+I, Ramsay Crow, someone within the Principality Army contacted the Imperial
+Army.
 --------------------------------
 [00000108][none]
-軍事機密を漏洩していた
-事実を証明し
-犯罪人を告発します
+Prove the fact that military secrets were leaked and prosecute the criminal.
 --------------------------------
 [00000109][none]
-犯罪人は被告席に立つ
-カール・
-アイスラー少将であります
+The criminal is Major General Karl Eisler standing in the defendant's box.
 --------------------------------
 [00000110][none]
 ……
 --------------------------------
 [00000111][none]
-被告は、ユグド教枢機卿
-ジェンナーロ・
-ボルジアに対し
+The defendant is against the Jugdian Cardinal Gennaro Borgia.
 --------------------------------
 [00000112][none]
-公国軍の機密を
-漏洩していました
+Secrets of the principality's army were leaked.
 --------------------------------
 [00000113][none]
-その証拠が
-この作戦指示書であります
+The proof is this mission statement.
 --------------------------------
 [00000114][none]
-これは被告人が
-ボルジア卿に送った
-密書の中身であり
+This is the contents of a secret letter sent by the accused to Lord Borgia.
 --------------------------------
 [00000115][none]
-書面には公国軍の
-作戦指示書を複製した点が
-多数存在しています
+There are many copies of the Principality's army's operational instructions in
+the document.
 --------------------------------
 [00000116][none]
-その書類とわたくしが
-関与しているという
-証拠はあるのかね！
+Is there any evidence that I am involved with that document?
 --------------------------------
 [00000117][none]
-……被告人、あなたは
-ある一件を境に
-密使の数を３人増やした
+...Defendant, after one incident, you increased the number of emissaries by
+three.
 --------------------------------
 [00000118][none]
-な!?
-なぜそれを！
+What!? Why do that!
 --------------------------------
 [00000119][none]
-その３人の中に
-諜報部の人間がいると
-思いませんでしたかな？
+Didn't you think that one of those three people was from the intelligence
+department?
 --------------------------------
 [00000120][none]
-そんな、バカな!?
+Are you that stupid?
 --------------------------------
 [00000121][none]
-被告人はボルジア卿から
-帝国軍の情報を
-入手していました
+The accused received information about the Imperial Army from Lord Borgia.
 --------------------------------
 [00000122][none]
-しかし情報を秘匿し
-未然に防げたであろう
-軍の損失を無視していた
+But they kept the information secret and ignored military losses that could have
+been prevented.
 --------------------------------
 [00000123][none]
-被告人の最大の罪は
-ナジアル会戦に戦力を
-結集している時に
+The defendant's greatest crime was when he was gathering forces for the Battle
+of Nazir.
 --------------------------------
 [00000124][none]
-首都の防衛戦力を帝国側に
-リークし首都の急襲を
-許したことであります
+We leaked the capital's defense forces to the Empire and allowed them to raid
+the capital.
 --------------------------------
 [00000125][none]
-公国を守護すべき軍人が
-敵国と内通し
-亡国を企てたのです！
+The soldier who was supposed to protect the principality was liaising with an
+enemy country and plotting to destroy the country!
 --------------------------------
 [00000126][none]
-紛れもない国家反逆罪……
-被告人は
-国家の敵であります！
+An undeniable treason... The accused is an enemy of the state!
 --------------------------------
 [00000127][none]
-敵……わたくしが
-国家の敵だと!?
+Enemy... I'm an enemy of the nation!?
 --------------------------------
 [00000128][none]
-ラムゼイ・クロウ！
-貴様に何が分かるか！
+Ramsay Crowe!  What do you know?
 --------------------------------
 [00000129][none]
-貴様は我が国が
-挙国一致で帝国と戦えば
-勝てるとでもいうのか！
+Are you saying that if our country fought the Empire as a united nation, we
+would win!
 --------------------------------
 [00000130][none]
-そのような
-愚か者しかいないから
+There are only fools like that.
 --------------------------------
 [00000131][none]
-わたくしは毒を用いて
-毒を制す必要があると考え
-行動したのだ！
+I thought it was necessary to use poison to control poison, so I took action!
 --------------------------------
 [00000132][none]
-愚か者はお前だアイスラー！
+You are the fool, Eisler!
 --------------------------------
 [00000133][none]
-なに!!
+What!!
 --------------------------------
 [00000134][none]
-国のために立ち上がった
-国民の命を犠牲にして
-お前は何を守っているんだ！
+What are you protecting by sacrificing the lives of the people who stood up for
+the country?
 --------------------------------
 [00000135][none]
-軍人が守るべきものは
-人命、国土、財産だ！
+What military personnel must protect is human life, land, and property!
 --------------------------------
 [00000136][none]
-お前は国民の命を捨て！
-国土と財産を売り飛ばし！
+You throw away the lives of the people!  Sell off the land and property!
 --------------------------------
 [00000137][none]
-自分の立場を
-守っているだけの売国奴だ！
+He's a traitor who's just protecting his position!
 --------------------------------
 [00000138][none]
-違うと言うのなら
-国民に自分の行いを
-公表して信を問え！
+If you say no, make your actions public to the people and question their
+beliefs!
 --------------------------------
 [00000139][none]
-くっ……!!
+Damn...!!
 --------------------------------
 [00000140][none]
-内偵の結果、被告人は
-４２２部隊隊長、クルト・
-アーヴィング少尉を
+As a result of the internal investigation, the defendant The commander of Unit
+422, Ensign Kurt Irving,
 --------------------------------
 [00000141][none]
-事実無根の反逆罪で
-４２２部隊に送り込んだ
-ことが判明しています
+It has been revealed that he was sent to Unit 422 on groundless charges of
+treason.
 --------------------------------
 [00000142][none]
-また、同部隊が造反容疑を
-かけられた戦車操縦士の
-脱走事件ですが
+Also, there is the escape incident of a tank driver who was accused of sedition
+by the same unit.
 --------------------------------
 [00000143][none]
-操縦士は禁止兵器である
-毒ガス弾の使用を拒否して
-逃亡したものと思われます
+It is believed that the pilot refused to use poison gas bombs, which are
+prohibited weapons, and fled.
 --------------------------------
 [00000144][none]
-被告人はこの件を無視して
-４２２部隊を造反部隊とし
-抹殺しようとしました
+The defendant ignored this matter and tried to eliminate Unit 422 as a rebellion
+unit.
 --------------------------------
 [00000145][none]
-その件では、司令部も
-処分決定でおおいに
-揉めたのだったな
+In that case, the headquarters also had a lot of trouble about the decision to
+punish them.
 --------------------------------
 [00000146][none]
-最後に申し上げたい
+Lastly, I would like to say
 --------------------------------
 [00000147][none]
-４２２部隊は造反容疑で
-抹殺されそうになりながら
-帝国軍と交戦を続けました
+The 422nd Unit continued to engage the Imperial Army even though they were on
+the verge of being wiped out on charges of rebellion.
 --------------------------------
 [00000148][none]
-ユエル市、アントホルト市
-北部鉱山、ナジアルなどで
-彼らの姿は確認され
+Their appearance has been confirmed in Yuel City, Antholt City northern mine,
+Nazial, etc.
 --------------------------------
 [00000149][none]
-彼らによって救出された
-正規軍部隊もあります
+Some regular army units were rescued by them.
 --------------------------------
 [00000150][none]
-そして被告人によって
-危機に陥った
-首都を防衛したのは
+And the one who defended the capital, which was put in danger by the accused,
 --------------------------------
 [00000151][none]
-他でもない、彼ら
-４２２部隊なのであります
+They are none other than Unit 422.
 --------------------------------
 [00000152][none]
-ふむ……その件については
-市民や軍各位からも
-確認を求められた
+Hmm... Civilians and military personnel have requested confirmation about that
+matter.
 --------------------------------
 [00000153][none]
-４２２部隊は元より
-軍の記録に残らない
-部隊であります
+Unit 422 is originally a unit that is not recorded in military records.
 --------------------------------
 [00000154][none]
-しかし、すでに
-彼らの働きは多くの
-国民の記憶に残っている
+However, their work is already remembered by many people.
 --------------------------------
 [00000155][none]
-この英雄的部隊を
-我が軍はどう扱うべきか
+How should our army handle this heroic force?
 --------------------------------
 [00000156][none]
-よく検討すべきだと
-申し上げて
-発言を終えさせて頂きます
+I would like to conclude my remarks by saying that this should be carefully
+considered.
 --------------------------------
 [00000157][none]
-クロウ中佐の告発で
-アイスラー少将が
-逮捕されたそうだ
+I heard that Major General Eisler was arrested on the accusations made by
+Commander Crowe.
 --------------------------------
 [00000158][none]
-少将だと!?
-そんな大物が
-裏切り者だったのか！
+A major general!? That big man was a traitor!
 --------------------------------
 [00000159][none]
-少将が逮捕となれば
-司令部はまた
-大騒ぎだろうねえ
+If the Major General were to be arrested, the headquarters would be in an uproar
+again .
 --------------------------------
 [00000160][none]
-帝国軍にどれほどの情報が
-渡っていたかを考えると
-恐ろしくなりますね……
+It's scary to think how much information was passed on to the Imperial Army...
 --------------------------------
 [00000161][none]
-わたし達の無実は
-証明されたんですか？
+Has our innocence been proven?
 --------------------------------
 [00000162][none]
-余罪があまりにも多いので
-充分な時間をかけて
-裁かれるそうだ
+Because there are too many crimes, it will take enough time to be judged.
 --------------------------------
 [00000163][none]
-私達の処遇は
-裁きの結果待ちに
-なるのかしら
+I wonder if our treatment will be waiting for the outcome of the judgment.
 --------------------------------
 [00000164][none]
-素直に喜んじゃ
-ダメなんですか？
+Is it okay to just be happy?
 --------------------------------
 [00000165][none]
-少なくとも、ガリア軍から
-攻撃されることはなくなる
+At least you won't be attacked by the Gallic army.
 --------------------------------
 [00000166][none]
-何よ！
-思いっきり喜んで
-いいんじゃないの！
+What!  It's okay to be as happy as you can !
 --------------------------------
 [00000167][none]
-よし！
-じゃあパーティやるか！
+Okay!  Then let's have a party!
 --------------------------------
 [00000168][none]
-やりましょう！
+Let's do it!
 --------------------------------
 [00000169][none]
-今日ぐらいは
-賑やかにやるのもいいか
-では、パーティだ！
+I think it would be a good idea to make it lively for today. Well, let's have a
+party!
 --------------------------------
 [00000170][none]
-アイスラーが
-逮捕されるとはな……
+I never thought Eisler would be arrested...
 --------------------------------
 [00000171][none]
-あれに
-自白されるわけにはいかぬ
-消すしかあるまい
+I can't let him confess to me I have no choice but to erase it.
 --------------------------------
 [00000172][none]
-ガリア軍は
-ギルランダイオ要塞
-攻略戦の直前だ
+The Gallic army is about to capture Ghirlandaio Fortress 
 --------------------------------
 [00000173][none]
-アイスラーを裁いている
-余裕などないはず
-……手を打つ時間はある
+There's no way we can afford to judge Eisler. We have time to do something.
 --------------------------------
 [00000174][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1造反容疑が晴れ、ネームレスはようやく
-ガリア軍の銃を恐れる日々から解放された　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 The charges of sedition were cleared, and Nameless was finally freed from the days of fearing the Gallic army's guns.
 --------------------------------
 [00000175][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1ネームレスの処遇は決まってはいないが──　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 The treatment of nameless has not been decided though──
 --------------------------------
 [00000176][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1諜報部が揃えた造反扱い後の証拠記録もあり　　　　　　
-上層部の再評価は確実だった
+@fcFFFFF5F0@dc9F555555@db2@dt1 There was also evidence recorded by the intelligence department after it was treated as a rebellion.
+A re-evaluation by the upper management was certain.
 --------------------------------
 [00000177][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1彼らは最も険しい道を踏破したのである　　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 They traversed the most difficult path.
 --------------------------------

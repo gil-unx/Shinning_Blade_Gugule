@@ -1,566 +1,434 @@
 [0141]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　ブルール近郊
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seiryoku 1935, near Brule
 --------------------------------
 [00000001][none]
-今度の任務はとんでもねえ
-極悪部隊が相手らしいな
+This time's mission is outrageous It seems like the enemy is a villainous unit.
 --------------------------------
 [00000002][none]
-出会った人間は皆殺し……
-女子どもも容赦なく虐殺する
-最悪な連中だっていうぜ
+They kill everyone they meet... They slaughter women and children without mercy.
+They say they're the worst kind of people.
 --------------------------------
 [00000003][none]
-しかし、それよりも
-オレはこの味気のない
-食事の方が最悪だ
+But, more than that, this bland food is the worst for me.
 --------------------------------
 [00000004][none]
-食べられるだけ
-幸せじゃないですか
+Aren't you happy just being able to eat?
 --------------------------------
 [00000005][none]
-ほら、あんなに
-おいしそうに食べている
-人もいますよ？
+Look, there are some people who eat that deliciously.
 --------------------------------
 [00000006][none]
-ん……おいし
+Hmm... delicious
 --------------------------------
 [00000007][none]
-ジゼルちゃん……だったな
-この粗末な携帯食が
-そんなにおいしいのか？
+Giselle-chan... Is this poor portable food really that tasty?
 --------------------------------
 [00000008][none]
-ジゼルちゃん
-ちょっといいかい？
+Giselle-chan Can I have a moment?
 --------------------------------
 [00000009][none]
-……何ですか？
+...What?
 --------------------------------
 [00000010][none]
-いや、こんな食事を
-おいしそうに食べてるから
-気になってね
+No, you look like you're eating a meal like this, so I'm curious.
 --------------------------------
 [00000011][none]
-これ、あたしは
-おいしいと思います
+I think this is delicious.
 --------------------------------
 [00000012][none]
-これがおいしいというなら
-今度、オレの料理を
-食べてみてくれよ
+If you think this is delicious then try my cooking next time.
 --------------------------------
 [00000013][none]
-もっとアンタを
-感動させられるはずだ
+I'm sure I can impress you even more.
 --------------------------------
 [00000014][none]
-……いえ、いいです
+...No, it's fine.
 --------------------------------
 [00000015][none]
-なぜだい？
-うまいものを
-食べたくないの？
+Why?  Don't you want to eat something delicious?
 --------------------------------
 [00000016][none]
-興味がありません
+Not interested
 --------------------------------
 [00000017][none]
-え……？
+Huh...?
 --------------------------------
 [00000018][none]
-この食事で満足です
-これ以上のものは
-必要ないんです
+I'm satisfied with this meal I don't need anything else 
 --------------------------------
 [00000019][none]
-あそこの食べ物よりは
-おいしいですし
+The food is tastier than the food there.
 --------------------------------
 [00000020][none]
-あそこの食べ物……？
+The food over there...?
 --------------------------------
 [00000021][none]
-あたし、ずっと
-監獄にいましたから
+I've been in prison for a long time.
 --------------------------------
 [00000022][none]
-監獄……!?
-アンタは一体
-何をしたんだい？
+Prison...!? What the hell did you do?
 --------------------------------
 [00000023][none]
-それを話す
-必要はありますか？
+Is it necessary to talk about it?
 --------------------------------
 [00000024][none]
-……いや、無理にとは
-言わないが
+...No, I won't force it.
 --------------------------------
 [00000025][none]
-おいしい食べ物は
-別の人にあげてください
+Please give the delicious food to someone else.
 --------------------------------
 [00000026][none]
-失礼します
+Excuse me
 --------------------------------
 [00000027][none]
-驚いた……この世の中に
-食に興味のない
-人間がいたとはね……
+I was surprised... to think that there were people in this world who weren't
+interested in food...
 --------------------------------
 [00000028][none]
-ジゼル……
-囚人上がりねえ？
+Giselle... Isn't the prisoner gone?
 --------------------------------
 [00000029][none]
-あの不思議な雰囲気に
-オレは興味があってな
+I'm interested in that mysterious atmosphere.
 --------------------------------
 [00000030][none]
-数日ほど
-密かに彼女を
-観察してみたんだ
+I secretly observed her for a few days.
 --------------------------------
 [00000031][none]
-ああ、それで？
+Oh, so?
 --------------------------------
 [00000032][none]
-これがまた彼女の生活は
-やたらと質素で
-まるで特徴がないんだ
+Again, her life is extremely simple and has no character.
 --------------------------------
 [00000033][none]
-まるでひとりだけ
-監獄にでもいるような
-感じといえばいいかな
+I guess you could say it feels like you're alone in a prison.
 --------------------------------
 [00000034][none]
-特に趣味があるようにも
-感じられなければ
+If you don't feel like you have a particular hobby 
 --------------------------------
 [00000035][none]
-他の隊員との
-コミュニケーションも
-希薄……
+Communication with other members is also poor...
 --------------------------------
 [00000036][none]
-誰とも特別親密ではなく
-誰とも特別険悪でもない
+Not particularly close to anyone Not particularly hostile to anyone
 --------------------------------
 [00000037][none]
-あらゆる物事に
-関心がないってことか？
+Does that mean you have no interest in everything?
 --------------------------------
 [00000038][none]
-そんな人間て
-本当にいるのか？
+Does such a person really exist?
 --------------------------------
 [00000039][none]
-オレにはとてもじゃないが
-信じられない
+Not really for me, I can't believe it.
 --------------------------------
 [00000040][none]
-まあ、何もなければ
-ネームレス送りに
-なるはずもないしな
+Well, if there's nothing, there's no way it'll be sent nameless.
 --------------------------------
 [00000041][none]
-それに、何かひとつぐらい
-好きな食べ物があるはずだ
+Besides, you must have at least one favorite food.
 --------------------------------
 [00000042][none]
-しばらく彼女のことを
-調べてみようと思う
+I think I'll look into her for a while.
 --------------------------------
 [00000043][none]
-そりゃいいが
-やりすぎるなよ？
+That's fine, but don't go too far.
 --------------------------------
 [00000044][none]
-分かってるって！
+I know!
 --------------------------------
 [00000045][none]
-やあ、ジゼルちゃん
+Hi Gisele
 --------------------------------
 [00000046][none]
-またあなたですか
+Is it you again?
 --------------------------------
 [00000047][none]
-こんなところで
-何をやっているんだい？
+What are you doing here?
 --------------------------------
 [00000048][none]
-焚き火を見ていたんです
+I was watching the bonfire.
 --------------------------------
 [00000049][none]
-焚き火か
+Bonfire?
 --------------------------------
 [00000050][none]
-オレは焚き火を見ると
-すぐ料理に
-結びつけちまうな
+When I see a bonfire, I immediately associate it with cooking.
 --------------------------------
 [00000051][none]
-……っと、興味なかったか
-もう遅いしそろそろ
-寝た方がいいんじゃないか？
+...Well, weren't you interested? It's already late, so I think you should go to
+sleep.
 --------------------------------
 [00000052][none]
-……いえ、疲れては
-いませんから
+...No, I'm not tired 
 --------------------------------
 [00000053][none]
-でも、ずっとここに
-いるわけにもいかないだろ？
+But we can't stay here forever, right?
 --------------------------------
 [00000054][none]
-……それでも構いません
+...that's fine
 --------------------------------
 [00000055][none]
-え……？
+Huh...?
 --------------------------------
 [00000056][none]
-眠くなればここで寝ます
-気にしないでください
+If I get sleepy, I'll sleep here Don't worry about it
 --------------------------------
 [00000057][none]
-野宿も平気なのか……
+Is it okay to sleep outdoors...
 --------------------------------
 [00000058][none]
-もしかして
-部屋に帰りたくないのか？
+Maybe you don't want to go back to your room?
 --------------------------------
 [00000059][none]
-誰か苦手な隊員が
-いるとか……？
+Are there any members who are not good at it...?
 --------------------------------
 [00000060][none]
-そういう意識は
-持った事ないです
+I have never had that kind of consciousness.
 --------------------------------
 [00000061][none]
-むう……
-この娘の頭の中は
-どうなっているんだ
+Hmm... What's going on in this girl's head 
 --------------------------------
 [00000062][none]
-くすくす……
+chuckle...
 --------------------------------
 [00000063][none]
-……ん？
+...huh?
 --------------------------------
 [00000064][none]
-今日も、元気だね……
+You're doing well today too...
 --------------------------------
 [00000065][none]
-誰と話しているんだ？
+Who are you talking to?
 --------------------------------
 [00000066][none]
-何かが燃えるこの感じ……
-とっても落ち着く……
+This feeling of something burning... It's very calming...
 --------------------------------
 [00000067][none]
-もしかして……
+Maybe...
 --------------------------------
 [00000068][none]
-焚き火に話しかけてたのか？
-まさかな……
+Were you talking to the bonfire?  No way...
 --------------------------------
 [00000069][none]
-現在、目標の敵部隊が
-この平原を進軍中だ
+The target enemy force is currently advancing on this plain.
 --------------------------------
 [00000070][none]
-この期に乗じて
-奇襲攻撃を仕掛ける！
+Take advantage of this period and launch a surprise attack!
 --------------------------------
 [00000071][none]
-あの極悪部隊か！
+That villainous unit!
 --------------------------------
 [00000072][none]
-敵は事前に説明した通り
-何を仕掛けてくるか
-分からん……警戒しろ
+As I explained before, you don't know what the enemy will do ...be careful.
 --------------------------------
 [00000073][none]
-もちろんだ
+Of course
 --------------------------------
 [00000074][none]
-無益な虐殺を楽しむような
-ヤツらは、徹底的に
-叩いてやろうぜ
+Those who enjoy pointless slaughter will be thoroughly beaten down.
 --------------------------------
 [00000075][none]
-ああ、今回の作戦は
-何としてでも成功させる
+Ah, this strategy will succeed at all costs.
 --------------------------------
 [00000076][none]
-隊長さん
+Captain
 --------------------------------
 [00000077][none]
-冷静に
+calmly
 --------------------------------
 [00000078][none]
-相手が相手だからな
-多少怒りがあるのは
-当然じゃないか
+It's natural for you to be a little angry because you're the other person Isn't
+it natural to feel some anger?
 --------------------------------
 [00000079][none]
-……あまり
-よく分かりません
+...I don't really understand 
 --------------------------------
 [00000080][none]
-誰であろうと敵は敵
-それ以上でも以下でも
-ないと思いますが
+No matter who you are, your enemy is your enemy I don't think it's anything more
+or less .
 --------------------------------
 [00000081][none]
-敵は敵、か
+The enemy is the enemy?
 --------------------------------
 [00000082][none]
-敵にいいも悪いもないって
-言いたいんだよな
+I'm trying to say that the enemy is neither good nor bad.
 --------------------------------
 [00000083][none]
-この無関心ぶり
-犯罪者ならではの
-感覚か……？
+Is this indifference a feeling unique to criminals...?
 --------------------------------
 [00000084][none]
-しかし、彼女は何をやって
-長い監獄暮らしに？
+But what did she do to spend so long in prison?
 --------------------------------
 [00000085][none]
-戦闘準備だ
-敵の出方に注意しろ
+Preparing for battle Watch out for the enemy's appearance.
 --------------------------------
 [00000086][none]
-おう！
+Oh!
 --------------------------------
 [00000087][none]
-ジゼルも、いいな？
+Is Gisele good too?
 --------------------------------
 [00000088][none]
-はい
+yes
 --------------------------------
 [00000089][none]
-……熱くなっていいのは
-すべてを焼き尽くす力を
-持った炎だけ
+...The only thing that can get hot is the flame that has the power to burn
+everything down.
 --------------------------------
 [00000090][none]
-そうじゃないと
-その熱は自らを焼く
-諸刃の剣となってしまう
+Otherwise the heat will burn itself It will be a double-edged sword.
 --------------------------------
 [00000091][none]
-……うふふ
+...hehe
 --------------------------------
 [00000092][none]
-風に乗った火薬の
-匂いがする……
+I can smell gunpowder on the wind...
 --------------------------------
 [00000093][none]
-ジゼルがポテンシャル@fcFF008800「おともだち」@fciに
-目覚めました。
+Giselle has awakened to her potential @fcFF008800 "friend" @fci.
 --------------------------------
 [00000094][none]
-極悪部隊にしては
-思ったよりも
-あっさりと逃げたな……
+For such a villainous unit, you escaped easier than I expected...
 --------------------------------
 [00000095][none]
-クルト
-この後はどうする？
+Kurt What do you do next?
 --------------------------------
 [00000096][none]
-噂に聞こえた残虐部隊が
-こんなに簡単に撤退する
-とは考えにくい
+It's hard to imagine that the brutal forces we've heard about will retreat so
+easily.
 --------------------------------
 [00000097][none]
-罠の可能性もある
-少し様子を見よう
+It could be a trap. Let's take a look.
 --------------------------------
 [00000098][none]
-……さすがは隊長さん
-賢明な判断ですね
+...As expected of you, Captain That's a wise decision.
 --------------------------------
 [00000099][none]
-ですが、もう罠に
-はまっていますよ
+But you've already fallen into the trap 
 --------------------------------
 [00000100][none]
-ジゼル、どういう事だ？
+Gisele, what do you mean?
 --------------------------------
 [00000101][none]
-とってもステキな
-気配がするんです
+It feels very nice 
 --------------------------------
 [00000102][none]
-え……？
+Huh...?
 --------------------------------
 [00000103][none]
-ほら、分かりませんか
-この香りが……
+Look, don't you understand This scent...
 --------------------------------
 [00000104][none]
-香り……？
+Scent...?
 --------------------------------
 [00000105][none]
-一体、何の香りだ？
+What the hell is that scent?
 --------------------------------
 [00000106][none]
-とってもいい香り
-大好き
+Very nice scent I love it
 --------------------------------
 [00000107][none]
-ほらキレイな花が
-咲きました
+Look, a beautiful flower has bloomed 
 --------------------------------
 [00000108][none]
-花って!?
-爆発じゃないですか！
+Flowers!? It's an explosion!
 --------------------------------
 [00000109][none]
-しまった！
-油と火薬の匂いだったのか！
+It's gone!  Maybe it was the smell of oil and gunpowder!
 --------------------------------
 [00000110][none]
-待避だ！
+Evacuate!
 --------------------------------
 [00000111][none]
-いえ、もう四方は
-炎に囲まれていますよ
+No, it's already surrounded by flames on all sides.
 --------------------------------
 [00000112][none]
-あの部隊……この平原ごと
-焼くつもりだったのか！
+That unit... did you intend to burn this whole plain to the ground!?
 --------------------------------
 [00000113][none]
-ふふふ、キレイ……
+Fufufu, beautiful...
 --------------------------------
 [00000114][none]
-どうする、逃げ場が
-まったくないぞ！
+What should I do? There's no escape!
 --------------------------------
 [00000115][none]
-ジゼル……！
-この計略を知っていながら
-なぜ報告しなかったんだ？
+Giselle...!  If you knew about this ruse, why didn't you report it?
 --------------------------------
 [00000116][none]
-……だって、教えたら
-きっとこの花が
-咲く事がなかったから
+...Because if I told you, this flower would never bloom.
 --------------------------------
 [00000117][none]
-キレイだな……
-どうしてこんなに
-キレイなんだろう？
+It's beautiful... Why is it so beautiful?
 --------------------------------
 [00000118][none]
-ほら、あんなに喜んでる
-かわいいな、あの子達……
+Look, those kids are so happy So cute...
 --------------------------------
 [00000119][none]
-ジゼル、君は
-火について詳しいようだ
-この火を消す方法はあるか？
+Giselle, You seem to know a lot about fire. Is there a way to put out this fire?
 --------------------------------
 [00000120][none]
-どうして
-消しちゃうんですか
+Why do you want to delete it?
 --------------------------------
 [00000121][none]
-こんなに美しいのに……
-あの子達、悲しみますよ？
+Even though she's so beautiful... Aren't those kids sad?
 --------------------------------
 [00000122][none]
-ジゼル、これは命令だ
+Giselle, this is an order.
 --------------------------------
 [00000123][none]
-そうですか……それなら
-仕方ないですね
+I see... then I guess it can't be helped.
 --------------------------------
 [00000124][none]
-みなさんはここで
-待っていてください
-行ってきます
+Everyone please wait here I'll go.
 --------------------------------
 [00000125][none]
-あれだけの炎を
-１人で
-消しちゃいましたね……
+You put out all that flame by yourself...
 --------------------------------
 [00000126][none]
-どうやったんだ？
+How did you do it?
 --------------------------------
 [00000127][none]
-エサを取り上げるんです
-ここはエサが少ないから
-すぐお腹が空く……
+I pick up the food There's not much food here I get hungry quickly...
 --------------------------------
 [00000128][none]
-燃えるものが
-少ないってことか
+Does that mean there is less to burn?
 --------------------------------
 [00000129][none]
-お腹が空いた子は
-これで眠らせるんです
+This will put a hungry child to sleep.
 --------------------------------
 [00000130][none]
-消火剤か、そんなものを
-持ち歩いているとは……
+I don't know if you're carrying around a fire extinguisher or something like
+that...
 --------------------------------
 [00000131][none]
-うふふ、あの子達が
-どうすれば喜ぶのか
-どうすれば悲しむのか
+Ufufu, what should I do to make them happy? What should I do to make them sad?
 --------------------------------
 [00000132][none]
-あたしはよく知って
-いますから……
+I know you very well...
 --------------------------------
 [00000133][none]
-元はと言えば
-アンタが報告しなかった
-からこうなったんだけどな
+Originally, this happened because you didn't report it. 
 --------------------------------
 [00000134][none]
-彼女がいなければ
-こちらの被害も
-もっと大きくなっていた
+If it wasn't for her, the damage would be even bigger.
 --------------------------------
 [00000135][none]
-あの大規模な爆発と炎を
-全部止められたとも
-思えないしな
+I don't think we could have stopped all of that massive explosion and flames.
 --------------------------------
 [00000136][none]
-ふふ、この部隊は最高です
-火遊びをしても誰も
-怒らないのですから……
+Hehe, this unit is the best No one gets angry even if we play with fire...
 --------------------------------
 [00000137][none]
-ところでジゼルちゃん
-アンタがずっと監獄にいた
-罪ってのはまさか……？
+By the way, Giselle-chan, Is it true that you were in prison all this time for a
+crime...?
 --------------------------------
 [00000138][none]
-……おかしいですよね
+...That's strange, isn't it?
 --------------------------------
 [00000139][none]
-あたしはただ
-あの子達と遊んでいた
-だけなのに
+I was just playing with those kids 
 --------------------------------
 [00000140][none]
-や、やっぱりな……
+Oh, I guess...
 --------------------------------

@@ -1,180 +1,149 @@
 [0044]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-おっす、ケルベロス。今日も元気に遊んでるか？
+Hey, Kerberos. Are you playing well today?
 --------------------------------
 [00000001][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……あ、レイジ……。
+...Ah, Rage...
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-なんだよ、ケルベロス。
-元気ないじゃないか。どうしちゃったんだ？
+What is it, Kerberos?  You're not feeling well, are you? What happened?
 --------------------------------
 [00000003][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……えとね、呼んでるの。誰かが……。
+...Well, I'm calling you. Someone has…….
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-呼んでる？　……いや、オレには聞こえないけど。
-いったい誰が呼んでるんだ？
+Are you calling? ...No, I can't hear it though.  Who the hell is calling?
 --------------------------------
 [00000005][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……あ！　まただ……！
-また呼んでる……。
+...Ah! Here we go again...!  I'm calling you again...
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-え!?　お、おい！　どこ行くんだ？
-待てって！　ちょっと待て！　おーい！
+Huh!? Oh, hey! Where are you going?  Wait! wait a minute!
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-さてと、さっきのディスクだけど……。
-何が入ってるんだ？
-ケルベロス、ちょっとこれ、内容を確認してくれ。
+Well, about that disc...  What's in it?  Kerberos, please check this.
 --------------------------------
 [00000008][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-うん。そうする。
+Yeah. I'll do that.
 --------------------------------
 [00000009][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-読み込みを、開始します。
+Start loading.
 --------------------------------
 [00000010][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……インストールを開始します。
-…………………………。
-…………終了しました。
+...The installation will begin.  ……………………………….  …………It has ended.
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-インストール？　また、ソフトが入ってたのか？
-ケルベロス、平気か？　
-具合悪くなったりしてないよな？
+Install? Also, was there any software installed?  Kerberos, are you okay? 
+You're not feeling sick, are you?
 --------------------------------
 [00000012][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-え？　ううん。平気だよ？
+Huh? No. 
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-そっか、よかった……。
-まさか、いきなりインストールが始まるとは
-思わなかった……。
+I see, that's good...  I never expected that the installation would start all of
+a sudden ...
 --------------------------------
 [00000014][リン,シャオメイ,リンリン]
-レイジ？　なにやってるの？
-インストールって……あまりケルベロスに
-変なものを読ませちゃダメよ？
+Rage? What are you doing? 
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-ああ……そんなつもりじゃなかったんだけどさ。
-ケルベロス、ホントに大丈夫なのか？
+Ah...I didn't mean to do that.  Is Kerberos really okay?
 --------------------------------
 [00000016][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-うん。あ、でも……。
+Yeah. Ah, but...
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-どうした？
+What's wrong?
 --------------------------------
 [00000018][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……なんだか、すごく歌いたくなってきた。
-歌ってもいいよね？
+...I feel like singing so much.  Is it okay if I sing?
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-歌う……？　歌をか？　えーと……。
+Sing...? Are you singing? Well...
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-いいよ。歌ってみてくれよ。
-オレも聴いてみたいし。
+Fine. Try singing it.  I want to listen to it too.
 --------------------------------
 [00000021][リン,シャオメイ,リンリン]
-そうね、私も興味があるわ。
-ケルベロス、あなたの歌を聴かせて。
+Yeah, I'm interested too.  Kerberos, let me hear your song.
 --------------------------------
 [00000022][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-やったー！　ありがとー！
+Yay! thanks!
 --------------------------------
 [00000023][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-それじゃあ……始めるね？
+Well... let's get started, shall we?
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-……これが……ケルベロスの歌か。
-思ったのとは全然違ってたけど、でも、これ……。
+...Is this... Kerberos' song?  It was completely different from what I expected,
+but this...
 --------------------------------
 [00000025][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな。これはいい……。
-心にしみるとはこのことか……。
+That's right. This is good....  Is this what it means to me...?
 --------------------------------
 [00000026][リン,シャオメイ,リンリン]
-@fcFFAAFFAA（もしかして、この歌って……。
-まさか、ディスクに記録されていたのは
-誰かの記憶……？）
+@fcFFAAFFAA(Maybe this song is...
+By any chance,
+someone's memory was recorded on the disc...?)
 --------------------------------
 [00000027][リン,シャオメイ,リンリン]
-@fcFFAAFFAA（はるか昔の誰かの想いが
-ディスクを通してケルベロスに引き渡され……。
-それが歌となって再現された……？）
+@fcFFAAFFAA(Someone's feelings from a long time ago
+were handed over to Kerberos through a disk...
+They were recreated in the form of a song...?)
 --------------------------------
 [00000028][リン,シャオメイ,リンリン]
-@fcFFAAFFAA（それにしても……
-不思議な歌だわ）
+@fcFFAAFFAA(Still...
+It's a strange song)
 --------------------------------
 [00000029][リン,シャオメイ,リンリン]
-@fcFFAAFFAA（懐かしいような、悲しいような……。
-時の流れに移ろう人の思いをにじませたような
-とても不思議な歌……）
+@fcFFAAFFAA(Sounds nostalgic, sad...
+It's a very mysterious song that seems to reflect the thoughts of a person who has moved on with the flow of time...)
 --------------------------------
 [00000030][レイジ,レイジ,レイジ]
-ケルベロス……。とってもいい歌だった。
-オレ、なんか、感動しちゃったよ。
-ありがとうな、ケルベロス。
+Kerberos... It was a very nice song.  I'm kind of impressed.  Thank you,
+Kerberos.
 --------------------------------
 [00000031][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-…………………。
-うっ……ぐすっ……ぐすん……。
+………………….  Ugh...gussup...gussun...
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-……ケルベロス？　どうした？
-どうして泣いてるんだ？
-もしかして、どこか痛いのか？
+...Kerberos? what up?  Maybe it hurts somewhere?
 --------------------------------
 [00000033][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-違うよぉ……痛くないよぅ……。
-ただ……泣きたいの。泣きたくてしょーがないの。
-なんでだろう……。ぐすっ……ぐすっ……。
+No...it doesn't hurt...  I just... I want to cry. I can't help but want to cry. 
+I wonder why... Gussssssssssssssssssssssssssssssssssss.
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-お、おい！　泣くなよケルベロス！
-こまったなぁ……どうしたらいいんだ？
+Oh, hey! Don't cry, Kerberos!  I'm confused... What should I do?
 --------------------------------
 [00000035][リン,シャオメイ,リンリン]
-しかたないわね。保護者のそばへ連れていけば、
-少しは落ち着くんじゃないかしら？
-私が、サクヤのところにつれていくわ。
+I have no choice. Maybe if you take him to his parents' side, he might calm down
+a little?  I'll take you to Sakuya.
 --------------------------------
 [00000036][リン,シャオメイ,リンリン]
-サクヤにもあの歌を聴かせてあげたら、
-きっと……喜ぶと思うし。
+If I let Sakuya listen to that song, I'm sure... she'd be happy.
 --------------------------------
 [00000037][レイジ,レイジ,レイジ]
-そっか。そうかも知れないな。
-それじゃ、頼むぜリンリン。
+I see. Maybe so.  Then please, Rinrin.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-じゃ、またな。ケルベロス。あんまり泣くなよ？
-落ち着いたら、また遊んでやるからさ。な？
+See you then. Kerberos. Don't cry too much, okay?  When you calm down, we'll
+play again. What?
 --------------------------------
 [00000039][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-うん……。ぐすん……ひっく……。
-ぐすっ……ぐすっ……。
+Yeah... Gusun… hiccup….  Gusssssssssssssssssssssssssss.
 --------------------------------
 [00000040][リン,シャオメイ,リンリン]
-さあ、ケルベロス、こっちよ。
-行きましょう……。
+Come on, Kerberos, this way.  Let's go...
 --------------------------------
 [00000041][レイジ,レイジ,レイジ]
-どうしちゃったんだろうなぁ……ケルベロス。
-急に泣き出したりして。
-そんなに悲しい歌でもなかったと思うんだけど。
+I wonder what's going on... Kerberos.  I suddenly started crying.  I don't think
+it was that sad of a song.
 --------------------------------
 [00000042][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな。しかし、
-妙に心をざわつかせる歌ではあった。
-まさかあの娘が、あのような歌を歌うとはな……。
+That's right. However, it was a song that strangely stirred my heart.  I never
+expected that girl to sing a song like that...
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-……そうだな。また……聴きたいな、あの歌。
+...That's right. I want to hear that song again...
 --------------------------------

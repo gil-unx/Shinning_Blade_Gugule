@@ -1,755 +1,631 @@
 [0197]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-あ、ガデムさん。
+Oh, Mr. Gadem.
 --------------------------------
 [00000001][ガデム,,ガデム]
-レイジか。
+Rage?
 --------------------------------
 [00000002][ガデム,,ガデム]
-……ほう。
+...Oh.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-どうしたんだ？
-オレの刀をまじまじと眺めたりして……。
+What's wrong?  I looked at my sword seriously...
 --------------------------------
 [00000004][ガデム,,ガデム]
-おぬし、なかなか良い得物を持っているな。
+You have some pretty good stuff.
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-良い得物……か。ほめてもらえるのって嬉しいな。
-よかったじゃないか、ユキヒメ。
-ガデムさんにほめられたぞ。
+Good deal... huh? I'm happy to receive praise.  That's great, Yukihime.  Mr.
+Gadem praised me.
 --------------------------------
 [00000006][ユキヒメ,ユキヒメ,ユキヒメ]
-そんなことは、見る者が見れば、わかる。
-武人であるガデムならば、まあ当然の反応だろう。
+Those who see it can understand that.  For Gadem, a warrior, it would be a
+natural reaction.
 --------------------------------
 [00000007][ガデム,,ガデム]
-ふむ、魂が変化した刀か。……実に興味深い。
+Hmm, a sword whose soul has changed. ...That's really interesting.
 --------------------------------
 [00000008][ユキヒメ,ユキヒメ,ユキヒメ]
-……ガデム。
-私のことをあまり、じろじろと見るでない。
+...Gadem.  Don't stare at me too much.
 --------------------------------
 [00000009][ガデム,,ガデム]
-ああ、申し訳ない。
-ユキヒメは刀とはいえ、ご婦人。
-これは失礼にあたる行為であったな。
+Oh, I'm sorry.  Although Yukihime is a sword, she is a lady.  This was a
+disrespectful act.
 --------------------------------
 [00000010][ユキヒメ,ユキヒメ,ユキヒメ]
-以後、気をつけてもらおう。
+Please be careful from now on.
 --------------------------------
 [00000011][ガデム,,ガデム]
-わかった、そのようにする。
+Okay, let's do it that way.
 --------------------------------
 [00000012][ユキヒメ,ユキヒメ,ユキヒメ]
-……まあ、武人が優れた得物に興味を持つ
-というのも、わからぬ心情ではないがな。
+...Well, I don't understand why a warrior would be interested in something
+superior.
 --------------------------------
 [00000013][ガデム,,ガデム]
-そう言ってもらえると嬉しいぞ、ユキヒメ。
-おぬしを見ていると、拙者の気持ちが昂ぶるのだ。
+I'm glad to hear that, Yukihime.  When I look at you, my feelings get excited.
 --------------------------------
 [00000014][ガデム,,ガデム]
-願わくば、一度拙者にも、
-雪姫を振るわせてもらえないだろうか。
+I wish you could let me use Yukihime once.
 --------------------------------
 [00000015][ユキヒメ,ユキヒメ,ユキヒメ]
-ああ、ガデムよ。
-残念だが、それは無理だ。
+Oh, Gadem.  I'm sorry, but that's not possible.
 --------------------------------
 [00000016][ユキヒメ,ユキヒメ,ユキヒメ]
-私は選ばれた者しか振るうことのできない刀。
-お主には扱えぬ。
+I am a sword that only the chosen ones can wield.  You can't handle it.
 --------------------------------
 [00000017][ガデム,,ガデム]
-……そうか。
-それは残念だな。
+...I see.  That's a shame.
 --------------------------------
 [00000018][ガデム,,ガデム]
-……であれば、だ。
-どうだろうか、レイジ。
-一度、拙者と手合わせをしてはくれないか？
+...If so.  What do you think, Rage?  Would you be willing to make arrangements
+with me for once?
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-手合わせ……って、
-ユキヒメで……ってことか？
+By matching... do you mean Yukihime...?
 --------------------------------
 [00000020][ガデム,,ガデム]
-左様。
+Mr. Left.
 --------------------------------
 [00000021][ユキヒメ,ユキヒメ,ユキヒメ]
-ほほう、面白そうだな。
+Hoho, that looks interesting.
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-そ、そんな無茶言わないでくれよ。
-ガデムさんと真剣勝負だなんて……。
+Oh, please don't say such nonsense.  I can't believe it's a serious competition
+with Gadem-san...
 --------------------------------
 [00000023][ガデム,,ガデム]
-……拙者では、勝負の相手として、
-不足であると申されるか？
+...Do you think I'm not good enough as a competitive opponent?
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-いや、そうじゃなくて……。
-オレはユキヒメで
-仲間と戦うことなんて、できないんだ。
+No, it's not that...  I'm Yukihime, I can't fight with my friends.
 --------------------------------
 [00000025][ユキヒメ,ユキヒメ,ユキヒメ]
-軟弱者！
+Weak!
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-……えっ!?
+...Eh!?
 --------------------------------
 [00000027][ユキヒメ,ユキヒメ,ユキヒメ]
-武人の世界に、仲間であるとか、
-そのようなことは関係ない。
+In the world of warriors, being friends or anything like that doesn't matter.
 --------------------------------
 [00000028][ユキヒメ,ユキヒメ,ユキヒメ]
-真剣勝負を申し込まれたのならば、
-受けてやるのが礼儀ではないのか!?
+If you're offered a serious fight, isn't it polite to accept it!?
 --------------------------------
 [00000029][ガデム,,ガデム]
-……ふふっ。
-ユキヒメは話がわかるようだな。
+...Hehe.  Yukihime seems to understand what I'm talking about.
 --------------------------------
 [00000030][ガデム,,ガデム]
-レイジよ、
-どうしても手合わせすることは
-かなわぬだろうか？
+Rage, Is it impossible for us to come together?
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-え、ええっと。そう言われても……。
+Oh, um. Even if you say that...
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-オレはガデムさんを傷つけたくない。
+I don't want to hurt Mr. Gadem.
 --------------------------------
 [00000033][ガデム,,ガデム]
-拙者を傷つけたくない、と……。
-それはつまり、レイジは拙者に勝てるつもり
-……そういうことなのだな？
+I don't want to hurt myself...  That means Rage intends to defeat me ...is that
+what you mean?
 --------------------------------
 [00000034][ガデム,,ガデム]
-先ほどは否定されたが、
-やはり拙者では相手として不足している
-というのが、レイジの本音のようだな。
+You denied it earlier, but it seems like Rage's true feelings are that I'm not
+good enough as an opponent after all.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-ち、違うんだ。
-そうじゃなくて、言葉のあやというか……。
+No, that's not true.  It's not that, it's just a word of mouth...
 --------------------------------
 [00000036][ガデム,,ガデム]
-そのように言葉を取りつくろい、
-気づかわなくとも結構。
+You don't have to worry about changing your words like that. It's fine.
 --------------------------------
 [00000037][ガデム,,ガデム]
-拙者、修行して出直すこととしよう。
+I'm going to train and start over.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-ガデムさん……。
+Mr. Gadem...
 --------------------------------
 [00000039][ガデム,,ガデム]
-もし拙者が、レイジに見合う実力を
-得られたときには、是非、手合わせを
-お願いしたい。
+If I can obtain the ability to match Rage, I would like to ask you to join me.
 --------------------------------
 [00000040][ガデム,,ガデム]
-……それでは、失礼する。
+...Well then, please excuse me.
 --------------------------------
 [00000041][レイジ,レイジ,レイジ]
-……あ、行っちゃった。
+...Oh, I'm gone.
 --------------------------------
 [00000042][ユキヒメ,ユキヒメ,ユキヒメ]
-ふん。
+Hmm.
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-やっぱり仲間とは戦えない。
+I can't fight with my friends after all.
 --------------------------------
 [00000044][ガデム,,ガデム]
-……どうしても、か。
-意志が固いようだな。
+...By all means, huh?  You seem to have a strong will.
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-ああ。
-訓練や修行ならともかく、
-仲間と本気で戦うなんて、オレにはできないよ。
+Yeah.  I don't care about training and ascetic practices, I can't really fight
+with my friends.
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-オレにとって、ガデムさんやみんなは、
-大切な人たちだから……。
+Gadem and everyone else are important people to me...
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-たとえ真摯な理由があったとしても、
-刀を交えるなんて、できないんだ。
+Even if you have a sincere reason, you can't cross swords.
 --------------------------------
 [00000048][ガデム,,ガデム]
-……そうか。
-そこまで言うのであれば、無理強いはしない。
+...I see.  If you say that much, I won't force you.
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-ごめんよ、ガデムさん。
+Sorry, Mr. Gadem.
 --------------------------------
 [00000050][ガデム,,ガデム]
-いや、謝らずとも良い。
-むしろ拙者は、感動した。
-おぬしの、仲間を想う心にな。
+No, you don't have to apologize.  In fact, I was impressed.  Your heart cares
+for your friends.
 --------------------------------
 [00000051][ガデム,,ガデム]
-今後とも、よろしく頼むぞ。
+I look forward to your continued support.
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-ああ！　こちらこそ、よろしく！
+Oh! nice to meet you too!
 --------------------------------
 [00000053][ガデム,,ガデム]
-どうした？
-言いたいことがあるのならば、
-最後まで言わぬか？
+What happened?  If you have something to say, why don't you say it till the end?
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-ご、ごめん……。
+Sorry...
 --------------------------------
 [00000055][ユキヒメ,ユキヒメ,ユキヒメ]
-ふん、軟弱なうえ、
-ハッキリとモノも言えぬか……。
+Hmm, you're so weak and can't even say things clearly...
 --------------------------------
 [00000056][ガデム,,ガデム]
-……どちらにせよ、おぬしが勝負を
-する気がないというのは良くわかった。
+...In any case, I understand that you have no intention of fighting.
 --------------------------------
 [00000057][ガデム,,ガデム]
-今すぐには無理でも、
-いつか気が向いたときに、
-真剣勝負を受けてもらいたいものだな。
+Even if it's not possible right now, I'd like you to take me seriously someday
+when you feel like it.
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000059][ガデム,,ガデム]
-さて……。拙者は行くとしよう。
+Well... I guess I'll go.
 --------------------------------
 [00000060][ガデム,,ガデム]
-おぬしと……いや、雪姫と勝負ができる日、
-楽しみに待っておるぞ。
+I'm looking forward to the day when I can compete with you... no, Yukihime.
 --------------------------------
 [00000061][ユキヒメ,ユキヒメ,ユキヒメ]
-ああ、私も楽しみにしている。
+Oh, I'm looking forward to it too.
 --------------------------------
 [00000062][none]
-オレはガデムさんを傷つけたくない
+I don't want to hurt Mr. Gadem.
 --------------------------------
 [00000063][none]
-やっぱり仲間とは戦えない
+I can't fight with my friends after all.
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-ガデムさん、こんにちは。
+Hello Gadem.
 --------------------------------
 [00000065][ガデム,,ガデム]
-……うむ。レイジか。
-おぬしの気は、まだ変わらぬか？
+...Hmm. Is it Rage?  Have you still not changed your mind?
 --------------------------------
 [00000066][レイジ,レイジ,レイジ]
-ああ……。
-やっぱり、仲間と戦うのはちょっとな。
+Ah...  After all, it's a little hard to fight with your friends.
 --------------------------------
 [00000067][ガデム,,ガデム]
-そうか。
+I see.
 --------------------------------
 [00000068][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……うっ。ガデムさん、すごく残念そうだな。
-ここはひとつ、話題を変えよう）
+@fcFFAAFFAA(...Ugh. Gadem-san, you look really disappointed.
+Let's change the subject here.)
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-あ、あの。
-話は変わるけど、ガデムさんに
-聞きたかったことがあるんだ。
+Oh, that.  It's off topic, but there's something I wanted to ask Mr. Gadem.
 --------------------------------
 [00000070][ガデム,,ガデム]
-うむ、なんだ？
+Hmm, what?
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-ガデムさんって、ミスティの部下なんだよね？
+Mr. Gadem is Misty's subordinate, right?
 --------------------------------
 [00000072][ガデム,,ガデム]
-そうだ。
-忠誠を尽くしている。
+Yes.  He is loyal.
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-ガデムさんがミスティの海賊団に入った
-理由とか、聞きたいなって、思ったんだけど……。
+I was wondering why Gadem-san joined Misty's Pirates, but...
 --------------------------------
 [00000074][ガデム,,ガデム]
-……ほう。
-拙者がミスティ様にお仕えするようになった理由か。
+...Oh.  Is that why I came to serve Misty-sama?
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-ミスティって我がままなところがあるけど、
-ガデムさんも、それに付き合ってるのかな～
-……って、ずっと気になってたんだ。
+Misty has a selfish side, and I've always wondered if Gadem-san agrees with
+that. I've always wondered.
 --------------------------------
 [00000076][ガデム,,ガデム]
-レイジよ、ミスティ様は確かに自由なお方だが、
-あまり、悪し様に言うのは勘弁してくれぬか。
-あの方は、拙者の主……なのだ。
+Rage, Misty-sama is certainly a free person, but please refrain from speaking
+too much to Misty-sama.  That person is my master...
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-あ……悪かった。つい……。
+Ah... that was bad. unintentionally…….
 --------------------------------
 [00000078][ガデム,,ガデム]
-うむ、気をつけてくれ。
+Hmm, be careful.
 --------------------------------
 [00000079][ガデム,,ガデム]
-それで……拙者がミスティ様に仕えている
-理由であったな。
+So...that's why I serve Misty-sama.
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-うん。
+Yeah.
 --------------------------------
 [00000081][ガデム,,ガデム]
-簡単に言うと、
-ミスティ様は、拙者の命の恩人なのだ。
+Simply put, Misty-sama is my lifesaver.
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-……っ！
-そうだったんだ!?
+...!  Is that so!?
 --------------------------------
 [00000083][ガデム,,ガデム]
-左様。
-拙者は昔、傭兵をやっていた。
+Mr. Left.  I used to be a mercenary.
 --------------------------------
 [00000084][ガデム,,ガデム]
-街に雇われれば門の前に立ち、
-軍に雇われれば、戦場に出る。
-そして、海賊に雇われれば……船に乗るのだ。
+If you are hired by the city, you will stand at the gate; if you are hired by
+the army, you will be on the battlefield.  And if you are hired by pirates...
+you will board the ship.
 --------------------------------
 [00000085][ガデム,,ガデム]
-あるとき拙者は、小さな海賊に雇われ、
-その航海に同行していた。
+Once, I was hired by a small pirate to accompany him on a voyage.
 --------------------------------
 [00000086][ガデム,,ガデム]
-……だが運悪く、海賊船は嵐に襲われてしまった。
-金のない小さな海賊だ。頑丈だと言い難い船は
-簡単にへし折れ、海の藻屑となってしまった。
+...But unfortunately, the pirate ship was attacked by a storm.  I'm a small
+pirate with no money. The ship, which could hardly be called sturdy, was easily
+broken and turned into scum in the sea.
 --------------------------------
 [00000087][レイジ,レイジ,レイジ]
-え……っ。
-ガデムさんの乗っていた船が……!?
+Huh...  The ship Gadem was on...!?
 --------------------------------
 [00000088][ガデム,,ガデム]
-乗組員たちは全員、嵐の大海原へと
-投げ出された。
+The entire crew was thrown into the stormy ocean.
 --------------------------------
 [00000089][ガデム,,ガデム]
-拙者とて例外ではない。
-元は海賊船の一部であった板きれにしがみつき、
-荒れ狂う海のうえで、必死に耐えた。
+I am no exception.  Clinging to a piece of plank that was originally part of a
+pirate ship,  trying to hold on through the raging seas.
 --------------------------------
 [00000090][ガデム,,ガデム]
-１日ほど過ぎると、やがて嵐も収まった。
-穏やかになった海面に浮かび、あたりを見渡したが、
-拙者以外の人影は、ひとつも見えなかった。
+After about a day, the storm subsided.  I floated on the calm surface of the sea
+and looked around, but  I couldn't see a single person other than myself.
 --------------------------------
 [00000091][ガデム,,ガデム]
-沈んだ船の海賊たちが、生きているのかどうかは、
-未だにわからない……。
+We still don't know if the pirates on the sunken ship are still alive...
 --------------------------------
 [00000092][ガデム,,ガデム]
-拙者も体力の限界が近づいてきており、
-死を覚悟し始めたのだが、そのときだった……。
+I was also nearing the limit of my physical strength, and I was beginning to
+prepare for death, but at that time...
 --------------------------------
 [00000093][ガデム,,ガデム]
-大きな海賊船団が、拙者の側を通りかかったのだ。
+A large pirate fleet passed by my side.
 --------------------------------
 [00000094][ガデム,,ガデム]
-海賊たちは、
-海の上から助けを求める拙者に気が付き、
-自分たちの船へと引き上げてくれた。
+The pirates saw me calling for help from the sea, and pulled me onto their ship.
 --------------------------------
 [00000095][ガデム,,ガデム]
-そのときに出会ったのが、ミスティ様だったのだ。
+That's when I met Misty-sama.
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-へぇ……。
-ミスティも、人助けをするんだ。
-ちょっと、見直したかも……。
+Huh...  Misty also helps people.  Maybe I should reconsider...
 --------------------------------
 [00000097][ガデム,,ガデム]
-ミスティ様は、
-あのように振る舞っていらっしゃるが、
-根は立派なお方なのだ。
+Misty-sama may act like that, but she is actually a fine person.
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-それでガデムさんは、助けられたときに、
-そのままミスティの海賊団に入ったってこと？
+So, when you were rescued, Gadem-san just joined Misty's Pirates?
 --------------------------------
 [00000099][ガデム,,ガデム]
-うむ。
-せめてもの恩返し……というわけだ。
+Hmm.  At least I can return the favor...
 --------------------------------
 [00000100][レイジ,レイジ,レイジ]
-忠誠を尽くせる相手がいるって、いいね。
+It's nice to have someone to be loyal to.
 --------------------------------
 [00000101][ガデム,,ガデム]
-……そうだな。
-拙者は、幸せ者だと思っている。
+...That's right.  I consider myself a happy person.
 --------------------------------
 [00000102][レイジ,レイジ,レイジ]
-助けてもらった恩を、
-たくさん返せるように、頑張らなきゃな。
+I have to do my best to repay the favor you gave me.
 --------------------------------
 [00000103][ガデム,,ガデム]
-うむ。
-そのために拙者は修行してもっと強くなり、
-ミスティ様を支えていかねばならん。
+Hmm.  For that purpose, I must train and become stronger, and support
+Misty-sama.
 --------------------------------
 [00000104][ガデム,,ガデム]
-……というわけで、レイジよ。
+...So, Rage.
 --------------------------------
 [00000105][レイジ,レイジ,レイジ]
-……なんですか？
+...What?
 --------------------------------
 [00000106][ガデム,,ガデム]
-拙者の修行の一環として、
-是非、手合わせを願いたいのだが……。
+As part of my training, I would like to ask you to help me...
 --------------------------------
 [00000107][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（し、しまった！
-話題を逸らしたはずなのに、
-また戻ってきてしまった！）
+@fcFFAAFFAA(S-shit!
+I thought I went off topic,
+but it came back again!)
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-あ、あはははは。
-それはまた、今度……ということで。
+Ah, ahahahaha.  That's it for another time...
 --------------------------------
 [00000109][ガデム,,ガデム]
-やはり無理か……。
+I guess it's impossible...
 --------------------------------
 [00000110][レイジ,レイジ,レイジ]
-悪いけど……。
+Sorry but...
 --------------------------------
 [00000111][ガデム,,ガデム]
-……さて。
-拙者はそろそろ、行くとしよう。
-手合わせ……ではないが、修行の時間なのでな。
+...Okay.  I think it's time to go.  It's not a combination of hands... but it's
+time for training.
 --------------------------------
 [00000112][レイジ,レイジ,レイジ]
-そ、そうか。
-それじゃあ、また。
+Oh, I see.  See you then.
 --------------------------------
 [00000113][ガデム,,ガデム]
-ああ。
-いつか良い返事を、期待しているぞ。
+Yeah.  I'm hoping for a good answer someday.
 --------------------------------
 [00000114][レイジ,レイジ,レイジ]
-ずっと、ミスティの元にいるつもりなのか？
+Are you planning on staying with Misty forever?
 --------------------------------
 [00000115][ガデム,,ガデム]
-……うん？
-どういう意味だ。
+...Yeah?  What does it mean?
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-いや、助けてもらった恩で仕えてるんだったら、
-恩を返し終わったときには、離れていくのかな
-って思って……。
+No, if I'm serving you in return for your help, I wonder if you'll leave me when
+I'm done repaying you...
 --------------------------------
 [00000117][ガデム,,ガデム]
-それは……考えられんな。
-拙者の受けた恩は、とても大きなものだ。
-一生かけても、返すことはできまい。
+That's...unthinkable.  The debt I have received is very great.  Even if I spend
+my whole life, I will never be able to give it back.
 --------------------------------
 [00000118][ガデム,,ガデム]
-それに、ミスティ様に救われた命だ。
-それをすべてミスティ様のために使うのは
-当然のこと。
+Besides, Misty-sama saved my life.  It's only natural that I use it all for
+Misty-sama.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-そこまで尽くせる相手がいるって、いいね。
+It's nice to have someone who can go that far.
 --------------------------------
 [00000120][ガデム,,ガデム]
-ああ、その通りだな。
+Yeah, you're right.
 --------------------------------
 [00000121][ガデム,,ガデム]
-……うん？
-おっと、もうこんな時間か。
+...Yeah?  Oops, is it already that long?
 --------------------------------
 [00000122][レイジ,レイジ,レイジ]
-なにかあるのか？
+Is there something wrong?
 --------------------------------
 [00000123][ガデム,,ガデム]
-いやなに、修行をしようと決めていた時間なのだ。
-ミスティ様のお役に立てるのも、
-日々の鍛錬あってこそ。
+No, it's the time I decided to train.  It is through daily training that I can
+be of help to Misty-sama.
 --------------------------------
 [00000124][ガデム,,ガデム]
-拙者はそろそろ、失礼させてもらうぞ。
+It's time for me to excuse myself.
 --------------------------------
 [00000125][レイジ,レイジ,レイジ]
-ああ、それじゃあ、また。
+Oh, see you then.
 --------------------------------
 [00000126][ガデム,,ガデム]
-……ううむ。
-レイジにとっては、
-少々退屈な話であったかな？
+...Hmm.  For Rage, I think it was a bit boring.
 --------------------------------
 [00000127][レイジ,レイジ,レイジ]
-い、いや！
-そんなことはないけど……。
+No, no!  That's not the case though...
 --------------------------------
 [00000128][ガデム,,ガデム]
-無理をせずとも良い。
-自身にとっては大事な話でも、他者からみれば
-他愛もない話……などということは、よくある。
+You don't have to push yourself too hard.  Even if it is important to you, it
+often seems trivial to others.
 --------------------------------
 [00000129][レイジ,レイジ,レイジ]
-ごめん。
+Sorry.
 --------------------------------
 [00000130][ガデム,,ガデム]
-気にするな。
+Don't worry.
 --------------------------------
 [00000131][ガデム,,ガデム]
-さて……もうこんな時間か。
+Now...is it already that long?
 --------------------------------
 [00000132][レイジ,レイジ,レイジ]
-なにかあるのか？
+Is there something wrong?
 --------------------------------
 [00000133][ガデム,,ガデム]
-拙者はこの後、修行の時間なのだ。
+After this, it's time for me to train.
 --------------------------------
 [00000134][レイジ,レイジ,レイジ]
-そうなんだ。
-がんばってるな。
+That's right.  You're working hard.
 --------------------------------
 [00000135][ガデム,,ガデム]
-ミスティ様のお役に立つためには、
-力をつけておかねばならぬからな。
+In order to be of use to Misty-sama, I need to gain strength.
 --------------------------------
 [00000136][ガデム,,ガデム]
-……そういうことゆえ、
-拙者はここで、失礼させてもらうぞ。
+...For that reason, I will excuse myself here.
 --------------------------------
 [00000137][レイジ,レイジ,レイジ]
-うん、じゃあ、また。
+Yeah, see you then.
 --------------------------------
 [00000138][ミストラル,ネレイス,ミスティ]
-……おや、レイジではないか。
+...Oh, isn't it Rage?
 --------------------------------
 [00000139][レイジ,レイジ,レイジ]
-あ、ミスティ。
-今ちょうどガデムさんと、
-お前のことを話してたんだ。
+Oh, Misty.  I was just talking to Mr. Gadem about you.
 --------------------------------
 [00000140][ミストラル,ネレイス,ミスティ]
-ガデムと、わらわのことを……。
-ふむ、そうか。
+About Gadem and Warawa...  Hmm, I see.
 --------------------------------
 [00000141][レイジ,レイジ,レイジ]
-ミスティって、意外といいヤツだったんだな。
-オレ、見直したよ。
+Misty turned out to be a surprisingly nice guy.  I looked it over.
 --------------------------------
 [00000142][ミストラル,ネレイス,ミスティ]
-意外と、とはなんじゃ。失礼な。
+Surprisingly. Impolite.
 --------------------------------
 [00000143][レイジ,レイジ,レイジ]
-いや、だってミスティって、
-漂流していたガデムさんを助けたんだろ？
+No, because Misty helped Mr. Gadem who was adrift, right?
 --------------------------------
 [00000144][レイジ,レイジ,レイジ]
-そういうことするようなヤツだなんて、
-思ってなかったからさ。
+I never thought you'd be the type to do something like that.
 --------------------------------
 [00000145][ミストラル,ネレイス,ミスティ]
-ああ……。
-ガデムを拾ったときの話か。
+Ah...  Is this about when you picked up Gadem?
 --------------------------------
 [00000146][ミストラル,ネレイス,ミスティ]
-海に捨てられている動物があれば拾って世話をする。
-誰だって、そうであろう。
-当然のことではないか？
+If there is an animal abandoned at sea, pick it up and take care of it.  Anyone
+would be like that.  Isn't that obvious?
 --------------------------------
 [00000147][レイジ,レイジ,レイジ]
-え……。
-拾って……世話？
+Huh...  Pick it up...take care of it?
 --------------------------------
 [00000148][ミストラル,ネレイス,ミスティ]
-そうじゃ。
-わらわは動物愛護の精神に
-満ちあふれておるからのう。
+That's right.  Warawa is full of the spirit of animal protection .
 --------------------------------
 [00000149][ミストラル,ネレイス,ミスティ]
-……むむ、動物愛護で思い出した。
-わらわは、こんなことをしている場合では
-なかったのじゃ。
+...Hmm, animal rights reminded me of that.  Well, I shouldn't have done
+something like this .
 --------------------------------
 [00000150][ミストラル,ネレイス,ミスティ]
-フェンリルの拾ってきたネコが、
-腹を空かせておるからな。
-エサを与えに行かねばならぬのじゃ。
+The cat that Fenrir picked up is hungry.  I have to go feed it.
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-……ネコ？
+...Cat?
 --------------------------------
 [00000152][ミストラル,ネレイス,ミスティ]
-そうじゃ。
-フェンリルがどこからともなく拾ってきて、
-隠れて飼っておるのじゃ。
+That's right.  Fenrir picked it up out of nowhere and is keeping it hidden.
 --------------------------------
 [00000153][ミストラル,ネレイス,ミスティ]
-そのような楽しみを独り占めさせるのは
-つまらないじゃろう。
+It would be boring to keep that kind of fun to yourself.
 --------------------------------
 [00000154][ミストラル,ネレイス,ミスティ]
-だからわらわも、フェンリルには内緒で、
-こっそりエサを与えにいったりしておる。
+That's why I secretly go feeding Fenrir without telling him.
 --------------------------------
 [00000155][レイジ,レイジ,レイジ]
-は、はは……っ。
+Ha, ha...
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（そうか。ミスティにとってはガデムさんもネコも、
-みんな同じ扱いなんだ……）
+@fcFFAAFFAA(I see. For Misty, Gadem and the cat are all treated the same...)
 --------------------------------
 [00000157][ミストラル,ネレイス,ミスティ]
-では、わらわは行くぞ。
+Well then, let's go.
 --------------------------------
 [00000158][レイジ,レイジ,レイジ]
-あいつの中では、
-オレもネコたちと同列扱いされてる……ってことは、
-ないよな？　まさか……。
+Among him, I'm treated the same as the cats... Isn't that right? No way...
 --------------------------------
 [00000159][none]
-忠誠を尽くせる相手がいるって、いいね
+It's nice to have someone to be loyal to.
 --------------------------------
 [00000160][none]
-ずっと、ミスティの元にいるつもりなのか？
+Are you planning on staying with Misty forever?
 --------------------------------
 [00000161][レイジ,レイジ,レイジ]
-ガデムさん、こんにちは。
+Hello Gadem.
 --------------------------------
 [00000162][ガデム,,ガデム]
-……レイジか。
+...Rage?
 --------------------------------
 [00000163][レイジ,レイジ,レイジ]
-ガデムさん、少し話があるんだけど、いいかな？
+Mr. Gadem, I have something to say to you, is that okay?
 --------------------------------
 [00000164][ガデム,,ガデム]
-おぬしとは、言葉を交わすよりも
-剣を交えたいものだがな。
+I'd rather exchange swords with you than exchange words.
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-は、はははは……。
+Ha, ha, ha...
 --------------------------------
 [00000166][リン,シャオメイ,リンリン]
-大変！　大変！　大変……っ！
+It’s tough! hard! 
 --------------------------------
 [00000167][レイジ,レイジ,レイジ]
-……ん、どうしたんだ、リンリン。
+...Hmm, what's wrong, Rinrin?
 --------------------------------
 [00000168][ガデム,,ガデム]
-えらく慌てているようだな。
+You seem really panicked.
 --------------------------------
 [00000169][リン,シャオメイ,リンリン]
-あ、レイジにガデム！
-よかった……いいところに。
+Ah, Rage and Gadem!  Good... in a good place.
 --------------------------------
 [00000170][リン,シャオメイ,リンリン]
-この近くの村が、
-帝国軍に襲われてるらしいの！
+It seems that a village near here is being attacked by the Imperial Army!
 --------------------------------
 [00000171][レイジ,レイジ,レイジ]
-なんだって!?
+What?!
 --------------------------------
 [00000172][リン,シャオメイ,リンリン]
-だから、一緒に救援に行ってほしいんだけど……。
+That's why I want you to go to the rescue with me...
 --------------------------------
 [00000173][ガデム,,ガデム]
-無論だ、すぐに参ろう。
-案内を頼むぞ。
+Of course, let's go right away.  I'll ask for guidance.
 --------------------------------
 [00000174][リン,シャオメイ,リンリン]
-ありがとう！　こっちよ！
+Thank you! Over here!
 --------------------------------
 [00000175][レイジ,レイジ,レイジ]
-ガデムさん、約束……覚えてるよな？
+Gadem-san, you promise...you remember, right?
 --------------------------------
 [00000176][ガデム,,ガデム]
-ああ、覚えている。
-今後はおぬしに対して、
-勝負をしたいなどとは言わぬ。
+Yeah, I remember.  From now on, I won't tell you that I want to compete with
+you.
 --------------------------------
 [00000177][レイジ,レイジ,レイジ]
-ああ、そうしてくれ。
+Oh, please do that.
 --------------------------------
 [00000178][ユキヒメ,ユキヒメ,ユキヒメ]
-ううむ。
-私は少し、残念だがな。
+Hmm.  I'm a little disappointed.
 --------------------------------
 [00000179][レイジ,レイジ,レイジ]
-……お前は少し黙っててくれ。頼むから。
+...You just need to shut up. I'll ask you.
 --------------------------------
 [00000180][ガデム,,ガデム]
-それにしても、良い勝負であった。
-受けてくれたことを感謝するぞ、レイジ。
+Anyway, it was a good match.  Thank you for accepting me, Rage.
 --------------------------------
 [00000181][レイジ,レイジ,レイジ]
-本当に良い勝負だったな。
+That was a really good match.
 --------------------------------
 [00000182][ガデム,,ガデム]
-拙者はこれまで、つわもの共と幾度かの
-剣の勝負をしてきたが、今回ほど
-熱くなれる戦いはなかった。
+I have had several sword fights with Tsuwamono in the past, but none has been as
+exciting as this one.
 --------------------------------
 [00000183][レイジ,レイジ,レイジ]
-ああ、オレも同じだ。
+Yeah, I'm the same way.
 --------------------------------
 [00000184][レイジ,レイジ,レイジ]
-……だけどやっぱり、仲間と競い合うよりは、
-協力していく方が、オレは好きかな。
+...But I think I prefer cooperating with my friends rather than competing with
+them.
 --------------------------------
 [00000185][ガデム,,ガデム]
-ふふっ、そうか。
-やはり、その考えは変わらぬようだな。
+Hehe, I see.  It seems like that idea hasn't changed.
 --------------------------------
 [00000186][レイジ,レイジ,レイジ]
-そうだな。オレのポリシーみたいなもの……かな。
+Yeah. It's like my policy...I guess.
 --------------------------------
 [00000187][ガデム,,ガデム]
-なるほど、ポリシー。
-ならば拙者の、強者とは剣を交えたい
-……というこの想いもまた、信条。
+I see, policy.  In that case, I want to cross swords with the strong. This
+desire is also my belief.
 --------------------------------
 [00000188][ガデム,,ガデム]
-よし……決めたぞ。
+Okay...I've decided.
 --------------------------------
 [00000189][ガデム,,ガデム]
-拙者は、おぬしがその考えを覆して、
-思わず勝負を申し込んでしまいたくなるほど、
-魅力的な剣士になることを目指すとしよう。
+Let's say that I aim to become a swordsman so attractive that you will want to
+overturn that idea and challenge me to a match.
 --------------------------------
 [00000190][レイジ,レイジ,レイジ]
-魅力的な剣士……？
+An attractive swordsman...?
 --------------------------------
 [00000191][ガデム,,ガデム]
-左様。
-拙者に魅力があれば、きっとおぬしも、
-戦ってみたいと、思うようになるだろうからな。
+Mr. Left.  If you find me attractive, I'm sure you'll want to fight, too.
 --------------------------------
 [00000192][ガデム,,ガデム]
-……さて。
-そのためには、修行が必要か。
+...Okay.  Is training necessary for that?
 --------------------------------
 [00000193][ガデム,,ガデム]
-思い立ったが吉日。
-拙者は修行のため、これにて失礼させてもらおう。
+It was a lucky day.  As I am training, please excuse me.
 --------------------------------
 [00000194][レイジ,レイジ,レイジ]
-ガデムさんは、強さを求めることに、
-妥協がないんだな……。
+Mr. Gadem is uncompromising when it comes to seeking strength...
 --------------------------------
 [00000195][リン,シャオメイ,リンリン]
-勝負にこだわるあたりは、どうかと思うけど、
-レイジも、ガデムから見習うべき部分が、
-あるかも知れないわね。
+I don't think so, but I think Rage should learn from Gadem.
 --------------------------------
 [00000196][レイジ,レイジ,レイジ]
-ああ、そうだな。いろいろとあると思う。
-……よし！　オレも、負けないようにがんばるかぁ！
+Oh, yeah. I think there are many things.  ...Okay! I'll do my best not to lose
+too!
 --------------------------------

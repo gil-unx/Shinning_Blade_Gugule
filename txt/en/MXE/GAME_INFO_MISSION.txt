@@ -1,4 +1,4 @@
-[0398]
+[0406]
 *****************
 [00000000]
 
@@ -136,1295 +136,1290 @@ VlMxBattleMapInfo
 VlMxMissionInfo
 --------------------------------
 [00000045]
-「検証検証」森に侵入してきたモンスターを殲滅せよ。
-敵はゴブリンの小集団のようだ。
+"Verification Verification" Destroy the monsters that have invaded the forest. 
+The enemy appears to be a small group of goblins.
 --------------------------------
 [00000046]
-あたたかな風のゆくえ
+Where the warm wind goes
 --------------------------------
 [00000047]
-いにしえの超兵器
+ancient super weapon
 --------------------------------
 [00000048]
-おいしいパンのために
+for delicious bread
 --------------------------------
 [00000049]
-お化けが怖いミト：
-骸骨が夜な夜なグレイシアに集まってるらしい。
-気味が悪いから退治してくれよ。
+Mito is afraid of ghosts: 
+It seems that skeletons gather in Glaceon every night. 
+It's creepy, so please get rid of it.
 --------------------------------
 [00000050]
-さまよえる戦士の魂
+wandering warrior soul
 --------------------------------
 [00000051]
-その心、魂とともに
+With that heart and soul
 --------------------------------
 [00000052]
-たいせつなひと
+important person
 --------------------------------
 [00000053]
-どうやら森に敵の集団が潜んでいるらしいわ。
-大型モンスターも確認されているみたい。
-きっと連戦になるわ。気を引き締めていきなさい！
+It seems like there's a group of enemies lurking in the forest. 
+It seems that large monsters have also been confirmed. 
+I'm sure it will be a series of battles. Stay alert!
 --------------------------------
 [00000054]
-ねばねば好きのイアル：
-なんでも湖にはブルーペーストの群生地が
-あるらしいぜ。気になるなら見てきたらどうだ。
+Sticky Lover: 
+It seems there is a colony of Blue Paste in the lake
+. If you're interested, why not take a look?
 --------------------------------
 [00000055]
-もうすぐ成人のチェリン：
-神殿の境内でゴブリンが暴れてるらしいの。
-一説ではゴブリンの成人の儀式だとか・・・
+Chaerin is almost an adult:
+It seems that goblins are rampaging within the temple grounds. 
+One theory is that it's a goblin coming-of-age ceremony...
 --------------------------------
 [00000056]
-もてあそばれた生命
+A toyed with life
 --------------------------------
 [00000057]
-わがまま海賊のお宝さがし
+A selfish pirate's treasure hunt
 --------------------------------
 [00000058]
-アイララナサブ1
+Aira Ranah Sub 1
 --------------------------------
 [00000059]
-アイラ：
-ごめんなさいね、エルミナ・・・
-これもあなたのためなのよ・・・
+Isla:
+I'm sorry, Elmina...
+This is for you too...
 --------------------------------
 [00000060]
-アイラ：
-私とエルミナが囮になる。
-その隙に敵を包囲して殲滅するんだ。
+Aira: 
+Elmina and I will act as decoys. 
+Use that opportunity to surround and annihilate the enemy.
 --------------------------------
 [00000061]
-アウラ：
-どうやらモンスターは海から来てるみたいだ。
-ちょっと船で退治しに行ってくれるかい。
+Aura:
+It looks like monsters are coming from the sea. 
+Could you take a boat and go kill it?
 --------------------------------
 [00000062]
-アルティナサブ1
+Altina sub 1
 --------------------------------
 [00000063]
-アルティナサブ2
+Altina sub 2
 --------------------------------
 [00000064]
-アルティナサブ3
+Altina sub 3
 --------------------------------
 [00000065]
-アルティナ：
-ど、どうしよう？　レイジに聞かれちゃった・・・？
-あーもう、ここにいられない！
+Altina:
+What should I do? Rage asked me...? 
+Oh, I can't stay here anymore!
 --------------------------------
 [00000066]
-アルティナ：
-またルーンベールのケンタウロスね。
-けど今までの相手とは少し違うみたい。
+Altina:
+It's also a rune veiled centaur. 
+However, he seems to be a little different from the previous opponents.
 --------------------------------
 [00000067]
-アルティナ：
-ケフィアがいなくなっちゃったの・・・
-い、一緒に探してくれない？
+Altina:
+Kefir is missing...
+Could you look for it with me?
 --------------------------------
 [00000068]
-アルティナ：
-森に入りこんできたケンタウロスを撃退するわよ！
+Altina:
+We'll fight off the centaurs that have entered the forest!
 --------------------------------
 [00000069]
-アルティナ：
-森に姉さんを探しに行くわよ。
-当然、私は出撃するからね。
+Altina:
+I'm going to look for my sister in the forest. 
+Of course, I'll be heading out.
 --------------------------------
 [00000070]
-アルティナ：
-私の武器は弓。刀とは扱いが違うから
-戦いながら確認していくわよ。
+Altina:
+My weapon is a bow. It handles differently than a sword, so I'll check it while fighting.
 --------------------------------
 [00000071]
-アルフェウス：
-モンスターは我らの首都を再び襲うつもりらしい。
-早く退治してくだされ。
+Alpheus:
+It seems the monster plans to attack our capital again. 
+Please get rid of it quickly.
 --------------------------------
 [00000072]
-エアリィと剣
+Airy and the sword
 --------------------------------
 [00000073]
-エルミナエンディング
+elmina ending
 --------------------------------
 [00000074]
-エルミナサブ1
+elmina sub 1
 --------------------------------
 [00000075]
-エルミナサブ2
+elmina sub 2
 --------------------------------
 [00000076]
-エルミナ：
-ア、アイラ様が崖に落ちてしまって、私だけでは
-どうにも・・・お願いです、助けてください！
+Elmina: 
+Ah, Isla-sama has fallen onto a cliff, and I can't do anything on my own.
+Please, please help me!
 --------------------------------
 [00000077]
-エヴァンス：
-なんでもモンスターの巣には幽霊が出るらしくて、
-みんな怖がって退治できないんだ。頼んだぜ。
+Evans:
+It seems that ghosts appear in monster nests,
+and everyone is too scared to get rid of them. I asked for it.
 --------------------------------
 [00000078]
-エールブラン
+ale blanc
 --------------------------------
 [00000079]
-エールブラン確認用
+For checking ale blanc
 --------------------------------
 [00000080]
-カウンターアタック
+counter attack
 --------------------------------
 [00000081]
-カタリーナ：
-モンスターは教会跡を根城しているみたいです。
-まずはそこまで辿り着くところからですね。
+Katarina:
+It seems that the monster is based in the church ruins. 
+First of all, let's start by getting there.
 --------------------------------
 [00000082]
-カノンアインサブ1
+Kanon Ein Sub 1
 --------------------------------
 [00000083]
-カノンアインサブ2
+Kanon Ein Sub 2
 --------------------------------
 [00000084]
-カノン：
-さあ、あんたの大事な友達を助けに行くわよ。
-あたしも行くからね！
+Kanon:
+Now, let's go help your precious friend. 
+I'll go too!
 --------------------------------
 [00000085]
-カノン：
-なんでカイトが！？
-よくわかんないけど、まずは魔竜を倒すわよ！
+Kanon:
+Why Kaito! ? 
+I don't really understand, but I'll defeat the demon dragon first!
 --------------------------------
 [00000086]
-カノン：
-モンスターなんてあたしとアインだけで十分！
-あんたは邪魔にならないようにしてなさい。
+Kanon:
+Me and Ain are enough monsters! 
+Please stay out of the way.
 --------------------------------
 [00000087]
-ガデムサブ1
+Gadem sub 1
 --------------------------------
 [00000088]
-ガデムサブ2
+Gadem sub 2
 --------------------------------
 [00000089]
-ガデムサブ3
+Gadem sub 3
 --------------------------------
 [00000090]
-ガデム：
-レイジ、リンリン、急ぎ現場に向かおう。
-ところで、ひとつ提案があるのだが・・・
+Gadem:
+Rage, Rinrin, let's hurry to the scene. 
+By the way, I have a suggestion...
 --------------------------------
 [00000091]
-キノコの森
+mushroom forest
 --------------------------------
 [00000092]
-クララクラン：
-今こそベスティアに受けた恩義に報いる時です。
-３人で敵を撃退しましょう。
+Clalaclan:
+Now is the time to repay Bestia for your kindness. 
+Let's repel the enemies with 3 people.
 --------------------------------
 [00000093]
-クララクラン：
-敵の将軍も出撃しているようです。
-厳しい戦いになりそうですわね。
+Clalaclan:
+It looks like the enemy general is also sortieing. 
+It looks like it's going to be a tough battle.
 --------------------------------
 [00000094]
-クララ刃九郎サブ1
+Clala Hamakuro sub 1
 --------------------------------
 [00000095]
-クラントール
+Crantor
 --------------------------------
 [00000096]
-クラントール復興支援
+Crantor reconstruction support
 --------------------------------
 [00000097]
-グレゴリ：
-モンスターの巣は森林の奥にあるみたいだ。
-まずはそこまで辿り着くところからだな。　
+Gregory:
+It looks like the monster's nest is deep in the forest. 
+First of all, it's about getting there.　
 --------------------------------
 [00000098]
-ケルベロス：
-誰かが呼んでるの。
-レイジ、いっしょに行こ。
+Kerberos:
+Someone is calling. 
+Rage, let's go together.
 --------------------------------
 [00000099]
-ケンタウロスの尖兵
+centaur spearhead
 --------------------------------
 [00000100]
-ゴブリンの成人式
+Goblin coming of age ceremony
 --------------------------------
 [00000101]
-サクヤサブ1
+Sakuya sub 1
 --------------------------------
 [00000102]
-サクヤ：
-「失敗作」がどんなものかはわからないけど、
-外に出すわけにはいかないわ！
+Sakuya:
+I don't know what a "failed work" is, but
+I can't let it go!
 --------------------------------
 [00000103]
-サクヤ：
-この間の遺跡の周囲に、また不穏な動きがあるの！
-やっぱり、あいつが・・・お願い、急いで！
+Sakuya:
+There are some disturbing movements around the ruins the other day! 
+After all, it's him...please, hurry up!
 --------------------------------
 [00000104]
-サクヤ：
-もう一度遺跡調査に向かいましょう。
-先は長いわよ。準備を怠らないで。
+Sakuya:
+Let's head to investigate the ruins again. 
+We have a long way to go. Don't forget to prepare.
 --------------------------------
 [00000105]
-サクヤ：
-もしあの男が封印を解こうとしているなら、
-放っておくわけにはいかないわね。
+Sakuya:
+If that man is trying to break the seal,
+I can't leave him alone.
 --------------------------------
 [00000106]
-サクヤ：
-バルドルは大聖堂の地下にいるわ。
-行き方については私に任せて。
+Sakuya:
+Balder is in the basement of the cathedral. 
+Leave the directions to me.
 --------------------------------
 [00000107]
-サクヤ：
-リック・・・ネリスを探しに行きましょう。
-私とリンリン、それにレイジがサポートするわ。
+Sakuya:
+Rick...let's go find Neris. 
+Me, Rinrin, and Rage will support you.
 --------------------------------
 [00000108]
-サクヤ：
-レイジとリックが中心になって敵を撃退して。
-大丈夫。あなたたちならやれるわ。
+Sakuya:
+Rage and Rick will take the lead in repelling the enemies. 
+It's okay. You guys can do it.
 --------------------------------
 [00000109]
-サクヤ：
-収容所の中枢を攻撃するわ。まずは仕掛けを
-解いて、中枢への道を開くのよ。
+Sakuya:
+We'll attack the center of the camp. First, solve the trick
+and open the way to the center.
 --------------------------------
 [00000110]
-サクヤ：
-古代兵器の配備された遺跡を攻撃するわ。
-以前に出てきた大型兵器もいるはずよ。
+Sakuya:
+We will attack the ruins where ancient weapons are deployed. 
+There should also be large weapons that appeared before.
 --------------------------------
 [00000111]
-サクヤ：
-神殿への道は確保したわ。
-このまま周辺の敵勢力を排除するわよ！
+Sakuya:
+The road to the temple has been secured. 
+Let's eliminate the surrounding enemy forces!
 --------------------------------
 [00000112]
-サクヤ：
-絶対に伯爵を止めないと・・・
-もう一度、遺跡に行きましょう！
+Sakuya:
+We absolutely have to stop the Earl...
+Let's go to the ruins again!
 --------------------------------
 [00000113]
-サクヤ：
-街はずれの遺跡に不審な動きがあるの！
-調査に向かうわよ！　急いで！
+Sakuya:
+There's suspicious activity in the ruins on the outskirts of town! 
+I'm off to investigate! Quickly!
 --------------------------------
 [00000114]
-サクヤ：
-霊峰グレイシアの山頂を目指すわよ。
-長い戦いになるから、準備はしっかりね。
+Sakuya:
+We're aiming for the summit of the sacred mountain Glacier. 
+It's going to be a long battle, so be prepared.
 --------------------------------
 [00000115]
-シーン：
-モンスターは大勢で行くと隠れちゃうみたいなの。
-え、二人だけで行くの？
+Scene:
+It seems like monsters hide when you go in large numbers. 
+What, are you going alone?
 --------------------------------
 [00000116]
-ジェゼフ：
-２人と３人に分かれて挟撃っていうのはどうだ？
-チームは配置で決まるから気をつけるんだぜ。
+Joseph:
+How about splitting into two or three people and doing a pincer attack? 
+The team is determined by the placement, so be careful.
 --------------------------------
 [00000117]
-ジャンフェス用
+For Jean Festival
 --------------------------------
 [00000118]
-ジュウゾウ：
-驚くことに奴ら船を使って海を渡ってくるんだ。
-畑を襲うためにわざわざご苦労だよな。
+Juuzou:
+Surprisingly, they use ships to cross the ocean. 
+You have to go through all the trouble to raid the fields.
 --------------------------------
 [00000119]
-ジュリア：
-パンの仕入れを邪魔するモンスターを
-退治してください。　
+Julia:
+Please exterminate the monsters that are interfering with purchasing bread
+.　
 --------------------------------
 [00000120]
-ジュリオン：
-お願い、街の外にいるモンスターをやっつけて。
+Jurion:
+Please, defeat the monsters outside the city.
 --------------------------------
 [00000121]
-タウン説明(非表示のはず)
+Town description (should be hidden)
 --------------------------------
 [00000122]
-ダニエル：
-どうやらモンスターはエターニアに向かったらしい。
-早いとこ退治してくれ。
+Daniel:
+It looks like the monster is heading to Eternia. 
+Get rid of it as soon as possible.
 --------------------------------
 [00000123]
-ダニエル：
-早いところモンスターを退治してくれ。
-復興が進めば街の人も帰ってくるさ。
+Daniel:
+Get rid of the monsters as soon as possible. 
+As the reconstruction progresses, the people of the town will return.
 --------------------------------
 [00000124]
-ダニエル：
-蜂の大群がやってきやがった。
-しかもあいつら自爆するんだ。勘弁してくれ。
+Daniel:
+A swarm of bees has arrived. 
+And they self-destruct. Please give me a break.
 --------------------------------
 [00000125]
-ダリオ：
-お前らがもたもたしとるから、神殿にまで
-モンスターが現れおったぞ。早く退治してこんか。
+Dario:
+Because you guys are slowing down,
+monsters have appeared even in the temple. I hope you get rid of it soon.
 --------------------------------
 [00000126]
-ダークドラゴン１
+dark dragon 1
 --------------------------------
 [00000127]
-ダークドラゴン１確認用
+Dark Dragon 1 confirmation
 --------------------------------
 [00000128]
-ダークドラゴン２
+dark dragon 2
 --------------------------------
 [00000129]
-ダークドラゴン２確認用
+Dark Dragon 2 confirmation
 --------------------------------
 [00000130]
-ダークドラゴン３
+dark dragon 3
 --------------------------------
 [00000131]
-ダークドラゴン３確認用
+Dark Dragon 3 confirmation
 --------------------------------
 [00000132]
-ディランイサリサブ1
+dylan isari sub 1
 --------------------------------
 [00000133]
-ディランイサリサブ2
+dylan isari sub 2
 --------------------------------
 [00000134]
-ディラン：
-よーし、３人でドラゴン退治といこうじゃねえか。
+Dyran:
+Alright, let's go kill the dragon, the three of us.
 --------------------------------
 [00000135]
-ディラン：
-帝国の軍船を盗むとは、海賊以上に大胆だな。
-気に入った。俺とイサリも出撃させてもらうぜ。
+Dyran:
+Stealing an Imperial warship is more daring than a pirate. 
+I liked it. I'll let Isari and I sortie as well.
 --------------------------------
 [00000136]
-ディラン：
-火山島には帝国の奴らがいるはずだ。まずは
-そいつらを倒して、それからブレイバーンだな。
+Dyran: 
+There should be Empire guys on the volcanic island. First
+Defeat those guys, then Braeburn.
 --------------------------------
 [00000137]
-トウカサブ1
+touka sub 1
 --------------------------------
 [00000138]
-トウカサブ2
+touka sub 2
 --------------------------------
 [00000139]
-トウカ：
-スレイプニルよりも先に卵を見つけたいけど、
-途中で遭遇する可能性もあるわ。気をつけて。
+Touka:
+I'd like to find the egg before Sleipnir, but
+There's a chance I'll encounter it on the way. be careful.
 --------------------------------
 [00000140]
-トウカ：
-砂漠に来た帝国軍を撃退しましょう。
-他のみんなも来てくれているわ。
+Touka:
+Let's repel the imperial army that has come to the desert. 
+Everyone else is coming too.
 --------------------------------
 [00000141]
-トウカ：
-精霊王の卵とドラゴンの試練・・・
-まずはそこに辿り着くところからね。
+Touka:
+The Spirit King's egg and the dragon's trial...
+First, let's get there.
 --------------------------------
 [00000142]
-ドラゴニア帝国の逆襲
+Dragonia Empire Strikes Back
 --------------------------------
 [00000143]
-ドラゴンラバーズ
+dragon lovers
 --------------------------------
 [00000144]
-ファンロン
+Fan Long
 --------------------------------
 [00000145]
-ファンロン確認用
+For fan Ron confirmation
 --------------------------------
 [00000146]
-フェンリルサブ1
+fenrir sub 1
 --------------------------------
 [00000147]
-フェンリルサブ2
+fenrir sub 2
 --------------------------------
 [00000148]
-フェンリル：
-みんな既に配置についているようだな。
-協力して敵を殲滅するぞ！
+Fenrir:
+Looks like everyone is already in position. 
+Let's work together to destroy the enemy!
 --------------------------------
 [00000149]
-フェンリル：
-スルトが出てきたか。このままではシルディアが
-包囲される。帝国軍を撃退するぞ。
+Fenrir:
+Did Surtur appear? If this continues, Syldia will be surrounded
+. We will repel the imperial army.
 --------------------------------
 [00000150]
-フェンリル：
-今度こそスルトと決着を付ける。
-出撃させてもらうぞ。
+Fenrir:
+This time, I will settle the matter with Surtur. 
+I'll let you sortie.
 --------------------------------
 [00000151]
-フェンリル：
-悪いが今回は必ず出撃させてもらうぞ。
-スルト・・・奴は俺が倒す！
+Fenrir: 
+I'm sorry, but I'll make sure to send you out this time. 
+Surt...I will defeat him!
 --------------------------------
 [00000152]
-フェンリル：
-街を襲撃してきた敵を撃退するぞ・・・
+Fenrir:
+We'll repel the enemies that attacked the city...
 --------------------------------
 [00000153]
-フォンティーナ
+fontina
 --------------------------------
 [00000154]
-フリント：
-洞窟にモンスターが生まれるという不思議な
-宝箱があるようです。そこを目指してください。
+Flint: 
+There seems to be a mysterious treasure chest where monsters are born in the cave. Please aim for that.
 --------------------------------
 [00000155]
-ブレイバーン
+Braeburn
 --------------------------------
 [00000156]
-ブレイバーン確認用
+For checking Braeburn
 --------------------------------
 [00000157]
-ブンブンパニック
+boom boom panic
 --------------------------------
 [00000158]
-ベイルグラン
+Bailgrand
 --------------------------------
 [00000159]
-ベイルグラン確認用
+For confirmation of bail grand
 --------------------------------
 [00000160]
-ベスティア
+bestia
 --------------------------------
 [00000161]
-ペースト退治
+Paste extermination
 --------------------------------
 [00000162]
-ミスティサブ1
+misty sub 1
 --------------------------------
 [00000163]
-ミスティサブ2
+misty sub 2
 --------------------------------
 [00000164]
-ミスティサブ3
+misty sub 3
 --------------------------------
 [00000165]
-ミスティサブ4
+misty sub 4
 --------------------------------
 [00000166]
-ミスティサブ5
+misty sub 5
 --------------------------------
 [00000167]
-ミスティ：
-無理を言ってすまなかったな。わらわは、ひとりで
-お宝探しに行くとしよう・・・さらばじゃ。
+Misty:
+I'm sorry for forcing you. I'm going to go treasure hunting by myself...goodbye.
 --------------------------------
 [00000168]
-ミスティ：
-王家の谷に眠る秘宝・・・
-これはひとりで見つけなければならんのじゃ。
+Misty:
+The treasure that lies in the Valley of the Kings...
+You'll have to find it by yourself.
 --------------------------------
 [00000169]
-メルフィス：
-気味の悪い森ですけど、いい薪が取れるんです。
-モンスターを退治してください。
+Melfis:
+It's a creepy forest, but you can get good firewood. 
+Please exterminate the monsters.
 --------------------------------
 [00000170]
-モップ：
-モンスターは火山島に巣があるみたいなんです。
-なんでも暑さに耐えられれば手を引くとか・・・
+Mop:
+It seems the monster has a nest on a volcanic island. 
+If I can stand the heat, I'll give up...
 --------------------------------
 [00000171]
-モンスターの巣へ
+To the monster's nest
 --------------------------------
 [00000172]
-モンスターの深夜徘徊
+Monster's late night wandering
 --------------------------------
 [00000173]
-モンスターを挟撃せよ
+Attack the monster
 --------------------------------
 [00000174]
-モンスター増殖
+Monster proliferation
 --------------------------------
 [00000175]
-モンスター陣地夜襲
+Monster base night attack
 --------------------------------
 [00000176]
-ヤスベイ：
-えぇ！ 逃げるモンスターを追いかけてたら
-待ち伏せにあって孤立した！？　何してんだい！
+Yasbay:
+Eh! When I was chasing a fleeing monster
+I was ambushed and stranded! ? What are you doing!
 --------------------------------
 [00000177]
-ユキヒメサブ1
+Yukihime sub 1
 --------------------------------
 [00000178]
-ユキヒメサブ2
+Yukihime sub 2
 --------------------------------
 [00000179]
-ユキヒメサブ3
+Yukihime sub 3
 --------------------------------
 [00000180]
-ユキヒメサブ4
+Yukihime sub 4
 --------------------------------
 [00000181]
-ユキヒメ：
-お前はまだ目覚めたばかりで本調子じゃない。
-戦い方を確認しながらモンスターを倒すぞ。
+Yukihime:
+You just woke up and aren't in your best condition. 
+Let's defeat the monsters while checking how to fight.
 --------------------------------
 [00000182]
-ユキヒメ：
-くっ、ダークドラゴンが復活してしまった。
-レイジ！　我らの力で奴を今一度封印するぞ！
+Yukihime:
+Damn, the dark dragon has returned. 
+Rage! We will use our power to seal him away once again!
 --------------------------------
 [00000183]
-ユキヒメ：
-こうして地道に経験を積むのもよかろう。
-日々精進の心を忘れるな。
+Yukihime:
+It would be good to gain experience steadily like this. 
+Don't forget the spirit of dedication every day.
 --------------------------------
 [00000184]
-ユキヒメ：
-こらレイジ！　勇者らしい仕事などと浮かれるな！
-かなり深いみたいだから、準備を怠るんじゃないぞ！
+Yukihime:
+This is Rage! Don't get carried away with work like a hero! 
+It looks like it's quite deep, so don't neglect your preparations!
 --------------------------------
 [00000185]
-ユキヒメ：
-つべこべ言わずに
-一人でモンスターを撃退してみせよ！
+Yukihime:
+Don't say anything!
+Try fighting off the monsters by yourself!
 --------------------------------
 [00000186]
-ユキヒメ：
-レイジ、今日の私は機嫌がいい！
-新しい力の使い方を教えてやるから心して聞け！
+Yukihime:
+Rage, I'm in a good mood today! 
+I'll teach you how to use your new powers, so listen carefully!
 --------------------------------
 [00000187]
-ユキヒメ：
-レイジ、皆、お前のために立ち上がったのだ！
-将軍だろうが古代兵器だろうが、蹴散らしてしまえ！
+Yukihime:
+Rage, everyone stood up for you! 
+Whether it's a general or an ancient weapon, blow it away!
 --------------------------------
 [00000188]
-ユキヒメ：
-私のことなど、どうでもよい。
-冷徹に戦いに徹するのだ。
+Yukihime:
+You don't care about me. 
+Devote yourself to the battle calmly.
 --------------------------------
 [00000189]
-ライガ：
-あんたらが囮になってる間に、別の奴らが
-巣を壊しに行く。しばらく持ちこたえてくれ。
+Raiga:
+While you guys are acting as decoys,
+other guys are going to destroy the nest. Hold on for a while.
 --------------------------------
 [00000190]
-ラスボス登場イベント
+Last boss appearance event
 --------------------------------
 [00000191]
-ラナ：
-さあ、あたしとアイラ、レイジの３人で
-盗賊団をぶっとばすわよ！
+Ranah:
+Now, I, Isla, and Rage will destroy the bandits!
+Let's destroy the bandits!
 --------------------------------
 [00000192]
-ラナ：
-エレンシアに向かうわ。
-多分あのケンタウロスもいるはずよ。
+Ranah:
+I'm heading to Herencia. 
+Maybe that centaur is there too.
 --------------------------------
 [00000193]
-ラナ：
-暗黒騎士団に追われている人達を助けるわよ。
-たとえどんな奴が出てきたって負けないんだから！
+Ranah:
+I'll help those who are being chased by the Dark Knights. 
+No matter who comes along, I won't lose!
 --------------------------------
 [00000194]
-リックサブ1
+rick sub 1
 --------------------------------
 [00000195]
-リックサブ2
+rick sub 2
 --------------------------------
 [00000196]
-リックサブ3
+rick sub 3
 --------------------------------
 [00000197]
-リックサブ4
+rick sub 4
 --------------------------------
 [00000198]
-リック：
-アルベリッヒ・・・決着をつけるぞ。
+Rick:
+Alberich...we'll settle this.
 --------------------------------
 [00000199]
-リック：
-モンスターを倒して港町を奪還する。
-アルベリッヒ・・・すぐに引きずり出してやる。
+Rick:
+Defeat the monsters and take back the port town. 
+Alberich...I'll drag you out right away.
 --------------------------------
 [00000200]
-リック：
-今度こそ、守ってみせる！
+Rick:
+I'll protect you this time!
 --------------------------------
 [00000201]
-リック：
-俺とエアリィだけで十分だ。
-お前はじっとしていろ。
+Rick:
+Me and Airy are enough. 
+You stay still.
 --------------------------------
 [00000202]
-リック：
-村を襲わせるわけにはいかない。
-モンスターを全て倒すんだ。
+Rick:
+We can't let them attack the village. 
+Defeat all the monsters.
 --------------------------------
 [00000203]
-リック：
-食い止めるんじゃない。敵を全て倒すんだ。
+Rick:
+Don't stop it. Defeat all enemies.
 --------------------------------
 [00000204]
-リンリンサブ1
+Rinrin sub 1
 --------------------------------
 [00000205]
-リンリン：
-ちょっと洞窟まで一緒に来てほしいの。
-詳しい説明は後でするわ。お願いよ、レイジ。
+Rinrin:
+I'd like you to come with me to the cave. 
+I'll give a detailed explanation later. Please, Rage.
 --------------------------------
 [00000206]
-リンリン：
-レイジ、ローゼリンデを取り戻すためにも、
-今は彼女とあの仮面の男と戦い、そして勝ちなさい。
+Rinrin:
+Rage, in order to get Roselinde back,
+Now fight her and that masked man and win.
 --------------------------------
 [00000207]
-ルーンベール
+rune veil
 --------------------------------
 [00000208]
-レイジ、敵襲だ。
-どうやら敵はゴブリンの小集団らしい。
-大した敵ではない。一気に蹴散らしてやれ！
+Rage, the enemy is attacking. 
+It looks like the enemy is a small group of goblins. 
+It's not a big enemy. Kick them all at once!
 --------------------------------
 [00000209]
-レイジの危機
+crisis of rage
 --------------------------------
 [00000210]
-レイジ：
-いったい何がどうなってるんだ・・・
-わからないけど、とにかく今は戦うしかない！
+Rage:
+What the hell is going on...
+I don't know, but I have no choice but to fight now!
 --------------------------------
 [00000211]
-ロアン：
-どうやら結構な数のモンスターがいるらしい。
-連戦になるから、うちでしっかり準備していきな。
+Roan:
+Apparently there are quite a few monsters. 
+It's going to be a series of matches, so we need to prepare well.
 --------------------------------
 [00000212]
-ローゼリンデサブ１
+roselinde sub 1
 --------------------------------
 [00000213]
-ローゼリンデ：
-今の私に魂を救うことなんてできるのかしら・・・
+Roselinde:
+I wonder if I can save my soul now...
 --------------------------------
 [00000214]
-ローレライの涙
+Lorelai's Tears
 --------------------------------
 [00000215]
-不思議な宝箱
+mysterious treasure chest
 --------------------------------
 [00000216]
-世界の狭間からの使者
+A messenger from between the worlds
 --------------------------------
 [00000217]
-世話焼きアイリーン：
-違う種類のモンスターが群れで行動することも
-あるわ。それぞれの特徴を見極めて倒すのよ。
+Helpful Irene:
+There are times when different types of monsters act in groups
+. Find out the characteristics of each and defeat them.
 --------------------------------
 [00000218]
-並列処理のノイマ：
-砂漠にドラゴンがでたの！　しかも二匹！
-二手に分かれて退治してちょうだい。
+Noima of parallel processing:
+A dragon appeared in the desert! And two! 
+Please split into two groups and exterminate them.
 --------------------------------
 [00000219]
-久遠の絆
+Eternal bond
 --------------------------------
 [00000220]
-乙女の秘密
+maiden's secret
 --------------------------------
 [00000221]
-二面作戦
+two-pronged strategy
 --------------------------------
 [00000222]
-交易路の安全を確保せよ
+Ensure the safety of trade routes
 --------------------------------
 [00000223]
-人まかせのシャイア：
-川沿いにモンスターが現れたの。
-被害が出る前に対処してちょうだい。
+Shire of the Left:
+A monster appeared along the river. 
+Please take action before any damage occurs.
 --------------------------------
 [00000224]
-侵入者迎撃
+Intercepting intruders
 --------------------------------
 [00000225]
-共闘、勇者と死神
+Cooperation, Hero and Grim Reaper
 --------------------------------
 [00000226]
-再起への初戦
+First match for a comeback
 --------------------------------
 [00000227]
-冥府からの使者
+messenger from the underworld
 --------------------------------
 [00000228]
-冷酷なる妖魔将
+Ruthless demon general
 --------------------------------
 [00000229]
-凍土の試練、氷牙の咆哮
+Trial of Frozen Earth, Roar of Ice Fang
 --------------------------------
 [00000230]
-出会いを求めるソエ：
-森の十字路で人とモンスターが出会うとき、
-何かが起こる・・・かもしれないぜ。
+Soe looking for an encounter:
+When humans and monsters meet at the crossroads in the forest,
+something might happen...
 --------------------------------
 [00000231]
-刃九郎：
-レイジとリック。それと他数名で収容所に
-潜入し、敵を撃破するのだ。
+Blade Kuro:
+Rage and Rick. He and a few others will infiltrate the camp and destroy the enemy.
 --------------------------------
 [00000232]
-刃九郎：
-砂漠の塔・・・一体何なのだろうか？
-これもカオスゲートと関係が・・・？
+Hamakuro: 
+The Desert Tower...what on earth is it? 
+Is this also related to Chaos Gate...?
 --------------------------------
 [00000233]
-剣の心
+heart of the sword
 --------------------------------
 [00000234]
-剣の道
+path of the sword
 --------------------------------
 [00000235]
-力の正邪
+right and wrong of power
 --------------------------------
 [00000236]
-効率を求めるコバール：
-教会跡にモンスターが住み着いたらしいんだ。
-ついでに道中のモンスターも倒していってくれよ。
+Kovar Seeks Efficiency:
+It seems that a monster has settled in the ruins of the church. 
+Also, defeat the monsters along the way.
 --------------------------------
 [00000237]
-動き出した時間
+The time it started moving
 --------------------------------
 [00000238]
-双竜の火炎
+Ssangyong Flame
 --------------------------------
 [00000239]
-収容所潜入作戦
+Camp infiltration operation
 --------------------------------
 [00000240]
-古代からの呼び声
+A call from ancient times
 --------------------------------
 [00000241]
-古代の叡智
+ancient wisdom
 --------------------------------
 [00000242]
-古代文明の遺産
+heritage of ancient civilizations
 --------------------------------
 [00000243]
-困り果てたロレント：
-森にグリーンペーストが大量発生してるんだ。
-ちょっと退治してくれないか。
+Rolento is at a loss:
+There's a lot of green paste in the forest. 
+Could you please help me get rid of it?
 --------------------------------
 [00000244]
-城塞都市国家シルディア
+The fortified city-state of Syldia
 --------------------------------
 [00000245]
-堅実なマネ：
-収容所にはまだモンスターが出るらしいんだ。
-誰も近付かないけどさ。一応退治してくれよ。
+Steady Mane:
+It seems there are still monsters in the camp. 
+No one approaches me though. Please get rid of it.
 --------------------------------
 [00000246]
-変幻自在　リックとサクヤ
+Transformable Rick and Sakuya
 --------------------------------
 [00000247]
-夜の好奇心
+curiosity at night
 --------------------------------
 [00000248]
-大地の守護者と森の妖精
+Guardian of the Earth and Forest Fairy
 --------------------------------
 [00000249]
-大樹を揺らす新しい風
+A new wind that shakes the tree
 --------------------------------
 [00000250]
-天秤の破壊者
+destroyer of scales
 --------------------------------
 [00000251]
-奪われた指輪
+the stolen ring
 --------------------------------
 [00000252]
-害虫駆除
+pest control
 --------------------------------
 [00000253]
-家族の絆
+family ties
 --------------------------------
 [00000254]
-寒がりゴーマ：
-夜の湖には青色の敵ばっかり出るそうだ。
-見ているだけで寒々しいよ。
+Cold Goma:
+It seems that only blue enemies appear in the lake at night. 
+Just looking at it gives me chills.
 --------------------------------
 [00000255]
-封印されしモノ
+sealed thing
 --------------------------------
 [00000256]
-少年の依頼
+boy's request
 --------------------------------
 [00000257]
-山間に潜む影
+Shadow lurking in the mountains
 --------------------------------
 [00000258]
-幽霊の出る森
+haunted forest
 --------------------------------
 [00000259]
-強制収容所解放作戦
+Concentration camp liberation operation
 --------------------------------
 [00000260]
-心に響く歌
+A song that touches your heart
 --------------------------------
 [00000261]
-心配性のワーゼ：
-霧に紛れてモンスターが現れたらしい！
-早く行って退治してくれ！　場所？　神殿だよ！
+Worried Warze: 
+It seems a monster has appeared in the fog! 
+Go quickly and get rid of it! place? 
 --------------------------------
 [00000262]
-忠告好きのザート：
-街道にクリスタルが現れたんだ。
-奴ら魔法で攻撃してくるから気をつけるんだぜ。
+Zart, the Advice Lover:
+A crystal appeared on the road. 
+They'll attack you with magic, so be careful.
 --------------------------------
 [00000263]
-思いやりのグレイス：
-この辺りは野生の獣がよく出るんだ。
-街の人が襲われないように退治してくれないか。
+Compassionate Grace:
+Wild beasts often appear around here. 
+Could you please get rid of them so that the townspeople are not attacked?
 --------------------------------
 [00000264]
-思い込みの激しいオード：
-死神じゃ！　わしのお迎えに死神が来たんじゃ！
-いやじゃ、まだ死にたくない！　助けてくれ！
+A deeply thought-provoking ode: 
+It's the Grim Reaper! The god of death has come to pick me up! 
+No, I don't want to die yet! help me!
 --------------------------------
 [00000265]
-恨まれやすいカーマ：
-アンデッドモンスターが現れた！
-どうやら戦死者が成仏できないでいるらしい。
+Karma that is easy to hate:
+An undead monster has appeared! 
+It seems that the war dead are unable to attain Buddhahood.
 --------------------------------
 [00000266]
-情報通のユーイン：
-古代遺跡に変な装置があるらしい。
-なんでも強敵の幻影を生み出すとか何とか・・・
+Informed Euwin:
+There seems to be a strange device in the ancient ruins. 
+Something like creating an illusion of a powerful enemy...
 --------------------------------
 [00000267]
-情熱のコミナ：
-モンスターに指輪を奪われた。取り返してくれ。
-もう夜だって？　構うもんか、すぐ行くんだ！
+Comina of Passion:
+My ring was stolen by a monster. Please take it back. 
+Is it already night? "I don't care, I'll go right away!"
 --------------------------------
 [00000268]
-慌てんぼうのマール：
-せっかく解放したエレンシア付近に、
-またモンスターがやってきたんだ！　何とかして！
+Panicking Marle:
+Another monster has arrived near Herencia, which we have freed! Do something!
 --------------------------------
 [00000269]
-戦死者の嘆き
+Lament of the war dead
 --------------------------------
 [00000270]
-探検家フージ：
-グレイシアの内部にはまだ先があるんだが、
-入口にモンスターがいて進めねぇ。退治を頼む。
+Explorer Fuji:
+There's still a way to go inside Glaceon, but
+There's a monster at the entrance, so we can't proceed. Ask for extermination.
 --------------------------------
 [00000271]
-探検家フージ：
-グレイシアの内部に突入するぜ。
-きっとお宝があるにちげぇねぇ。
+Explorer Fuji: 
+Let's rush inside Glaceon. 
+I'm sure there's some treasure there.
 --------------------------------
 [00000272]
-携えるは剣
+I carry a sword
 --------------------------------
 [00000273]
-教会への道
+road to church
 --------------------------------
 [00000274]
-散歩好きのトッド：
-夜中にモンスター共が徘徊しておるわ。
-人が襲われたら大変じゃから退治してくれんか。
+Todd, who loves walking:
+Monsters are wandering around at night. 
+If someone were attacked, it would be a big problem, so could you please get rid of them?
 --------------------------------
 [00000275]
-敵のサイズを見る
+See enemy size
 --------------------------------
 [00000276]
-敵のサイズ確認用
+For checking enemy size
 --------------------------------
 [00000277]
-料理家マーサ：
-森にキノコモンスターが大発生したらしいわ。
-・・・食べたらおいしいかしら。
+Cook Martha:
+It seems there's been an outbreak of mushroom monsters in the forest. 
+...I wonder if it'll be delicious if I eat it.
 --------------------------------
 [00000278]
-旅人ダリル：
-シルディアに来る途中で襲われたんだ！
-山道でモンスターが待ち伏せしてる。何とかして！
+Traveler Daryl:
+I was attacked on my way to Syldia! 
+Monsters are ambushing you on the mountain path. Do something!
 --------------------------------
 [00000279]
-明日を耕す
+cultivate tomorrow
 --------------------------------
 [00000280]
-暗黒の大聖堂
+dark cathedral
 --------------------------------
 [00000281]
-最後の魔竜
+the last demon dragon
 --------------------------------
 [00000282]
-期待を裏切らないリュウ：
-夜の森はモンスターが出やすいからな。
-行くなよ？　絶対に行くなよ？
+Ryu doesn't disappoint:
+Monsters tend to appear in the night forest. 
+Don't go? "Don't go there, okay?"
 --------------------------------
 [00000283]
-木こりのスエイズ：
-森で木を切っていたらモンスターに襲われたんだ。
-これじゃ危なくて仕事ができないよ。
+Woodcutter Sueys:
+While I was cutting wood in the forest, I was attacked by a monster. 
+It's dangerous and I can't work like this.
 --------------------------------
 [00000284]
-木こりの依頼
+Lumberjack's request
 --------------------------------
 [00000285]
-末っ子のエリス：
-古代遺跡に変なモンスターが出たんだって。
-どんなのだろ？　お兄ちゃん、代わりに見てきて。
+Youngest Elise: 
+A strange monster appeared in the ancient ruins. 
+What kind of thing is it? Onii-chan, please come and see it for me.
 --------------------------------
 [00000286]
-果て無き光と闇の戦い
+Endless battle between light and darkness
 --------------------------------
 [00000287]
-森に侵入してきたモンスターを殲滅せよ。
-敵はゴブリンの小集団のようだ。
+Destroy the monsters that have invaded the forest. 
+The enemy appears to be a small group of goblins.
 --------------------------------
 [00000288]
-森の十字路
+forest crossroads
 --------------------------------
 [00000289]
-森の都を守れ
+Protect the forest capital
 --------------------------------
 [00000290]
-森の都エレンシア解放戦
+Forest City Herencia Liberation Battle
 --------------------------------
 [00000291]
-検証
+verification
 --------------------------------
 [00000292]
-止まった時間
+time stopped
 --------------------------------
 [00000293]
-正義感の強いゼス：
-帝国軍がグレイシアに現れたらしい。
-放っておくわけにはいかないだろ。撃退してくれ。
+Zeth has a strong sense of justice:
+It seems that the Imperial Army has appeared in Glaceon. 
+I can't leave you alone. Fight them off.
 --------------------------------
 [00000294]
-武士の生きる道
+The life of a samurai
 --------------------------------
 [00000295]
-氷湖に潜む粘塊
+Slime hidden in the ice lake
 --------------------------------
 [00000296]
-洞窟探検（入口確保）
+Cave exploration (securing the entrance)
 --------------------------------
 [00000297]
-洞窟探検（最奥進入）
+Cave exploration (deepest entry)
 --------------------------------
 [00000298]
-海を渡る畑荒らし
+Destroying fields across the sea
 --------------------------------
 [00000299]
-海賊の流儀
+pirate style
 --------------------------------
 [00000300]
-港町ポルト奪還戦
+Battle to recapture the port city of Porto
 --------------------------------
 [00000301]
-漆黒の騎士団
+jet black knights
 --------------------------------
 [00000302]
-灼熱に耐えろ
+Endure the scorching heat
 --------------------------------
 [00000303]
-灼熱の海に棲む竜
+A dragon that lives in the scorching sea
 --------------------------------
 [00000304]
-灼熱の魔人
+scorching demon
 --------------------------------
 [00000305]
-熱血漢ロック：
-燃え盛る炎のような魔人。手ごわいぜ。
-アイツを倒せたらプレゼントをやるよ。
+Hot-blooded Rock: 
+A devil like a blazing flame. It's formidable. 
+If you can defeat him, I'll give you a present.
 --------------------------------
 [00000306]
-牙を持つ者たち
+those with fangs
 --------------------------------
 [00000307]
-狂乱の魔獣将
+Mad beast general
 --------------------------------
 [00000308]
-狙われるエレンシア
+Herencia being targeted
 --------------------------------
 [00000309]
-狩人シモン：
-獣モンスターの毛皮は高く売れるんだ。
-ちょっと狩ってきてくれないか？　礼は出すさ。
+Hunter Simon:
+Beast monster pelts can be sold for a high price. 
+Could you please go hunting for me? I'll give you my thanks.
 --------------------------------
 [00000310]
-独り身のアルサ：
-森の奥にドラゴンの夫婦が現れたんだ。
-巣作りでもされたらたまらないよ。何とかして！
+Alsa:
+A dragon couple appeared deep in the forest. 
+It would be unbearable if they even built a nest. Do something!
 --------------------------------
 [00000311]
-王女殿下の囮作戦
+Her Royal Highness's decoy operation
 --------------------------------
 [00000312]
-生まれ、消ゆ
+Born, disappears
 --------------------------------
 [00000313]
-生み落とされた影　地竜再来
+The shadow that was cast, the return of the earth dragon
 --------------------------------
 [00000314]
-生み落とされた影　氷竜再来
+The shadow that was cast, the return of the ice dragon
 --------------------------------
 [00000315]
-生み落とされた影　炎竜再来
+The shadow that was cast, the return of the flame dragon
 --------------------------------
 [00000316]
-生み落とされた影　雷竜再来
+The Shadow Born: The Return of the Thunder Dragon
 --------------------------------
 [00000317]
-男性恐怖症　克服作戦
+Strategy for overcoming male phobia
 --------------------------------
 [00000318]
-男達の絆
+bond between men
 --------------------------------
 [00000319]
-白き獣たち
+white beasts
 --------------------------------
 [00000320]
-白竜教団救援作戦
+White Dragon Cult Rescue Operation
 --------------------------------
 [00000321]
-白銀と白骨
+silver and white bone
 --------------------------------
 [00000322]
-砂漠の摩天楼
+desert skyscraper
 --------------------------------
 [00000323]
-祈り無き教会
+church without prayer
 --------------------------------
 [00000324]
-神殿に現れる幽霊
+ghost that appears in the temple
 --------------------------------
 [00000325]
-祭好きのアルター：
-街道沿いの陣地に帝国軍が現れたぞ。
-あいつら夜襲してくる気だ。先手を打ってやれ！
+Festival-loving Alter:
+The imperial army has appeared in a position along the road. 
+They're going to attack us at night. Make the first move!
 --------------------------------
 [00000326]
-秘めた想い
+hidden feelings
 --------------------------------
 [00000327]
-秘められし霊刀の力
+The power of the hidden spiritual sword
 --------------------------------
 [00000328]
-笑顔を亡くした死神
+The Grim Reaper who lost his smile
 --------------------------------
 [00000329]
-策士のバータ：
-モンスターの群れを効率よく倒す方法？
-そりゃあ夜襲だな。
+Barta the Strategist:
+How to efficiently defeat a swarm of monsters? 
+That's right, it was a night attack.
 --------------------------------
 [00000330]
-綺麗好きのハンス：
-魔の森は薄気味悪いよな。せめて
-モンスターがいなければ雰囲気もかわるのに。
+Hans, who loves beauty:
+The Demon Forest is creepy. At least
+The atmosphere would be different if there were no monsters.
 --------------------------------
 [00000331]
-聖なる森の守護者
+guardian of the sacred forest
 --------------------------------
 [00000332]
-聖地を襲う悪意
+Malice attacking the sacred place
 --------------------------------
 [00000333]
-背負いし想い、宿命の剣
+The feelings I carry on my back, the sword of destiny
 --------------------------------
 [00000334]
-自警団ガッシャ：
-収容所にモンスターが集まってるらしい。
-また何か始める気かもしれない。阻止してくれ。
+Vigilante Gasha:
+It seems monsters are gathering at the camp. 
+Maybe he wants to start something again. Please stop me.
 --------------------------------
 [00000335]
-自警団ユニコ：
-ルーンベール各所にドラゴンが襲来した。
-順番に退治していってくれ。
+Vigilante Unico:
+Dragons have attacked various parts of Runevale. 
+Please eliminate them in order.
 --------------------------------
 [00000336]
-自警団ルーザー：
-大聖堂に帝国軍の残党が集まってるらしい。
-何か始める前に対処してくれ。
+Vigilante Loser:
+It seems that the remnants of the Imperial Army are gathering at the cathedral. 
+Please deal with it before we start anything.
 --------------------------------
 [00000337]
-航海士グエン：
-海の上にもモンスターが出るんだ。
-安全な航海のために退治を頼む。
+Navigator Gwen:
+Monsters also appear on the sea. 
+I request you to exterminate it for a safe voyage.
 --------------------------------
 [00000338]
-船上のモンスター討伐
+Defeating monsters on board
 --------------------------------
 [00000339]
-船上の亀退治
+Killing a turtle on a boat
 --------------------------------
 [00000340]
-虫嫌いのミュウ：
-きゃーっ、虫！　虫はダメなの！
-早く駆除してちょうだい！！
+Myuu hates insects: 
+Hey, insects! No insects! 
+Please exterminate it quickly! !
 --------------------------------
 [00000341]
-螺旋の邂逅
+Spiral encounter
 --------------------------------
 [00000342]
-街道のモンスター退治
+Defeat monsters on the highway
 --------------------------------
 [00000343]
-表示タイミングなし
+No display timing
 --------------------------------
 [00000344]
-見張りのタック：
-火山島がドラゴンだらけになっちまった。
-いつこっちに来るかもわかんねぇ。頼んだぜ！
+Watchman's Tack:
+The volcanic island has become overrun with dragons. 
+I don't know when it will come here. I asked for it!
 --------------------------------
 [00000345]
-託された未来
+The future entrusted to me
 --------------------------------
 [00000346]
-赤竜の咆哮
+Red Dragon's Roar
 --------------------------------
 [00000347]
-軍師ホウト：
-二部隊に分かれてモンスター退治だ。
-２－３で分かれるから、配置には気をつけろ。
+Tactician Hout:
+We'll split into two units and exterminate the monsters. 
+It will be divided into 2-3, so be careful about the placement.
 --------------------------------
 [00000348]
-輝ける光の剣
+shining sword of light
 --------------------------------
 [00000349]
-農家のタルーン：
-荒れた大地を耕して作物を植えるんだ。
-ただモンスターが邪魔でな。よろしく頼むよ。
+Farmer Taroon:
+Plow the barren land and plant crops. 
+It's just that the monsters are in the way. Thank you for your help.
 --------------------------------
 [00000350]
-遊撃戦（アルセイド大森林)
+Guerrilla Battle (Alceid Great Forest)
 --------------------------------
 [00000351]
-遊撃戦（クラントール）
+Guerrilla Battle (Krantor)
 --------------------------------
 [00000352]
-遊撃戦（シルディア）
+Guerrilla Battle (Syldia)
 --------------------------------
 [00000353]
-遊撃戦（ナルガ砂漠）
+Guerrilla Battle (Narga Desert)
 --------------------------------
 [00000354]
-遊撃戦（ベスティア）
+Guerrilla Battle (Bestia)
 --------------------------------
 [00000355]
-遊撃戦（ルーンベール）
+Guerrilla Battle (Rune Veil)
 --------------------------------
 [00000356]
-遊撃戦（古代遺跡表層）
+Guerrilla warfare (ancient ruins surface)
 --------------------------------
 [00000357]
-遊撃戦（魔の森）
+Guerrilla Battle (Devil Forest)
 --------------------------------
 [00000358]
-運の悪いポッシ：
-エターニアに帝国軍の魔竜が出たんだ！
-とてつもなく強いらしいぞ！
+Unlucky Possi:
+An imperial demonic dragon has appeared in Eternia! 
+It seems incredibly strong!
 --------------------------------
 [00000359]
-遺跡探検１１～２０階
+Ruins exploration 11th to 20th floor
 --------------------------------
 [00000360]
-遺跡探検１～１０階
+Ruins exploration 1st to 10th floor
 --------------------------------
 [00000361]
-遺跡探検２１～３０階
+Ruins exploration 21st to 30th floor
 --------------------------------
 [00000362]
-遺跡探検３１～４０階
+Ruins exploration 31st-40th floor
 --------------------------------
 [00000363]
-野獣襲来
+Beast attack
 --------------------------------
 [00000364]
-錬金術師ドアル：
-わしが錬金術で作ったゴーレムが暴れだしおった。
-手がつけられんから倒してしまってくれい。
+Alchemist Doal:
+The golem I created using alchemy started to go wild. 
+I can't help it, so please kill it.
 --------------------------------
 [00000365]
-闇に堕ちた騎士
+knight fallen into darkness
 --------------------------------
 [00000366]
-陽気なファンザ：
-今回のゴブリンは一味違うぜ。
-なんてったって剣を装備してるんだからな！
+Cheerful Fanza:
+This time's goblins are a little different. 
+After all, it's equipped with a sword!
 --------------------------------
 [00000367]
-雪原の戦い
+battle in the snowfield
 --------------------------------
 [00000368]
-霧から現れた襲撃者
+Assailant emerges from the fog
 --------------------------------
 [00000369]
-青の襲撃
+blue attack
 --------------------------------
 [00000370]
-青竜乱舞
+Seiryu Ranbu
 --------------------------------
 [00000371]
-骸の集い
+gathering of corpses
 --------------------------------
 [00000372]
-魂の導き手
+soul guide
 --------------------------------
 [00000373]
-魔の森の美化運動
+Demon Forest beautification campaign
 --------------------------------
 [00000374]
-魔の森の薪
+devil forest firewood
 --------------------------------
 [00000375]
-魔法攻撃をくぐりぬけろ！
+Survive magical attacks!
 --------------------------------
 [00000376]
-魔物小隊
+monster platoon
 --------------------------------
 [00000377]
-魔物集会を禁止せよ！
+Ban monster gatherings!
 --------------------------------
 [00000378]
-魔竜の咆哮
+Demon Dragon's Roar
 --------------------------------
 [00000379]
-黒き仮面の騎士
+black masked knight
 --------------------------------
 [00000380]
-黒き残滓
+black residue
 --------------------------------
 [00000381]
-黒き闇の竜王
+Dragon King of Black Darkness
 --------------------------------
 [00000382]
-黒き魔獣の包囲網
+Siege of the Black Demon Beast
 --------------------------------
 [00000383]
-黒猫の導き
+black cat guidance
 --------------------------------
 [00000384]
-龍那剛龍鬼サブ1
+Ryuna Gouryuki Sub 1
 --------------------------------
 [00000385]
-龍那剛龍鬼サブ2
+Ryuna Gouryuki Sub 2
 --------------------------------
 [00000386]
-龍那：
-神殿から黒竜教団を追い出しましょう！
+Ryuna:
+Let's drive out the Black Dragon Sect from the temple!
 --------------------------------
 [00000387]
-ＥＸボス
+EX boss
 --------------------------------
 [00000388]
-ＥＸボス確認用
+For EX boss confirmation
 --------------------------------
 [00000389]
 
@@ -1451,5 +1446,29 @@ VlMxMissionInfo
 
 --------------------------------
 [00000397]
+
+--------------------------------
+[00000398]
+
+--------------------------------
+[00000399]
+
+--------------------------------
+[00000400]
+
+--------------------------------
+[00000401]
+
+--------------------------------
+[00000402]
+
+--------------------------------
+[00000403]
+
+--------------------------------
+[00000404]
+
+--------------------------------
+[00000405]
 
 --------------------------------

@@ -1,565 +1,446 @@
 [0134]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-よう、リンリン。
+Hey, Rinrin.
 --------------------------------
 [00000001][リン,シャオメイ,リンリン]
-んにゃ、んにゃ、んにゃ、
-うにゃにゃにゃにゃ～ん♪
+Nya, nya, nya,  nya, nya, nya♪
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-リンリン……だよな？
-野良猫が毛づくろいしてるわけじゃないよな？
+Ringling... right?  It's not like a stray cat is grooming itself, is it?
 --------------------------------
 [00000003][リン,シャオメイ,リンリン]
-失礼ね。
-私をそのへんの野良猫扱いするなんて。
+Excuse me.  How dare you treat me like that stray cat.
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-あ……わ、悪い。
+Ah... oh, that's bad.
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（でも実際、普通の猫にしか見えねえよ）
+@fcFFAAFFAA(but it actually looks like a normal cat)
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-最初に会った時は驚いたよ。
-猫がしゃべりだすんだからな。
+I was surprised when I first met you.  Because the cat starts talking.
 --------------------------------
 [00000007][リン,シャオメイ,リンリン]
-そう？
-私にとっては当たり前のことだから
-驚かれる方が逆にびっくりだわ。
+Yeah?  It's a normal thing for me, so I'd be surprised if you were surprised.
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-あっちじゃ猫はしゃべらないんだよ！
-……そういや、最初は向こうで会ったんだよな。
+Cats don't talk over there!  ...I see, we first met over there.
 --------------------------------
 [00000009][リン,シャオメイ,リンリン]
-そうね。
-あの時は、サクヤにお願いされて
-レイジを迎えに行ったのよ。
+Yes.  At that time, I went to pick up Rage at Sakuya's request. 
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-サクヤさんに頼まれて……か。
-リンリンは、いつもそんな風に
-サクヤさんの手伝いをしてるのか？
+Sakuya-san asked me to... huh?  Does Rinrin always help Sakuya like this?
 --------------------------------
 [00000011][リン,シャオメイ,リンリン]
-ええ、そうね。
-サクヤは忙しいから、私にできることは
-手伝ってあげるの。
+Yeah, that's right.  Since Sakuya is busy, I'll do what I can to help.
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-確かに、サクヤさんは忙しそうだな……。
-戦ってない時は何してるんだろう？
+It certainly looks like Sakuya-san is busy...  What do you do when you're not
+fighting?
 --------------------------------
 [00000013][リン,シャオメイ,リンリン]
-戦っていない時のサクヤは、
-……そうね、簡単に言えば
-魂の救済、かしら。
+When Sakuya isn't fighting, ...well, to put it simply, I guess it's soul
+salvation.
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-魂の……救済？
-何だそりゃ？
+Salvation of the soul?  What's that?
 --------------------------------
 [00000015][リン,シャオメイ,リンリン]
-魂の救済というのはね。
-例えば……そう、アミルがいるでしょ。
+As for the salvation of the soul.  For example... Yes, Amil is there.
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-アミル？
-彼女がどうかしたのか？
+Amil?  What's wrong with her?
 --------------------------------
 [00000017][リン,シャオメイ,リンリン]
-彼女はもともと、クラントールに住む
-ごく普通の女の子だったの。
+She was originally a normal girl living in Crantor.
 --------------------------------
 [00000018][リン,シャオメイ,リンリン]
-クラントールが帝国の襲撃を受けた時、
-アミルは命を落としてしまった……。
-内に強い思いを抱いたまま、ね。
+When Crantor was attacked by the Empire, Amil lost his life...  I still have
+strong feelings inside of me.
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-強い思い……何だそりゃ？
+A strong feeling...what is that?
 --------------------------------
 [00000020][リン,シャオメイ,リンリン]
-あら。
-女の子の心の中を探ろうだなんて
-レイジも案外無神経なのね。
+Oh.  Rage is surprisingly insensitive to trying to find out what's inside a
+girl's heart.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-べ、別にそういう意味じゃねえよ……。
+Well, I don't really mean that...
 --------------------------------
 [00000022][リン,シャオメイ,リンリン]
-ふふっ。
-とにかく、生命を失ったアミルの強い思いは結晶化し
-ソウルクリスタルとして地上に留まっていたの。
+Hehe.  Anyway, after losing his life, Amil's strong feelings crystallized  and
+remained on earth as soul crystals.
 --------------------------------
 [00000023][リン,シャオメイ,リンリン]
-サクヤは、そんなアミルを放っておけなかった。
-アミルの思いを形にして、
-新しい姿を与えてあげたの。
+Sakuya couldn't leave Amil alone like that.  I gave form to Amil's thoughts, and
+gave him a new appearance.
 --------------------------------
 [00000024][リン,シャオメイ,リンリン]
-それが、ソウルブレイド……。
-アミルはリックの携える剣となって
-新たな命を始めた、ってわけ。
+That's Soul Blade...  So Amil became Rick's sword and started a new life.
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-ふうん……すごい話だな。
-サクヤさん、普段そんなことをやってるのか。
+Hmm...that's a great story.  Sakuya-san, do you usually do things like that?
 --------------------------------
 [00000026][リン,シャオメイ,リンリン]
-まあ、これはほんの一例よ。
-サクヤには、しなければいけないことが
-たくさんあるの。
+Well, this is just an example.  Sakuya has a lot of things to do. 
 --------------------------------
 [00000027][リン,シャオメイ,リンリン]
-今日の講義はこれにて終了。
-なにか質問はある？
+This concludes today's lecture.  Do you have any questions?
 --------------------------------
 [00000028][レイジ,レイジ,レイジ]
-講義って……嫌な言い方するなあ。
-つい学校を思い出しちまうよ。
+Lecture...that's a nasty way to say it.  It reminds me of school.
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-リンリンって、妙に物知りだよな。
-ただの手伝いにしては、やたら詳しすぎる。
-なんでそんなに詳しく知ってるんだよ？
+Rinrin is strangely knowledgeable.  You know too much information to be just a
+helper.  Why do you know so much detail?
 --------------------------------
 [00000030][リン,シャオメイ,リンリン]
-それは……実にいい質問ね。
+That's... a really good question.
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（うっ？
-今……リンリンの目が光ったような気が……）
+@fcFFAAFFAA(Huh?
+Now... I feel like Rinrin's eyes are shining...)
 --------------------------------
 [00000032][リン,シャオメイ,リンリン]
-だけど、その質問に答えるには
-ちょっと時間が足りないわね。
-残念だけど、またの機会にしましょう。
+But I don't have enough time to answer that question.  It's a shame, but let's
+give it another chance.
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-いや、特に質問はないよ。
-というか、なにを質問すればいいのかも
-よくわかんねえ。
+No, I don't have any specific questions.  Or rather, I don't really know what to
+ask. 
 --------------------------------
 [00000034][リン,シャオメイ,リンリン]
-何よ、つまんない人間ね。
-好奇心ってものがないの？
-がっかりだわ。
+What, you're such a boring person.  Don't you have any curiosity?  I'm
+disappointed.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-なっ!?
-し、質問なしって答えただけで
-ダメ出しかよ……。
+What!? Well, if you just answered that you didn't have any questions, you're out
+of luck...
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000037][リン,シャオメイ,リンリン]
-何も思いつかないの？
-レイジ、案外頭が悪いのね。
+Can't think of anything?  Rage, you're surprisingly dumb.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-なっ!?　ち、違うっ！
-いま質問を考えてるとこだっつーの！
+What!? No!  I'm thinking of a question right now!
 --------------------------------
 [00000039][リン,シャオメイ,リンリン]
-いずれにせよ、もう時間切れよ。
-残念でした。
+In any case, our time is up.  It was a shame.
 --------------------------------
 [00000040][リン,シャオメイ,リンリン]
-まあ、サクヤのことで何か知りたかったら
-いつでも私に聞いてちょうだい。
-答えられる範囲で答えてあげる。
+Well, if you want to know anything about Sakuya, you can always ask me.  I'll
+answer to the best of my ability.
 --------------------------------
 [00000041][リン,シャオメイ,リンリン]
-私、サクヤのことなら何でも知っているわ。
-とても長いつきあいだから。
-そう、とっても長い……。
+I know everything about Sakuya.  We've known each other for a very long time. 
+Yes, it's very long...
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-なんか意味深だな……。
-けど、わかった。
-頼りにしてるぜ、リンリン。
+That's kind of meaningful...  But, I understand.  I'm counting on you, Rinrin.
 --------------------------------
 [00000043][リン,シャオメイ,リンリン]
-…………。
+………….
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-……リンリン？
-おい、聞いてるのか？
+...Rinrin?  Hey, are you listening?
 --------------------------------
 [00000045][リン,シャオメイ,リンリン]
-…………んにゃ。
+……Nya.
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-ね、寝てる……。
-さっきまで普通に話してたのに、
-一瞬で居眠りしてやがる……。
+Hey, he's sleeping...  Even though he was talking normally just a moment ago, 
+he fell asleep in an instant...
 --------------------------------
 [00000047][リン,シャオメイ,リンリン]
-…………むにゃ……うにゃん…………。
+……Munya… Unnyan…….
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-……こうやって寝てる姿は
-まるっきり普通の猫なんだけどな。
+...He looks like a normal cat sleeping like this.
 --------------------------------
 [00000049][none]
-なぜそんなに詳しいんだ？
+Why do you know so much?
 --------------------------------
 [00000050][none]
-特に何もない
+nothing in particular
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-リンリン、こんなとこでひなたぼっこか？
+Rinrin, are you basking in the sun in a place like this?
 --------------------------------
 [00000052][リン,シャオメイ,リンリン]
-んにゃ……あ、レイジ。
-あんまり気持ちが良すぎて
-つい居眠りしてしまっていたわ。
+Nya... ah, Rage.  It felt so good I ended up dozing off.
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-のんきなヤツだな。
-いかにも猫っぽいって言えば
-そうなんだけど……。
+He's such a carefree guy.  If you say it looks like a cat, that's right...
 --------------------------------
 [00000054][リン,シャオメイ,リンリン]
-んにゃ～～～～～っと。
-……それで、レイジ、何の用かしら？
-私に会いに来たのではなくて？
+Hmmm...  ...So, Rage, what do you want?  You didn't come to see me?
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-なあ、リンリン。
-ちょっと聞いてもいいか？
-いくつかわからないことがあってさ。
+Hey, Rinrin.  Can I ask you something?  There are some things I don't
+understand.
 --------------------------------
 [00000056][リン,シャオメイ,リンリン]
-わからないこと？
-例えば？
+What do you not understand?  For example?
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-例えば……そうだ、
-よくユキヒメが口にする先代……。
-建国王って奴のこととか。
+For example...that's right, Yukihime often talks about her predecessor...  It's
+about a guy called King Ken.
 --------------------------------
 [00000058][リン,シャオメイ,リンリン]
-先代を「奴」なんて言うもんじゃないわ。
-ユキヒメが聞いたら怒るわよ。
+I don't call my predecessor "that guy."  If Yukihime hears this, she'll be
+angry.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-げ、やべっ。
-……と、どうにか大丈夫そうだな。
+Oh no.  ...It looks like it's okay somehow.
 --------------------------------
 [00000060][リン,シャオメイ,リンリン]
-聖クリストフ……クラントール建国王は
-２００年ほど前にエンディアスを救った英雄よ。
+St. Christopher... King Crantor was the hero who saved Endias about 200 years
+ago.
 --------------------------------
 [00000061][リン,シャオメイ,リンリン]
-ちょうど今と同じように、当時ヴァレリアは
-未曾有の危機にあったの。
-闇が勢力を伸ばし、大陸全体を覆いつつあった……。
+Just like now, Valeria was in an unprecedented crisis.  Darkness is expanding
+its power and covering the entire continent...
 --------------------------------
 [00000062][リン,シャオメイ,リンリン]
-その闇を打ち破ったのがクリス王よ。
-勇敢な仲間、そして無双の剣と共に
-闇の化身、ダークドラゴンを封印したの。
+King Chris was the one who defeated that darkness.  Together with my brave
+companions and an unparalleled sword, I sealed away the Dark Dragon, the
+embodiment of darkness.
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-ダークドラゴン……。
+Dark Dragon...
 --------------------------------
 [00000064][リン,シャオメイ,リンリン]
-その後、クリス王と３人の英雄は
-戦いによって傷ついたヴァレリアを再建し
-４つの国を設立。
+Afterwards, King Chris and the three heroes rebuild Valeria, which was damaged
+by the battle, and establish four kingdoms.
 --------------------------------
 [00000065][リン,シャオメイ,リンリン]
-それが、現在で言うところの
-「ルーンベール」「フォンティーナ」
-「クラントール」「ベスティア」よ。
+Those are what we currently call ``Runeveil,'' ``Fontina,''  ``Crantor,'' and
+``Bestia.''
 --------------------------------
 [00000066][レイジ,レイジ,レイジ]
-ああ、なるほど。
-それでクリス王は「建国王」なのか。
+Ah, I see.  So, is King Chris the "founding king"?
 --------------------------------
 [00000067][リン,シャオメイ,リンリン]
-そういうことね。
-その戦いで、闇に立ち向かった光の戦士たちは
-「シャイニング・フォース」と呼ばれているわ。
+That's right.  The warriors of light who fought against the darkness in that
+battle are called the ``Shining Force.''
 --------------------------------
 [00000068][リン,シャオメイ,リンリン]
-ついでに言うと、
-その時クリス王の携えていた武器が
-「ソウルブレイド」霊刀・雪姫よ。
+By the way, the weapon that King Chris was carrying at that time was the ``Soul
+Blade'' spiritual sword, Yukihime.
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-な、なるほど……。
-先代ってすごいことをやったんだな。
-ユキヒメがやたらと強調するわけだ。
+I-I see...  My predecessor did something amazing.  Yukihime emphasizes this too
+much.
 --------------------------------
 [00000070][リン,シャオメイ,リンリン]
-ユキヒメは、クリス王のことを
-とても尊敬していたの。
-崇拝、と言ってもいいかしら。
+Yukihime had great respect for King Chris.  I guess you could call it worship.
 --------------------------------
 [00000071][リン,シャオメイ,リンリン]
-なにかと比較されるのは
-面白くないでしょうけど、
-ユキヒメのことを悪く思わないでね。
+It might not be fun to be compared to someone else, but don't think badly of
+Yukihime.
 --------------------------------
 [00000072][レイジ,レイジ,レイジ]
-……なんか、やたら詳しいな。
-まるで見てきたみたいに説明するじゃないか。
+...You seem very knowledgeable.  You explain it as if you've just seen it.
 --------------------------------
 [00000073][リン,シャオメイ,リンリン]
-……うふふっ。
+...Ufufu.
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-な、何だよ、その意味深な笑いは……。
+W-what is that meaningful smile...?
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-リンリン……本当は何歳なんだ？
-まさか、本当に２００年前の出来事を
-目撃したわけじゃないよな？
+Rinrin...how old are you really?  It's not like you really witnessed something
+that happened 200 years ago, right?
 --------------------------------
 [00000076][リン,シャオメイ,リンリン]
-あー、レイジったらひどいわ。
-女の子に年齢を聞くなんて、サイテーよ。
+Ah, Rage would be terrible.  It's gross to ask a girl her age.
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-なっ……。
-だ、だからそういう意味じゃねーんだって！
+What...  That's why it doesn't mean that!
 --------------------------------
 [00000078][リン,シャオメイ,リンリン]
-デリカシーないわね、レイジって。
-そんなことじゃ、彼女なんて作れないわよ。
+There's nothing delicate about it, Rage.  If you do that, you won't be able to
+get a girlfriend.
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-大きなお世話だっ！
+Thank you for your help!
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-リンリン……本当は何者なんだ？
-この間のサクヤさんのことといい
-妙にこの世界に詳しすぎる……。
+Rinrin... who are you really?  This is what happened to Sakuya the other day.
+She seems to know a lot about this world...
 --------------------------------
 [00000081][リン,シャオメイ,リンリン]
-私が何者かわからないと……怖い？
+If you don't know who I am... are you scared?
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-え？
-あ、いや、そんなことはないけど……。
+Huh?  Ah, no, it's not like that...
 --------------------------------
 [00000083][リン,シャオメイ,リンリン]
-レイジに教えてあげられることもあれば
-言ってはいけないこともあるわ。
-でも、これだけは覚えておいて。
+There are things I can tell Rage, and there are things I shouldn't tell him. 
+But please remember this.
 --------------------------------
 [00000084][リン,シャオメイ,リンリン]
-私は、いつでもサクヤの味方。
-つまり、レイジたちの味方でもあるの。
-私はいつでも、あなたたちの力になるわ。
+I will always be on Sakuya's side.  In other words, he is also an ally of Rage
+and the others.  I will always be your strength.
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-あ、ああ……。
-わかった。ありがとう。
-その言葉、信じるよ。
+Ah, ah...  I understand. thank you. 
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000087][リン,シャオメイ,リンリン]
-どうしたの、レイジ？
-私のことが信用できなくなった？
+What's wrong, Rage?  Do you no longer trust me?
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-……いや、それはない。
+...No, that's not it.
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-お前がどんなに不思議なことを言っても
-お前が仲間であることに変わりはない。
-疑ったりなんかしないよ。
+No matter how strange you say, it doesn't change the fact that you're my friend.
+I won't doubt it.
 --------------------------------
 [00000090][リン,シャオメイ,リンリン]
-そう……ありがと、レイジ。
+Yes...thank you, Rage.
 --------------------------------
 [00000091][リン,シャオメイ,リンリン]
-それはそうと、レイジ。
-私、背中が痒いの。
-お願い、掻いてくれる？
+By the way, Rage.  My back is itchy.  Please, can you scratch it?
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-え……せ、背中？
-ええっと……こ、これでいいのか？
+Eh... your back?  Um...is this okay?
 --------------------------------
 [00000093][リン,シャオメイ,リンリン]
-えへへっ、ありがとーレイジ。
-ん～、気持ちいいーっ。
+Hehe, thank you Rage.  Hmm, it feels good.
 --------------------------------
 [00000094][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……こういうところを見てると
-やっぱり普通の猫と変わらないよな。
-不思議な奴……）
+@fcFFAAFFAA(...When you look at things like this,
+it's no different from a normal cat.
+That's a strange guy...)
 --------------------------------
 [00000095][リン,シャオメイ,リンリン]
-ごろごろごろ……にゃん。
+Rolling around...meow.
 --------------------------------
 [00000096][none]
-リンリンは何歳なんだ？
+How old is Rinrin?
 --------------------------------
 [00000097][none]
-リンリンは何者なんだ？
+Who is Rinrin?
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-ん？
-リンリン、どこへ行くんだ？
+Huh?  Rinrin, where are you going?
 --------------------------------
 [00000099][リン,シャオメイ,リンリン]
-あ、レイジ。
-よかった、あなたを探してたの。
+Ah, Rage.  Good thing I was looking for you.
 --------------------------------
 [00000100][レイジ,レイジ,レイジ]
-オレを？
-オレに何か用なのか？
+Me?  Do you need something from me?
 --------------------------------
 [00000101][リン,シャオメイ,リンリン]
-うん、ちょっとね。
-私と一緒に来てくれる？
+Yeah, a little bit.  Will you come with me?
 --------------------------------
 [00000102][レイジ,レイジ,レイジ]
-ああ、かまわないけど
-どこへ行くんだよ？
+Oh, I don't mind Where are you going?
 --------------------------------
 [00000103][リン,シャオメイ,リンリン]
-後で説明するわ。
-とにかく、一緒に来て。
+I'll explain later.  Anyway, come with me.
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-リンリン。
-探していた宝石っていうのは、それなのか？
+Ringling.  Is that the jewel you were looking for?
 --------------------------------
 [00000105][リン,シャオメイ,リンリン]
-うん、そう……。
-よかった、無事だった……。
-どこも壊れていないわ。
+Yeah, that's right...  Thank you, you're safe...  Nothing is broken.
 --------------------------------
 [00000106][レイジ,レイジ,レイジ]
-そうか、そりゃ良かった。
-……で、それはなんなんだよ？
-そろそろ説明してくれないか？
+Yeah, that was good.  ...So, what is that?  Could you please explain it to me
+now?
 --------------------------------
 [00000107][リン,シャオメイ,リンリン]
-そうね……。
-無理を言って手伝ってもらったんだから
-ちゃんと説明しないとね。
+Yes...  Since you asked me to help you, I have to explain it properly.
 --------------------------------
 [00000108][リン,シャオメイ,リンリン]
-これは、ソウルクリスタルの1つ。
-古代の人の記憶が結晶化して
-宝石になったものよ。
+This is one of the soul crystals.  It is the crystallization of the memories of
+ancient people  that has become a jewel.
 --------------------------------
 [00000109][レイジ,レイジ,レイジ]
-ソウルクリスタル……これが？
-古代人の記憶だって？
+Soul crystal...is this?  Is it the memory of ancient people?
 --------------------------------
 [00000110][リン,シャオメイ,リンリン]
-ええ、そう。
-はるか昔、ここで暮らしていた人の思いが
-こうして今も残っているの。
+Yes, that's right.  The memories of people who lived here a long time ago  are
+still there today.
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-ふうん……そうなのか。
-そんなに古いものがこうして残ってるなんて
-なんだかすげーな。
+Hmm...is that so?  It's kind of amazing that something so old still remains like
+this.
 --------------------------------
 [00000112][リン,シャオメイ,リンリン]
-私はね、レイジ。
-あなたやリックのようなソウルブレイダーを
-正しい道へ導くのが役割なの。
+Me, Rage.  My role is to guide Soul Bladers like you and Rick to the right path.
 --------------------------------
 [00000113][リン,シャオメイ,リンリン]
-でも、もうひとつ役割があって……
-それが、このソウルクリスタルを集めること。
+But there is another role... That is to collect these soul crystals.
 --------------------------------
 [00000114][リン,シャオメイ,リンリン]
-古代の知識を集め、管理するのが
-私の存在する理由なのよ。
+Collecting and managing ancient knowledge is the reason I exist.
 --------------------------------
 [00000115][レイジ,レイジ,レイジ]
-ん……よくわからないけど
-そのクリスタルを集めて、
-それでなにをするんだ？
+Hmm... I don't know, what are you going to do with that crystal?
 --------------------------------
 [00000116][リン,シャオメイ,リンリン]
-それは……ごめんなさい。
-詳しいことは言えないの。
+That's...I'm sorry.  I can't tell you more details.
 --------------------------------
 [00000117][リン,シャオメイ,リンリン]
-いつの日か、レイジにも
-本当のことを教えてあげられるかも知れない。
-それまで待ってて……ね。
+Someday, I might be able to tell Rage the truth.  Wait until then...
 --------------------------------
 [00000118][レイジ,レイジ,レイジ]
-……そうか。
+...I see.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-事情はよくわからないけど
-今日みたいに手伝えることがあるなら
-遠慮なく言ってくれよな。
+I don't really understand the situation, but if I can help you like I did today,
+please feel free to let me know.
 --------------------------------
 [00000120][リン,シャオメイ,リンリン]
-……レイジ、優しいね。
+...Rage, you're so kind.
 --------------------------------
 [00000121][リン,シャオメイ,リンリン]
-そんな風に、誰にでも優しくしてると
-いつか困ったことになるわよ。
+If you're nice to everyone like that, you'll end up in trouble someday.
 --------------------------------
 [00000122][レイジ,レイジ,レイジ]
-はあ？
-おいリンリン、いったいなんの話だよ？
+Huh?  Hey, Rinrin, what on earth are you talking about?
 --------------------------------
 [00000123][リン,シャオメイ,リンリン]
-うふふっ、なんでもないわよ。
+Hehehe, it's nothing.
 --------------------------------
 [00000124][リン,シャオメイ,リンリン]
-そうだ。
-ねえ、レイジ。
-もう１つだけ、お願いがあるんだけど。
+Yes.  Hey, Rage.  I have just one more request.
 --------------------------------
 [00000125][レイジ,レイジ,レイジ]
-お願い？　何だ？
+Please? What?
 --------------------------------
 [00000126][リン,シャオメイ,リンリン]
-あのね……。
-サクヤのこと、大切にしてあげて。
+You know...  Please take good care of Sakuya.
 --------------------------------
 [00000127][レイジ,レイジ,レイジ]
-えっ？
+Huh?
 --------------------------------
 [00000128][リン,シャオメイ,リンリン]
-レイジも気づいてると思うけど
-サクヤは今、とても苦しんでいるの。
+I think Rage has noticed that Sakuya is suffering a lot right now.
 --------------------------------
 [00000129][リン,シャオメイ,リンリン]
-サクヤが抱えている重圧は
-とても、とても大きなものなの。
-私なんかじゃ想像もつかないくらい……。
+The pressure Sakuya is under is very, very heavy.  I can't even imagine it...
 --------------------------------
 [00000130][リン,シャオメイ,リンリン]
-お願い、レイジ。
-サクヤの力になってあげて。
+Please, Rage.  Please help Sakuya.
 --------------------------------
 [00000131][レイジ,レイジ,レイジ]
-……ああ。
-サクヤさんが苦しんでるのは
-オレもなんとなくわかってた。
+...Ah.  I kind of knew that Sakuya-san was suffering .
 --------------------------------
 [00000132][レイジ,レイジ,レイジ]
-オレに何ができるかはわからないけど
-サクヤさんのためなら、いつだって力になるよ。
-もちろん、リンリンの力にもな。
+I don't know what I can do, but if it's for Sakuya-san, I'll always be of help. 
+Of course, it's also about Rinrin's power.
 --------------------------------
 [00000133][リン,シャオメイ,リンリン]
-……うん。
-レイジ、ありがとう。
+...Yeah.  Thank you, Rage.
 --------------------------------

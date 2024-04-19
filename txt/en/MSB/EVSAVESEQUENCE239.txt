@@ -1,16 +1,16 @@
 [0008]
 *****************
 [00000000]
-セーブしますか？
+Do you want to save?
 --------------------------------
 [00000001]
-セーブを中止します。\nよろしいですか？
+Cancels saving. \nAre you sure?
 --------------------------------
 [00000002]
-クリアーデータをセーブしますか？\nこのデータをロードすることで、第１０章が開放されます。
+Do you want to save clear data? \nBy loading this data, Chapter 10 will be unlocked.
 --------------------------------
 [00000003]
-セーブを中止します。\nよろしいですか？
+Cancels saving. \nAre you sure?
 --------------------------------
 [00000004]
 SysCallConfirmsEndingSaveSequence

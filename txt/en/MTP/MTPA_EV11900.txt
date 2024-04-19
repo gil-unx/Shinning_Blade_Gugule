@@ -1,1491 +1,1144 @@
 [0396]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1１０月７日、ギルランダイオ要塞をガリア軍が攻略
-帝国軍の司令官セルベリア・ブレス大佐はガリア軍の捕虜となった
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1On October 7th, the Gallic army captured Fortress Ghirlandaio
+The commander of the Imperial army, Colonel Selvaria Bres, was taken prisoner by the Gallic army.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1同日、南東部の国境を越えて帝国軍の陸上戦艦マーモットが侵入
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1On the same day, the Imperial Army's land battleship Marmot invaded across the southeastern border.
 --------------------------------
 [00000002][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1さらに翌１０月８日、ギルランダイオ要塞は突如大爆発を起こし
-ガリア軍主力部隊は要塞もろとも跡形もなく消滅した
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1Furthermore, on October 8th, the following day, the Ghirlandaio fortress suddenly exploded
+
+The main forces of the Gallic army disappeared without a trace, along with the fortress.
 --------------------------------
 [00000003][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1目撃者の証言によると要塞の塔から無数の蒼い光が放たれ
-その輝きが要塞を包み、爆発したという
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1According to eyewitness accounts, countless blue lights were emitted from the fortress's tower
+The glow enveloped the fortress and exploded.
 --------------------------------
 [00000004][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　１０月上旬　ランドグリーズ近郊
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seireki 1935 Early October Near Landgris
 --------------------------------
 [00000005][none]
-俺さんがわざわざ
-ここまで来たのは
-他でもない
+I came all the way to this point. It's none other than me.
 --------------------------------
 [00000006][none]
-最高と最低、ふたつの
-伝達事項があるからだ
+Because there are two things to be communicated the best and the worst.
 --------------------------------
 [00000007][none]
-何でしょうか？
+What?
 --------------------------------
 [00000008][none]
-最高の方は
-ネームレスの全隊員に
-懲罰恩赦が出たってことだ
+The best part is that all members of Nameless have been given amnesty.
 --------------------------------
 [00000009][none]
-全員に恩赦が、ですか
+Amnesty for everyone?
 --------------------------------
 [00000010][none]
-そうだ
-ネームレスは正規軍所属に
-復帰するのみならず
+That's right Nameless will not only return to the regular army 
 --------------------------------
 [00000011][none]
-懲罰部隊ではなく
-正規軍の通常部隊として
-扱われることになった
+Now treated as a regular unit of the regular army, rather than as a punitive
+unit.
 --------------------------------
 [00000012][none]
-ナンバー呼称は廃止だ
-行動も軍の記録に残される
+Number designations are abolished Your actions will also be recorded in military
+records.
 --------------------------------
 [00000013][none]
-賞罰も軍規通りに与えられ
-隊員の退役も
-任意に可能となる
+Rewards and punishments will be given according to military regulations, and
+members can be retired at will.
 --------------------------------
 [00000014][none]
-ネームレスでは
-なくなるということですか
+Does that mean it will no longer be nameless?
 --------------------------------
 [00000015][none]
-そう、お前さんは達成した
-ネームレスから
-這い上がるという目標をな
+Yes, you have achieved the goal of climbing out of nameless.
 --------------------------------
 [00000016][none]
-……そうですか
-最初に考えていたのとは
-まるで違う道のりでした
+...I see. It was a completely different path than I had originally thought. 
 --------------------------------
 [00000017][none]
-おい、もう少し喜べよ！
+Hey, please be a little more happy!
 --------------------------------
 [00000018][none]
-この結果は隊員達と共に
-勝ち取ったものですから
-後で一緒に喜びます
+This result was won together with the members, so we will celebrate together
+later.
 --------------------------------
 [00000019][none]
-その言葉、出会った頃の
-お前さんに
-聞かせてみたいぜ
+I'd like to hear those words from you back when we met.
 --------------------------------
 [00000020][none]
-……キャンディ屋が
-儲かりますね、間違いなく
+...Candy shops are profitable, no doubt.
 --------------------------------
 [00000021][none]
-キャンディを噛むあれか？
-変なクセだな、まったく
+Are you biting candy?  That's a strange habit, really.
 --------------------------------
 [00000022][none]
-なお、手続きの都合上
-引き続き諜報部の
-直属部隊ということになる
+Please note that due to procedural reasons it will continue to be under the
+direct command of the Intelligence Department.
 --------------------------------
 [00000023][none]
-制服はそのまま
-上官も俺さんのままだ
-喜んでいいぞ
+I'll keep my uniform My superior will stay the same as me You can be happy.
 --------------------------------
 [00000024][none]
-それが最低の
-伝達事項ですか？
+Is that the minimum thing to communicate?
 --------------------------------
 [00000025][none]
-……だったら
-よかったんだけどな
+It would have been good if...
 --------------------------------
 [00000026][none]
-帝国軍の巨大陸上戦艦が
-ランドグリーズへ
-向かって接近中だ
+A giant land battleship of the Imperial Army is approaching Landgriz.
 --------------------------------
 [00000027][none]
-陸上戦艦……？
+Land battleship...?
 --------------------------------
 [00000028][none]
-軍艦が地上を走ってると
-想像すればいい
+Just imagine a warship running on the ground 
 --------------------------------
 [00000029][none]
-そんな巨大な物体が
-地上を走る……実物を
-見るまでは信じられません
+Such a huge object running on the ground...I won't believe it until I see it.
 --------------------------------
 [00000030][none]
-そりゃそうだろうよ
-だが、こいつの足が
-また速くてな
+That's true, but this guy's legs are also fast.
 --------------------------------
 [00000031][none]
-もうランドグリーズに
-到着した頃だ
+It's about time we arrived at Landgriz.
 --------------------------------
 [00000032][none]
-速い！
-そんなことが
-可能なのですか!?
+Fast!  Is that possible? Is that possible?
 --------------------------------
 [00000033][none]
-そこで正規軍部隊となった
-お前さん達の初仕事だ
+That's where you became a regular army unit This is your first job.
 --------------------------------
 [00000034][none]
-首都ランドグリーズを
-奪還してくれ
+Please recapture the capital Landgriz.
 --------------------------------
 [00000035][none]
-知っての通り
-ガリア軍の主力部隊は
+As you know the main force of the Gallic army is
 --------------------------------
 [00000036][none]
-ギルランダイオ要塞で
-謎の大爆発に巻き込まれ
-全滅した
+Entirely destroyed in a mysterious explosion at Fortress Ghirlandaio
 --------------------------------
 [00000037][none]
-残っているのはわずかな
-各地の守備隊と一部義勇軍
-そしてお前さん達だけだ
+All that remains are a few local garrisons, some volunteer forces, and you guys.
 --------------------------------
 [00000038][none]
-勝て
-いいな
+It's nice to win
 --------------------------------
 [00000039][none]
-はっ！
+Ha!
 --------------------------------
 [00000040][none]
-ダハウ大尉やグスルグも
-まだ健在のはずだ……
+Captain Dachau and Gusurg should still be alive...
 --------------------------------
 [00000041][none]
-この状況では
-彼らも無視できない
-……どう動いてくる？
+In this situation they can't be ignored ...how will they work?
 --------------------------------
 [00000042][none]
-断る
+decline
 --------------------------------
 [00000043][none]
-本当にいいの？
-ボルジア様に伝えるわよ？
+Are you sure?  I'll tell Borgia-sama, okay?
 --------------------------------
 [00000044][none]
-ランドグリーズを
-爆破するなど
-私にはできん！
+I can't blow up Landgriz! I can't do that!
 --------------------------------
 [00000045][none]
-エヒドナの動力炉を
-暴走させてやれば
+If you let Echidna's power reactor go out of control.
 --------------------------------
 [00000046][none]
-ランドグリーズぐらい
-簡単に吹き飛ばせるわよ？
+You can blow it away as easily as Land Grease, right?
 --------------------------------
 [00000047][none]
-簡単……だと？
+Easy...?
 --------------------------------
 [00000048][none]
-成功すればアンタ達の夢
-ダルクス人独立自治区の
-建設を認めると
+If we succeed, we will approve the construction of your dream Darksian
+Independent Autonomous Region.
 --------------------------------
 [00000049][none]
-ボルジア様は言っているわ
-おいしい話だと思うけどね？
+Lord Borgia said that I think it's a good story, isn't it?
 --------------------------------
 [00000050][none]
-できぬ相談だ
+This is an impossible consultation.
 --------------------------------
 [00000051][none]
-ふん、自信無いんだ？
+Hmm, you're not confident?
 --------------------------------
 [00000052][none]
-確かに、アイスラーと
-マクシミリアンを
-まとめて消す妙案だ
+Indeed, it's a great idea to eliminate Eisler and Maximilian all at once.
 --------------------------------
 [00000053][none]
-だがランドグリーズに住む
-罪なきダルクス人同胞を
-殺すことはできない！
+But I can't kill my innocent Dalxians living in Landgriz!
 --------------------------------
 [00000054][none]
-その程度の犠牲を
-嫌がってるわけ？
+So you don't want to sacrifice that much?
 --------------------------------
 [00000055][none]
-その程度？
-同胞の命は
-軽いものではない！
+That much?  The lives of our compatriots are not taken lightly!
 --------------------------------
 [00000056][none]
-独立自治区建設は夢……
-実現すべき理想だ
+Building an independent autonomous region is a dream... It is an ideal that must
+be realized.
 --------------------------------
 [00000057][none]
-だからこそ
-罪なき同胞の犠牲の上に
-建ててはならないのだ！
+That's why we must not build on the sacrifices of our innocent fellow citizens!
 --------------------------------
 [00000058][none]
-同胞を大量虐殺して
-手に入れた独立に
-誰が希望を持つのか？
+Who has any hope for independence gained by mass murdering their own people?
 --------------------------------
 [00000059][none]
-事あらば体制のためと
-平気で民を殺す指導者を
-誰が支持する？
+Who would support a leader who would casually kill people for the sake of the
+system?
 --------------------------------
 [00000060][none]
-私は独立という結果が
-欲しいだけではない
-独立を続けたいのだ
+I don't just want the outcome of independence I want to continue being
+independent.
 --------------------------------
 [00000061][none]
-世界中のダルクス人の心に
-希望の火を灯し
-その火を消さないためにな
+To light the flame of hope in the hearts of Darxians all over the world, and
+never extinguish it.
 --------------------------------
 [00000062][none]
-ご立派な思想だけど
-断ればボルジア様とは
-手を切ることになるわよ
+It's a fine idea, but if you refuse, you'll have to cut ties with Lord Borgia.
 --------------------------------
 [00000063][none]
-残念だが、そうなる
-アイスラーが自白すれば
-ユグド教団は彼を処断する
+Unfortunately, if that happens If Eisler confesses, the Yggd Order will execute
+him.
 --------------------------------
 [00000064][none]
-追放か
-あるいは暗殺だろう
+Expulsion or assassination.
 --------------------------------
 [00000065][none]
-これまでの働きは
-水の泡になるのよ？
+All the work you've done so far will be for naught, right?
 --------------------------------
 [00000066][none]
-……やむを得ん
-マクシミリアンの
-配下として出直す
+...Unavoidable Restart as Maximilian's subordinate 
 --------------------------------
 [00000067][none]
-独立は遠のくが
-理想は捨てん
-今後も戦い続けていく
+Although independence is far away We will not abandon our ideals We will
+continue to fight.
 --------------------------------
 [00000068][none]
-全ダルクス人の幸福のため
-……その姿勢を貫くことも
-私の使命だ
+For the happiness of all Darxians ... it is my mission to maintain that attitude
 --------------------------------
 [00000069][none]
-……そう
+...yes
 --------------------------------
 [00000070][none]
-さて、どうしようかしらね
-ボルジア様が失脚したら
-アタシも困るし……
+Well, what should I do? If Lord Borgia loses his position, I'll be in trouble
+too...
 --------------------------------
 [00000071][none]
-状況を説明する
-よく聞いてくれ
+Explain the situation Listen carefully
 --------------------------------
 [00000072][none]
-首都ランドグリーズに帝国の陸上戦艦が
-突入したとの情報が入った。
+We have received information that an Imperial land battleship has entered the
+capital Landgriz.
 --------------------------------
 [00000073][none]
-我々は、ただちに現地へ急行。
+We rush to the scene immediately.
 --------------------------------
 [00000074][none]
-ランドグリーズ内の敵戦力を排除し
-首都を奪還しなければならない。
+We must eliminate enemy forces within Landgriz and retake the capital.
 --------------------------------
 [00000075][none]
-また、ランドグリーズ周辺には帝国軍の部隊が
-散開しているとの情報も入っている。
+There is also information that Imperial Army troops are scattered around
+Landgriz.
 --------------------------------
 [00000076][none]
-遭遇した際は、速やかにこれを撃破し
-首都へ全速力で駆けつける。
+If you encounter one, immediately destroy it and rush to the capital at full
+speed.
 --------------------------------
 [00000077][none]
-極めてまずい状況にあると言っていい。
+It can be said that we are in an extremely bad situation.
 --------------------------------
 [00000078][none]
-だが、このまま首都を
-帝国軍に渡すわけにはいかない。
+However, we cannot hand over the capital to the Imperial Army like this.
 --------------------------------
 [00000079][none]
-ガリアの存亡がかかった戦いになるだろう。
-各員、全力で作戦に当たるように。
+This will be a battle where the survival of Gaul will be at stake.  Everyone,
+please do your best to carry out the operation.
 --------------------------------
 [00000080][none]
-みんなよろしく頼む
-それでは行動開始
+Thank you everyone Let's start taking action.
 --------------------------------
 [00000081][none]
-ダハウ大尉、ボルジアの
-依頼を断ったというのは
-本当か？
+Captain Dachau, is it true that you declined Borgia's request?
 --------------------------------
 [00000082][none]
-そうだ
+Yes
 --------------------------------
 [00000083][none]
-ボルジアの依頼は
-受けるべきだったのでは？
+Shouldn't you have accepted Borgia's request?
 --------------------------------
 [00000084][none]
-……お前がまだ敵だった頃
-私が妻の話をしたのを
-覚えているか
+...Do you remember when I told you about my wife when you were still my enemy?
 --------------------------------
 [00000085][none]
-ああ、帝国で共に戦い
-亡くなったそうだな
+Ah, I heard they died fighting together in the Empire.
 --------------------------------
 [00000086][none]
-これを見てくれ
+look at this
 --------------------------------
 [00000087][none]
-この女性が、あなたの？
+Is this woman yours?
 --------------------------------
 [00000088][none]
-持ち歩くようにと
-妻から渡された一枚だ
+This is the one my wife gave me to carry with me.
 --------------------------------
 [00000089][none]
-いい、笑顔だな
+Okay, you're smiling.
 --------------------------------
 [00000090][none]
-妻は生を終える間際に
-こう言い残した
+My wife said this before she died 
 --------------------------------
 [00000091][none]
-千年続く国を作ろう
+Let's create a country that will last a thousand years
 --------------------------------
 [00000092][none]
-未来に生きる子や孫達が
-笑顔で暮らせる
-世界を作ろう、と
+Let's create a world where our future children and grandchildren can live with
+smiles.
 --------------------------------
 [00000093][none]
-笑顔で暮らせる世界……
+A world where you can live with a smile...
 --------------------------------
 [00000094][none]
-私にとっての独立とは
-そういうものだ
-分かるか？
+That's what independence means to me. Do you understand?
 --------------------------------
 [00000095][none]
-……理解した
-ダハウ、あなたの信念に
-心から敬意を表する
+...I understand Dachau, I sincerely respect your beliefs 
 --------------------------------
 [00000096][none]
-俺はあなたを知り
-あなたのために
-働けることを誇りに思う
+I'm proud to know you and work for you.
 --------------------------------
 [00000097][none]
-私も、よき理解者に
-巡り会えたことに
-感謝している
+I am also grateful to have met someone who understands me so well.
 --------------------------------
 [00000098][none]
-話が聞けてよかった
-では、これで
+I'm glad to hear your story. Okay, that's it.
 --------------------------------
 [00000099][none]
-独立への道は遠くなる……
-だが必ず辿り着いてみせる
-必ず……！
+The road to independence will be long... But we will definitely get there We
+will definitely get there...!
 --------------------------------
 [00000100][none]
-ダハウ……
-あなたはダルクス人の
-希望であり続けてくれ
+Dahau... You must continue to be the hope of the Darcians 
 --------------------------------
 [00000101][none]
-手は、俺が汚す……！
+I'll get my hands dirty...!
 --------------------------------
 [00000102][none]
-帝国軍の陸上戦艦が
-ランドグリーズ城に
-突入した、か……
+An imperial land battleship has entered Randgriz Castle, huh...
 --------------------------------
 [00000103][none]
-この怪物とどう戦う？
-動いてさえいなければ
-付け入る隙はあるか……
+How do you fight this monster?  If it's not moving Is there a chance to take
+advantage of it...
 --------------------------------
 [00000104][none]
-クルト、今いいかな？
+Kurt, is it okay now?
 --------------------------------
 [00000105][none]
-入ってくれ
+Come in.
 --------------------------------
 [00000106][none]
-ごめんね、お邪魔して
+Sorry to bother you.
 --------------------------------
 [00000107][none]
-……恐くなったのか？
+...Are you scared?
 --------------------------------
 [00000108][none]
-うん……
-お見通しだね
-クルトは
+Yeah... You can see Kurt.
 --------------------------------
 [00000109][none]
-ギルランダイオ要塞の
-爆発は、人類の技術水準を
-越えていた
+The explosion at Fortress Ghirlandaio exceeded humanity's technological level.
 --------------------------------
 [00000110][none]
-だから、あれはおそらく
-ヴァルキュリアの力に
-よるものなんだろうな
+So it's probably due to the power of Valkyria.
 --------------------------------
 [00000111][none]
-一瞬で何万人もの命を
-消してしまうあの力が
-私にもあるんだよね
+I also have the power to wipe out tens of thousands of lives in an instant.
 --------------------------------
 [00000112][none]
-いつ、どこで
-ああなってしまうか
-分からない……
+I don't know when or where this will happen...
 --------------------------------
 [00000113][none]
 ……
 --------------------------------
 [00000114][none]
-間違ってた……
-私の居場所なんて
-どこにもなかったんだよ
+I was wrong... There was no place for me 
 --------------------------------
 [00000115][none]
-リエラ……
+Riela...
 --------------------------------
 [00000116][none]
-幸運なんて
-私にはなかったんだね
-最初から……
+I didn't have any luck from the beginning...
 --------------------------------
 [00000117][none]
-それは違う！
+That's not true!
 --------------------------------
 [00000118][none]
-誰だって
-幸せを求めていいんだ！
+Anyone can seek happiness!
 --------------------------------
 [00000119][none]
-嘘だよ、そんなの
+That's a lie.
 --------------------------------
 [00000120][none]
-え……
+Eh...
 --------------------------------
 [00000121][none]
-私もいつかあんな風に
-たくさんの人を
-殺してしまうかもしれない
+I might kill a lot of people like that someday.
 --------------------------------
 [00000122][none]
-誰かを私の不幸に
-巻き込むのは
-もう嫌なの！
+I don't want anyone else involved in my misfortune!
 --------------------------------
 [00000123][none]
-これからもずっと
-それに怯えながら
-生きていくのは辛いよ……！
+It's painful to continue to live in fear of that forever...!
 --------------------------------
 [00000124][none]
-悲しいよ……！
+So sad...!
 --------------------------------
 [00000125][none]
-……リエラ
+...Riera
 --------------------------------
 [00000126][none]
-俺が君を不幸にさせない
-絶対に
+I won't make you unhappy Never
 --------------------------------
 [00000127][none]
-クルト……？
+Kurt...?
 --------------------------------
 [00000128][none]
-君の居場所はここだ
-幸せはここにある
+Your place is here Happiness is here
 --------------------------------
 [00000129][none]
-だから、どこにも行くな
+So don't go anywhere
 --------------------------------
 [00000130][none]
-私の、幸せ……？
+My happiness...?
 --------------------------------
 [00000131][none]
-二度と不安にならないよう
-もう一度
-ちゃんと言葉にして伝える
+I'll tell you in words again so that you won't feel anxious again.
 --------------------------------
 [00000132][none]
-リエラ、俺を信じろ
+Riera, believe me.
 --------------------------------
 [00000133][none]
-あ……
+Ah...
 --------------------------------
 [00000134][none]
-君は俺を信じて
-俺の側で
-ずっと笑っていてくれ
+Please believe in me and keep smiling by my side.
 --------------------------------
 [00000135][none]
-クルト……
+Kurt...
 --------------------------------
 [00000136][none]
 …………
 --------------------------------
 [00000137][none]
-……ごめん、できない
+...Sorry, I can't.
 --------------------------------
 [00000138][none]
-えっ
+Huh?
 --------------------------------
 [00000139][none]
-笑えって言われても
-笑えないよ
+I can't laugh even if I'm told to laugh.
 --------------------------------
 [00000140][none]
-嬉しすぎて
-笑えないよ……！
+I'm so happy I can't smile...!
 --------------------------------
 [00000141][none]
-……大丈夫
-君は幸せになる
-何も心配するな
+...It's okay You'll be happy Don't worry about anything
 --------------------------------
 [00000142][none]
-うん……！
+Yeah...!
 --------------------------------
 [00000143][none]
-本当にやるのね？
+Are you really going to do it?
 --------------------------------
 [00000144][none]
-そうだ
-ランドグリーズ爆破は
-俺がやる
+That's right I'll blow up Landgriz. I'll do it.
 --------------------------------
 [00000145][none]
-ボルジアには
-成功後の独立自治区建設を
-確約してもらった
+Borgia has promised to build an independent autonomous region after success.
 --------------------------------
 [00000146][none]
-まさかあの用心深い
-ボルジア様が直接アンタと
-会うとは思わなかったけど
+I never expected that cautious Master Borgia to meet you directly.
 --------------------------------
 [00000147][none]
-彼も必死なのさ
-アイスラーを消さなければ
-破滅するんだからな
+He is also desperate If he doesn't eliminate Eisler he will be destroyed.
 --------------------------------
 [00000148][none]
-俺のような者でも
-使えるなら使おうという
-ことなんだろう
+I guess even someone like me would use it if it was possible.
 --------------------------------
 [00000149][none]
-まあ、そうだと思ったから
-アンタをボルジア様に
-紹介したんだけどね
+Well, I thought that was the case, so I introduced you to Lord Borgia.
 --------------------------------
 [00000150][none]
-で、取り次いだ
-アタシが言うのも変だけど
-できるのかしら、アンタに
+So, it's strange for me to say this, but I wonder if you can do it.
 --------------------------------
 [00000151][none]
-できるかじゃない
-やるんだ
+It's not about whether you can Do it.
 --------------------------------
 [00000152][none]
-アイスラーさえ殺せば
-ボルジアは失脚しない
+As long as Eisler is killed, Borgia will not be defeated.
 --------------------------------
 [00000153][none]
-マクシミリアンが死ねば
-軍の大将をボルジアが
-すげ替えて戦争は継続だ
+If Maximilian dies, Borgia will replace him as general and the war will
+continue.
 --------------------------------
 [00000154][none]
-有能な将軍はもういない
+There are no more capable generals.
 --------------------------------
 [00000155][none]
-無能な総司令官を置けば
-この戦争はより泥沼化する
-俺達にとっても好都合だ
+If we put an incompetent commander in chief, this war will become even more
+muddy. It will be good for us as well.
 --------------------------------
 [00000156][none]
-そして俺が手を汚すことで
-ダハウはダルクス人の
-希望であり続けられる
+And by getting my hands dirty, Dachau can continue to be the hope of the
+Darcians.
 --------------------------------
 [00000157][none]
-ボルジアに独立支援を
-確約させ、あとはダハウに
-託して俺は消えればいい
+Just make Borgia promise support for independence, leave the rest to Dachau, and
+disappear.
 --------------------------------
 [00000158][none]
-アンタ……死ぬ気なの？
+You...are you planning to die?
 --------------------------------
 [00000159][none]
-理想実現のためなら
-俺の命ぐらい安いもんだ
+To realize my ideals My life is cheap.
 --------------------------------
 [00000160][none]
-すでに俺の考えは
-隊員達に伝えた
-賛同者だけを連れて行く
+I have already communicated my thoughts to the members. I will only take those
+who agree with me.
 --------------------------------
 [00000161][none]
-そう、これでようやく
-アンタの顔も見納めなのね
+Yes, now I can finally see your face.
 --------------------------------
 [00000162][none]
 ……
 --------------------------------
 [00000163][none]
-アタシは
-ボルジア様の元へ帰るわ
-ここにいる意味ないからね
+I'm going back to Lord Borgia. There's no point in being here.
 --------------------------------
 [00000164][none]
-……君は戻れないさ
+...you can't go back
 --------------------------------
 [00000165][none]
-は？　何を言って……
+Huh? What did you say...
 --------------------------------
 [00000166][none]
-避けろリディア！
+Avoid Lydia!
 --------------------------------
 [00000167][none]
-死ね！
+Die!
 --------------------------------
 [00000168][none]
-えっ!?
+Huh!?
 --------------------------------
 [00000169][none]
-そこだ！
+There!
 --------------------------------
 [00000170][none]
-うわっ!!
+Wow!!
 --------------------------------
 [00000171][none]
-何？　何なの!?
-なんでアタシが
-撃たれるわけ？
+What?　What!? Why did I get shot ?
 --------------------------------
 [00000172][none]
-ボルジアの放った
-刺客だろうな
+Probably an assassin sent by Borgia.
 --------------------------------
 [00000173][none]
-そんなバカな!?
-アタシはボルジア様を
-裏切ってないわ！
+Are you that stupid!? I did not betray Lord Borgia!
 --------------------------------
 [00000174][none]
-口封じだ……
-ボルジアは君を通して
-この部隊に指示してきた
+Silence... Borgia has given instructions to this unit through you. 
 --------------------------------
 [00000175][none]
-君がユグド教団に
-ボルジアのことを話せば
-彼はお終いだ
+If you tell the Yggdian cult about Borgia, it's over for him.
 --------------------------------
 [00000176][none]
-そんな……!?
-アタシはずっと
-ボルジア様のために！
+Is that so...!? I've always been for Lord Borgia!
 --------------------------------
 [00000177][none]
-邪魔になれば消す
-君だってそうするんじゃ
-ないのか？
+I'll delete it if it gets in the way Don't you do the same ?
 --------------------------------
 [00000178][none]
-……アンタ
-なんでアタシを助けたの？
+... Why did you help me?
 --------------------------------
 [00000179][none]
-助けたわけじゃない
+I didn't help you.
 --------------------------------
 [00000180][none]
-使えるから拾っただけさ
+I just picked it up because it's useful.
 --------------------------------
 [00000181][none]
-な、何よ、それ……
+What, what is that...
 --------------------------------
 [00000182][none]
-俺のために死ぬか
-ここで俺に殺されるか
-選べ
+Choose to die for me or be killed by me here.
 --------------------------------
 [00000183][none]
-何ですって!?
+What!?
 --------------------------------
 [00000184][none]
-どうせ死ぬなら
-俺の役に立ってから
-死んでくれないか
+If you're going to die anyway, please help me before you die.
 --------------------------------
 [00000185][none]
-ふ……ふふっ、ふふふっ！
+Fu...hehe, hehe!
 --------------------------------
 [00000186][none]
-とんだ悪党だわ！
-あんたみたいな
-最低な男は初めてよ！
+What a villain!  I've never met a horrible guy like you!
 --------------------------------
 [00000187][none]
-そいつはどうも
+Thank you for that.
 --------------------------------
 [00000188][none]
-やだ、ゾクゾクきた……！
-理想がどうのとうるさい
-アンタは大嫌いだったけど
+Oh no, I'm so appalled...!  You're so picky about your ideals I hated you,
+though.
 --------------------------------
 [00000189][none]
-何よ、結局のところは
-アタシの同類じゃない！
+Why, I'm not of your own kind after all!
 --------------------------------
 [00000190][none]
-そうね、アタシがアンタの
-立場だったら同じように
-したでしょうね
+Well, if I were in your position, I would have done the same thing.
 --------------------------------
 [00000191][none]
-……今のアンタ
-銃を向ける前よりも好きよ
-最低野郎だけどね
+...I like you better now than before you pointed a gun at me, even though you're
+the worst bastard.
 --------------------------------
 [00000192][none]
 ……
 --------------------------------
 [00000193][none]
-どうしたの？
-銃を下ろしなさいよ
+What's wrong?  Put down your gun.
 --------------------------------
 [00000194][none]
-返事をまだ聞いていない
+Haven't heard a reply yet
 --------------------------------
 [00000195][none]
-バカね、アタシが
-ここで死ぬとでも？
+You idiot, do you think I'll die here?
 --------------------------------
 [00000196][none]
-答えなんて
-最初からひとつじゃない
-好きにしなさいよ
+There is no single answer from the beginning Do whatever you like.
 --------------------------------
 [00000197][none]
-すぐに出発する
-準備をしろ
+Get ready to leave immediately 
 --------------------------------
 [00000198][none]
-どこへでも行く準備は
-できているわ
-アタシの戦車、どこ？
+I'm ready to go anywhere. Where's my tank?
 --------------------------------
 [00000199][none]
-その従順さ
-演技じゃないだろうな？
+That obedience isn't an act, is it?
 --------------------------------
 [00000200][none]
-演技かどうか
-今から試してみる？
+Acting or not Do you want to try it now?
 --------------------------------
 [00000201][none]
-……いいだろう
+...okay
 --------------------------------
 [00000202][none]
-せっ！　はっ！
+Se! Ha!
 --------------------------------
 [00000203][none]
-相変わらずだな、イムカ
+Same as always, Imka.
 --------------------------------
 [00000204][none]
-生き方とは
-そうそう
-変えられるものではない
+The way of life is not something that can be changed.
 --------------------------------
 [00000205][none]
-何か、目的を見つける
-手がかりがあるといいな
+I hope there's some clue to finding your purpose 
 --------------------------------
 [00000206][none]
-まだ何も見えない
+can't see anything yet
 --------------------------------
 [00000207][none]
-無だ……
-今はそれで
-いいのかもしれない
+Nothing... Maybe that's okay for now 
 --------------------------------
 [00000208][none]
-目の前にある戦いに
-集中できるなら、悪くない
+Not bad if you can focus on the battle in front of you.
 --------------------------------
 [00000209][none]
-そうかもな
+Maybe so
 --------------------------------
 [00000210][none]
-言っておく
-クルトと一緒に
-地獄へ行く気はない
+Let me tell you I have no intention of going to hell with Kurt.
 --------------------------------
 [00000211][none]
-違う形で君を手伝えると
-俺も嬉しい
+I would also be happy if I could help you in a different way.
 --------------------------------
 [00000212][none]
-約束はできない
+I can't make any promises.
 --------------------------------
 [00000213][none]
-約束なんかいらない
-イムカはやっと
-復讐から自由になった
+I don't need any promises Imuka is finally free from revenge.
 --------------------------------
 [00000214][none]
-無でいい
-自由に考えて、感じて
-答えを探せばいい
+Nothing is fine Just think freely, feel Look for the answer
 --------------------------------
 [00000215][none]
-自由……か
+Freedom... huh?
 --------------------------------
 [00000216][none]
-今まで見えなかったものも
-きっとたくさんある
+I'm sure there are many things that I couldn't see before.
 --------------------------------
 [00000217][none]
-過去にこだわらず
-色々考えてみてくれ
+Don't dwell on the past Think about various things.
 --------------------------------
 [00000218][none]
-うん、やってみるしかない
+Yeah, I have to try it.
 --------------------------------
 [00000219][none]
-クルト、用ってなに？
+Kurt, what do you need?
 --------------------------------
 [00000220][none]
-大した用事ではないが
-……これを、君に
+It's not a big deal ...I'll give this to you.
 --------------------------------
 [00000221][none]
-あっ！　四つ葉だわ！
+Ah! It's a four leaf!
 --------------------------------
 [00000222][none]
-さっき見つけた
-まだいい香りがするだろう？
+I just found it It still smells good, right?
 --------------------------------
 [00000223][none]
-初めて見た……本当よ？
-幸のない私には
-一生縁がないと思ってた
+It's the first time I've seen it...is it true?  Without my luck, I thought I
+would never have a relationship.
 --------------------------------
 [00000224][none]
-言っただろう
-君は幸せになると
+I told you You'll be happy
 --------------------------------
 [00000225][none]
-もっとも、四つ葉が
-幸運のシンボルなのは……
+However, the four leaves are a symbol of good luck...
 --------------------------------
 [00000226][none]
-根拠がないね
-でも……
+There's no basis for it. But...
 --------------------------------
 [00000227][none]
-嬉しい、だな
+I'm happy.
 --------------------------------
 [00000228][none]
-クルトも少しは
-嬉しさを
-分かってくれたの？
+Did Kurt understand your happiness at least a little?
 --------------------------------
 [00000229][none]
-これを君に
-見せた時のことを
-考えたら、嬉しかった
+Thinking about when I showed this to you, I was so happy.
 --------------------------------
 [00000230][none]
-やだ、もう……
-クルトって時々ものすごく
-恥ずかしいこと言うよね
+Oh no... Kurt sometimes says really embarassing things.
 --------------------------------
 [00000231][none]
-俺は本当のことを
-言っているだけだ
+I'm just telling the truth 
 --------------------------------
 [00000232][none]
-あはは、私が
-慣れるしかないよね……
+Haha, I just have to get used to it...
 --------------------------------
 [00000233][none]
-これより我が分隊は
-ランドグリーズへ向かう
+From now on, my squad will head to Landgriz.
 --------------------------------
 [00000234][none]
-市街に進入後は
-エヒドナの動力炉を
-暴走させ、首都を爆破する
+After entering the city Make Echidna's power reactor go out of control and blow
+up the capital.
 --------------------------------
 [00000235][none]
-状況次第ではガリア軍
-帝国軍双方から
-攻撃を受ける可能性もある
+Depending on the situation, there is a possibility that we may be attacked by
+both the Gallic army and the Imperial army.
 --------------------------------
 [00000236][none]
-だがここに集う勇士諸君は
-万難を排し
-任務を遂行すると確信する！
+However, I am confident that the heroes gathered here will overcome all
+difficulties and complete their mission!
 --------------------------------
 [00000237][none]
-俺達に楽園は必要ない！
+We don't need paradise!
 --------------------------------
 [00000238][none]
-すべてはダハウ様と
-独立のために！
+All for Lord Dahau and independence!
 --------------------------------
 [00000239][none]
-そうだ！
-我々は来るべき
-ダルクス人の未来のために
+Yes!  We are here for the coming future of the Darcians.
 --------------------------------
 [00000240][none]
-時代と世界を変えるために
-不退転の決意で出撃する！
+In order to change the times and the world, I will set out with an unwavering
+determination!
 --------------------------------
 [00000241][none]
-グスルグ……
+Gusrug...
 --------------------------------
 [00000242][none]
-ジグ
-アンタ本当はダハウに
-報告したいんでしょ？
+Jig You really want to report to Dachau, right?
 --------------------------------
 [00000243][none]
-確かに、オレはダハウ様の
-選んだ道を共に歩むことが
-正しいと思っています
+Indeed, I think it is right to walk along the path chosen by Lord Dahau.
 --------------------------------
 [00000244][none]
-でも、グスルグの気持ちも
-分かるんです
+But I understand Gusrug's feelings.
 --------------------------------
 [00000245][none]
-これが成功すれば
-独立へ大きく前進する
+If this succeeds it will be a big step towards independence.
 --------------------------------
 [00000246][none]
-長いダルクスの歴史の中で
-今この時を逃せないという
-悲願達成への想いも
+In the long history of Darcus, I can't miss this moment I also feel the desire
+to achieve my long-cherished desire.
 --------------------------------
 [00000247][none]
-ダハウ様に後を託して
-活路を開こうという
-決意も……
+Determined to entrust Dahau-sama's care and find a way out...
 --------------------------------
 [00000248][none]
-ジグ、気持ちだけで充分だ
-君はまだ若い
+Jig, your feelings are enough You're still young.
 --------------------------------
 [00000249][none]
-ダハウ大尉を助けて
-必ず独立の道を
-切り拓いてくれ
+Help Captain Dachau Be sure to pave the way for independence 
 --------------------------------
 [00000250][none]
-はい……!!
+Yes...!!
 --------------------------------
 [00000251][none]
-湿っぽいわねえ
+It's damp.
 --------------------------------
 [00000252][none]
-悲壮感が漂う男って
-女から見るとあんまり
-カッコよくないわよ？
+A man with a sense of sadness doesn't look very cool from a woman's perspective,
+right?
 --------------------------------
 [00000253][none]
-それは知らなかったな
+I didn't know that.
 --------------------------------
 [00000254][none]
-リーダーなんだから
-もっと堂々としなさい
+You are the leader, so you should be more dignified.
 --------------------------------
 [00000255][none]
-アタシの前では
-あんな最低鬼畜野郎
-だったくせに……！
+Even though in front of me, you were such a disgusting bastard...!
 --------------------------------
 [00000256][none]
-え……？
+Huh...?
 --------------------------------
 [00000257][none]
-俺は裏表のない
-男じゃないんでね
+I'm not a two-faced man.
 --------------------------------
 [00000258][none]
-裏の顔は
-いつ見せるのかしら
+I wonder when you'll show the other side 
 --------------------------------
 [00000259][none]
-そいつはとっておきさ
+Save that one.
 --------------------------------
 [00000260][none]
-ふん、特別扱いすれば
-喜ぶなんて思わないで！
+Hmm, don't think that they'll be happy if you treat them special!
 --------------------------------
 [00000261][none]
-このふたり、いつの間に
-親密になったんだ？
-よく分からないな……
+When did these two become so close?  I don't really understand...
 --------------------------------
 [00000262][none]
-ジグ、世話になったな
-見送り、感謝する！
+Jig, thank you for taking care of me Thank you for seeing me off!
 --------------------------------
 [00000263][none]
-はっ！
-ご武運を！
+Ha!  Good luck!
 --------------------------------
 [00000264][none]
-目標はランドグリーズ！
-行くわよ！
+The goal is Landgriz!  Let's go!
 --------------------------------
 [00000265][none]
-もうすぐランドグリーズね
+Landgriz is coming soon
 --------------------------------
 [00000266][none]
-急がなければ
+If you don't hurry
 --------------------------------
 [00000267][none]
-隊長！
-諜報部より情報が入った！
+Captain!  Information received from the intelligence department!
 --------------------------------
 [00000268][none]
-ランドグリーズに向かう
-巨大戦車と部隊が
-あるらしい！
+Apparently there are huge tanks and troops heading towards Landgriz!
 --------------------------------
 [00000269][none]
-巨大戦車？
-そいつはまさか！
+Giant tank?  No way!
 --------------------------------
 [00000270][none]
-当たりだ、カラミティの
-あのデカブツのようだぜ
+That's right, it looks like Calamity's big butt.
 --------------------------------
 [00000271][none]
-ダハウ大尉か
-それとも……？
+Captain Dachau Or...?
 --------------------------------
 [00000272][none]
-このままだと
-首都で戦っている義勇軍が
-挟み撃ちにされるぞ！
+If this continues the volunteer army fighting in the capital will be caught in a
+pincer attack!
 --------------------------------
 [00000273][none]
-……よし、各員に告ぐ！
-攻撃目標を
-カラミティに変更！
+...Alright, tell everyone!  Change the attack target to Calamity!
 --------------------------------
 [00000274][none]
-撃破したのち
-ランドグリーズへ向かう！
+After defeating head to Landgriz!
 --------------------------------
 [00000275][none]
-報告します！
-こちらに接近する部隊あり！
-ネームレスと思われます！
+Report!  There are troops approaching us!  It seems to be nameless!
 --------------------------------
 [00000276][none]
-クルトめ
-こんな場所にいたとは！
+Kurt, I never expected you to be in a place like this!
 --------------------------------
 [00000277][none]
-ネームレスの足は速い
-追いつかれるな……！
+Nameless's feet are fast I can't catch up...!
 --------------------------------
 [00000278][none]
 ……
 --------------------------------
 [00000279][none]
-ネームレスは
-アタシが止める
+I will stop Nameless.
 --------------------------------
 [00000280][none]
-リディア？
+Lydia?
 --------------------------------
 [00000281][none]
-迷ってる時間はないわ
-行きなさい
+There's no time to get lost Go.
 --------------------------------
 [00000282][none]
-……リディア
+...Lydia
 --------------------------------
 [00000283][none]
-ん？
+Huh?
 --------------------------------
 [00000284][none]
-ありがとう
+Thank you
 --------------------------------
 [00000285][none]
-そこは俺のために死ねって
-言いなさいよ
-……バカ
+Just tell me to die for me, idiot.
 --------------------------------
 [00000286][none]
-……すまん
+...sorry
 --------------------------------
 [00000287][none]
-さあ、ネームレスに
-恨みがある奴は残りなさい！
-あいつら潰すよ！
+Now, those who have a grudge against Nameless should stay behind!  I'll destroy
+them!
 --------------------------------
 [00000288][none]
-はあ……なんで最後まで
-頑張っちゃったのよ
-アタシ……
+Sigh... Why did you try so hard until the end? I...
 --------------------------------
 [00000289][none]
-全部アイツが悪いのよ……
+It's all his fault...
 --------------------------------
 [00000290][none]
 ……
 --------------------------------
 [00000291][none]
-もう少し早く
-アイツを理解できていれば
-何か変わったのか、な
+I wonder if something would have changed if I had understood him a little
+earlier.
 --------------------------------
 [00000292][none]
-頑張りなよ、最低男……
+Do your best, you worst...
 --------------------------------
 [00000293][none]
-先に……い……く
+first...
 --------------------------------
 [00000294][none]
-何だったんだ……？
-最後のひとりまでもが
-抵抗してくるなんて……
+What was it...?  Even the last one will resist ...
 --------------------------------
 [00000295][none]
-それだけ、先の部隊を
-進ませたかったに違いない
+That's how much they must have wanted the troops ahead to advance.
 --------------------------------
 [00000296][none]
-クルト！
-巨大戦車を追いましょう！
+Kurt!  Let's chase the giant tank!
 --------------------------------
 [00000297][none]
-ああ！
-みんな！
-カラミティを追うぞ！
+Oh!  Everyone!  Let's chase Calamity!
 --------------------------------
 [00000298][none]
-ランドグリーズには
-すでにマーモットがおらず
-ガリア軍もほぼいない
+There are no marmots in Landgriz anymore, and there are almost no Gallic troops.
 --------------------------------
 [00000299][none]
-ボルジアはアイスラーを
-優先して殺せと言っていた
-成功は確実だな
+Borgia told us to prioritize killing Eisler and success is certain.
 --------------------------------
 [00000300][none]
-マクシミリアンが残り
-アイスラーが死ぬ
-それも悪くないか……
+Maximilian remains Eisler dies That's not bad...
 --------------------------------
 [00000301][none]
-エヒドナの動力炉
-暴走を開始させました！
-臨界まであと１時間です！
+Echidna's power reactor has started going out of control!  One hour left until
+criticality!
 --------------------------------
 [00000302][none]
-あとはこのまま
-時が来るのを待つだけだな
+All that's left now is to wait for the time to come.
 --------------------------------
 [00000303][none]
-警戒は厳重にしろ
-何があるか分からんぞ
+Be very careful You never know what's going to happen.
 --------------------------------
 [00000304][none]
-はっ！
+Ha!
 --------------------------------
 [00000305][none]
-報告！
-通用門にネームレスが到着！
-突っ込んできます！
+Report!  Nameless has arrived at the main gate!  I'll rush in!
 --------------------------------
 [00000306][none]
-リディアが逝ったか……
+Lydia passed away...
 --------------------------------
 [00000307][none]
-彼女がくれた時間……
-無駄にはできんな
+The time she gave me... I can't waste it.
 --------------------------------
 [00000308][none]
-各員、戦闘配置につき
-しばし待て
+Everyone, please wait for a while to prepare for battle.
 --------------------------------
 [00000309][none]
-ここで決着だ
-あいつの顔ぐらい
-見ておいてやるさ
+It's settled here I'll just keep an eye on his face 
 --------------------------------
 [00000310][none]
-いたわ！
-カラミティよ！
+I was there!  It's Calamity!
 --------------------------------
 [00000311][none]
-やらせない……！
+I won't let you do it...!
 --------------------------------
 [00000312][none]
-陸上戦艦はいないのか？
-ならば……！
+Are there no land battleships?  If so...!
 --------------------------------
 [00000313][none]
-待ってクルト！
-誰か来るわ！
+Wait, Kurt!  Someone's coming!
 --------------------------------
 [00000314][none]
-グスルグか……！
+Gusrug...!
 --------------------------------
 [00000315][none]
-間に合ったか、クルト
+Are you on time, Kurt?
 --------------------------------
 [00000316][none]
-狙いは何だ、グスルグ
+What is your aim, Gusurg?
 --------------------------------
 [00000317][none]
-交渉をしにきたんじゃない
-最期に
-顔を見ておこうと思ってな
+I didn't come to negotiate I just wanted to see your face for the last time 
 --------------------------------
 [00000318][none]
-最期……自爆でもする気か？
+At the end...are you planning to self-destruct?
 --------------------------------
 [00000319][none]
-そうだ
-ランドグリーズは
-俺の墓場となる
+That's right Landgriz will be my graveyard.
 --------------------------------
 [00000320][none]
-エヒドナの動力炉は
-暴走を開始している
-逃げるなら今のうちだぞ
+Echidna's power reactor has started to go out of control. If you want to escape,
+now's the time.
 --------------------------------
 [00000321][none]
-市民を巻き込むつもりか!?
-ダルクス人だって
-住んでいるというのに！
+Are you planning to involve the citizens!? Even though the Dalxians live here!
 --------------------------------
 [00000322][none]
-理想のためなら
-何を犠牲にしてもいいと
-考えているのか！
+Do you think you are willing to sacrifice anything for your ideals!
 --------------------------------
 [00000323][none]
-俺の幸福に必要なのは
-理想の実現、それだけだ
+All I need for happiness is the realization of my ideals.
 --------------------------------
 [00000324][none]
-……君は間違っている
+...you are wrong
 --------------------------------
 [00000325][none]
-俺が理想に忠実なのは
-君の影響でもある
-……変わったな、クルト
+The reason I'm so faithful to my ideals is because of you. ...You've changed,
+Kurt.
 --------------------------------
 [00000326][none]
-変わったわけじゃない
-知っただけだ
+I haven't changed I just know.
 --------------------------------
 [00000327][none]
-俺はひとりで
-高みを目指していた
+I was aiming high all by myself.
 --------------------------------
 [00000328][none]
-だが、どこまで上を見ても
-俺の探し求めていたものは
-なかった
+But no matter how high I looked, I couldn't find what I was looking for 
 --------------------------------
 [00000329][none]
-この部隊での戦いを通して
-俺が求めるものは
+What I seek through this battle with this unit is
 --------------------------------
 [00000330][none]
-前や後ろ、隣に立つ仲間達
-共に生きる者との間に
-あることを知った
+I learned that there is a gap between me and my friends who stand in front of
+me, behind me, and next to me.
 --------------------------------
 [00000331][none]
 ……
 --------------------------------
 [00000332][none]
-グスルグ、お前の幸福は
-理想はどこにある？
+Gusrug, where does your happiness ideal lie?
 --------------------------------
 [00000333][none]
-それがお前だけの
-ものだとしたら
-実現しても空しいだけだ
+If it's only for you, it's just a waste of time to realize it.
 --------------------------------
 [00000334][none]
-それを教えてくれたのは
-グスルグ
-お前でもあるんだぞ
+You were the one who taught me that Gusurg 
 --------------------------------
 [00000335][none]
-そうか……
+I see...
 --------------------------------
 [00000336][none]
-クルト、君はそれでいい
-だがダルクス人は
-それだけではダメなんだ
+Kurt, that's fine for you, but for the Darcians, that's not enough.
 --------------------------------
 [00000337][none]
-誰かが手を汚し
-世界中から憎まれてでも
+Even if someone gets their hands dirty and is hated by the whole world
 --------------------------------
 [00000338][none]
-誰かが理想を貫かなければ
-ダルクス人は
-何も変わらない！
+Unless someone sticks to their ideals, nothing will change for the Dalxians!
 --------------------------------
 [00000339][none]
-それを俺に教えたのは
-この戦争とネームレスだ
+The people who taught me that were this war and Nameless.
 --------------------------------
 [00000340][none]
-なに……？
+What...?
 --------------------------------
 [00000341][none]
-帝国軍という
-共通の敵をもってしても
+Even with a common enemy called the Imperial Army
 --------------------------------
 [00000342][none]
-ダルクス人を取り巻く
-環境は何も変わらなかった！
+Nothing has changed in the environment surrounding the Darxians!
 --------------------------------
 [00000343][none]
-それを変えるためなら
-俺は史上最悪の大罪でさえ
-背負ってみせる！
+In order to change that, I'll even take on the worst sin in history!
 --------------------------------
 [00000344][none]
-グスルグ……!!
+Gusrug...!!
 --------------------------------
 [00000345][none]
-俺が正しいなどとは言わん！
-だが、正しき者のために
-道を作らせてもらう！
+I'm not saying I'm right!  However, I will make a path for the righteous!
 --------------------------------
 [00000346][none]
-勝負だクルト！
+It's a game, Kurt!
 --------------------------------
 [00000347][none]
-グスルグ……君は
-俺が止める！
+Gusrug...I will stop you!
 --------------------------------
 [00000348][none]
-ぐ、く……！
-エヒドナが
-……止まった、か
+Gu-ku...!  The echidna ...stopped, huh?
 --------------------------------
 [00000349][none]
-だが俺は、まだ負け……
-認め……ん！
+But I'm still defeated... I admit...!
 --------------------------------
 [00000350][none]
-グスルグ！
+Gusrug!
 --------------------------------
 [00000351][none]
-クル……ト
+Kurt...
 --------------------------------
 [00000352][none]
-喋るな、今出してやる
+Don't talk, I'll let you out now.
 --------------------------------
 [00000353][none]
-なぜ……俺、を
+Why... me?
 --------------------------------
 [00000354][none]
-君の戦いは終わったんだ
-グスルグ
+Your battle is over Gusurg.
 --------------------------------
 [00000355][none]
-そうか……
+I see...
 --------------------------------
 [00000356][none]
-君と出会い、俺は自分の
-生き方を見つけた……
+After meeting you, I found my own way of life...
 --------------------------------
 [00000357][none]
-俺が俺であるために……
-最高を求めた結果だ
-悔いはない……
+For me to be me... This is the result of seeking the best. I have no regrets...
 --------------------------------
 [00000358][none]
-……分かっている
+...I know
 --------------------------------
 [00000359][none]
-最期まで……
-勝てなかった、な……
+Until the very end... I couldn't win, huh...
 --------------------------------
 [00000360][none]
-悪いな、俺には
-勝利の女神がついている
+Too bad, I have the goddess of victory.
 --------------------------------
 [00000361][none]
-はは……
-俺の女神は……
-少々……口が悪いからな……
+Haha... My goddess... She's a bit...bad-mouthed...
 --------------------------------
 [00000362][none]
-俺が……死んでも……
-理想は、死なん……
+Even if I... die...  My ideal is not to die...
 --------------------------------
 [00000363][none]
-頼むぞ……ダハウ……
+Please... Dahau...
 --------------------------------
 [00000364][none]
-グスルグ？
+Gusrug?
 --------------------------------
 [00000365][none]
 …………
@@ -1494,117 +1147,93 @@
 ……
 --------------------------------
 [00000367][none]
-安らかに眠れ……友よ
+Rest in peace...my friend
 --------------------------------
 [00000368][none]
-グスルグ、さよなら……
+Gusrug, goodbye...
 --------------------------------
 [00000369][none]
-最期まで理想のために
-戦い抜いたんだ……
-悔いはないだろう
+I fought until the end for my ideals... I don't think I have any regrets.
 --------------------------------
 [00000370][none]
 ……
 --------------------------------
 [00000371][none]
-違う
+no
 --------------------------------
 [00000372][none]
-イムカ？
+Imka?
 --------------------------------
 [00000373][none]
-彼の理想も
-私の復讐も同じだ
+His ideals and my revenge are the same.
 --------------------------------
 [00000374][none]
-死んでやり遂げても
-誰かを犠牲にしても
-いけない
+Even if you die, don't sacrifice anyone else.
 --------------------------------
 [00000375][none]
-お前……
+You...
 --------------------------------
 [00000376][none]
-誰かが死ねば誰かが悲しむ
-敵でも、味方でも
-ダルクス人であろうと
+If someone dies, someone will be sad whether it's an enemy, an ally, or a
+Dalxian.
 --------------------------------
 [00000377][none]
-悲しみを生まぬ死など無い
+There is no death that does not cause sadness.
 --------------------------------
 [00000378][none]
-そう……
-自分だけ生き残っても
-自分を犠牲にしても
+Yes... Even if only I survive Even if I sacrifice myself.
 --------------------------------
 [00000379][none]
-どっちも誰かが
-悲しむことになるのね
+In both cases, someone will be sad.
 --------------------------------
 [00000380][none]
-敵を撃つことも同じよ
-どんな理由があったって
-戦争なんて
+The same goes for shooting the enemy No matter what the reason There is no war.
 --------------------------------
 [00000381][none]
-ただの殺し合いなんだから！
-さっさと終わらせないと
-いけないのよ
+It's just killing each other!  I have to finish this quickly. I have to finish
+it quickly.
 --------------------------------
 [00000382][none]
-それでもこの大陸の戦火は
-広がっていくばかりだわ
+Still, the war on this continent is only spreading 
 --------------------------------
 [00000383][none]
-いつまで続くのかしら
-悲しみの
-連鎖というのは……
+I wonder how long this chain of sadness will last...
 --------------------------------
 [00000384][none]
-死の悲しみは誰かが背負い
-その重さに苦しむ
-大人も子どもも、例外は無い
+Someone bears the burden of death Suffers from the weight There are no
+exceptions for both adults and children.
 --------------------------------
 [00000385][none]
-私が背負ってきた
-悲しみの重さ……
+The weight of sadness I have been carrying...
 --------------------------------
 [00000386][none]
-それと同じような
-悲しみを背負う者が
-たくさん生まれた
+Many people were born carrying similar sadness.
 --------------------------------
 [00000387][none]
-この戦争で……
+In this war...
 --------------------------------
 [00000388][none]
-私の手で……
+With my hands...
 --------------------------------
 [00000389][none]
-その事実から
-逃げてはいけない
-絶対に……
+Don't run away from that fact Never...
 --------------------------------
 [00000390][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1４２２部隊は再び首都の危機を救った　　　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1422 Unit once again saved the capital from crisis.
 --------------------------------
 [00000391][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1彼らが戦友との対決を終えた頃
-陸上戦艦マーモットも破壊されていた　　　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 By the time they finished their confrontation with their comrades, the land battleship Marmot had also been destroyed.
 --------------------------------
 [00000392][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1英雄、ウェルキン・ギュンターとその部隊を　　　　　　
-光とするならば──
+@fcFFFFF5F0@dc9F555555@db2@dt1If we consider the hero Welkin Gunter and his troops as light──
 --------------------------------
 [00000393][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1クルト・アーヴィングの部隊は　　　　　　　　　　　　
-まさしく影である
+@fcFFFFF5F0@dc9F555555@db2@dt1Kurt Irving's unit is truly a shadow
 --------------------------------
 [00000394][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1歴史に光と影あり
-そのいずれかのみで成る歴史は存在しない　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1 History has light and shadow
+There is no history that consists only of either of them.
 --------------------------------
 [00000395][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1それを我々は記憶に留め置くべきだろう　　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1We should keep that in mind.
 --------------------------------

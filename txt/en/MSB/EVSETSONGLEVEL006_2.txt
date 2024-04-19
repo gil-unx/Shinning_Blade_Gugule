@@ -4,13 +4,13 @@
 CheckSongLevelInfoFlag
 --------------------------------
 [00000001]
-%sのフォースソング\n@fcFFFF6600「%s」@fciの性能がアップしました。
+%s Force Song\nThe performance of @fcFFFF6600「%s」@fci has been improved.
 --------------------------------
 [00000002]
-%sのフォースソング\n@fcFFCC6600「%s」@fciの性能がアップしました。
+%s Force Song\nThe performance of @fcFFCC6600「%s」@fci has been improved.
 --------------------------------
 [00000003]
-%sのフォースソング\n@fcFF00FFFF「%s」@fciの性能がアップしました。
+%s Force Song\nThe performance of @fcFF00FFFF「%s」@fci has been improved.
 --------------------------------
 [00000004]
 CheckSongLevelInfoFlag

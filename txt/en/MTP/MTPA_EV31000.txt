@@ -1,549 +1,411 @@
 [0132]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年 バリアス中部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seireki 1935 Varias Chubu
 --------------------------------
 [00000001][none]
-今度の任務は
-バリアス砂漠の
-偵察なのね！
+The next mission is in the Varias Desert.  It's reconnaissance!
 --------------------------------
 [00000002][none]
-ああ、帝国軍の部隊が
-出没してるらしいね
+Ah, it seems that Imperial Army troops are showing up.
 --------------------------------
 [00000003][none]
-砂漠か……最悪だ
+Desert... it's the worst
 --------------------------------
 [00000004][none]
-あんな大昔の
-遺跡しかないところに
-何の用事があるんだかね
+What's the point in a place with nothing but ruins from such a long time ago?
 --------------------------------
 [00000005][none]
-何を言ってるんです？
-バリアス砂漠は古代史上
-極めて重要な土地ですよ
+What are you talking about?  The Barias Desert is an extremely important land in
+ancient history.
 --------------------------------
 [00000006][none]
-ダルクスの災厄は
-ご存じですね？
+You know about the Calamity of Darcus, right?
 --------------------------------
 [00000007][none]
-２０００年前ダルクス人は
+2000 years ago, the Darcians
 --------------------------------
 [00000008][none]
-１００の都市と
-１００万の人、家畜を
-焼き払いました
+Burned down 100 cities, 1 million people, and livestock.
 --------------------------------
 [00000009][none]
-バリアスの地に
-栄えていた都市も
-ダルクス人の手で滅ぼされ
+The city that flourished in the land of Barias was destroyed by the Darxians.
 --------------------------------
 [00000010][none]
-今のような砂漠になった
-……と、言われています
+It is said that it became a desert like it is now ...
 --------------------------------
 [00000011][none]
-ダルクス人のもたらした
-大災害……これが
-ダルクスの災厄です
+The great disaster brought about by the Darxians... This is the disaster of the
+Darxians.
 --------------------------------
 [00000012][none]
-アンタ
-俺のそばでそんな話をして
-楽しいか？
+Are you enjoying talking like that around me?
 --------------------------------
 [00000013][none]
-私は通説を語っただけよ
-この説をどう捉えるか
-それは個人の自由だわ
+I'm just telling you a popular theory. How you interpret this theory is up to
+you.
 --------------------------------
 [00000014][none]
-学問なら
-何を言っても
-いいってのか
+If it's academic, whatever you say is okay?
 --------------------------------
 [00000015][none]
-学者先生は
-歴史の話となると
-夢中になっちまうからね
+The scholar teacher is  When it comes to history, I get absorbed in it.
 --------------------------------
 [00000016][none]
-悪気は無かったの
-気を悪くさせたなら
-謝るわ
+I didn't mean any harm.  If I offended you, I apologize.
 --------------------------------
 [00000017][none]
-別にいいさ……
+It's fine...
 --------------------------------
 [00000018][none]
-遺跡ってのはなんなのさ？
-帝国軍がうろついてるのは
-お宝でもあるからかい？
+What are the ruins?  Is it because the Imperial Army is wandering around because
+it's also treasure?
 --------------------------------
 [00000019][none]
-バリアス砂漠には
-古代ダルクス人の住居が
-今も残っているんです
+Ancient Darcian dwellings still remain in the Barias Desert.
 --------------------------------
 [00000020][none]
-帝国ってのはガリアより
-ダルクス人嫌いだろう？
+The Empire hates Darxians more than Gaul, right?
 --------------------------------
 [00000021][none]
-そいつらがダルクス人の
-家捜しなんかするのかね？
+Are they going to search the houses of the Dalxians?
 --------------------------------
 [00000022][none]
-歴史上の重大な発見は
-どこに埋まっているか
-分からないんですもの
+We don't know where important historical discoveries are buried.
 --------------------------------
 [00000023][none]
-帝国が目をつけたのなら
-必ず何かあるはずよ！
+If the Empire is paying attention, there must be something!
 --------------------------------
 [00000024][none]
-私も調査に
-行けないかしら……？
+I wonder if I can go and investigate...?
 --------------------------------
 [00000025][none]
-戦争中だってのに
-正気とは思えないね
+Even though we're at war I don't think this is insane.
 --------------------------------
 [00000026][none]
-アンタみたいな学者先生が
-どうしてネームレス
-なんかにいるんだい？
+Why is there a scholar like you on Nameless?
 --------------------------------
 [00000027][none]
-ランドグリーズ家に
-ケンカを売ったから……
-でしょうね
+Because you picked a fight with the Landgriz family... I guess.
 --------------------------------
 [00000028][none]
-おや、こりゃまた
-でかいケンカだねえ？
+Hey, it's another big fight, isn't it?
 --------------------------------
 [00000029][none]
-くだらねえ……
-そんなことで
-ネームレス送りかよ
+That's nonsense... That's why I'm sending you a nameless message.
 --------------------------------
 [00000030][none]
-くだらないと言う№56に
-ひとつ予言をしておくわ
+For No. 56 who says it's nonsense, I have one prediction for you.
 --------------------------------
 [00000031][none]
-予言？
+Prophecy?
 --------------------------------
 [00000032][none]
-あなた、いつか私に
-感謝する時が来るわよ
+You'll thank me someday.
 --------------------------------
 [00000033][none]
-ふん……意味が分からん
+Hmm...I don't understand what that means.
 --------------------------------
 [00000034][none]
-イムカ
-ちょっといいかしら
+Imuka I wonder if it's okay?
 --------------------------------
 [00000035][none]
-時間は無い
+no time
 --------------------------------
 [00000036][none]
-ダルクスの災厄について
-少し聞きたいんだけど
+I'd like to ask you a little bit about the Calamity of Darcus.
 --------------------------------
 [00000037][none]
 ……
 --------------------------------
 [00000038][none]
-……イムカ、聞いてる？
+...Imuka, are you listening?
 --------------------------------
 [00000039][none]
 ……
 --------------------------------
 [00000040][none]
-あなたはダルクスの災厄が
-本当にダルクス人によって
-起きたものだと思う？
+Do you think the Dalax disaster was really caused by the Dalxians?
 --------------------------------
 [00000041][none]
-興味ない
+Not interested
 --------------------------------
 [00000042][none]
-やれやれ、手強いわね
+Wow, that's tough.
 --------------------------------
 [00000043][none]
-ダルクス人は
-お勉強の対象じゃない
+Darcus people are not the subject of study.
 --------------------------------
 [00000044][none]
-反感を買ったとしても
-私は調査をやめないわよ
+Even if I get a backlash, I won't stop investigating.
 --------------------------------
 [00000045][none]
-真実の歴史を探求するのが
-私の使命だから
+My mission is to explore true history.
 --------------------------------
 [00000046][none]
-ダルクス人を追い回すより
-本でも読んでたらどうだ
+Why don't you just read a book instead of chasing around the Darxians?
 --------------------------------
 [00000047][none]
-ところが本を読んだせいで
-ネームレス送りに
-なったのよね、私
+However, because I read the book I ended up being sent nameless .
 --------------------------------
 [00000048][none]
-本で……？
+In a book...?
 --------------------------------
 [00000049][none]
-ランドグリーズ城の
-書庫に無断で入ったら
-捕まっちゃったの
+I was arrested when I entered the library at Landgriz Castle without permission.
 --------------------------------
 [00000050][none]
-あそこは歴史学者にとって
-宝の山なんだけど
+That place is a treasure trove for historians.
 --------------------------------
 [00000051][none]
-ランドグリーズ家の人間と
-担当管理者しか
-入れないのよね
+Only people from the Landgriz family and the administrator in charge can enter.
 --------------------------------
 [00000052][none]
-大学助教授のくせに……
-捕まると
-思わなかったのか？
+Even though you're a university assistant professor... You didn't think you'd be
+arrested ?
 --------------------------------
 [00000053][none]
-語り継がれる歴史とは
-常に勝者の歴史なの
+The history that is passed down is always the history of the victors.
 --------------------------------
 [00000054][none]
-真実の歴史を知るには
-その影に埋もれている
-敗者の歴史が必要なのよ
+To know the true history, we need the history of the losers who are buried in
+its shadow.
 --------------------------------
 [00000055][none]
-それを発掘するのは
-危険なこと……
-リスクは覚悟の上よ
+Excavating it is dangerous... Be prepared for the risk.
 --------------------------------
 [00000056][none]
-頭のいい人間の
-考えることはよく分からん
+I don't really understand what smart people think.
 --------------------------------
 [00000057][none]
-私は、あなた達……
-ダルクス人を傷つける
-つもりは無いの
+I, you guys...  Hurt the Darxians  I have no intention of doing so.
 --------------------------------
 [00000058][none]
-アンタにその気がなくても
-俺達はな……
+Even if you don't feel like it we...
 --------------------------------
 [00000059][none]
-私は信じているの
-真実の歴史が
-解き明かされれば
+I believe if the true history is unraveled
 --------------------------------
 [00000060][none]
-あなた達の未来が
-変わるはずだと
+Your future will change.
 --------------------------------
 [00000061][none]
-……変わらねえよ、何も
+...no change, nothing
 --------------------------------
 [00000062][none]
-変えてみせるわ、きっとね
+I'll change it, I'm sure
 --------------------------------
 [00000063][none]
-暑い……
+It's hot...
 --------------------------------
 [00000064][none]
-こんな中、行軍なんて
-たまらないね……
+Marching in this situation?  It's irresistible...
 --------------------------------
 [00000065][none]
-みんな、早く！
-急ぎましょう！
+Hurry up, everyone!  Let's hurry!
 --------------------------------
 [00000066][none]
-なんで№12はあんなに
-元気なんだ……
+Why is No. 12 like that?  I'm fine...
 --------------------------------
 [00000067][none]
-遺跡が私を呼んでいるのよ
+The ruins are calling me
 --------------------------------
 [00000068][none]
-帝国の部隊なんて
-どこにもいないじゃないか
-もう終わりでいいだろ？
+There are no Imperial troops anywhere, so we're done with it, right?
 --------------------------------
 [00000069][none]
-まだだ
-帝国軍の目的を掴むまでは
-戻れない
+Not yet I can't go back until I understand the Imperial Army's purpose.
 --------------------------------
 [00000070][none]
-最低でも敵部隊の規模を
-調査しなければな
+We must at least investigate the size of the enemy force.
 --------------------------------
 [00000071][none]
-こういう時
-隊長が真面目だと
-たまんないねえ……！
+At times like this it's unbearable when the captain is serious ...!
 --------------------------------
 [00000072][none]
-隊長
+Captain
 --------------------------------
 [00000073][none]
-ヴァレリーか
-何だ？
+Valerie?  What?
 --------------------------------
 [00000074][none]
-ダルクス人の住居跡を
-調査したいのですが
-許可願えますか？
+I would like to investigate the ruins of the Darcusian residence. Can I ask for
+permission?
 --------------------------------
 [00000075][none]
-何のためにだ？
+For what?
 --------------------------------
 [00000076][none]
-帝国軍が何のために
-この遺跡に来ているのか
-調べてみたいんです
+I would like to find out why the Imperial Army is coming to this ruins.
 --------------------------------
 [00000077][none]
-任務の終了後でも
-かまいません
-私ひとりでも……
+Even after the mission is over It doesn't matter Even if I'm alone...
 --------------------------------
 [00000078][none]
-却下する
-それは任務から
-逸脱している
+Dismiss It's a deviation from the mission 
 --------------------------------
 [00000079][none]
-敵と遭遇する
-可能性だってあるんだ
-当然だろ
+Of course there's a chance of encountering an enemy.
 --------------------------------
 [00000080][none]
-そうまでして
-何が知りたいんだい？
+So what do you want to know?
 --------------------------------
 [00000081][none]
-帝国軍の目的だけでなく
-もっと重要なことが
-分かる可能性もあります
+We may learn something more important than just the Imperial Army's objectives.
 --------------------------------
 [00000082][none]
-せめて１時間だけでも……
+At least for an hour...
 --------------------------------
 [00000083][none]
-……無駄話をしている
-時間は無い
+...I don't have time to waste time talking.
 --------------------------------
 [00000084][none]
-そんな言い方って……！
+That's how you say it...!
 --------------------------------
 [00000085][none]
-帝国軍だ……間違いない
+It's the Imperial Army...no doubt.
 --------------------------------
 [00000086][none]
-えっ!?
+Huh!?
 --------------------------------
 [00000087][none]
-各員、戦闘準備！
+Everyone, prepare for battle!
 --------------------------------
 [00000088][none]
-忙しいね、まったく！
+Very busy!
 --------------------------------
 [00000089][none]
-あの部隊
-何か発見したのかしら？
+Did that unit discover anything?
 --------------------------------
 [00000090][none]
-何をしているヴァレリー！
-準備しろ！
+What are you doing Valerie?  Get ready!
 --------------------------------
 [00000091][none]
-えっ、あ……はい！
+Oh, ah... yes!
 --------------------------------
 [00000092][none]
-ヴァレリーは
-ポテンシャル@fcFF008800「知的好奇心」@fciに代わって
-@fcFF008800「歴史の扉」@fciに目覚めました。
+Valerie awakened
+@fcFF008800 ``Door to History'' @fci instead of 
+@fcFF008800 ``Intellectual Curiosity'' @fci.
 --------------------------------
 [00000093][none]
-戦闘終了
-周辺の警戒を怠るな
+The battle is over Don't let your guard down around you.
 --------------------------------
 [00000094][none]
-こいつらだけだと
-いいんだがね
+It would be nice if it were just these guys.
 --------------------------------
 [00000095][none]
-隊長、お願いがあります
+Captain, I have a favor to ask of you.
 --------------------------------
 [00000096][none]
-何だ
+What?
 --------------------------------
 [00000097][none]
-敵部隊の物資を
-調査させてください
+Please let me investigate the enemy's supplies.
 --------------------------------
 [00000098][none]
-敵が遺跡から何を
-回収したのか調べれば
-目的が分かるはずです！
+Find out what the enemy has retrieved from the ruins and you'll know what
+they're trying to accomplish!
 --------------------------------
 [00000099][none]
-分かった、許可する
+Understood, allow.
 --------------------------------
 [00000100][none]
-ありがとうございます！
+Thank you!
 --------------------------------
 [00000101][none]
-まさか帝国軍がこれほど
-本格的な発掘調査を
-行っていたとはね
+I had no idea that the Imperial Army was carrying out such a full-scale
+excavation survey.
 --------------------------------
 [00000102][none]
-たくさんの出土品……
-これは大きな
-新発見になりそうだわ
+A lot of excavated items... This seems like a big new discovery.
 --------------------------------
 [00000103][none]
-出土品のほとんどが
-ダルクス人の様式とは
-違う特徴を持っている
+Most of the artifacts have characteristics different from the Darcian style.
 --------------------------------
 [00000104][none]
-むしろヴァルキュリア人の
-末裔とされる
+Rather, he is said to be a descendant of the Valkyrians.
 --------------------------------
 [00000105][none]
-ランドグリーズ家に伝わる
-古美術と似ている
+Similar to ancient art handed down in the Landgrise family
 --------------------------------
 [00000106][none]
-これはどういう
-意味なのかしらね……？
+I wonder what this means...?
 --------------------------------
 [00000107][none]
-隠された歴史の手がかりが
-ここにあるんだわ
+There are clues to hidden history here.
 --------------------------------
 [00000108][none]
-金目のものでもあったか？
+Was it something of value?
 --------------------------------
 [00000109][none]
-それ以上のものよ
+It's more than that.
 --------------------------------
 [00000110][none]
-大学に戻って
-資料をあたらないと
-断定はできないけど
+I can't say for sure unless I go back to university and look at the materials.
 --------------------------------
 [00000111][none]
-ダルクス人の歴史には
-重大な秘密が
-隠されているみたい
+There seems to be an important secret hidden in the history of the Darxians.
 --------------------------------
 [00000112][none]
-完全に解明されたら
-歴史が逆転する……
-その可能性だってあるわ
+If it is completely solved, history will be reversed... That's even possible.
 --------------------------------
 [00000113][none]
-それによって
-ダルクス人の地位も
-向上するかもしれない
+That may improve the status of the Dalxians.
 --------------------------------
 [00000114][none]
-……はっ
-甘ちゃんだな学者先生は
+...hah  You're sweet, scholar-sensei.
 --------------------------------
 [00000115][none]
-何が甘いというの？
+What's sweet?
 --------------------------------
 [00000116][none]
-ダルクス人は
-ダルクスの災厄のせいで
-迫害されてるわけじゃない
+The Darcus people because of the disaster of Darcus.  I'm not being persecuted.
 --------------------------------
 [00000117][none]
-この世界には
-犠牲者が必要なんだよ
-俺達みたいな犠牲者がな
+This world needs victims Victims like us.
 --------------------------------
 [00000118][none]
-真実や歴史で
-今の世界が変わることは
-ありえないのさ
+It is impossible for truth or history to change the current world.
 --------------------------------
 [00000119][none]
-でも、真実が……
-正しい歴史が明かされれば
-人の目は必ず開かれるわ
+But if the truth... If the correct history is revealed people's eyes will
+definitely be opened.
 --------------------------------
 [00000120][none]
-ダルクス人の
-心のありようだって
-きっと変わるはずよ
+I'm sure the Dalxian's state of mind will change.
 --------------------------------
 [00000121][none]
-上からものを言うなよ
-そういうの
-気に入らないな
+Don't say things from above I don't like that 
 --------------------------------
 [00000122][none]
-……ごめんなさい
+...I'm sorry
 --------------------------------
 [00000123][none]
-……だが俺はアンタが
-やろうとしていることが
-間違ってるとは思わない
+...But I don't think what you're trying to do is wrong.
 --------------------------------
 [00000124][none]
-え……？
+Huh...?
 --------------------------------
 [00000125][none]
-真実は発見してから
-どう使うかが重要だろ？
+The important thing is how you use the truth after you discover it, right?
 --------------------------------
 [00000126][none]
-だから、学者先生
-うまくやってくれよ
-頼むぜ
+So, scholar-sensei  Do it well I beg you.
 --------------------------------
 [00000127][none]
-……分かったわ
+...I understand.
 --------------------------------
 [00000128][none]
-今、この発見を
-世に問うのは早すぎる
+It is too early to ask the world about this discovery now.
 --------------------------------
 [00000129][none]
-まずはそれができる
-時代を作らなければ
-いけないのね
+First of all, we have to create an era where that can be done.
 --------------------------------
 [00000130][none]
-そのために戦争を終わらせ
-ネームレスを抜けて
-私は学問の世界に戻る……
+For that reason, I will end the war I will leave Nameless and return to the
+world of academia...
 --------------------------------
 [00000131][none]
-そしていつか自由に
-研究ができる時代を……
-必ず、この手で！
+And someday, I'll be able to research freely... I'll definitely do it this way!
 --------------------------------

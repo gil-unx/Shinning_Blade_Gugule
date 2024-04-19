@@ -1,460 +1,379 @@
 [0106]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-おーい、龍那、それに剛龍鬼。
-２人とも、なにしてるんだ？
-きょろきょろしてるみたいだけど、探し物か？
+Hey, Ryuna, and Gouryuki.  What are you two doing?  You seem to be wandering
+around, are you looking for something?
 --------------------------------
 [00000001][龍那,,龍那]
-あ、レイジさん。
-いえ、特に探している物はないのですが……。
-ちょっと町を見物して歩いていたところです。
+Oh, Rage-san.  No, I'm not looking for anything in particular...  I was just
+walking around town for a bit.
 --------------------------------
 [00000002][剛龍鬼,,剛龍鬼]
-龍那、あまり大きな町には慣れていない。
-だから、町は龍那にとって珍しいものばかり。
+Ryuna, I'm not used to big towns.  That's why the town is full of things that
+are rare to Tatsuna.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-なるほど……そういうことなら、オレも付き合うぜ。
-案内が必要かもしれないし、オレもどうせ
-ヒマだしな。
+I see... If that's the case, I'll join you.  You might need some guidance, and I
+don't have much free time anyway.
 --------------------------------
 [00000004][龍那,,龍那]
-はいっ！　よろしくお願いします！
+Yes! thank you!
 --------------------------------
 [00000005][龍那,,龍那]
-街の中は、人も物もいっぱいですね。
-……あっ！　白くてふわふわしたものを食べてる
-子がいますよ。剛龍鬼、あれはなに？
+The city is full of people and things.  ...Ah! There is a child eating something
+white and fluffy. Gouryuki, what is that?
 --------------------------------
 [00000006][剛龍鬼,,剛龍鬼]
-あれは、わたあめ。お菓子だ。
-「アマグモ」という珍しいクモが出す糸で作る。
+That's cotton candy. It's sweets.  Made from the silk produced by a rare spider
+called ``Amagumo.''
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（えっ……？）
+@fcFFAAFFAA(huh...?)
 --------------------------------
 [00000008][龍那,,龍那]
-甘い糸を出すクモがいるの……。
-さすがは剛龍鬼、物知りね。
+There's a spider that produces sweet silk...  As expected of Gouryuki, he is
+very knowledgeable.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-あ、いや、わたあめはクモの糸じゃなくて……。
-たしか、砂糖で作るはずだけど。
+Oh, no, cotton candy isn't spider silk...  I'm sure it's made with sugar.
 --------------------------------
 [00000010][剛龍鬼,,剛龍鬼]
-むう、そういう作り方も存在するのか。
-レイジもなかなか物知り。感心した。
+Hmm, does such a method exist?  Rage is also quite knowledgeable. I was
+impressed.
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（この２人……いつもこんな調子なのか？
-他にもいろいろ勘違いがあるかもしれない……。
-ちょっと心配だな……）
+@fcFFAAFFAA(These two...are they always like this?
+There may be other misunderstandings...
+I'm a little worried...)
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-２人っていつもこんな感じなのか？
-その……剛龍鬼にいろいろ教わったりさ……。
+Are you two always like this?  Well...Gouryuki taught me a lot...
 --------------------------------
 [00000013][龍那,,龍那]
-はい、そうですよ？
-私は、その……世の中のことをよく知らないので、
-剛龍鬼にいろいろ教わっているんです。
+Yes, that's right?  Well...I don't know much about the world, so I'm learning a
+lot from Gouryuki.
 --------------------------------
 [00000014][剛龍鬼,,剛龍鬼]
-龍那の役に立てているのなら、嬉しい。
+I'm happy if I can help Ryuna.
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-剛龍鬼……ウソはよくないぞ。
-龍那が本気で信じちゃってるじゃないか。
+Gouryuki... it's not good to lie.  Ryuna really believes it.
 --------------------------------
 [00000016][剛龍鬼,,剛龍鬼]
-？　ウソ？　俺、ウソつかない。
-レイジ、なにを言ってる？
+? Lie?  Rage, what are you talking about?
 --------------------------------
 [00000017][龍那,,龍那]
-そうですよ、レイジさん。
-剛龍鬼はウソをつけるような性格ではありません。
+That's right, Rage-san.  Gouryuki is not the type to lie.
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-……あ、そ、そうなんだ……ハハハ。
-本気で言ってたわけね……。
+...Ah, that's right...hahaha.  You were seriously saying that...
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……剛龍鬼、わざとウソをついてる
-んだろうか……？　いや、龍那に対して
-そんなことをするはずが……）
+@fcFFAAFFAA(...Gouryuki, I wonder if he's lying on purpose...? 
+No, he wouldn't do something like that to Ryuna...)
 --------------------------------
 [00000020][剛龍鬼,,剛龍鬼]
-どうした、レイジ？
-俺をじっと見て。なんだか顔が怖いぞ。
+What's wrong, Rage?  Look at me. My face is kind of scary.
 --------------------------------
 [00000021][龍那,,龍那]
-どうしました、レイジさん？
-もしかしてお疲れですか？
+What's wrong, Rage-san?  Are you perhaps tired?
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-……あ、いや。なんでもない。
-気にしないでくれ……ハハハ。
+...Oh, no. nothing. 
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-それにしても……龍那って、そんな調子で
-よく旅を続けてこられたなあ。
+Anyway...Ryuna has been able to continue traveling like that.
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-今までの旅で、知らないことや困ったことも
-いろいろあったんじゃないか？
+In your journey so far, there must have been a lot of things you didn't know or
+had trouble with.
 --------------------------------
 [00000025][龍那,,龍那]
-うふふ……そうですね。
-私１人だったら、とても旅を続けることは
-できなかったと思います。
+Ufufu...That's right.  I don't think I would have been able to continue the
+journey if I was alone.
 --------------------------------
 [00000026][龍那,,龍那]
-私、ずっと白竜教団の中で暮らしてきたので、
-ほとんど外の世界に出たことがなかったんですよ。
+I've lived within the White Dragon Church all my life, so I've hardly ever been
+to the outside world.
 --------------------------------
 [00000027][龍那,,龍那]
-そんな私が旅を続けてこられたのも、
-すべて剛龍鬼のおかげです。
+It's all thanks to Gouryuki that I was able to continue my journey.
 --------------------------------
 [00000028][龍那,,龍那]
-剛龍鬼は私を守ってくれますし、いろいろなことを
-教えてくれるんです。
-私、剛龍鬼をとっても頼りにしているんですよ。
+Gouryuki protects me and teaches me many things.  I rely on Gouryuki very much.
 --------------------------------
 [00000029][剛龍鬼,,剛龍鬼]
-りゅ、龍那……！
-俺、感動した！　これからもがんばる！
+Ryu, Ryuna...!  I was impressed! I will continue to do my best!
 --------------------------------
 [00000030][龍那,,龍那]
-ええ。よろしくね、剛龍鬼。
-……ところで、あそこで売っている
-緑色の玉はなに？
+Yeah. Nice to meet you, Gouryuki.  ...By the way, what are the green balls being
+sold over there?
 --------------------------------
 [00000031][剛龍鬼,,剛龍鬼]
-あれは、スイカという名前の野菜。
-甘くて美味しい。
-……ただし、食べる時は注意が必要。
+That's a vegetable called watermelon.  It's sweet and delicious.  ...However,
+you need to be careful when eating it.
 --------------------------------
 [00000032][剛龍鬼,,剛龍鬼]
-間違って種を食べてしまうと、体の中で
-スイカが育つ……そして、その者は
-スイカになってしまう……とても危険！
+If you accidentally eat a seed, a watermelon will grow inside your body... and
+you will turn into a watermelon... very dangerous!
 --------------------------------
 [00000033][龍那,,龍那]
-そ、そんなに危ない食べ物が
-存在するなんて……私、知らなかったわ。
-絶対に種を食べないように気をつけなくちゃ。
+I-I didn't know that such dangerous foods existed.  You must be careful not to
+eat the seeds.
 --------------------------------
 [00000034][剛龍鬼,,剛龍鬼]
-安心しろ。龍那がスイカを食べる時は、
-剛龍鬼がちゃんと種を取ってやる。
+Don't worry. When Ryuna eats a watermelon, Gouryuki takes care to remove the
+seeds.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（腹の中でスイカが育つはずないだろ……。
-大丈夫か、この２人……？）
+@fcFFAAFFAA(There's no way a watermelon could grow inside your belly...
+Are you two okay?)
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（龍那と剛龍鬼だけにしておいたら、いろいろと
-トラブルが起こりそうだな。これからも時々、
-２人の様子を見ることにするか……）
+@fcFFAAFFAA(If I leave it to Ryuna and Gouryuki, all sorts of trouble will probably occur. I'll continue to check on them from time to time...)
 --------------------------------
 [00000037][none]
-２人っていつもこんな感じなのか？
+Are you two always like this?
 --------------------------------
 [00000038][none]
-剛龍鬼……ウソはよくないぞ
+Gouryuki... it's not good to lie.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-よう、龍那。それに剛龍鬼。
-今日も町の見物か？
+Hey, Ryuna. And Gouryuki.  Are you going to see the town today too?
 --------------------------------
 [00000040][龍那,,龍那]
-あっ、レイジさん！
-ちょうどよかった。あなたを探していたんです！
-……剛龍鬼！　レイジさんを捕まえて！
+Ah, Rage-san!  It was just right. I was looking for you!  ...Gouryuki! Catch
+Rage-san!
 --------------------------------
 [00000041][剛龍鬼,,剛龍鬼]
-うむ、承知した。
-レイジ、おとなしくしろ！
+Hmm, I understand.  Rage, be quiet!
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-えっ？　……おい、なんだよ？　離せって！
+Huh? ...Hey, what is it? Let me go!
 --------------------------------
 [00000043][龍那,,龍那]
-お静かに！　レイジさんの身に大変なことが
-起ころうとしているんですから！
-さあ剛龍鬼、レイジさんを連れて行きましょう！
+Be quiet! Something terrible is about to happen to Rage-san!  Come on, Gouryuki,
+let's take Rage-san with us!
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-ちょ、ちょっと、どこへ運んでいくつもりだよ？
-は、離せって！　……うわぁぁ～……。
+Hey, where are you planning on taking it?  Let me go! ...Wow...
 --------------------------------
 [00000045][龍那,,龍那]
-うん、このあたりでいいでしょう。
-剛龍鬼、レイジさんを下ろしてあげて。
+Yeah, around here would be fine.  Gouryuki, please let Rage down.
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-２人とも、どういうつもりだよ!?
-むりやりオレを運んだりして……。
+What do you two think?! Forcibly carrying me...
 --------------------------------
 [00000047][龍那,,龍那]
-すみません、レイジさん。でも、こうするしか
-なかったんです。
+Sorry, Rage-san. But I had no choice but to do this.
 --------------------------------
 [00000048][龍那,,龍那]
-実は、私の占いで「レイジさんに災厄が降りかかる」
-という結果が出たんです！
-ですから、すぐに対処しなければ！
+Actually, my fortune telling said that ``disaster will befall Rage-san''! 
+That's why we have to deal with it right away!
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-えっ……そうなの？
-で、それってどんな災厄なんだよ？
+Huh...is that so?  So, what kind of disaster is that?
 --------------------------------
 [00000050][龍那,,龍那]
-それはわかりません……ですが、占いでは
-「災厄を避けるための鍵は剛龍鬼が握っている」
-という結果も出ました。
+I don't know... but my fortune telling said that ``Gouryuki holds the key to
+avoiding disaster.'' 
 --------------------------------
 [00000051][龍那,,龍那]
-だから、レイジさんは剛龍鬼に従ってください。
-きっと剛龍鬼がレイジさんを救ってくれます。
+So, Rage-san, please follow Gouryuki.  I'm sure Gouryuki will save Rage-san.
 --------------------------------
 [00000052][剛龍鬼,,剛龍鬼]
-俺に任せろ、レイジ。
-災厄から逃れる方法……それは、修業しかない！
-強くなって災厄を追い払うぞ、レイジ！
+Leave it to me, Rage.  The only way to escape from disaster is through training!
+Let's become stronger and drive away the disaster, Rage!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-オレの運命は剛龍鬼にかかっているわけか……。
+So my fate depends on Gouryuki...
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-イヤな予感しかしないんだが……。
-オレ、帰ってもいい？
+I just have a bad feeling...  Can I go home?
 --------------------------------
 [00000055][龍那,,龍那]
-なにを言うんですか、レイジさん！
-災厄が降りかかってもいいんですか!?
-それに、剛龍鬼に任せておけば安心です！
+What are you talking about, Rage-san?  Do you mind if disaster strikes!? 
+Besides, you can rest assured if you leave it to Gouryuki!
 --------------------------------
 [00000056][剛龍鬼,,剛龍鬼]
-そうだ、レイジ。剛龍鬼がついていれば心配ない。
-大船に乗ったつもりで任せろ。
+Yes, Rage. There's no need to worry if Gouryuki is attached.  Leave it to me as
+if you were on a big ship.
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-よろしく頼むぜ、剛龍鬼。
-災厄だろうがなんだろうが、
-自分の力で追い払えるようになりたいからさ。
+Thank you, Gouryuki.  I don't care if it's a disaster or something, I want to be
+able to drive it away with my own strength.
 --------------------------------
 [00000058][剛龍鬼,,剛龍鬼]
-安心しろ、レイジ。
-剛龍鬼に任せておけば強くなれる。
+Don't worry, Rage.  If you leave it to Gouryuki, you will become stronger.
 --------------------------------
 [00000059][龍那,,龍那]
-レイジさんも剛龍鬼もがんばってね！
-一緒に災厄を追い払いましょう！
+Good luck, Rage-san and Gouryuki!  Let's drive away the disaster together!
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-……………………。
-災厄か……。でも、オレと一緒にいたら、
-龍那や剛龍鬼まで危険な目に遭うんじゃ？
+…………………….  A disaster... But if you're with me, Ryuna and Gouryuki will be in
+danger, right?
 --------------------------------
 [00000061][剛龍鬼,,剛龍鬼]
-なにを言う、レイジ。レイジは仲間。
-俺も龍那も、協力して災厄を追い払う。
+What are you saying, Rage? Rage is a friend.  Ryuna and I will work together to
+drive away the disaster.
 --------------------------------
 [00000062][龍那,,龍那]
-そうですよ、レイジさん。
-私たちの心配だなんて、水臭いですよ。
-３人で一緒にがんばりましょう！
+That's right, Rage-san.  It's ridiculous that we're worried about this.  Let's
+do our best together!
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-それで……災厄を追い払うための修業って、
-どんなことをすればいいんだ？
+So... what kind of training should I do to drive away disaster?
 --------------------------------
 [00000064][剛龍鬼,,剛龍鬼]
-災厄を追い払うためには、やはり力が重要だ。
-まずはこの岩を叩き割ってみろ。
-武器は使わず、拳でだ。
+Power is still important in driving away disasters.  First, try smashing this
+rock.  Don't use a weapon, use your fists.
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-えっ……この岩を!?　オレの身長よりでかいぞ？
-それに、拳で岩を割るなんて、できるはずないだろ？
-無茶を言うなよ、剛龍鬼。
+What...this rock!? It's bigger than me!  Besides, there's no way you can break a
+rock with your fist, right?  Don't be so reckless, Gouryuki.
 --------------------------------
 [00000066][剛龍鬼,,剛龍鬼]
-そうか？　しっかり拳を握って、力いっぱい
-殴れば大丈夫だぞ。
-……フンッ！
+Really? If you hold your fist tightly and punch as hard as you can, you'll be
+fine.  ...Hmph!
 --------------------------------
 [00000067][龍那,,龍那]
-岩が粉々になったわ！　さすが剛龍鬼！
-……では、次はレイジさんの番ですね。
-さあ、どうぞ～！
+The rock shattered! As expected of Gouryuki!  ...Now then, it's Rage's turn. 
+Here you go!
 --------------------------------
 [00000068][レイジ,レイジ,レイジ]
-いや、どうぞって言われても……無理だよ、絶対。
-できれば遠慮したいんだけど……。
+No, even if you ask me to... it's impossible, absolutely.  I'd like to refrain
+from doing that if possible...
 --------------------------------
 [00000069][龍那,,龍那]
-なにを言うんですか！
-災厄が降りかかってもいいんですか!?
-レイジさんならきっとできますよ。がんばって！
+What are you talking about!  Do you mind if disaster strikes!? I'm sure Rage-san
+can do it. go for it!
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-わ、わかったよ……。
-ど、どおりゃああああぁ！
+I-I understand...  D-That's right!
 --------------------------------
 [00000071][剛龍鬼,,剛龍鬼]
-おお、なかなか気合が入っているな！
-どうだ!?　岩は割れたか!?
+Oh, you're really fired up!  What do you think!? Did the rock crack?
 --------------------------------
 [00000072][レイジ,レイジ,レイジ]
-いっ……痛えええええぇ！
-やっぱり無理だったぁ～。
-手が、手が痛いぃ～……。
+It... it hurts!  It was impossible after all.  My hands hurt...
 --------------------------------
 [00000073][龍那,,龍那]
-だ、大丈夫ですか、レイジさん!?
-……うん、少し拳を痛めていますが、傷は浅い
-ようです。すぐに治りますよ。
+I-are you okay, Rage-san!? ...Yes, my fist hurts a little, but the wound seems
+to be shallow . It will heal soon.
 --------------------------------
 [00000074][剛龍鬼,,剛龍鬼]
-やれやれ。レイジ、情けないぞ。
-これくらいなら簡単にできると思ったのに。
-レイジは意外に軟弱者だ。
+Oh my gosh. Rage, you're pathetic.  I thought this could be done easily.  Rage
+is surprisingly weak.
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-いや、剛龍鬼とは体の作りからして違うんだし……。
-こんなことできる人間はいないってば！
+No, it's different from Gouryuki in terms of its body structure...  There is no
+one who can do something like this!
 --------------------------------
 [00000076][剛龍鬼,,剛龍鬼]
-言い訳するな、レイジ！　そこに座れ！
-今日は俺が、戦士としての心構えを
-たっぷり教えてやる！
+Don't make excuses, Rage! Sit there!  Today I'll teach you a lot about the
+mindset of a warrior!
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-えっ、ちょっと待てよ。
-オレは治療しないと……。
+Oh, wait a minute.  I need treatment...
 --------------------------------
 [00000078][龍那,,龍那]
-あ、応急処置だったら私がやっておきますから、
-レイジさんは手のことは気にせず、剛龍鬼の
-話を聞いててください。
+Ah, if it's an emergency, I'll take care of it for you, so Rage-san, please
+don't worry about your hands and just listen to Gouryuki.
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（あれから２時間……。
-剛龍鬼のお説教はまだ続いている……）
+@fcFFAAFFAA(Two hours have passed since then...
+Gouryuki's sermon is still continuing...)
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（やれやれ、拳は痛むし、お説教は食らうし……。
-龍那が言ってた災厄って、もしかして
-このことだったんじゃないのか？）
+@fcFFAAFFAA(Well, my fist hurts, and I'm going to get lectured...
+Maybe this is the disaster Ryuna was talking about?)
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（結局、他にはなんの事件も起きてないしな……。
-人騒がせな奴らだよ……）
+@fcFFAAFFAA(After all, no other incidents have happened...
+They're alarmists...)
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（見た目はしっかりしているように見えても、意外に
-おっちょこちょいだよなあ……龍那と剛龍鬼って）
+@fcFFAAFFAA(Even though they look solid, they are surprisingly clumsy... Ryuna and Gouryuki)
 --------------------------------
 [00000083][剛龍鬼,,剛龍鬼]
-レイジ、なにをぼーっとしている？
-俺の話をちゃんと聞け！
+Rage, what are you absentmindedly doing?  Listen to me properly!
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（はぁ～……お説教、早く終わらないかなあ……）
+@fcFFAAFFAA(sigh...I hope the sermon ends soon...)
 --------------------------------
 [00000085][none]
-イヤな予感しかしないんだが……
+I just have a bad feeling...
 --------------------------------
 [00000086][none]
-よろしく頼むぜ、剛龍鬼
+Thank you very much, Gouryuki.
 --------------------------------
 [00000087][レイジ,レイジ,レイジ]
-２人とも、どうしたんだ？
-なんだか、ただごとじゃない雰囲気だけど……。
+What's wrong with both of you?  It doesn't feel like a normal thing though...
 --------------------------------
 [00000088][龍那,,龍那]
-あっ、レイジさん。
-実は、白竜教団の神殿が、黒竜教団によって
-襲撃されたそうなんです！
+Ah, Rage-san.  Actually, the White Dragon Church's temple was attacked by the
+Black Dragon Church!
 --------------------------------
 [00000089][剛龍鬼,,剛龍鬼]
-うむ。だから、剛龍鬼たちは急いで
-加勢に行く！　戦闘だ！
+Hmm. That's why Gouryuki and the others hurry to help! It's a battle!
 --------------------------------
 [00000090][レイジ,レイジ,レイジ]
-なんだって!?
-そういうことならオレも手伝うぜ！
-すぐに教団の神殿に行こう！
+What?! If that's the case, I'll help you too!  Let's go to the church's temple
+right away!
 --------------------------------
 [00000091][剛龍鬼,,剛龍鬼]
-それにしても、黒竜教団のやつら、本当にしつこい。
-あいつらが襲ってきたのは、今回が初めてじゃない。
-何度も何度もやって来る。
+Anyway, the guys from the Black Dragon Sect are really persistent.  This isn't
+the first time they've attacked us.  It comes over and over again.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-そうなのか……。
-白竜教団と黒竜教団って、よほど仲が悪いんだな。
+I see...  The White Dragon Church and the Black Dragon Church don't get along
+very well.
 --------------------------------
 [00000093][龍那,,龍那]
-仲が悪いというか……黒竜教団は今までにも
-たびたび悪事を働いていますので、
-私たちも見過ごすわけにはいかないんです。
+Or rather, we don't get along well...The Black Dragon Cult has been doing bad
+things many times in the past, so we can't just ignore them.
 --------------------------------
 [00000094][龍那,,龍那]
-本来であれば、私たちは戦いなど
-望んでいないのですが……。
+Normally, we don't want to fight, but...
 --------------------------------
 [00000095][龍那,,龍那]
-これまでの戦いの中で、大切な仲間が命を
-落としたこともあります……。
-できれば、こんな戦いは終わりにしたいです……。
+In the battles we've fought so far, some of our dearest friends have lost their
+lives...  If possible, I would like to end this battle...
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-そうか……大変だな。
-オレでよければ、いつでもお前たちを守るぜ。
-手伝えることがあったら言ってくれ。
+I see...that's tough.  If it's okay with me, I'll always protect you.  If
+there's anything I can do to help, please let me know.
 --------------------------------
 [00000097][龍那,,龍那]
-ありがとうございます、レイジさん！
-レイジさんが一緒なら心強いです！
+Thank you, Rage-san!  It would be reassuring if Rage-san was with me!
 --------------------------------
 [00000098][剛龍鬼,,剛龍鬼]
-レイジ、剛龍鬼からも礼を言う！
-共に教団のみんなを守ってくれて！
+Rage, Gouryuki ??also thanks you!  Thank you for protecting everyone in the
+cult!
 --------------------------------
 [00000099][龍那,,龍那]
-でも、今回はレイジさんのおかげで
-本当に助かりました。レイジさんがいなかったら
-どうなっていたことか……。
+But this time, thanks to Rage-san, I was really saved. I wonder what would have
+happened if Rage-san wasn't there...
 --------------------------------
 [00000100][レイジ,レイジ,レイジ]
-そんなことないさ。
-オレはちょっと手伝っただけだよ。
+That's not true.  I just helped out a little.
 --------------------------------
 [00000101][剛龍鬼,,剛龍鬼]
-いや、レイジがいなかったらもっと苦戦していた。
-教団のみんなも感謝している。
+No, we would have struggled even more without Rage.  Everyone in the cult is
+also grateful.
 --------------------------------
 [00000102][レイジ,レイジ,レイジ]
-気にするなよ。
-オレたちは仲間だろ？　困った時はお互い様だ。
-またなにかあったら、いつでも頼りにしてくれよ。
+Don't worry about it.  We're friends, right? When you're in trouble, we're there
+for each other.  If you need anything again, you can always count on me.
 --------------------------------
 [00000103][龍那,,龍那]
-ありがとうございます、レイジさん！
-私たちも、レイジさんが困った時には
-いつでも力になりますよ！
+Thank you, Rage-san!  If Rage-san is in trouble, we will always be there to
+help!
 --------------------------------
 [00000104][剛龍鬼,,剛龍鬼]
-そうだな。レイジと俺たちは仲間！
-どんな時でも一緒！
+Yes. Rage and we are friends!  We'll be together no matter what!
 --------------------------------
 [00000105][龍那,,龍那]
-ええ、剛龍鬼の言う通りね。
-あらためまして、これからもどうぞよろしく
-お願いします、レイジさん！
+Yes, Gouryuki is right.  Once again, thank you for your continued support Thank
+you, Rage-san!
 --------------------------------

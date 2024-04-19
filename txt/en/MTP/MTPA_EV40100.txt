@@ -1,251 +1,203 @@
 [0056]
 *****************
 [00000000][none]
-@lt1@fcFF00FFFFタウンについて
+@lt1@fcFF00FFFF　About town　
 --------------------------------
 [00000001][none]
-タウンに入ることが
-できるようになりました。
+You can now enter the town.
 --------------------------------
 [00000002][none]
-タウンでは街人に話しかけたり、
-ショップで買い物をしたりすることができます。
+In town, you can talk to townspeople and shop at shops.
 --------------------------------
 [00000003][none]
-タウンから出るときは、入口に戻るか
-△ボタンのメニューから『ワールドマップへ』を
-選択して下さい。
+When leaving town, please return to the entrance  or select ``Go to World Map''
+from the △ button menu .
 --------------------------------
 [00000004][none]
-@lt1@fcFF00FFFFソウルとソウルレベルについて
+@lt1@fcFF00FFFF　About souls and soul levels　
 --------------------------------
 [00000005][none]
-クエストをクリアすると
-報酬としてソウルを得ることができます。
+If you clear the quest you can get souls as a reward.
 --------------------------------
 [00000006][none]
-ソウルは
-アーティファクトを作成・強化したり、
-フォースを強化するのに必要となります。
+Souls are needed to create and strengthen artifacts and to strengthen forces.
 --------------------------------
 [00000007][none]
-また、獲得したソウルの総量が一定以上になると
-ソウルレベルがアップします。
+Also, when the total amount of souls obtained exceeds a certain level the soul
+level will increase.
 --------------------------------
 [00000008][none]
-ソウルレベルがアップすると、
-アイテム屋の売り物や
-クエスト屋で受けられるクエストが増えます。
+As your soul level increases, the items for sale at the item shop and the quests
+you can accept at the quest shop will increase.
 --------------------------------
 [00000009][none]
-また、ストーリークエストは
-ソウルレベルが一定以上でないと
-受けることができません。
+Also, you cannot accept story quests unless your soul level is above a certain
+level.
 --------------------------------
 [00000010][none]
-ストーリーが進まなくなった場合は
-フリークエストやフリーバトルで
-ソウルレベルを上げると良いでしょう。
+If the story doesn't progress, it's a good idea to increase your soul level
+through free quests and free battles.
 --------------------------------
 [00000011][none]
-@lt1@fcFF00FFFFキャラクターのアイコンについて
+@lt1@fcFF00FFFF　About the character icon　
 --------------------------------
 [00000012][none]
-タウンにいるキャラクターの頭上には
-アイコンがついていることがあり、
-話しかけた際に何が起こるのかを表しています。
+Characters in town may have an icon above their head to indicate what will
+happen when you talk to them.
 --------------------------------
 [00000013][none]
-ストーリーアイコンは、
-話しかけるとメインストーリーが
-進行することを表しています。
+The story icon means that the main story will progress when you talk to it.
 --------------------------------
 [00000014][none]
-対象がショップキャラクターだった場合は
-ショップ内の『話す』を
-選択することによってイベントが進行します。
+If the target is a shop character, the event will proceed by selecting ``Talk''
+in the shop .
 --------------------------------
 [00000015][none]
-ただし、ソウルレベルが足りない場合は
-アイコンに『×』マークがつき無効扱いとなります。
+However, if the soul level is insufficient, the icon will be marked with an "x"
+and will be considered invalid.
 --------------------------------
 [00000016][none]
-サブストーリーアイコンは、
-話しかけた際に
-サブストーリーが進行することを表しています。
+The substory icon indicates that the substory will progress when you talk to it.
 --------------------------------
 [00000017][none]
-ショップアイコンは、
-話しかけた際に
-各ショップメニューが開くことを表しています。
+The shop icon indicates that each shop menu will open when you talk to it.
 --------------------------------
 [00000018][none]
-@lt1@fcFF00FFFFクエスト受注について
+@lt1@fcFF00FFFF　About quest orders　
 --------------------------------
 [00000019][none]
-このゲームは
-タウンで受注したクエストを
-クリアしていくことによって進行します。
+This game progresses by completing quests accepted in town.
 --------------------------------
 [00000020][none]
-クエスト受注後、
-タウンを出てワールドマップに移動すると、
-受注したクエストがマップ上に出現します。
+After accepting the quest , when you leave town and move to the world map, the
+accepted quest will appear on the map.
 --------------------------------
 [00000021][none]
-クエストは一度に一つしか受注できません。
-別のクエストを受けたい場合は、
-受注中のクエストをキャンセルする必要があります。
+Only one quest can be accepted at a time.  If you want to accept another quest,
+you will need to cancel the quest you are currently accepting.
 --------------------------------
 [00000022][none]
-クエストは
-メニューのクエスト確認を選択し、
-○ボタンを押すとキャンセルすることができます。
+Quests can be canceled by selecting Quest Confirmation from the menu and
+pressing the ○ button.
 --------------------------------
 [00000023][none]
-また、別のクエストを受注して
-受注クエストを上書きすることもできます。
+You can also accept another quest and overwrite the accepted quest.
 --------------------------------
 [00000024][none]
-@lt1@fcFF00FFFFリックのモードチェンジについて
+@lt1@fcFF00FFFF　About Rick mode change　
 --------------------------------
 [00000025][none]
-リックは
-アミル、エアリィの力を借りることにより、
-バトル時の特性を変化させることが可能です。
+Rick is able to change his characteristics during battle with the help of Amil
+and Airy.
 --------------------------------
 [00000026][none]
-モードチェンジを行うには
-ステータスのアクセサリ装備変更で
-モードチェンジ装備を変更する必要があります。
+To change mode  You need to change the mode change equipment using the status
+accessory equipment change .
 --------------------------------
 [00000027][none]
-クエスト挑戦中に変更することはできませんので、
-事前にメンバー全体のバランスを考え、
-有効に活用していきましょう。
+You cannot change it during the quest, so think about the balance of the entire
+group in advance and use it effectively.
 --------------------------------
 [00000028][none]
-@lt1@fcFF00FFFFケルベロスのモードチェンジについて
+@lt1@fcFF00FFFF　About Kerberos mode change　
 --------------------------------
 [00000029][none]
-ケルベロスはパスワード解放を行うことにより、
-モードチェンジを行うことが可能です。
+Kerberos can change mode by releasing the password.
 --------------------------------
 [00000030][none]
-モードチェンジを行うには
-ステータスのアクセサリ装備変更で
-モードチェンジ装備を変更する必要があります。
+To change mode  You need to change the mode change equipment using the status
+accessory equipment change .
 --------------------------------
 [00000031][none]
-クエスト挑戦中に変更することはできませんので、
-事前にメンバー全体のバランスを考え、
-有効に活用していきましょう。
+You cannot change it during the quest, so think about the balance of the entire
+group in advance and use it effectively.
 --------------------------------
 [00000032][none]
-@lt1@fcFF00FFFFサクヤのモードチェンジについて
+@lt1@fcFF00FFFF　About Sakuya's mode change　
 --------------------------------
 [00000033][none]
-サクヤは
-古竜から与えられた力を使うことにより
-バトル時の特性を変化させることが可能です。
+Sakuya can change her characteristics during battle by using the power given to
+her by the Ancient Dragon.
 --------------------------------
 [00000034][none]
-モードチェンジを行うには
-ステータスのアクセサリ装備変更で
-モードチェンジ装備を変更する必要があります。
+To change mode  You need to change the mode change equipment using the status
+accessory equipment change .
 --------------------------------
 [00000035][none]
-クエスト挑戦中に変更することはできませんので、
-事前にメンバー全体のバランスを考え、
-有効に活用していきましょう。
+You cannot change it during the quest, so think about the balance of the entire
+group in advance and use it effectively.
 --------------------------------
 [00000036][none]
-@lt1@fcFF00FFFF第１０章について
+@lt1@fcFF00FFFF　About Chapter 10　
 --------------------------------
 [00000037][none]
-第１０章で展開するのは
-レイジたちがダークドラゴンを倒した後の物語です。
+The story unfolds in Chapter 10 after Rage and his friends defeat the Dark
+Dragon.
 --------------------------------
 [00000038][none]
-この章では、新たに追加された要素のほか
-今までやり残していたクエストなどに
-あらためてチャレンジすることが可能です。
+In this chapter, in addition to newly added elements, you can try out quests
+that you have left unfinished.
 --------------------------------
 [00000039][none]
-また、これ以外の要素として、
-特定のヒロインたちとの
-『ヒロイン・エンディング』が用意されています。
+In addition to this,  ``Heroine endings'' with specific heroines are also
+available.
 --------------------------------
 [00000040][none]
-エンディング対象となる
-ヒロインのサブストーリーを全て発生させると
-彼女たちにエンディングアイコンが表示されます。
+If all of the heroine's substories eligible for endings occur ending icons will
+be displayed for them.
 --------------------------------
 [00000041][none]
-その状態で彼女たちに話しかけることで
-ヒロイン・エンディングを迎えることが可能です。
+You can reach the heroine ending by talking to them in that state.
 --------------------------------
 [00000042][none]
-条件を満たせば、
-全てのエンディングを見ることができますので
-分岐前のセーブを取っておく必要はありません。
+If the conditions are met, you can see all endings, so there is no need to save
+before branching.
 --------------------------------
 [00000043][none]
-また、第１０章にはヒロイン・エンディング以外の
-結末も用意されています。
-ぜひ全てのエンディングを目指してみて下さい。
+Chapter 10 also has endings other than the heroine ending.  Please try to reach
+all endings.
 --------------------------------
 [00000044][none]
-@lt1@fcFF00FFFFＭ．Ｏ．Ｅ．Ｓと好感度について
+@lt1@fcFF00FFFF　M. O. E. About S and likability　
 --------------------------------
 [00000045][none]
-キャラクターとの会話の中で、
-レイジがどのような受け答えを行うかの
-選択肢が表示されることがあります。
+During a conversation with a character, you may be given a choice of how Rage
+will respond .
 --------------------------------
 [00000046][none]
-この際、選んだ内容によって
-相手の好感度が変化します。
+At this time, the other person's favorability will change depending on the
+selection.
 --------------------------------
 [00000047][none]
-相手がどのような反応を望んでいるかを考え、
-選択肢を選ぶようにすると良いでしょう。
-ちなみに、時間切れも選択肢の１つとなります。
+It's a good idea to think about what kind of reaction the other person wants and
+choose the option.  By the way, running out of time is also an option.
 --------------------------------
 [00000048][none]
-選択肢の中にはソウルを消費するものがあります。
-所持ソウルが足りない場合は
-選択できないので注意しましょう。
+Some choices cost souls.  If you don't have enough souls, you won't be able to
+select it, so be careful.
 --------------------------------
 [00000049][none]
-好感度が上昇すると、サブストーリー発生、
-レイジとのリンクアタック強化
-といった効果を得ることができます。
+As your favorability rating increases, you can obtain effects such as generating
+a substory and strengthening link attacks with Rage.
 --------------------------------
 [00000050][none]
-Ｍ．Ｏ．Ｅ．Ｓ以外でも、クエストを達成することに
-よって参加したバトルメンバーの好感度を
-上昇させることが可能です。
+M. O. E. Even if you are not S, you can increase the favorability of the
+participating battle members by completing quests.
 --------------------------------
 [00000051][none]
-お気に入りのキャラクターは
-積極的に好感度を上げるようにすると良いでしょう。
+It is a good idea to actively increase the favorability of your favorite
+characters.
 --------------------------------
 [00000052][none]
-@lt1@fcFF00FFFFセーブについて
+@lt1@fcFF00FFFF　About saving　
 --------------------------------
 [00000053][none]
-△ボタンのメニューから
-セーブが行えるようになりました。
-
+You can now save from the △ button menu.  
 --------------------------------
 [00000054][none]
-セーブは
-タウンまたはワールドマップ上で
-セーブメニューから行うことができます。
+Saves can be done from the save menu on the town or world map.
 --------------------------------
 [00000055][none]
-これ以降では
-クエスト直後のセーブは発生しなくなります。
-こまめなセーブを心がけるようにしましょう。
+From this point on,  Save immediately after the quest will no longer occur.  Be
+sure to save frequently.
 --------------------------------

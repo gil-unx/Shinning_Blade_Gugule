@@ -1,759 +1,571 @@
 [0185]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年 クローデン西部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seiryoku 1935 Western Cloden
 --------------------------------
 [00000001][none]
-少しだけ痛いと思いますが
-我慢してくださいね
+I think it hurts a little, Please be patient.
 --------------------------------
 [00000002][none]
-おう、やってくれ
+Oh, please do it.
 --------------------------------
 [00000003][none]
-触りますよ
+I'll touch it
 --------------------------------
 [00000004][none]
-……いててて！
+...Stay!
 --------------------------------
 [00000005][none]
-あっ、すみません！
+Oh, sorry!
 --------------------------------
 [00000006][none]
-気にするな
-予想してたより
-少し痛かっただけだ
+Don't worry. It just hurt a little more than I expected.
 --------------------------------
 [00000007][none]
-触診では
-骨に異常はありません
-打撲ですね
+Palpation reveals no abnormalities in the bone. It's just a bruise.
 --------------------------------
 [00000008][none]
-打撲か、よかった
-肩は打ち所が悪いと
-変な壊れ方をするからな
+I'm glad it's a bruise. Shoulders break in weird ways if they're bruised in a
+bad spot.
 --------------------------------
 [00000009][none]
-打撲も甘く見ては
-いけないんですよ
+You shouldn't take bruises too lightly.
 --------------------------------
 [00000010][none]
-内出血がひどいと
-血がたまって
-パンパンに腫れるんです
+If you have severe internal bleeding, the blood will pool and swell.
 --------------------------------
 [00000011][none]
-きちんと冷やして
-早く治してあげないと
-体がかわいそうですよ
+If you don't cool it properly and heal it quickly you'll feel sorry for your
+body.
 --------------------------------
 [00000012][none]
-特に無理しがちな人は
-自分の体にも
-優しくしてあげてください
+Especially if you tend to overdo it Please be gentle with your body 
 --------------------------------
 [00000013][none]
-軍人てのはどうしても
-自分には厳しく
-してしまうんだよな
+Military people can't help but be very strict with themselves.
 --------------------------------
 [00000014][none]
-それに今は作戦行動中だ
-多少のケガで休むことは
-できねえよ
+Besides, I'm currently on a mission I can't rest due to some injuries 
 --------------------------------
 [00000015][none]
-確かに、任務中は
-充分な休みを
-とれないですよね……
+It's true that you don't get enough rest while on a mission...
 --------------------------------
 [00000016][none]
-……はい
-処置ができました
-お大事に
+...Yes The treatment was completed Thank you
 --------------------------------
 [00000017][none]
-ありがとう
+Thank you
 --------------------------------
 [00000018][none]
-早くしなフェリクス！
-あとがつかえてるんだよ！
+Hurry up, Felix!  I'm stuck!
 --------------------------------
 [00000019][none]
-ああ、すまな……っておい！
+Oh, sorry...hey!
 --------------------------------
 [00000020][none]
-まだですか？
+Not yet?
 --------------------------------
 [00000021][none]
-急いでくれよな……
+Please hurry...
 --------------------------------
 [00000022][none]
-ゴホッ、ゴホッ
+Goho, goho
 --------------------------------
 [00000023][none]
-早くしなさい！
+Hurry!
 --------------------------------
 [00000024][none]
-お前らどんだけ
-並んでるんだよ!?
+How long are you guys standing in line!?
 --------------------------------
 [00000025][none]
-日頃の健康管理も兼ねて
-みなさんにはまめに
-診察を受けるようにと
+As part of your daily health management, we urge everyone to visit your doctor
+frequently 
 --------------------------------
 [00000026][none]
-それはいいことだが
-この行列でクラリッサは
-いつ休むんだ？
+That's good, but when will Clarissa take a break in this procession ?
 --------------------------------
 [00000027][none]
-わたしはそれほど
-大変じゃありませんし
+It's not that hard for me.
 --------------------------------
 [00000028][none]
-自分の体にも優しくって
-言ったのは誰だったかな？
+Who told you to be kind to your body?
 --------------------------------
 [00000029][none]
-私は平気ですよ
-それに、忙しい方が
-今はいいんです……
+I'm fine. Besides, it's better to be busy right now...
 --------------------------------
 [00000030][none]
-忙しい方がいい……？
+Is it better to be busy...?
 --------------------------------
 [00000031][none]
-はい……
+Yes...
 --------------------------------
 [00000032][none]
-さあ、休みだ休み！
-仕事のことは考えるなよ
+Now, rest, rest!  Don't think about work
 --------------------------------
 [00000033][none]
-あの、本当に
-いいのでしょうか？
+Um, are you sure that's okay?
 --------------------------------
 [00000034][none]
-いいんだよ
+It's okay
 --------------------------------
 [00000035][none]
-治療テントにいたら
-どうせ誰かが来て
-休めないだろう？
+If you were in the treatment tent, someone would come and you wouldn't be able
+to rest, right?
 --------------------------------
 [00000036][none]
-でも……
+But...
 --------------------------------
 [00000037][none]
-大丈夫だ
-お前が来るまでだって
-やってこられたんだから
+It's okay I was able to make it until you came 
 --------------------------------
 [00000038][none]
-急なケガ人でも出ない限り
-問題ないって
+As long as no one gets suddenly injured There is no problem.
 --------------------------------
 [00000039][none]
-はあ……
+Sigh...
 --------------------------------
 [00000040][none]
-ところでお前は
-なぜネームレスに来たんだ？
+By the way, why did you come to Nameless?
 --------------------------------
 [00000041][none]
-悪さをするタイプには
-見えないが
+I don't see you as the type to do bad things 
 --------------------------------
 [00000042][none]
-……言えません
+...I can't say.
 --------------------------------
 [00000043][none]
-言いにくいことなのか？
+Is it difficult to say?
 --------------------------------
 [00000044][none]
-はい……絶対に
-軽蔑されます
+Yes...absolutely despised
 --------------------------------
 [00000045][none]
-軽蔑……？
+Contempt...?
 --------------------------------
 [00000046][none]
-軽蔑なんてしない
-お前は仲間だからな！
+I won't disrespect you You're my friend!
 --------------------------------
 [00000047][none]
 ……
 --------------------------------
 [00000048][none]
-誰にも言えないことを
-ひとりで抱えていたら
-つらいだろ？
+Isn't it hard to be alone with things you can't tell anyone about?
 --------------------------------
 [00000049][none]
-俺に言ってみろって！
-心配するな
-誰にも言わないから
+Tell me!  Don't worry I won't tell anyone
 --------------------------------
 [00000050][none]
-ほら
-遠慮無くどんと来い！
+Come on Feel free to come!
 --------------------------------
 [00000051][none]
-……やっぱり言えません
+...I can't say it after all.
 --------------------------------
 [00000052][none]
-なぜだ？
+Why?
 --------------------------------
 [00000053][none]
-わざわざ軽蔑される必要は
-ありませんから
+There's no need to go out of your way to be looked down upon.
 --------------------------------
 [00000054][none]
-……よし
-じゃあひとつ
-賭けをしようぜ
+...Okay Then let's make one bet.
 --------------------------------
 [00000055][none]
-もし話を聞いて
-俺がお前を軽蔑したら
-何でも言うことをきくよ
+If I listen to you and I disrespect you I'll do whatever you say.
 --------------------------------
 [00000056][none]
-でも軽蔑しなかったら……
+But if you didn't despise me...
 --------------------------------
 [00000057][none]
-しなかったら？
+What if you don't?
 --------------------------------
 [00000058][none]
-無理して笑うのを
-やめてほしいんだ
+I want you to stop forcing yourself to laugh.
 --------------------------------
 [00000059][none]
-えっ……
+Huh...
 --------------------------------
 [00000060][none]
-分かるんだよ
-顔は笑ってても
-心はどこか遠くを向いてる
+I understand. Even if your face is smiling, your heart is looking far away.
 --------------------------------
 [00000061][none]
-そうじゃないか？
+Isn't that so?
 --------------------------------
 [00000062][none]
-……なぜ、そうだと？
+...Why is that so?
 --------------------------------
 [00000063][none]
-仲間の笑顔が
-本当か嘘かなんて
-見てりゃ分かる
+You can tell if your friend's smile is real or fake just by looking at it.
 --------------------------------
 [00000064][none]
-話してくれよ
-俺はお前がちゃんと
-笑えない理由を知りたい
+Tell me I want to know why you can't smile properly 
 --------------------------------
 [00000065][none]
-フェリクスさん……
+Mr. Felix...
 --------------------------------
 [00000066][none]
-分かりました
+Understood
 --------------------------------
 [00000067][none]
-わたしがネームレスに
-送られたのは
+I was sent nameless 
 --------------------------------
 [00000068][none]
-捕虜の逃亡を
-手助けしたからです
+Because I helped the prisoners escape.
 --------------------------------
 [00000069][none]
-帝国軍の兵士を
-逃がしたのか？
-どうして？
+Did you let the Imperial soldiers escape?  Why?
 --------------------------------
 [00000070][none]
-……恋を
-してしまったからです
+...Because I fell in love 
 --------------------------------
 [00000071][none]
-あの人は重傷を負って
-捕虜となりました
+That person was seriously injured and taken prisoner.
 --------------------------------
 [00000072][none]
-わたしは彼の手当をして
-つきっきりで
-看病したのですが
+I took care of him and nursed him all the time.
 --------------------------------
 [00000073][none]
-日に日に
-元気になっていく彼に
-惹かれていったのです
+I was attracted to him as he became more energetic day by day.
 --------------------------------
 [00000074][none]
-それがなぜなのかは
-分かりません
+I don't know why that is.
 --------------------------------
 [00000075][none]
-ただ、彼はとても穏やかで
-毎日わたしに感謝の言葉を
-くれました
+However, he was very gentle and thanked me every day.
 --------------------------------
 [00000076][none]
-感謝の言葉はいつしか
-愛の言葉に変わり
+Before you know it, words of gratitude turn into words of love.
 --------------------------------
 [00000077][none]
-遂に求婚まで
-されてしまいました
+I finally got a marriage proposal 
 --------------------------------
 [00000078][none]
-帝国の兵士が……？
+Imperial soldiers...?
 --------------------------------
 [00000079][none]
-もちろん断りました
-帝国の男性と結ばれる……
+Of course I refused I will end up with a man from the empire...
 --------------------------------
 [00000080][none]
-そんなことが
-許されるはずがない、と
+That can't be allowed 
 --------------------------------
 [00000081][none]
-ですが、断ったわたしは
-涙が溢れて
-止まらなかったのです
+But when I said no, I burst into tears and couldn't stop.
 --------------------------------
 [00000082][none]
-クラリッサ……
+Clarissa...
 --------------------------------
 [00000083][none]
-わたしは彼に謝りました
-世界一愛している人に
-嘘をついたことを
+I apologized to him for lying to the person I love most in the world.
 --------------------------------
 [00000084][none]
-そして二度と
-嘘はつかないと
-誓ったのです
+And I swore I would never lie again.
 --------------------------------
 [00000085][none]
-……どっちも辛い選択だな
-別れを選んでも
-結ばれる方法を探すのも
+...It's a tough choice for both of us Even if we choose to part ways We'll have
+to find a way to be together.
 --------------------------------
 [00000086][none]
-はい……だからせめて
-素直な気持ちに
-従うことにしました
+Yes... that's why I decided to at least follow my honest feelings.
 --------------------------------
 [00000087][none]
-彼は必ずわたしを
-迎えに来ると約束し
+He promised to come back for me.
 --------------------------------
 [00000088][none]
-これを残して
-国へ戻りました
+I left this and returned to my country.
 --------------------------------
 [00000089][none]
-首飾りか
+Necklace?
 --------------------------------
 [00000090][none]
-あの人もこれを身に付けて
-この空の下のどこかで
-わたしを想ってくれている
+That person is also wearing this and somewhere under this sky they are thinking
+of me.
 --------------------------------
 [00000091][none]
-そう信じています
+I believe so
 --------------------------------
 [00000092][none]
-そうか……
+I see...
 --------------------------------
 [00000093][none]
-……軽蔑したでしょう？
-敵の兵士に恋をして逃がし
-信じて待っているなんて
+...You despised it, didn't you?  I fell in love with an enemy soldier and let
+him escape. I can't believe I was waiting for him.
 --------------------------------
 [00000094][none]
-軽蔑なんてしない
-いい奴だったんだろうな
-彼は
+no disrespect  I guess he was a nice guy. He was
 --------------------------------
 [00000095][none]
-はい
+yes
 --------------------------------
 [00000096][none]
-いい笑顔じゃないか
-俺が見たかったのは
-それだよ
+Isn't that a nice smile That's what I wanted to see 
 --------------------------------
 [00000097][none]
-フェリクスさんに話して
-気持ちが楽に
-なったからです
+Because talking to Felix made me feel better.
 --------------------------------
 [00000098][none]
-……ありがとうございます
+...Thank you
 --------------------------------
 [00000099][none]
-俺は何もしてねぇさ
-戦争が終わって
-また会えるといいな
+I haven't done anything I hope we can meet again after the war 
 --------------------------------
 [00000100][none]
-はい
-必ず会えると
-信じています
+Yes I'm sure we'll meet 
 --------------------------------
 [00000101][none]
-ぐはっ……！
-こいつは手ごわいな
+Ugh...!  This guy is tough.
 --------------------------------
 [00000102][none]
-す、すみません！
-アルフォンスさん
-痛かったですか？
+Sorry!  Alphonse-san Did it hurt?
 --------------------------------
 [00000103][none]
-いや、平気だよ
-きみの一生懸命さが痛みを
-和らげてくれている
+No, it's fine.  Your hard work is  alleviating the pain.
 --------------------------------
 [00000104][none]
-警戒していたはずなのに
-敵の威力偵察を
-受けるとはな……！
+I should have been on guard, but I didn't expect to receive the enemy's power
+reconnaissance...!
 --------------------------------
 [00000105][none]
-単独行動が多い
-小規模部隊の弱点だ
+This is the weakness of small units that often act alone.
 --------------------------------
 [00000106][none]
-攻められることに
-慣れてないから
-対応がまずくなる
+I'm not used to being attacked, so my response will be poor.
 --------------------------------
 [00000107][none]
-わたし達を守るために
-みなさんに
-怪我をさせてしまって……
+To protect us To everyone  I got hurt...
 --------------------------------
 [00000108][none]
-前に出て仲間を守るのが
-俺達の役目で
+Step forward and protect your friends.  In our role
 --------------------------------
 [00000109][none]
-お前の役目は
-傷ついた仲間を救うことだ
-謝ることなんてないさ
+Your job is to save your injured comrades. You have nothing to apologize for.
 --------------------------------
 [00000110][none]
-そういうこと
-気にしないでくれよ
+That's what it is  Don't worry about it
 --------------------------------
 [00000111][none]
-みなさん……ありがとう
-わたしも命がけで
-治療します！　えいっ！
+Thank you everyone... I will risk my life to treat you! Yes!
 --------------------------------
 [00000112][none]
-いでででで!!
+Dededede!!
 --------------------------------
 [00000113][none]
-力の入れすぎだ
-優しくでいいんだ
-優しくで
+You're using too much force. You should be gentle. Be gentle.
 --------------------------------
 [00000114][none]
-帝国の威力偵察部隊に
-発見されたことで
+Empire's powerful reconnaissance force  After being discovered
 --------------------------------
 [00000115][none]
-我々の攻撃計画は
-大幅な修正が必要となった
+Our plan of attack is  Major modifications were required.
 --------------------------------
 [00000116][none]
-敵拠点を偵察する前に
-こちらの所在に
-気付かれてしまったからな
+Our location was noticed before we could scout the enemy base.
 --------------------------------
 [00000117][none]
-敵はすでに攻撃に備えて
-守りを固めていると
-考えねばならない
+You must assume that the enemy has already strengthened its defenses in
+preparation for an attack.
 --------------------------------
 [00000118][none]
-攻撃すれば損害は
-軽微では済まないだろう
+If we attack, the damage will be more than slight.
 --------------------------------
 [00000119][none]
-隊長さん、もうしばらく
-攻撃を先送りには
-できないのですか？
+Captain, can't we postpone the attack for a little while longer?
 --------------------------------
 [00000120][none]
-みなさん、先の戦闘で
-すでに負傷しています
-このまま戦ったら……
+Everyone, you're already injured in the previous battle. If you continue
+fighting like this...
 --------------------------------
 [00000121][none]
-司令部の作戦指示は
-変更できない
+HQ's operational instructions cannot be changed.
 --------------------------------
 [00000122][none]
-それに敵に察知された以上
-態勢を整える時間を
-与えないことが最重要だ
+And once the enemy has been detected, it is most important not to give them time
+to prepare.
 --------------------------------
 [00000123][none]
-攻撃は決行する
+The attack will be carried out.
 --------------------------------
 [00000124][none]
-でも！
+But!
 --------------------------------
 [00000125][none]
-いいんだ、クラリッサ
-俺達はいつだって
-こういう戦いをしてきた
+It's okay, Clarissa We've always had battles like this.
 --------------------------------
 [00000126][none]
-そしていつもちゃんと
-生き延びてきたんだ
-心配はいらないぜ
+And I've always survived don't worry.
 --------------------------------
 [00000127][none]
-フェリクスの言う通りだ
-我々は死にに
-行くわけじゃない
+Felix is ??right We're not going to die 
 --------------------------------
 [00000128][none]
-現状を直視し
-活路を開くために
-全力で戦う
+Face the current situation and fight with all your might to find a way out.
 --------------------------------
 [00000129][none]
-それが俺達の
-生き残る道だ
+That's the only way for us to survive.
 --------------------------------
 [00000130][none]
-それが、ネームレス……
+That's nameless...
 --------------------------------
 [00000131][none]
-そんな悲しい顔
-しないでくれよ
+Please don't make that sad face 
 --------------------------------
 [00000132][none]
-そうだよ
-美人さんは笑顔、笑顔！
+That's right Beautiful women smile, smile!
 --------------------------------
 [00000133][none]
-撃たれてもきみが
-助けてくれると思えば
-恐れるものは何もないぜ
+If I think you'll help me even if I get shot, I have nothing to fear.
 --------------------------------
 [00000134][none]
-みなさん……！
+Everyone...!
 --------------------------------
 [00000135][none]
-分かりました
-何があってもわたしが
-必ずみなさんを助けます！
+Understood No matter what, I will definitely help you all!
 --------------------------------
 [00000136][none]
-夜明けと同時に
-朝日を背負って
-攻撃を開始する
+Start attacking at dawn with the morning sun on your back 
 --------------------------------
 [00000137][none]
-混乱を拡大し
-一気に勝負を決める
-各員、出撃準備！
+increases confusion  Decide the match at once  Everyone, prepare for sortie!
 --------------------------------
 [00000138][none]
-クラリッサは
-ポテンシャル@fcFF008800「彼の面影」@fciに代わって
-@fcFF008800「揺るがぬ想い」@fciに目覚めました。
+Clarissa has awakened
+@fcFF008800 ``unwavering love'' @fci instead of 
+@fcFF008800 ``his face'' @fci.
 --------------------------------
 [00000139][none]
-戦闘は終了
-わたし達は辛くも
-勝利を手にしました
+The battle is over We have narrowly won the victory.
 --------------------------------
 [00000140][none]
-ですが、支援兵の戦いは
-ここからが本番です
+However, the battle of support soldiers is  The real thing starts from here.
 --------------------------------
 [00000141][none]
-負傷した兵士を１人でも
-多く救う、それが
-わたし達の役目なのだから
+It's our job to save as many injured soldiers as possible.
 --------------------------------
 [00000142][none]
-クラリッサ！
-負傷者がいたぞ！
+Clarissa!  There was an injured person!
 --------------------------------
 [00000143][none]
-はい！
+Yes!
 --------------------------------
 [00000144][none]
-そこの藪の向こうだ
-俺はここで待ってるから
+Over there over the bushes.  I'll be waiting here.
 --------------------------------
 [00000145][none]
-え？
-どういうことですか
+Huh?  What do you mean?
 --------------------------------
 [00000146][none]
-……俺のことは気にせず
-答えを出してこい
+...Don't worry about me Just give me the answer.
 --------------------------------
 [00000147][none]
-ううっ……
+Ugh...
 --------------------------------
 [00000148][none]
-て、帝国兵？
-どうして……！
+Wait, are you an imperial soldier?  Why...!
 --------------------------------
 [00000149][none]
-クラリッサ？
-クラリッサなのか？
+Clarissa?  Is it Clarissa?
 --------------------------------
 [00000150][none]
-そのペンダント……
-あなたは！
+That pendant... You!
 --------------------------------
 [00000151][none]
-僕だよ、クラリッサ
+It's me, Clarissa.
 --------------------------------
 [00000152][none]
-国へ戻ったのでは
-なかったの？
+Didn't you go back to your country?
 --------------------------------
 [00000153][none]
-戻ることは
-許されなかった
+Not allowed to return 
 --------------------------------
 [00000154][none]
-君のいるガリアとは
-もう二度と
-戦いたくなかったのに……
+I didn't want to fight with you in Gaul ever again...
 --------------------------------
 [00000155][none]
-喋らないで
-手当をします
+Don't speak I'll take care of you
 --------------------------------
 [00000156][none]
-彼が僕のペンダントを見て
-君を呼んでくれたんだ……
-うっ
+He saw my pendant  He called you...  Ugh
 --------------------------------
 [00000157][none]
-動かないで
-大丈夫、傷は浅いわ
+Don't move It's okay, the injury is minor.
 --------------------------------
 [00000158][none]
-……ありがとう
+...Thank you
 --------------------------------
 [00000159][none]
-クラリッサ
-一緒に逃げよう
+Clarissa  Let's run away together
 --------------------------------
 [00000160][none]
-傷口が開いてしまうわ
-喋らないで
+You'll open a wound Don't talk.
 --------------------------------
 [00000161][none]
-戦場でまた君に
-会えたなんて運命だよ
-このまま２人で……
+It was fate to meet you again on the battlefield Just the two of us...
 --------------------------------
 [00000162][none]
-お願い、何も言わないで！
+Please, don't say anything!
 --------------------------------
 [00000163][none]
-クラリッサ、どうして？
+Clarissa, why?
 --------------------------------
 [00000164][none]
-……今逃げたって
-幸せにはなれないわ
+...I just ran away.  I can't be happy
 --------------------------------
 [00000165][none]
-わたしはいい
-どんなに辛くてもいいの
+I'm fine I don't care how painful it is
 --------------------------------
 [00000166][none]
-だけど今、あなたが
-ガリアの女と逃げて
+But now you're running away with a Gaul woman.
 --------------------------------
 [00000167][none]
-誰があなたを
-祝福してくれるというの？
+Who will bless you?
 --------------------------------
 [00000168][none]
-クラリッサ……
+Clarissa...
 --------------------------------
 [00000169][none]
-戦争が終われば
-きっとまた会える
+Once the war is over  I'm sure we'll meet again
 --------------------------------
 [00000170][none]
-わたしはあなたが
-迎えに来ると信じて
-ずっと待ってるから……
+I believe that you will come to pick me up, and I have been waiting for you...
 --------------------------------
 [00000171][none]
-ここで、別れましょう
+Let's break up here
 --------------------------------
 [00000172][none]
-……強くなったね
-クラリッサ
+...You've become stronger Clarissa
 --------------------------------
 [00000173][none]
-……応急処置はしました
-部隊に戻ったら医師の
-治療を受けてください
+...I have given you first aid. When you return to your unit, please seek
+treatment from a doctor. 
 --------------------------------
 [00000174][none]
-ああ……
+Ah...
 --------------------------------
 [00000175][none]
-もう行って
+Go now
 --------------------------------
 [00000176][none]
-……分かった
-必ず迎えに行く
+...I understand. I'll definitely come pick you up.
 --------------------------------
 [00000177][none]
-待ってる
+waiting
 --------------------------------
 [00000178][none]
-ううっ……あああっ！
+Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!
 --------------------------------
 [00000179][none]
-……よく頑張った
-クラリッサ
+...Good job Clarissa
 --------------------------------
 [00000180][none]
-フェリクスさん……
-わたし、本当は彼と一緒に
-逃げたかった……でも！
+Mr. Felix... Actually, I wanted to run away with him...but!
 --------------------------------
 [00000181][none]
-……あいつのために
-この道を選んだんだろう？
-胸を張るんだ、クラリッサ
+...You chose this path for him, right?  Stay proud, Clarissa.
 --------------------------------
 [00000182][none]
-……はい！
+...Yes!
 --------------------------------
 [00000183][none]
-この戦争を終わらせるんだ
-それまで一緒に戦ってくれ
-……な？
+Let's end this war Until then, please fight together ...right?
 --------------------------------
 [00000184][none]
-はい……わたし、戦います！
-平和になる
-その日まで……！
+Yes...I will fight!  Until there is peace Until that day...!
 --------------------------------

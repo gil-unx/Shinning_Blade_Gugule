@@ -1,853 +1,706 @@
 [0218]
 *****************
 [00000000][サクヤ,マキシマ,サクヤ]
-レイジ、フォンティーナについての感想は？
-異世界から来たあなたから見ると、
-変わった国に見えると思うんだけど。
+Rage, what do you think about Fontina?  As someone from another world, I think
+it looks like a strange country.
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-特に、エルフ族との接し方なんかについて、
-悩んだりしてない？
+Don't you have any worries, especially about how to interact with elves?
 --------------------------------
 [00000002][サクヤ,マキシマ,サクヤ]
-エルフも人間もそう変わらないですよね
+Elves and humans aren't that different.
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-アルティナもいるし、大丈夫ですよ
+Altina is here too, so it's okay.
 --------------------------------
 [00000004][サクヤ,マキシマ,サクヤ]
-正直、ビクビクものです
+Honestly, I'm nervous.
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-ふふっ。そういう風に考えられるんだったら、
-心配はいらなそうね。
+Hehe. If you can think of it that way, I don't think you need to worry.
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-そのまま自然に接していれば、
-きっとエルフたちもあなたのことを
-理解してくれるようになるわ。
+If you just interact with nature, I'm sure the elves will understand you.
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-だって、アルティナがそうだったんですものね。
+Well, that's what happened with Altina.
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-そうか。頼れる仲間がいるものね。
-だったら心配はいらなそうね。
+I see. You have friends you can rely on.  If that's the case, there's no need to
+worry.
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-ダメよ、そんなに萎縮してちゃ。
-かえってエルフ族のみんなに
-信用してもらえなくなってしまうわ。
+No, don't be so deflated.  On the contrary, you will lose the trust of all the
+elves. 
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-あまり構えずに、自然体で接してみなさい？
+Why don't you try to approach him naturally and not be too defensive?
 --------------------------------
 [00000011][サクヤ,マキシマ,サクヤ]
-まあ、いきなり聞かれてもわからないかもね。
+Well, even if you ask me out of the blue, I might not understand.
 --------------------------------
 [00000012][サクヤ,マキシマ,サクヤ]
-エルフ族は他種族を信用していないわ。
-彼らの怒りを買わないように気をつけて。
+Elves don't trust other races.  Be careful not to anger them.
 --------------------------------
 [00000013][サクヤ,マキシマ,サクヤ]
-ベイルグランの物分りがよくて助かったわ。
-精霊王探しも、この分なら順調に行きそうね。
+I was saved because Bailgrand was so understanding.  Looks like the search for
+the Spirit King will go smoothly.
 --------------------------------
 [00000014][サクヤ,マキシマ,サクヤ]
-フォンティーナの現状を確かめる必要があるわ。
-すぐに向かいましょう。
+I need to check on Fontina's current situation.  Let's head over right away.
 --------------------------------
 [00000015][サクヤ,マキシマ,サクヤ]
-フォンティーナのことが心配ね。
-様子を見に行きましょう。
+I'm worried about Fontina.  Let's go see what's going on.
 --------------------------------
 [00000016][リック,エルウッド,リック]
-……霊刀・雪姫か。
-お前がどうにか戦えてるのは、
-その刀のおかげだろうな。
+...Spiritual sword Yukihime?  I guess it's thanks to that sword that you're able
+to fight.
 --------------------------------
 [00000017][リック,エルウッド,リック]
-せいぜい感謝しておくんだな。
+At most, I'd like to thank you.
 --------------------------------
 [00000018][リック,エルウッド,リック]
-ああ。いつも感謝してるさ
+Yeah. I'm always grateful
 --------------------------------
 [00000019][リック,エルウッド,リック]
-お前も、アミルたちに感謝しとけよな
+You should also be grateful to Amil and the others.
 --------------------------------
 [00000020][リック,エルウッド,リック]
-大きなお世話だ！
+That's a big help!
 --------------------------------
 [00000021][リック,エルウッド,リック]
-な……!?
-……まじめに答えるヤツがあるか。
+What...!? ...Is there anyone who can give me a serious answer?
 --------------------------------
 [00000022][リック,エルウッド,リック]
-バカにされてるのもわからないのか。
-まったく、どうしようもないな、
-お前は……！
+Don't you know you're making fun of me?  There's nothing I can do about it,
+You...!
 --------------------------------
 [00000023][リック,エルウッド,リック]
-う……！
+Uh...!
 --------------------------------
 [00000024][リック,エルウッド,リック]
-う、うるさい！
-お前に言われるまでもない……！
+Uh, noisy!  There's no need for you to tell me...!
 --------------------------------
 [00000025][リック,エルウッド,リック]
-……ふん。図星を差されて、
-よっぽど悔しいらしいな。
+...Hmm. It seems like he's really frustrated that he's been criticized.
 --------------------------------
 [00000026][リック,エルウッド,リック]
-……言われて悔しいんなら、
-せいぜい実力をつけることだな。
+...If you're upset about being told that, the best thing you can do is improve
+your skills.
 --------------------------------
 [00000027][リック,エルウッド,リック]
-……俺は忙しいんだ。
+...I'm busy.
 --------------------------------
 [00000028][アルティナ,メル・シルフィス,アルティナ]
-私たちが森を出てきた時よりも
-木々に勢いがなくなっているわ。
-これも精霊力の低下のせいなの？
+The trees are less powerful than when we came out of the forest.  Is this also
+due to a decline in spiritual power?
 --------------------------------
 [00000029][アルティナ,メル・シルフィス,アルティナ]
-木の精霊王に異変が
-起きているんだとしたら、
-早くなんとかしなくちゃ……。
+If something strange is happening to the Tree Spirit King, then we need to do
+something about it quickly...
 --------------------------------
 [00000030][アルティナ,メル・シルフィス,アルティナ]
-姉さんは、
-私が歌姫だって知ってたのね。
-それで急に森に帰ってきて……。
+Your sister knew that I was a diva.  Then he suddenly returned to the forest...
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-やっぱり私は、森にいる時が一番落ち着くわ。
-故郷っていいものね。
+I feel most at ease when I'm in the forest.  It's nice to have a hometown.
 --------------------------------
 [00000032][アルティナ,メル・シルフィス,アルティナ]
-あなたも、故郷が
-懐かしくなることってあるでしょ？
+You sometimes feel nostalgic for your hometown, right?
 --------------------------------
 [00000033][アルティナ,メル・シルフィス,アルティナ]
-フォンティーナも好きだぜ
+I like Fontina too.
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-まあ、時々はね
+Well, sometimes.
 --------------------------------
 [00000035][アルティナ,メル・シルフィス,アルティナ]
-いや、あんまり帰りたくない事情が……
+No, there are circumstances that make me not want to go home...
 --------------------------------
 [00000036][アルティナ,メル・シルフィス,アルティナ]
-そう？　そんなに気に入ってくれたのね。
-でも、本当のフォンティーナは
-こんなところじゃないの。
+Yes?　You liked it that much.  But the real Fontina is not like this.
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-平和だったころは、
-もっともっといいところだったのよ。
+It was a much better place when there was peace.
 --------------------------------
 [00000038][アルティナ,メル・シルフィス,アルティナ]
-あなたに、そんなフォンティーナを見せて
-あげられるといいんだけど。
+I wish I could show you Fontina like that.
 --------------------------------
 [00000039][アルティナ,メル・シルフィス,アルティナ]
-でしょう？　やっぱり故郷っていいものよね
+Right? After all, it's nice to have a hometown, right?
 --------------------------------
 [00000040][アルティナ,メル・シルフィス,アルティナ]
-そ、そう……。
-なんだか、悪いことを聞いてしまったようね。
-ごめんなさい……。
+Oh, yeah...  It seems like I've heard something bad.  I'm sorry...
 --------------------------------
 [00000041][アルティナ,メル・シルフィス,アルティナ]
-あ……故郷のこと、思い出しちゃったの？
-いいわ。そっとしておいてあげる。
+Ah...do you remember your hometown?  Okay. I'll leave you alone.
 --------------------------------
 [00000042][アルティナ,メル・シルフィス,アルティナ]
-よ、よかったじゃないの。
-エルフ族の手が借りられるなんて、
-めったにない幸運なのよ！
+Yo, that's great.  It's a rare blessing to be able to borrow the help of an elf!
 --------------------------------
 [00000043][アルティナ,メル・シルフィス,アルティナ]
-このチャンス、
-最大限に生かしなさいよね！
+Make the most of this chance!
 --------------------------------
 [00000044][アルティナ,メル・シルフィス,アルティナ]
-なにをもたもたしてるの？
-姉さんとはぐれたらどうするのよ！
+What are you delaying?  What will you do if you get separated from your sister?
 --------------------------------
 [00000045][アルティナ,メル・シルフィス,アルティナ]
-行くわよ！
-エレンシアを取り返すの！
+Let's go!  Take back Herencia!
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-今度の目的地はフォンティーナ……。
+Next destination is Fontina...
 --------------------------------
 [00000047][エルミナ,ローデリア,エルミナ]
-そういえば、レイジさんやアルティナさんと
-お会いしたのはフォンティーナだったのですね。
-私は、シルディアのつもりでいましたけど……。
+Come to think of it, it was Fontina where you met Rage-san and Altina-san.  I
+was thinking of Syldia, but...
 --------------------------------
 [00000048][エルミナ,ローデリア,エルミナ]
-今度はわかるよな？
+You'll understand this time, right?
 --------------------------------
 [00000049][エルミナ,ローデリア,エルミナ]
-もう間違えないだろ？
+You can't make a mistake again, can you?
 --------------------------------
 [00000050][エルミナ,ローデリア,エルミナ]
-実は、あそこがシルディアだったんだよ
+Actually, that was Syldia.
 --------------------------------
 [00000051][エルミナ,ローデリア,エルミナ]
-は、はい！　大丈夫です！
-森があるのがフォンティーナです！
-ですから、木がたくさんある方を目指せば……。
+Yes! it's okay!  So, if you aim for a place with a lot of trees...
 --------------------------------
 [00000052][エルミナ,ローデリア,エルミナ]
-……ダメ……ですか？
+...No...?
 --------------------------------
 [00000053][エルミナ,ローデリア,エルミナ]
-はい！　さすがに大丈夫……だと……思います。
-……たぶん……きっと……。
+Yes! I think it's fine... I think.  ...Maybe...I'm sure...
 --------------------------------
 [00000054][エルミナ,ローデリア,エルミナ]
-え！　えええええ～っ!?
-そうだったんですか!?
+Eh!　Yeah!? Is that so!?
 --------------------------------
 [00000055][エルミナ,ローデリア,エルミナ]
-……って、ちょっと待ってください。
-それは……いくらなんでも嘘ですよね？
-もう……！　ひどいです……！
+Wait a minute.  That's a lie, isn't it?  Already...! It's awful……!
 --------------------------------
 [00000056][エルミナ,ローデリア,エルミナ]
-も、もしかして……レイジさん。
-まだ、あきれてるんですか……？
-す、すみません……。
+M-maybe... Rage-san.  Are you still stunned...?  I-I'm sorry...
 --------------------------------
 [00000057][エルミナ,ローデリア,エルミナ]
-今度は、道に迷ってではなく、
-最初から行くつもりで
-フォンティーナに向かうのですね……。
+This time, instead of getting lost, you're heading to Fontina with the intention
+of going from the beginning ...
 --------------------------------
 [00000058][エルミナ,ローデリア,エルミナ]
-な、なんだか、変な気分です……。
+I-I feel kind of weird...
 --------------------------------
 [00000059][エルウィン,ラナ・シルフィス,ラナ]
-いやー、面白いよね、この光景！
-まさか、この隠れ里で人間や獣人の
-姿が見られるなんて思わなかった！
+Well, this sight is interesting!  I never expected to see humans and beastmen in
+this hidden village!
 --------------------------------
 [00000060][エルウィン,ラナ・シルフィス,ラナ]
-やっほー！　あたし、アルティナの姉のラナよ。
-よろしくね！　ねえねえ、アルティナから
-あたしのことなにか聞いてる？
+Yahoo! I'm Ranah, Altina's older sister.  Nice to meet you! Hey, have you heard
+anything about me from Altina?
 --------------------------------
 [00000061][エルウィン,ラナ・シルフィス,ラナ]
-森を出てったって話は聞いた
+I heard you left the forest.
 --------------------------------
 [00000062][エルウィン,ラナ・シルフィス,ラナ]
-い、いや、別に……
+No, no, not really...
 --------------------------------
 [00000063][エルウィン,ラナ・シルフィス,ラナ]
-ほ、ほめてた……ぞ？　自慢の……姉だって
+Oh, I was complimenting you...? I'm proud of... my older sister.
 --------------------------------
 [00000064][エルウィン,ラナ・シルフィス,ラナ]
-それだけ？　……そっかぁ。
-レイジは優しいなぁ……。
-今、あたしに気を使ってくれたんだよね？
+Is that all? ...I see.  Rage is so kind...  You were paying attention to me just
+now, weren't you?
 --------------------------------
 [00000065][エルウィン,ラナ・シルフィス,ラナ]
-本当はあの子、
-あたしに文句言ってたんでしょ？
-今、それを、隠してたでしょ？
+She was actually complaining to me, wasn't she?  You were hiding it just now,
+right?
 --------------------------------
 [00000066][エルウィン,ラナ・シルフィス,ラナ]
-ううん、いいの。気にしない。
-っていうか……言われてもしょうがないと思う。
-あの子には、ずいぶん迷惑かけたんだし。
+No, it's fine. Do not worry.  I caused that girl a lot of trouble.
 --------------------------------
 [00000067][エルウィン,ラナ・シルフィス,ラナ]
-ホント～？　怪しいなぁ……。
-……あ。目が泳いでる……。
+Really? That's suspicious...  ...Ah. My eyes are swimming...
 --------------------------------
 [00000068][エルウィン,ラナ・シルフィス,ラナ]
-うっそー！　そんなわけないじゃない！
-……あの子には、迷惑ばっかりかけてたのに。
+Oh no! That's not true!  ...I was causing so much trouble to that kid.
 --------------------------------
 [00000069][エルウィン,ラナ・シルフィス,ラナ]
-本人の前だからって、
-変に遠慮しなくてもいいの！
-ちゃんと、本当のこと言ってよ！
+You don't have to be shy just because it's in front of you!  Please tell me the
+truth!
 --------------------------------
 [00000070][エルウィン,ラナ・シルフィス,ラナ]
-どしたの？　いいんだよ？　気にしないで、
-聞いた通りのこと言っても。
+What's wrong? it's okay? 
 --------------------------------
 [00000071][エルウィン,ラナ・シルフィス,ラナ]
-ヴァレリアはみんなのもの！
-みんなで、力を合わせてがんばろー！
-おーっ！
+Valeria belongs to everyone!  Let's all work together and do our best!  Oh!
 --------------------------------
 [00000072][エルウィン,ラナ・シルフィス,ラナ]
-レイジ？　なにやってんの？
-早く行こうよ！
+Rage? What are you doing? 
 --------------------------------
 [00000073][アイラ,ブランネージュ・ガルディニアス,アイラ]
-おまえは敵側の歌姫について、
-なにか知っているそうだが……。
-いったいどういうことなんだ？
+You seem to know something about the enemy's diva...  What on earth does that
+mean?
 --------------------------------
 [00000074][アイラ,ブランネージュ・ガルディニアス,アイラ]
-奴とはどういう関係なんだ？
+What's your relationship with him?
 --------------------------------
 [00000075][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……あいつは、俺の友達なんだ
+...He's my friend.
 --------------------------------
 [00000076][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それは、その……
+That's...
 --------------------------------
 [00000077][アイラ,ブランネージュ・ガルディニアス,アイラ]
-うるせえ！　エルミナにでも聞け！
+Noisy! Just ask Elmina!
 --------------------------------
 [00000078][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……なんだと？　それはどういう……。
-いや……悪いことを聞いてしまったか？
-だとしたら、すまなかった……。
+...What? What is that...?  No...did I hear something bad?  If that's the case,
+I'm sorry...
 --------------------------------
 [00000079][アイラ,ブランネージュ・ガルディニアス,アイラ]
-どうした？　はっきりしないな。
-なにか話せない理由でもあるのか？
-おまえとあの歌姫の間になにが……。
+What's wrong? It's not clear.  Is there some reason why you can't talk?  What
+happened between you and that diva...?
 --------------------------------
 [00000080][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……まあいい、他の者に聞くとするか。
+...Well, I guess I'll ask the others.
 --------------------------------
 [00000081][アイラ,ブランネージュ・ガルディニアス,アイラ]
-お、おい？　レイジ？　どうしたんだ、いきなり。
-気に障ることを聞いたのなら謝るが、
-少し落ち着け。
+Oh, hey? Rage? What happened all of a sudden?  I apologize if I have offended
+you, but please calm down a little.
 --------------------------------
 [00000082][アイラ,ブランネージュ・ガルディニアス,アイラ]
-どうした？　答えられんのか？
-なら、他のものに聞くが……。
-悪いことを聞いてしまったか？
+What's wrong? Can't you answer?  In that case, I'll ask someone else...  Have
+you heard anything bad?
 --------------------------------
 [00000083][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……わかった。サクヤにでも聞いてみよう。
+...Okay. Let's ask Sakuya.
 --------------------------------
 [00000084][アイラ,ブランネージュ・ガルディニアス,アイラ]
-敵にも歌姫がいるとは……。
-これはやっかいなことになりそうだな。
+The enemy also has a diva...  This looks like it's going to be a problem.
 --------------------------------
 [00000085][龍那,,龍那]
-この分ではかなりの数の精霊王が、
-帝国に倒されてしまって
-いるかもしれませんね。
+At this rate, a considerable number of Spirit Kings may have been defeated by
+the Empire.
 --------------------------------
 [00000086][龍那,,龍那]
-その場合、次世代の精霊王の卵が
-産まれているとは思いますが、
-確認を急がなければ……。
+In that case, I think the next generation Spirit King's egg has been laid, but
+we have to hurry to confirm...
 --------------------------------
 [00000087][龍那,,龍那]
-そして、封印を解いてもらわなきゃな
+And you have to break the seal.
 --------------------------------
 [00000088][龍那,,龍那]
-ちょっと心配だな
+I'm a little worried.
 --------------------------------
 [00000089][龍那,,龍那]
-ヤバいんじゃないか？
+Isn't that dangerous?
 --------------------------------
 [00000090][龍那,,龍那]
-そうですね。
-封印を解いて、レイジさんには
-今以上に大活躍していただかないと。
+That's right.  Once the seal is broken, I need Rage-san to play an even bigger
+role than he is now.
 --------------------------------
 [00000091][龍那,,龍那]
-私、その様子を見るのがちょっと楽しみです。
-うふふふっ。
+I'm kind of looking forward to seeing that.  Ufufufu.
 --------------------------------
 [00000092][龍那,,龍那]
-はい。でも、実際のところはどうなっているか
-確かめてみなければ。
+Yes. But I have to see what's actually going on .
 --------------------------------
 [00000093][龍那,,龍那]
-途中では帝国軍の妨害も予想されますが、
-レイジさんたちがいれば大丈夫ですよね？
+We expect that there will be some interference from the Imperial Army along the
+way, but as long as Rage and the others are there, we'll be fine, right?
 --------------------------------
 [00000094][龍那,,龍那]
-……たぶん、封印を解くには問題はないと
-思うのですが……。
+...Maybe there will be no problem in breaking the seal...
 --------------------------------
 [00000095][龍那,,龍那]
-早く精霊王を探し出しましょう。
+Let's quickly find the Spirit King.
 --------------------------------
 [00000096][龍那,,龍那]
-新世代の精霊王が、
-私たちを見守ってくれています。
-がんばりましょう。
+A new generation of Spirit Kings is watching over us.  Let's do our best.
 --------------------------------
 [00000097][フェンリル,,フェンリル]
-エルフの隠れ里……。話には聞いていたが、
-足を踏み入れるのは初めてだ。
-なにか、緊張感の漂うところだったな。
+The elf's hidden village... He had heard about it, but this was his first time
+setting foot in it.  There was a sense of tension in the air.
 --------------------------------
 [00000098][フェンリル,,フェンリル]
-なんとか、エルフ族とわかりあいたいな
+I want to somehow understand the elves.
 --------------------------------
 [00000099][フェンリル,,フェンリル]
-そうかい？　気づかなかった
+Really? I did not notice
 --------------------------------
 [00000100][フェンリル,,フェンリル]
-あんまり居心地はよくないよな
+It's not very comfortable.
 --------------------------------
 [00000101][フェンリル,,フェンリル]
-そうだな。できれば、
-彼らと共闘したいところだが……。
-なかなか骨が折れそうだ。
+Yes. If possible, I would like to fight together with them...  It looks like it
+will be quite a pain.
 --------------------------------
 [00000102][フェンリル,,フェンリル]
-……お前はいいな。のん気で。
+...You're good. Carefree.
 --------------------------------
 [00000103][フェンリル,,フェンリル]
-あまりそういうことを言うな。
-エルフ族には、彼らなりの事情があり、
-考え方があるんだ。
+Don't say things like that too much.  The elves have their own circumstances,
+and their own way of thinking.
 --------------------------------
 [00000104][フェンリル,,フェンリル]
-協力を得ようと思ったら、
-まずはそれを理解することが必要だ。
+If you want to gain cooperation, you first need to understand it.
 --------------------------------
 [00000105][フェンリル,,フェンリル]
-どうした？　お前まで
-緊張する必要はないんだぞ？
+What happened? There's no need for you to be nervous, right?
 --------------------------------
 [00000106][フェンリル,,フェンリル]
-エルフ族には偏屈な面があるからな。
-彼らの信頼を勝ち取るには骨が折れそうだ。
+Elves have a bigoted side.  It will be difficult to win their trust.
 --------------------------------
 [00000107][剛龍鬼,,剛龍鬼]
-神殿の外に出たのは久しぶりだ。
-龍那にとっては、いい気晴らしにも
-なっているらしい。
+It's been a while since I went outside the temple.  For Ryuna, it seems to be a
+good distraction .
 --------------------------------
 [00000108][剛龍鬼,,剛龍鬼]
-俺は別に、神殿の中でもいいんだが。
-外の世界には、あまり慣れていないからな。
+I don't mind being in the temple.  I'm not very used to the outside world.
 --------------------------------
 [00000109][剛龍鬼,,剛龍鬼]
-じゃあ、オレと遊びに行くか？
+So, do you want to go out with me?
 --------------------------------
 [00000110][剛龍鬼,,剛龍鬼]
-剛龍鬼も楽しんでみたら？
+Why not enjoy Gouryuki ??too?
 --------------------------------
 [00000111][剛龍鬼,,剛龍鬼]
-じゃあ、神殿に帰るのか？
+So, are you going back to the temple?
 --------------------------------
 [00000112][剛龍鬼,,剛龍鬼]
-お前と？　……そうか、
-仲間と遊びに行くのは楽しいかもしれないな。
+With you? ...I see, It might be fun to go out with friends.
 --------------------------------
 [00000113][剛龍鬼,,剛龍鬼]
-しかし……龍那を置いていくのは、
-少し心配だ。龍那も行ける時にしてくれると
-助かるんだが。
+But... I'm a little worried about leaving Ryuna behind. It would be helpful if
+Ryuna could help me when I can.
 --------------------------------
 [00000114][剛龍鬼,,剛龍鬼]
-龍那にもそう言われるが、
-どう楽しめばいいのか、それがわからない。
-……面倒な話だな。
+That's what Ryuna says, but I don't know how to enjoy it.  ...That's a
+troublesome topic.
 --------------------------------
 [00000115][剛龍鬼,,剛龍鬼]
-俺１人でか？　それはできない。
-龍那が心配だし、
-仲間を守るという役目も果たせなくなる。
+Am I alone? I can not do that. 
 --------------------------------
 [00000116][剛龍鬼,,剛龍鬼]
-俺は、ここに残って戦う。
+I'll stay here and fight.
 --------------------------------
 [00000117][剛龍鬼,,剛龍鬼]
-神殿の外は、なにかと面倒だ。
+Things are a bit troublesome outside the temple.
 --------------------------------
 [00000118][剛龍鬼,,剛龍鬼]
-たとえどこに行くことになっても、
-俺の仕事は仲間を守ることだ。
+No matter where I end up, my job is to protect my friends.
 --------------------------------
 [00000119][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-マスターであるサクヤの指示により、
-あなたを指揮官として登録してあります。
-あなたの指示があれば出撃が可能です。
+At the direction of Master Sakuya, I have registered you as a commander.  We can
+deploy if you give us instructions.
 --------------------------------
 [00000120][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-ああ。その時は頼むな
+Yeah. Don't ask at that time
 --------------------------------
 [00000121][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-あれ？　前からそうなってなかったっけ？
+Huh? Hasn't it been like that before?
 --------------------------------
 [00000122][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-今のところは用はないかな
+I don't think it's of any use for now.
 --------------------------------
 [00000123][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解しました。いつでも指示を。
+Understood. Instructions at any time.
 --------------------------------
 [00000124][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-はい。登録自体は、以前からしてあります。
+Yes. The registration itself has already been done.
 --------------------------------
 [00000125][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解しました。いつでも指示を。
+Understood. Instructions at any time.
 --------------------------------
 [00000126][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-いつでも出撃の指示をどうぞ。
+Please feel free to give me dispatch instructions at any time.
 --------------------------------
 [00000127][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-……個体識別完了。
-あなたはマスターではありません。
+...Individual identification complete.  You are not the master.
 --------------------------------
 [00000128][ユキヒメ,ユキヒメ,ユキヒメ]
-歌姫の歌の影響なのか、少しだけ記憶が
-戻ってきた……ような気がする。
+Maybe it's because of the diva's song, but I feel like my memory has returned a
+little...
 --------------------------------
 [00000129][ユキヒメ,ユキヒメ,ユキヒメ]
-まだまだ封印のことについてははっきりと
-思い出せないが、だが……。
+I still can't remember clearly about the seal, but...
 --------------------------------
 [00000130][ユキヒメ,ユキヒメ,ユキヒメ]
-歌姫、という言葉には、
-なにか非常になじみがある気がするのだ。
+There's something very familiar about the word diva.
 --------------------------------
 [00000131][ユキヒメ,ユキヒメ,ユキヒメ]
-焦るなよ、ゆっくり思い出していこうぜ
+Don't rush, let's remember slowly.
 --------------------------------
 [00000132][ユキヒメ,ユキヒメ,ユキヒメ]
-思い出せてよかったな！
+I'm glad you remembered!
 --------------------------------
 [00000133][ユキヒメ,ユキヒメ,ユキヒメ]
-それよりオレと、新しい思い出を作ろうぜ！
+Instead, let's make new memories with me!
 --------------------------------
 [00000134][ユキヒメ,ユキヒメ,ユキヒメ]
-確かに、今はそれ以外に
-できることはないか……。
-レイジ、お前もたまにはいいことを言うな。
+Indeed, I wonder if there's anything else I can do right now...  Rage, you also
+say nice things once in a while.
 --------------------------------
 [00000135][ユキヒメ,ユキヒメ,ユキヒメ]
-いや……よくない。
-むしろ以前より悪い……！
+No...it's not good.  In fact, it's worse than before...!
 --------------------------------
 [00000136][ユキヒメ,ユキヒメ,ユキヒメ]
-中途半端に記憶が戻った状態の、
-居心地の悪さときたら……！
-ああっ！　もうイライラする！
+It's so uncomfortable to be in a state where your memory has returned
+halfway...!  Ah!　I'm already getting irritated!
 --------------------------------
 [00000137][ユキヒメ,ユキヒメ,ユキヒメ]
-え……！
-い、いや、しかし、急にそんなこと……。
+Eh...!  No, no, but suddenly something like that...
 --------------------------------
 [00000138][ユキヒメ,ユキヒメ,ユキヒメ]
-……って、ちょっと待てバカモノ！
-それではなんにもならんではないか！
+...Wait a minute, you idiot!  That won't do anything!
 --------------------------------
 [00000139][ユキヒメ,ユキヒメ,ユキヒメ]
-どうも、記憶が半端に戻るというのは
-すっきりしないものだな……。
+Well, it's not refreshing to have your memory partially restored...
 --------------------------------
 [00000140][ユキヒメ,ユキヒメ,ユキヒメ]
-「歌姫」という言葉にはなんとなく聞き覚えがある。
+The word "diva" somehow sounds familiar.
 --------------------------------
 [00000141][ユキヒメ,ユキヒメ,ユキヒメ]
-……ような気がする。
+...I feel like that.
 --------------------------------
 [00000142][リン,シャオメイ,リンリン]
-………………くぅ～。
-すぅ～………………。
-……ふにゃぁ……。
+…………… Kuu~.  Suu~……………….  ...Funny...
 --------------------------------
 [00000143][リン,シャオメイ,リンリン]
-寝てるのか？　……邪魔しないようにしよう
+Are you sleeping? ...let's not get in the way
 --------------------------------
 [00000144][リン,シャオメイ,リンリン]
-おーい、リンリン？　起きてるか？
+Hey, Rinrin? Are you awake?
 --------------------------------
 [00000145][リン,シャオメイ,リンリン]
-寝てんじゃねえ！　起きろーっ！
+Don't sleep! Wake up!
 --------------------------------
 [00000146][リン,シャオメイ,リンリン]
-………………にゅ～。
-…………く～……。
-……うにゃ…………。
+……………….  …………..  ……Unya………….
 --------------------------------
 [00000147][リン,シャオメイ,リンリン]
-え……なあに？
-……私、眠いの……。
-…………く～……。
+What... what?  ...I'm sleepy...  ……….
 --------------------------------
 [00000148][リン,シャオメイ,リンリン]
-え!?　な、なに！　なによ！
-寝てないわよ!?　起きてたわ！
-ホントよ？
+Huh!? W-what! What!  Really?
 --------------------------------
 [00000149][リン,シャオメイ,リンリン]
-…………く～……。
+………..
 --------------------------------
 [00000150][リン,シャオメイ,リンリン]
-ふにゃぁ～……。ごろごろごろ……。
-ふにぃ～……。
+Hmmm... Rolling around….  Funii......
 --------------------------------
 [00000151][リン,シャオメイ,リンリン]
-……なあに？　レイジ。
-私、今忙しいんだけど……。
+...What? Rage.  I'm busy right now...
 --------------------------------
 [00000152][村人,村人,ウェーバー]
-忙しそうだな、レイジ。
-だけど、たまにはこっちの依頼も
-受けてってくれよな。
+Looks like you're busy, Rage.  However, please accept my requests from time to
+time. 
 --------------------------------
 [00000153][村人,村人,ロアン]
-やあ、いつもご苦労さん。
-今日はなにが必要なんだ？
+Hello, thank you for your hard work.  What do you need today?
 --------------------------------
 [00000154][村人,村人,ジュリア]
-今日も戦いで大変ですね。
-たまにはパンでも食べて一息入れてはいかがです？
+It's been a tough battle today as well.  Why not eat some bread once in a while
+and take a break?
 --------------------------------
 [00000155][村人,村人,ダリオ]
-フォンティーナ……。
-深い森に囲まれた、エルフ族の国か。
+Fontina...  A country of elves, surrounded by deep forests.
 --------------------------------
 [00000156][村人,村人,ダリオ]
-他種族であの国に迎え入れられた者は、
-今まで決して多くはないそうじゃが。
+It seems that there are not many people from other races who have been welcomed
+into that country.
 --------------------------------
 [00000157][村人,村人,クロード]
-寒さはもうしばらく続くそうですよ。
-防寒装備を忘れずに！
+It looks like the cold will continue for a while.  Don't forget your cold
+weather gear!
 --------------------------------
 [00000158][村人,村人,フリント]
-首都リュナス陥落の際に、
-聖騎士団長殿が戦死されたのは
-大きな痛手でした……。
+It was a great loss when the commander of the Holy Knights was killed in battle
+during the fall of the capital Lynas...
 --------------------------------
 [00000159][村人,村人,カタリーナ]
-寒さはだいぶゆるんできたけど、
-まだまだ上着は手放せないでしょ？
+The cold has eased a lot, but you still can't do without your jacket, right?
 --------------------------------
 [00000160][村人,村人,カタリーナ]
-そういうときはホカホカのパンが
-一番ですよ！
+In such cases, warm bread is the best!
 --------------------------------
 [00000161][村人,村人,ジュリオン]
-ねえねえ、フォンティーナって、
-今のルーンベールみたいに寒いの？
-それとも暑いの？
+Hey, is Fontina as cold as Runevale now?  Or is it hot?
 --------------------------------
 [00000162][村人,村人,テルムッド]
-寒波が収まったら収まったで、
-またモンスターどもや帝国軍が
-暴れだしたようだ。
+Now that the cold wave has subsided, it seems the monsters and imperial forces
+have started rampaging again.
 --------------------------------
 [00000163][村人,村人,テルムッド]
-なんとか、退治してくれると
-ありがたいのだが。
+I would appreciate it if you could somehow get rid of it.
 --------------------------------
 [00000164][村人,村人,レストック]
-お前らにできる仕事があるとも思えんが、
-まあ、見るだけ見てみろ。
+I don't think there's any work you guys can do, well, just look at it.
 --------------------------------
 [00000165][村人,村人,レストック]
-ドラゴンに勝てるほどの実力者が、
-他種族にも存在したとは……！
+I didn't know that there were people in other races who were strong enough to
+defeat dragons...!
 --------------------------------
 [00000166][村人,村人,レストック]
-今まで君らを侮っていたようだ。
-君らになら、安心してどんな依頼でも
-任せられる。
+It seems like I've been looking down on you guys until now.  With you guys, I
+can entrust any request with peace of mind. 
 --------------------------------
 [00000167][村人,村人,エヴァンス]
-……あまり、店の前でうろうろしないでくれるか？
+...Would you please not hang around in front of the store too much?
 --------------------------------
 [00000168][村人,村人,エヴァンス]
-ベイルグランに勝っただと？
-お前たちが？　信じられん……。
+You say you won against Vailgran?  You guys? I can't believe it...
 --------------------------------
 [00000169][村人,村人,エヴァンス]
-今まではすまなかった。
-あんたたちのことを誤解していたんだ。
-なんでも見て行ってくれ。
+Sorry about that.  I misunderstood you guys.  Please go and see anything.
 --------------------------------
 [00000170][村人,村人,ファレイン]
-まったく、他種族がこの隠れ里で
-大きな顔をしているなんて……。
+I can't believe that other races have big faces in this hidden village...
 --------------------------------
 [00000171][村人,村人,ファレイン]
-そんな……ベイルグランまで
-他種族を受け入れるなんて……。
+I can't believe that even Vailgrand accepts other races...
 --------------------------------
 [00000172][村人,村人,ファレイン]
-……今まで、勝手なことを言っていて
-すまなかった。
+...I'm sorry for saying such selfish things until now. I'm sorry.
 --------------------------------
 [00000173][村人,村人,メルフィス]
-パ、パンが欲しいんですか……？
-はい……どうぞ。
+Pa, do you want some bread...?  Yes... please.
 --------------------------------
 [00000174][村人,村人,メルフィス]
-ひ、必要なものを買ったら、
-帰ってもらえませんか……？
+H-could you please go home after I buy what I need...?
 --------------------------------
 [00000175][村人,村人,メルフィス]
-ベイルグランが……？
-あなたたちを認めた……？
-そんなことって……。
+Bailgrand...?  I recognized you guys...?  That's not true...
 --------------------------------
 [00000176][村人,村人,メルフィス]
-よく考えてみたら……。
-どうして私、今まであなたたちを
-怖がったりしていたんでしょう。
+Now that I think about it...  Why was I always afraid of you?
 --------------------------------
 [00000177][村人,村人,メルフィス]
-いつもパンを買ってくれるお得意様なのに。
-本当にごめんなさい……。
+He's a loyal customer who always buys me bread.  I'm really sorry...
 --------------------------------
 [00000178][村人,村人,メルフィス]
-どうしましょう……。
-パンを焼くには薪が必要なのに、
-森にはモンスターが……。
+What should we do...?  You need firewood to bake bread, but there are monsters
+in the forest...
 --------------------------------
 [00000179][村人,村人,メルフィス]
-……え？
-あなたたちが、退治してくれるんですか？
+...huh?  Are you guys going to exterminate them?
 --------------------------------
 [00000180][村人,村人,メルフィス]
-モンスターは……どうなりました？
+What happened to the monster...?
 --------------------------------
 [00000181][村人,村人,メルフィス]
-モンスターはいなくなったんですか？
-よかった……これでパンが焼けるわ。
-……どうも、ありがとう……。
+Are the monsters gone?  Good... now I can bake bread.  ...Thank you very much...
 --------------------------------
 [00000182][村人,村人,ルティーナ]
-ケンタウロスたちだけじゃなく、
-他種族の軍隊まで隠れ里に入ってくるなんて……。
+Not only centaurs but also troops from other races are entering the hidden
+village...
 --------------------------------
 [00000183][村人,村人,ルティーナ]
-これも、森の精霊力が落ちている
-せいなのかしら……。
+I wonder if this is also because the forest's spiritual power is declining...
 --------------------------------
 [00000184][村人,村人,ルティーナ]
-精霊力が戻るって……ホント？
-あなたたちの……おかげなの？
+Is it true that your spiritual power will return?  Is it because of you guys?
 --------------------------------
 [00000185][村人,村人,ルティーナ]
-森の木々が、少し元気を取り戻してきたみたい。
-本当に精霊力が戻ったのね。
+It seems like the trees in the forest are starting to regain some energy.  Your
+spiritual power has really returned.
 --------------------------------
 [00000186][村人,村人,ルティーナ]
-だけど、帝国軍がいるかぎり、
-この森が危険なことには変わりないわ……。
+But as long as the Imperial Army is here, this forest will remain dangerous...
 --------------------------------
 [00000187][村人,村人,アルフェウス]
-隠れ里に他種族を
-入れることになろうとは……。
+I wonder if other races will be allowed to enter the hidden village...
 --------------------------------
 [00000188][村人,村人,アルフェウス]
-だが、いまの戦況では
-これもやむを得ないことなのか……。
+But, given the current war situation, is this unavoidable...?
 --------------------------------
 [00000189][村人,村人,アルフェウス]
-そうだったのか……。
-アルティナが歌姫とは……。
+I see...  Altina is a diva...
 --------------------------------
 [00000190][村人,村人,アルフェウス]
-しかし、覚醒に他種族の手を借りるとは
-なんという……。
+But what do you mean by asking the help of other races for awakening?
 --------------------------------
 [00000191][村人,村人,アルフェウス]
-レイジ殿。我が孫娘のこと、
-何度お礼を申しても言い足りぬ。
-本当に、ありがとう……！
+Rage-dono. I can't thank you enough for my granddaughter.  Thank you so much...!
 --------------------------------
 [00000192][村人,村人,シーン]
-あ！　お兄ちゃん……！
-この間は助けてくれてありがとう！
+Ah! big brother……! 
 --------------------------------
 [00000193][none]
-通路の奥に何か落ちている。
+Something is falling at the end of the passage.
 --------------------------------
 [00000194][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000195][none]
-噴水の中に何か落ちている。
+Something is falling into the fountain.
 --------------------------------
 [00000196][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000197][none]
-『急募、酒場のアルバイト
-　まかない有り。給金は応相談』
+``Urgent recruitment, part-time job at the bar. We'll cover your expenses.''
+Salary is negotiable.''
 --------------------------------
 [00000198][none]
-クエスト以外の張り紙も紛れているようだ……。
+It seems that notices other than quests are also missing...
 --------------------------------
 [00000199][none]
-物資が積まれている。
-人々の生活用品のようだ。
+Supplies are loaded.  It looks like people's daily necessities.
 --------------------------------
 [00000200][none]
-ドアの向こうから声が聞こえる。
+A voice can be heard from the other side of the door.
 --------------------------------
 [00000201][none]
-「噴水前の猫さんの尻尾、触ってみたいな！」
+"I want to touch the cat's tail in front of the fountain!"
 --------------------------------
 [00000202][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000203][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000204][none]
-木の根元に何か落ちている。
+Something has fallen at the base of the tree.
 --------------------------------
 [00000205][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000206][none]
-酒場は賑わっているようだ。
-中から声が聞こえてくる。
+The bar seems to be busy.  A voice can be heard from inside.
 --------------------------------
 [00000207][none]
-「やっぱりアイラ様は素敵だよなぁ。
-　あの冷たい目で罵って欲しいもんだ。」
+"I think Isla-sama is wonderful. I want her to insult me ??with those cold
+eyes."
 --------------------------------
 [00000208][none]
-ショーウィンドウの向こうに
-見たことのないパンが陳列されている。
+Behind the shop window there is bread that I have never seen before.
 --------------------------------
 [00000209][none]
-『アイラ姫考案、アイスパン販売開始！』
+``Princess Isla invented ice cream bread now on sale! ”
 --------------------------------
 [00000210][none]
-この鍛冶屋の本来の持ち主は
-寒さを避けて他の土地に避難しているらしい。
+The original owner of this blacksmith shop seems to have taken refuge elsewhere
+to avoid the cold.
 --------------------------------
 [00000211][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000212][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000213][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000214][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000215][none]
-アイテム屋の棚だ。
-エルフ族独特の薬などが並んでいる。
+It's an item shop shelf.  There are medicines unique to the elves.
 --------------------------------
 [00000216][none]
-集会場だ。
-今は誰もいないらしい。
+It's a meeting place.  It seems like there's no one here right now.
 --------------------------------
 [00000217][none]
-巨大な霊樹がそびえ立っている。
-この隠れ里を守っているようだ。
+A huge sacred tree stands tall.  It seems they are protecting this hidden
+village.
 --------------------------------

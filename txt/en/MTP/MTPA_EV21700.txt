@@ -1,426 +1,341 @@
 [0101]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-カイト先輩。
+Kaito-senpai.
 --------------------------------
 [00000001][カイト,キリヤ,カイト]
-やあ、レイジ。
-久しぶりだな。
+Hi, Rage.  It's been a while.
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-久しぶり……なんですか？
-何度も顔合わせてたのに。
+It's been a while... what?  Even though we met many times.
 --------------------------------
 [00000003][カイト,キリヤ,カイト]
-はははっ。
-まあ、細かいことは気にするなよ。
+Hahaha.  Well, don't worry about the details.
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-ていうか……そもそも
-なんで先輩がここにいるんですか？
+I mean... Why are you here in the first place?
 --------------------------------
 [00000005][カイト,キリヤ,カイト]
-なんだよ。
-俺が来たら迷惑みたいな口ぶりだな。
+What?  You sound like you'll be a nuisance if I come.
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-そ、そんなこと言ってませんよ。
+I-I didn't say that.
 --------------------------------
 [00000007][カイト,キリヤ,カイト]
-ははっ、冗談だ、冗談。
+Haha, just kidding, kidding.
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-ったく、やりづらいなぁ。
-で、先輩はいつエンディアスに来たんですか？
+It's really hard to do.  So, when did you come to Endias?
 --------------------------------
 [00000009][カイト,キリヤ,カイト]
-言っておくけどな、俺がエンディアスに来たのは
-お前よりも先だぞ。
-そういう意味でも、俺の方が先輩だからな。
+I'm telling you, I came to Endias before you did.  In that sense, I'm your
+senior.
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-え、そうなんですか？
+Oh, really?
 --------------------------------
 [00000011][カイト,キリヤ,カイト]
-ああ。
-ちょっと他の場所のゴタゴタを片づけて、
-いったんエルデに戻ってたんだが……。
+Yeah.  After cleaning up some mess elsewhere, I returned to Elde...
 --------------------------------
 [00000012][カイト,キリヤ,カイト]
-しばらくしてサクヤさんから、
-ローゼリンデの身辺警護を頼まれたんだ。
-で、またこっちに来たってわけさ。
+After a while, Sakuya-san asked me to protect Roselinde.  So, you came here
+again.
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-そ、それはつまり
-オレが最初にしくじったから……。
+Well, that means I messed up first...
 --------------------------------
 [00000014][カイト,キリヤ,カイト]
-肝心のローゼリンデが帝国に取り込まれたから
-俺も帝国に潜入するしかなかった。
-で、ファフナーを名乗ってたんだ。
+Since the important Roselinde was taken in by the Empire, I had no choice but to
+infiltrate the Empire as well.  So, he called himself Fafner.
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-帝国に潜入……って、あっさり言いますけど
-よくバルドルに信用されましたね。
-一体どうやったんですか？
+Infiltrating the Empire... that's a simple thing to say, but Baldur really
+trusted you.  How did you do it?
 --------------------------------
 [00000016][カイト,キリヤ,カイト]
-ああ、それがな……。
-最初は俺も、適当に手柄を立てる振りをして
-徐々に信頼を得るつもりだったんだが……。
+Ah, that's it...  At first, I pretended to take credit and gradually gained his
+trust, but...
 --------------------------------
 [00000017][カイト,キリヤ,カイト]
-その前に、なぜか伯爵に気にいられて
-そのままローゼリンデの護衛役に推薦されたんだ。
+Before that, for some reason the Count liked me and recommended me to be
+Roselinde's bodyguard.
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-……なんか、めちゃくちゃ都合がいいですね。
-どうなってるんですか、それ？
+...It's really convenient.  What's going on?
 --------------------------------
 [00000019][カイト,キリヤ,カイト]
-俺が聞きたいよ。
-伯爵は俺のどこが気に入ったんだろうな？
+I want to hear it.  What did the Earl like about me?
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-やっぱり顔じゃないですか。
-先輩、伯爵の好みだったりして……。
+After all, it's the face, isn't it?  My senpai, the earl likes it...
 --------------------------------
 [00000021][カイト,キリヤ,カイト]
-……冗談でもそういうこと言わないでくれよ。
-うう……寒気がする。
+...Please don't say things like that even if you're joking.  Ugh...I feel cold.
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-そりゃ剣の腕に決まってるじゃないですか。
-先輩が強いってこと、
-伯爵は一目で見抜いたんですよ。
+Of course he's good with a sword, right?  The earl could tell at a glance that
+his senior was strong. 
 --------------------------------
 [00000023][カイト,キリヤ,カイト]
-それは褒めてくれていると思っていいのかな？
-剣の腕に自信が無いわけじゃないから、
-素直に喜んどくよ。
+Can I take that as a compliment?  It's not that I'm not confident in my sword
+skills, I'm honestly happy.
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（先輩……こんなに調子良い人だったっけ？）
+@fcFFAAFFAA(Senpai...was he in such good shape?)
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000026][カイト,キリヤ,カイト]
-レイジ……何故黙る？
-俺のいいところが
-ひとつも思いつかないってことか？
+Rage... why are you silent?  Are you saying you can't think of a single good
+thing about me?
 --------------------------------
 [00000027][レイジ,レイジ,レイジ]
-いっ、いえ、違いますよっ。
-そんなわけないじゃないですか！
+No, no, that's not true.  That's not true!
 --------------------------------
 [00000028][カイト,キリヤ,カイト]
-もういい……。
-お前に期待した俺が馬鹿だったよ……。
+Enough...  I was an idiot for expecting so much from you...
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-……すんません。
+...I'm sorry.
 --------------------------------
 [00000030][カイト,キリヤ,カイト]
-まあ、こうしてお前たちと合流できて嬉しいよ。
-この怪我のせいで戦力に加われないのは
-残念だけどな。
+Well, I'm glad to be able to join you guys like this.  It's a pity that I can't
+join the force due to this injury. It's a shame.
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-安心してください。
-カイト先輩の分まで、オレが暴れてやりますよ！
+Don't worry.  I'll be as violent as Kaito-senpai!
 --------------------------------
 [00000032][カイト,キリヤ,カイト]
-はははっ。
-相変わらず口だけは達者だな。
-調子に乗りすぎて失敗するなよ。
+Hahaha.  You're still good at talking.  Don't get too carried away and fail.
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-う……は、はい。気をつけます。
+Uh... yes. I'll be careful.
 --------------------------------
 [00000034][none]
-顔？
+face?
 --------------------------------
 [00000035][none]
-剣の腕？
+Sword arm?
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-カイト先輩。
-傷の具合はどうですか？
+Kaito-senpai.  How is your wound?
 --------------------------------
 [00000037][カイト,キリヤ,カイト]
-ああ、まあまあだ。
-悪いな、肝心の時に力になれなくて。
+Oh, okay.  It's too bad that I couldn't help you at the critical moment.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-そんなこと言わないでください。
-先輩はもう充分、力になってくれてますよ。
+Please don't say that.  My senpai has already given me enough strength.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-例えば……ほら、
-月の精霊王の卵を確保してくれてたり。
+For example...you know, they secured the moon spirit king's egg.
 --------------------------------
 [00000040][カイト,キリヤ,カイト]
-ああ、あれか……。
-あの時はさすがに死ぬかと思ったよ。
+Oh, that's it...  At that time, I thought I was going to die.
 --------------------------------
 [00000041][カイト,キリヤ,カイト]
-バルドルの命令では、俺の他に
-数人の兵士が同行して
-卵の探索をするはずだったんだが……。
+According to Balder's orders, a few other soldiers were supposed to accompany me
+to search for the egg, but...
 --------------------------------
 [00000042][カイト,キリヤ,カイト]
-見張りがいると、卵を隠せなくなる。
-だから、俺はバルドルに言ったんだ。
-俺一人で充分だ、って。
+If there are guards, you won't be able to hide the eggs.  That's why I told
+Balder.  I think it's enough for me alone.
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-先輩、まさか……。
-一人でドラゴンと戦ったんですか？
-しかも……勝った？
+Senpai, no way...  Did you fight the dragon by yourself?  And... did you win?
 --------------------------------
 [00000044][カイト,キリヤ,カイト]
-まあ、どうにかな。
-クラントールにいたのは
-月煌竜ガイルナースだ。
+Well, whatever.  The person who was in Crantor was Geilnurse, the Glittering
+Moon Dragon.
 --------------------------------
 [00000045][カイト,キリヤ,カイト]
-さすがに強敵だったけど、
-どうにか試練を乗り越えることができた。
-幸運としか言いようがないな。
+It was a formidable opponent, but I managed to overcome the ordeal.  I can only
+say that I'm lucky.
 --------------------------------
 [00000046][カイト,キリヤ,カイト]
-だけど、本当に大変なのはそこからだった。
-戻ってバルドルに「卵はなかった」と
-報告したんだが……。
+But that's where it got really difficult.  I went back and reported to Balder
+that there were no eggs, but...
 --------------------------------
 [00000047][カイト,キリヤ,カイト]
-案の定、他の将軍たちに疑われてさ。
-どうにか隠し通したものの
-冷汗ものだったぜ。
+As expected, the other generals were suspicious of me.  Even though I managed to
+hide it, I was in a cold sweat.
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-カイト先輩……。
-やっぱり、かなり役に立ってくれてますよ。
+Kaito-senpai...  As expected, it's been quite helpful.
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-その調子で、今後もお願いします。
-早くケガ直して前線に復帰してくださいよ。
-先輩だけが頼りなんですから。
+Please continue to do so.  Please heal your injury quickly and return to the
+front line.  I only rely on my seniors.
 --------------------------------
 [00000050][カイト,キリヤ,カイト]
-レイジ……お前、そんな情けない男だったのか？
-俺がいなくても大丈夫だ、くらいのことは
-言えないのかよ？
+Rage... were you that pathetic?  Can't you just say that you'll be fine without
+me?
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-あっ……す、すみません。
-先輩に頼りきってるって意味じゃなくて
-オレはただ励ますつもりで……。
+Ah...s-sorry.  It doesn't mean that I'm relying on my seniors. I'm just trying
+to encourage them...
 --------------------------------
 [00000052][カイト,キリヤ,カイト]
-どうやら、鍛え直す必要がありそうだな。
-まずはスクワット１０００回からだ。
-今すぐ始めろっ！
+Looks like I need to retrain.  Start with 1000 squats.  Start now!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-か、勘弁してくださいよーっ!!
+Please give me a break!!
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-今は充分休んで、早く傷を治してください。
-戦いはオレにまかせてくれれば
-全然大丈夫ですから！
+Please rest well now and heal your wounds quickly.  If you leave the fighting to
+me, I'll be fine!
 --------------------------------
 [00000055][カイト,キリヤ,カイト]
-ははは、頼もしい口をきくようになったな。
-だが、まだまだ安心はできない。
-早く復帰して戦列に加わりたいぜ。
+Hahaha, you've become a reliable speaker.  However, I still can't feel relieved.
+I want to return quickly and join the ranks.
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-先輩～。
-少しはオレのこと信用してくださいよ～。
+Senpai~.  Please trust me a little.
 --------------------------------
 [00000057][カイト,キリヤ,カイト]
-あははははっ。
-しっかり修行しろよ、レイジ。
+Ahahahahaha.  Train hard, Rage.
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-こ、この期に及んで修行ですか!?
-先輩、冗談きついですよ～。
+Hey, are you training for this period?! Senpai, you're a serious joke~.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000060][カイト,キリヤ,カイト]
-何だ、その沈黙は。
-お世辞が出てこなくなったか？
+What's that silence?  Have you stopped getting compliments?
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-と、とんでもないですよ！
-お世辞なんかじゃなくて、オレは本気で
-カイト先輩がすごいって……。
+That's outrageous!  I'm not trying to flatter you, I'm serious. I think
+Kaito-senpai is amazing...
 --------------------------------
 [00000062][カイト,キリヤ,カイト]
-お前の本心はよくわかったよ。
-残念だ。
-かわいい後輩だと思ってたのにな……。
+I understand your true feelings.  That's unfortunate.  I thought you were a cute
+junior...
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-カイト先輩……誤解ですよー！
+Kaito-senpai... it's a misunderstanding!
 --------------------------------
 [00000064][カイト,キリヤ,カイト]
-泣き言とは情けないな、レイジ。
-やはり鍛え直す必要がありそうだな。
-よし、俺が久々に稽古つけてやる！
+Whining is pathetic, Rage.  Looks like I need to retrain.  Alright, I'll
+practice for the first time in a while!
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-先輩……マジですか？
+Senpai... are you serious?
 --------------------------------
 [00000066][カイト,キリヤ,カイト]
-当たり前だ。
-俺はいつだって本気だ。
+Of course.  I'm always serious.
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-いや、だって先輩、怪我してるじゃないですか。
-稽古だなんて無理ですよ。
+No, because Senpai is injured.  It's impossible to just practice.
 --------------------------------
 [00000068][カイト,キリヤ,カイト]
-馬鹿にしてるのか、レイジ？
-たとえ傷を負っていようと、
-お前に稽古つけるくらいは……ぐっ!?
+Are you making fun of me, Rage?  Even if I'm injured, I'll still train with
+you... Argh!?
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-ああっ、ほら、無理するから……。
-怪我人はおとなしくしてて下さいよ。
+Ah, look, I'll overdo it...  Please keep the injured person quiet.
 --------------------------------
 [00000070][カイト,キリヤ,カイト]
-くっ……お前に気を遣われるとは情けない。
-早く怪我を治して、お前を叩きのめしてやりたいぜ。
+Damn...it's pathetic that you're paying attention to me.  I want to heal my
+injury quickly and beat the crap out of you.
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-先輩……目がマジっす。
+Senpai... your eyes are serious.
 --------------------------------
 [00000072][none]
-その調子で今後もお願いします
+Please continue to do so in the future.
 --------------------------------
 [00000073][none]
-後は充分休んでください
+Please get plenty of rest afterwards.
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-カイト先輩……。
+Kaito-senpai...
 --------------------------------
 [00000075][カイト,キリヤ,カイト]
-やあ、レイジ。
-この世界を救った英雄になった気分はどうだい？
+Hi, Rage.  How does it feel to be the hero who saved this world?
 --------------------------------
 [00000076][レイジ,レイジ,レイジ]
-先輩……やめてくださいよ、そんな言い方。
-なんかくすぐったいですよ。
+Senpai...please stop saying things like that.  It's kind of ticklish.
 --------------------------------
 [00000077][カイト,キリヤ,カイト]
-照れることはないだろう。
-お前がダークドラゴンを倒した英雄だってことは
-確かなんだからな。
+You won't be embarrassed.  I'm certain that you are the hero who defeated the
+Dark Dragon. I'm sure.
 --------------------------------
 [00000078][カイト,キリヤ,カイト]
-そんな大きなことを成し遂げるまでに
-成長したのか。
-最初に会った時はナマイキなガキだったのにな。
+Have you grown up enough to accomplish such a big thing?  When I first met you,
+you were a naive kid.
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-せ、先輩……。
-そんな昔のことは言わないでくださいよ。
+Well, Senpai...  Please don't talk about things from the past.
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-ナマイキってことはないでしょう。
-オレは先輩に逆らったことなんて
-一度もないじゃないですか。
+There's no such thing as a sluggish person.  I've never disobeyed my seniors,
+have I?
 --------------------------------
 [00000081][カイト,キリヤ,カイト]
-いいや、お前はナマイキだったよ。
-稽古の時はいつも、ろくに勝てもしないのに
-何度も俺に挑戦してきたじゃないか。
+No, you were a slut.  Every time we practice, you challenge me many times even
+though you can't even beat me.
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-それは……。
-カイト先輩だからですよ。
+That's...  Because he's Kaito-senpai.
 --------------------------------
 [00000083][カイト,キリヤ,カイト]
-ん？
+Huh?
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-カイト先輩は、オレの目標だったんです。
-いつか先輩を乗り越えてやろうって
-ずっとそう思ってて……。
+Kaito-senpai was my goal.  I've always thought that someday I'll be able to
+overcome my seniors...
 --------------------------------
 [00000085][カイト,キリヤ,カイト]
-レイジ、お前……。
+Rage, you...
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-先輩に稽古をつけてもらったのは
-一刻も早く先輩に追いついて
-先輩を倒したかったからです。
+The reason I asked my senior to train me was because I wanted to catch up with
+him and defeat him as soon as possible.
 --------------------------------
 [00000087][カイト,キリヤ,カイト]
-お前……。
-それ、思いっきりナマイキじゃないか。
+You...  Isn't that really lame?
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-え、ええっ!?
-そういう言い方はあんまりですよ先輩！
+Eh, yeah!? That's too much to say, Senpai!
 --------------------------------
 [00000089][カイト,キリヤ,カイト]
-はははっ。
-でも、そうか、お前がそんな風に思ってたとは
-知らなかったよ。
+Hahaha.  But yeah, I didn't know you thought that way. 
 --------------------------------
 [00000090][レイジ,レイジ,レイジ]
-だいたい、稽古の時以外は
-先輩に逆らえるはずないじゃないですか。
-先輩、アネキのお気に入りだったし。
+Generally speaking, you shouldn't be able to go against your seniors except
+during practice.  He was Aneki's favorite, Senpai.
 --------------------------------
 [00000091][カイト,キリヤ,カイト]
-あ……そ、そうだったっけ。
+Ah... I see.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-先輩に逆らったりしたら
-後でアネキに何されるか
-わかったもんじゃないですよ。
+If you go against your senior, you never know what Anneki will do to you later.
 --------------------------------
 [00000093][カイト,キリヤ,カイト]
-そ、そうか。
-そんなこともあったようななかったような
-……こほんこほんっ。
+I see.  It's like it never happened. ...Kohonkohon.
 --------------------------------
 [00000094][カイト,キリヤ,カイト]
-それはそうと、レイジ……。
-お前、目標は達成できたのか？
-俺を超えたっていう自信はあるか？
+By the way, Rage...  Did you achieve your goal?  Are you confident that you have
+surpassed me?
 --------------------------------
 [00000095][レイジ,レイジ,レイジ]
-はい、もちろんです。
-今のオレなら、カイト先輩に
-絶対負けない自信があります！
+Yes, of course.  I am confident that I will never lose to Kaito-senpai!
 --------------------------------
 [00000096][カイト,キリヤ,カイト]
-おう、頼もしいな。
-それでこそレイジだ！
+Oh, that's reliable.  That's what Rage is all about!
 --------------------------------
 [00000097][レイジ,レイジ,レイジ]
-ありがとうございます！
+Thank you!
 --------------------------------
 [00000098][カイト,キリヤ,カイト]
-俺のケガが治ったら、手合わせしてくれよ。
-ダークドラゴンを倒した男の実力、
-ぜひ拝見したいもんだ。
+Once my injury has healed, please help me.  I really want to see the skill of
+the man who defeated the Dark Dragon. 
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-はい、よろしくお願いします！
-そのためにも、一刻も早く
-ケガを治してください、カイト先輩！
+Yes, thank you!  For that reason, please heal your injury as soon as possible,
+Kaito-senpai!
 --------------------------------
 [00000100][カイト,キリヤ,カイト]
-ふふふっ。
-やっぱり、お前はナマイキな後輩だよ。
+Hehehe.  After all, you are a lazy junior.
 --------------------------------

@@ -2,655 +2,562 @@
 *****************
 [00000000][none]
 
-@lt1「ユニットの行動」について
+@lt1About "unit actions"
 --------------------------------
 [00000001][none]
-ミッションが始まると、上から見下ろした形で
-地形やユニットの位置が表示されます。
+When the mission begins,
+the terrain and unit positions are displayed in a top-down view. 
 #
-この画面を@fcFF008800「コマンドモード」@fciといいます。
+This screen is called @fcFF008800 "Command mode" @fci. 
 #
-コマンドモードでは
-行動させたいユニットの選択を行います。
+In command mode,
+select the unit you want to act on.
 --------------------------------
 [00000002][none]
-方向キーでカーソルを動かし
-@fcFFFF4640ユニットに合わせて○ボタン@fciを押してください。
+Use the arrow keys to move the cursor
+@fcFFFF4640 unit and press the ○ button @fci. 
 #
-まずは、動かしたいユニットを選んでみましょう。
+First, select the unit you want to move.
 --------------------------------
 [00000003][none]
-方向キーでカーソルを動かし
-@fcFFFF4640ユニットに合わせて×ボタン@fciを押してください。
+Use the arrow keys to move the cursor
+@fcFFFF4640 unit and press the × button @fci. 
 #
-では、動かしたいユニットを選んでみましょう。
+Now, let's select the unit we want to move.
 --------------------------------
 [00000004][none]
 
-@lt1「ＣＰ（コマンドポイント）」について
+@lt1About "CP (Command Point)"
 --------------------------------
 [00000005][none]
-コマンドモ・
+command mode
 --------------------------------
 [00000006][none]
 
-@lt1「フェイズ終了」について
+@lt1About "end of phase"
 --------------------------------
 [00000007][none]
-残りのＣＰが０になりました。
-やれることがなくなったので
-フェイズを終了しましょう。
+The remaining CP has become 0.  There's nothing left to do, so let's end the
+phase.
 --------------------------------
 [00000008][none]
-ＣＰがなくなると「フェイズを終了しますか・
+When CP runs out, "Do you want to end the phase?"
 --------------------------------
 [00000009][none]
-また、自軍のフェイズを終了すると
-次に敵のフェイズが開始されます。
-#
-敵フェイズでは敵の攻撃を受けることになります。
-敵の位置に注意してフェイズを終了しましょう。
+Also, when your army's phase ends the enemy's phase starts next.  # During the
+enemy phase, you will be attacked by the enemy.  Pay attention to the enemy's
+position and end the phase.
 --------------------------------
 [00000010][none]
 
-@lt1「ＣＰの活用」について
+@lt1About "Using CP"
 --------------------------------
 [00000011][none]
-敵の攻撃が終わり、自軍のフェイズとなりました。
-自軍のフェイズ開始時には@fcFF008800ＣＰが回復@fciします。
-ダメージを受けたユニットのＨＰも少し回復します。
+The enemy's attack has ended and it is your own phase. 
+At the start of your army's phase, @fcFF008800CP will be recovered @fci. 
+The HP of the damaged unit will also be slightly recovered. 
 #
-回復し
+Recovered
 --------------------------------
 [00000012][none]
-ただし、１フェイズに何度も同じユニットを
-行動させると、疲労してＡＰが減ってしまうので
-注意してください。
+However, if you use the same unit over and over again in one phase, it will
+become tired and its AP will decrease, so be careful.
 --------------------------------
 [00000013][none]
-また、フェイズ終了時にあまっていたＣＰは
-次のフェイズに持ちこされます。
-#
-ＣＰの使い方で戦闘の流れは大きく変わります。
-有効に活用して、部隊を勝利に導きましょう。
+Also, any remaining CP at the end of the phase will be carried over to the next
+phase.  # How you use CP will greatly change the flow of the battle.  Use it
+effectively and lead your troops to victory.
 --------------------------------
 [00000014][none]
 
-@lt1「拠点」について
+@lt1About "base"
 --------------------------------
 [00000015][none]
-このミッションでは戦闘の足がかりとなる
-@fcFF008800「拠点」@fciが登場します。
+In this mission, a 
+@fcFF008800 ``base'' @fci will appear, which will serve as a foothold for battle.
 --------------------------------
 [00000016][none]
-自軍が占拠した拠点では
-ユニットの増援・待機が行えます。
-#
-さらに、周囲の味方の防御力・ＨＰの回復量を
-上昇させる拠点ボーナスを受けることができます。
-#
-敵の拠点を奪って戦闘を有利に進めましょう。
+Units can be reinforced and on standby at bases occupied by your army.  # In
+addition, you can receive a base bonus that increases the defense power and HP
+recovery amount of surrounding allies.   # Capture enemy bases to gain an
+advantage in battle.
 --------------------------------
 [00000017][none]
-まずは、このエリアの
-下側にある敵の拠点を目指してください。
+First, aim for the enemy's base at the bottom of this area.
 --------------------------------
 [00000018][none]
 
-@lt1「増援出撃とエリア移動」について
+@lt1About "reinforcement sortie and area movement"
 --------------------------------
 [00000019][none]
-後方待機はできましたか？
-#
-次に、ユニットをとなりのエリアに
-出撃させる方法を説明します。
-#
-少し長いですが、大切なことなので
-しっかりと覚えてください。
+Were you able to wait at the back?  # Next, we will explain how to dispatch
+units to the adjacent area .  # It's a little long, but it's important. Please
+remember it carefully.
 --------------------------------
 [00000020][none]
-先ほどエリア２の連絡拠点を占拠したことで
-エリア２とつながっているエリア１の連絡拠点も
-自動的に自軍の拠点となっています。
-#
-エリア１の連絡拠点から@fcFF008800「増援出撃」@fciさせることで
-エリア１に攻め込むことができます。
+By occ
 --------------------------------
 [00000021][none]
-まずはコマンドモードで@fcFFFF4640エリアを切り替えて@fci
-エリア１を表示します。
+First, switch the @fcFFFF4640 area in command mode to display @fci
+area 1.
 --------------------------------
 [00000022][none]
-エリアを切替えるには@fcFFFF4640ＬまたはＲボタン@fciを押すか、
-マップ上のエリア切替アイコンにカーソルを
-合わせて@fcFFFF4640○ボタン@fciを押してください。
+To switch areas, press @fcFFFF4640L or R button @fci, or
+move the cursor to the area switching icon on the map and press @fcFFFF4640○ button @fci.
 --------------------------------
 [00000023][none]
-切り替えたら、占拠した自軍の連絡拠点アイコンに
-カーソルを合わせてください。
+Once switched, hover the cursor over the occupied contact base icon.
 --------------------------------
 [00000024][none]
-拠点に合わせて@fcFFFF4640○ボタン@fciを押すと
-リザーブメンバーの一覧が表示されます。
-#
-一覧の中から@fcFFFF4640出撃させたいユニットを
-選択@fciしてください。
-#
-これで選択したユニットがエリア１の連絡拠点から
-行動を開始します。
+Pre
 --------------------------------
 [00000025][none]
-まとめると、覚えることは次の２つだけです。
+In summary, there are only two things to remember
 #
-「@fcFFFF4640Ｌボタン、Ｒボタン
-　もしくはマップからエリア切り替え@fci」
-「@fcFFFF4640拠点に合わせて○ボタンで増援出撃@fci」
+"@fcFFFF4640L button, R button
+or switch area from the map@fci"
+"@fcFFFF4640Press ○ button according to the base to dispatch reinforcements@fci"
 --------------------------------
 [00000026][none]
-このミッションは、エリア１にある
-敵軍の@fcFF008800「本拠点」@fciを占拠することで
-勝利となります。
+This mission is won by occupying the enemy's @fcFF008800 "main base" @fci in Area 1. 
 #
-本拠点も連絡拠点と占拠の方法は同じですので
-敵の本拠点を目指してがんばってください。
+The method of occupying the main base is the same as the communication base, so please do your best to aim for the enemy's main base.
 --------------------------------
 [00000027][none]
 
-@lt1「モラル」について
+@lt1About "morals"
 --------------------------------
 [00000028][none]
-画面左上に表示されている@fcFF008800「モラル」@fciは
-部隊全体の士気を表しています。
+@fcFF008800 "Moral" @fci displayed at the top left of the screen represents the morale of the entire unit. 
 #
-モラルは敵を倒したり、拠点を占拠したりすると
-上昇し、味方が倒されたりすると下降します。
+Morale increases when you defeat an enemy or capture a base.
+It decreases when an ally is defeated.
 --------------------------------
 [00000029][none]
-モラルが高くなっている間は、味方ユニットの
-@fcFFFF4640良いポテンシャルの発動率が上昇@fciします。
+While morale is high, the activation rate of friendly units
+@fcFFFF4640good potential increases@fci. 
 #
-ポテンシャルは有利に働くものが多いので
-モラルはなるべく高い状態で維持しましょう。
+Since many potentials work in your favor,
+try to keep your morale as high as possible.
 --------------------------------
 [00000030][none]
-なお、モラルが０になってしまうと
-部隊が戦闘を続けるのは難しいと判断されて
-@fcFFFF4640ミッション失敗@fciになるので気をつけてください。
+Please be careful, if the morale reaches 0, it will be difficult for the unit to
+continue fighting, and the mission will fail.
 --------------------------------
 [00000031][none]
 
-@lt1「強制退避」について
+@lt1About "forced evacuation"
 --------------------------------
 [00000032][none]
-ミッション中、同時に出撃させることのできる
-ユニットの数には制限があります。
-#
-・１つのエリアに・
+There is a limit to the number of units that can be dispatched at the same time
+during a mission.  # ・In one area・
 --------------------------------
 [00000033][none]
-コマンドモードでユニットにカーソルを合わせて
-@fcFFFF4640△ボタン@fciを押すと「強制退避」と表示されます。
+If you place the cursor on the unit in command mode and press
+@fcFFFF4640△ button @fci, "Forced evacuation" will be displayed.
 --------------------------------
 [00000034][none]
-その状態で@fcFFFF4640○ボタン@fciを押すと
-ユニットをすぐにリザーブにもどして
-待機状態にすることができます。
-#
-強制退避は拠点を利用せずに
-ユニットを後方待機させることができますが
-ＣＰを消費しますので注意してください。
+If you
 --------------------------------
 [00000035][none]
-また、同じ操作を瀕死ユニットに対して行うことで
-ＣＰを消費して瀕死ユニットを強制撤退させる
-こともできます。
-#
-ただし、強制撤退させる場合は強制退避より
-多くのＣＰが必要となりますので注意してください。
+Also, by performing the same operation on a dying unit, you can spend CP and
+force the dying unit to retreat .  # However, please note that forced retreat
+requires more CP than forced evacuation.
 --------------------------------
 [00000036][none]
-ちなみに、拠点の範囲内にいるユニットは
-ＣＰを使わずに強制退避させることができます。
-便利なので覚えておきましょう。
-#
-強制退避を使えば、あまったユニットを戻して
-前線に新しいユニットを次々と送り込めます。
-活用してみてください。 
+By the way, units within range of the base can be forcibly evacuated without
+using CP.  Please remember this as it is convenient.  # Using forced evacuation,
+you can bring back surplus units and send new units to the front line.  Please
+take advantage of it.
 --------------------------------
 [00000037][none]
 
-@lt1「車両ユニット」について
+@lt1About "vehicle unit"
 --------------------------------
 [00000038][none]
-車両ユニットは、歩兵ユニットに比べて
-非常に高い攻撃力と防御力を持っています。
+Vehicle units have much higher attack and defense power than infantry units. 
 #
-特に防御力は、@fcFFFF4640マシンガンなどの対人武器の攻撃を
-受け付けない@fciほどの堅・
+In particular, the defense power is as strong as @fci, which cannot withstand attacks from anti-personnel weapons such as @fcFFFF4640 machine guns.
 --------------------------------
 [00000039][none]
 
-@lt1「キャリー」について
+@lt1About "Carry"
 --------------------------------
 [00000040][none]
-装甲車タイプの車両ユニットに限り
-歩兵を乗せて移動する@fcFF008800「キャリー」@fciという
-アクションが使用できます。
+Only armored car type vehicle units can use the action @fcFF008800 "Carry" @fci to move while carrying infantry. 
 #
-キャリーはアクションモードとコマンドモードの
-両方から行う事ができます。
+Carry can be performed from both action mode and command mode.
+
 --------------------------------
 [00000041][none]
-アクションモードでは、@fcFFFF4640歩兵を車両に隣接させ@fci
-「キャリー」と表示されている状態で
-@fcFFFF4640○ボタン@fciを押してください。
+In action mode, place @fcFFFF4640 infantry adjacent to the vehicle @fci
+With "Carry" displayed, press
+@fcFFFF4640○ button @fci.
 --------------------------------
 [00000042][none]
-逆に、車両を歩兵に隣接させることで
-キャリーを行うことも可能です。
+Conversely, it is also possible to carry by placing a vehicle adjacent to
+infantry.
 --------------------------------
 [00000043][none]
-コマンドモードでは、車両の近くにいるユニットに
-カーソルを合わせて@fcFFFF4640△ボタン@fciを押し
-「キャリー」コマンドを選択してください。
+In command mode,
+hover the cursor on the unit near the vehicle and press the @fcFFFF4640△△ button @fci
+select the "Carry" command.
 --------------------------------
 [00000044][none]
-反対にキャリー中のユニットを出撃させるときは
-車両にカーソルを合わせて@fcFFFF4640△ボタン@fciを押し
-「歩兵出撃」を選択してください。
+On the other hand, if you want to dispatch a carried unit,
+Move the cursor to the vehicle and press the @fcFFFF4640△△ button @fci
+Select "Infantry Deployment".
 --------------------------------
 [00000045][none]
-キャリーを利用すれば、複数の歩兵の移動が
-少ないＣＰで一度に済ませられる上に
-車両の中にいる歩兵は迎撃のダメージも受けません。
+If you use a carry, you can move multiple infantry at once
+with less CP,
+and the infantry inside the vehicle will not receive damage from interception. 
 #
-ただし、キャリー中の車両が破壊されると
-中の歩兵は@fcFFFF4640全員撤退@fciしてしまいます。
+However, if the carrying vehicle is destroyed,
+all infantry inside will @fcFFFF4640withdraw@fci. 
 #
-車両の残りＨＰには気をつけてください。
+Please be careful about the remaining HP of the vehicle.
 --------------------------------
 [00000046][none]
 
-@lt1「車両の弱点」について
+@lt1About "Vehicle Weaknesses"
 --------------------------------
 [00000047][none]
-車両は非常に高い防御力を持つユニットですが
-唯一、車体の背面にある放熱板が
+The vehicle is a unit with very high defense power, but
+the only thing is the heat sink on the back of the car body.
 @fcFFF
 --------------------------------
 [00000048][none]
 
-@lt1「車両のＨＰ回復」について
+@lt1About “vehicle HP recovery”
 --------------------------------
 [00000049][none]
-車両ユニットは歩兵と違い、ターン経過に・
+Vehicle units, unlike infantry,
 --------------------------------
 [00000050][none]
 
-@lt1「エリア効果」について
+@lt1About "area effect"
 --------------------------------
 [00000051][none]
-戦場となるマップの中には
-@fcFF008800「エリア効果」@fciを発生させるものがあります。
+Some battlefield maps generate
+@fcFF008800 "area effects" @fci. 
 #
-エリア効果とは、エリアに出撃しているユニットに
-特殊な影響を与える効果のことです。
+An area effect is an effect that has a special impact
+on units deployed in an area.
 --------------------------------
 [00000052][none]
-例えば、夜間のミッションでは
-@fcFF008800「夜」@fciというエリア効果が発生しています。
+For example, in night missions, there is an area effect called
+@fcFF008800"Night"@fci.
 --------------------------------
 [00000053][none]
-エリア効果が発生しているエリアは
-ミッションマップの上にエリア効果を示す
-アイコンが表示されますので確認してください。
+In areas where area effects are occurring, an icon indicating the area effect
+will be displayed on the mission map, so please check it.
 --------------------------------
 [00000054][none]
-またこれらのマップ効果は
-戦車の装備などによって無効化することができます。
-#
-調達屋でそのようなパーツを
-購入してみるのも良いでしょう。
+These map effects can also be negated by equipping the tank.  # You may also try
+purchasing such parts at a purchasing store.
 --------------------------------
 [00000055][none]
 
-@lt1「車両護衛戦」について
+@lt1About “Vehicle Escort Battle”
 --------------------------------
 [00000056][none]
-@fcFF008800「車両護衛戦」@fciでは、味方として登場する装甲車を
-目
+@fcFF008800 In "Vehicle Escort Battle" @fci, the armored vehicles that appear as allies are
 --------------------------------
 [00000057][none]
-エリア間を移動するときは、アクションモードで
-@fcFFFF4640装甲車を連絡拠点に近づけて、「エリア移動」と
-表示されている状態で○ボタン@fciを押してください。
+To move between areas, bring
+@fcFFFF4640 armored vehicle close to the contact base in action mode, and press the ○ button@fci when ``Area Move'' is displayed
+. 
 #
-連絡拠点に対応する反対側のエリアに
-装甲車が移動して、その場で行動を終了します。
+The armored vehicle will move to the opposite area corresponding to the contact point and end the action on the spot. 
 #
-もちろん、@fcFFFF4640装甲車が破壊@fciされてしまうと
-このミッションは失敗・終了となります。
+Of course, if @fcFFFF4640 armored vehicle is destroyed @fci, this mission will fail and end. 
 #
-危険な敵の特殊部隊をうまくかわしながら
-装甲車を目標地点まで運んでください。
+Take your armored vehicle to the target location while avoiding dangerous enemy special forces.
 --------------------------------
 [00000058][none]
 
-@lt1「エリア効果・霧」について
+@lt1About "Area Effect/Fog"
 --------------------------------
 [00000059][none]
-森や山岳のミッ・
+Forests and mountains
 --------------------------------
 [00000060][none]
 
-@lt1「戦略増援」について
+@lt1About "Strategic Reinforcements"
 --------------------------------
 [00000061][none]
-ミッション中に敵ユニットが拠点以外の場所から
-増援出撃することがあ
+Enemy units may spawn reinforcements from locations other than the base during
+the mission.
 --------------------------------
 [00000062][none]
 
-@lt1「エリア効果・雪」について
+@lt1About "area effect/snow"
 --------------------------------
 [00000063][none]
-雪山では
-エリア効果@fcFF008800「雪
+In snowy mountains
+Area effect @fcFF008800 "Snow
 --------------------------------
 [00000064][none]
 
-@lt1「ダハウ」について
+@lt1About “Dahau”
 --------------------------------
 [00000065][none]
-ダハウは
-「対戦車兵」と「機関銃兵」の
-2つの兵種の特徴を持つ特殊なユニットです。
-#
-敵フェイズでは強力な対戦車槍を持つ対戦車兵、
-味方フェイズでは射程距離の長い機関銃を持つ
-機関銃兵となります。
-#
-ダハウの攻撃をかいくぐって
-敵拠点を占拠してください。
+The Dachau is a special unit that has the characteristics of two
+types``Anti-tank soldier'' and ``Machine gun soldier.''  # In the enemy phase,
+you will be an anti-tank soldier with a powerful anti-tank spear. In the
+friendly phase, you will be a machine gunner with a long-range machine gun.  #
+Escape Dachau's attacks and capture the enemy base.
 --------------------------------
 [00000066][none]
 
-@lt1「サーチライト」について
+@lt1About "Searchlight"
 --------------------------------
 [00000067][none]
-ここ廃墟には、これまでに登場したことのない
-特殊な仕掛けがいくつか存在します。
+Here in the ruins, there are some special devices that have never appeared
+before.
 --------------------------------
 [00000068][none]
-１つめは監視用の@fcFF008800「サーチライト」@fciです。
+The first one is @fcFF008800 "searchlight" @fci for monitoring. 
 #
-これに見つかると
-その周辺に向けて榴弾砲が発射されます。
+If spotted,
+a howitzer will be fired in the area. 
 #
-ライトの軌道をしっかり確認しながら移動して
-見つからないように気をつけましょう。
+Be sure to check the trajectory of the light as you move
+Be careful not to be spotted.
 --------------------------------
 [00000069][none]
 
-@lt1「スイッチ扉」について
+@lt1About "switch door"
 --------------------------------
 [00000070][none]
-２つめは@fcFF008800「スイッチ扉」@fciです。これは部隊の進行を
-妨げるために閉鎖されている建物などの扉です。
-扉の場所はコマンドモードに記されています。
+The second one is @fcFF008800 "Switch door" @fci. This is a door in a building that is closed to prevent the progress of troops. 
+The location of the door is marked in the command mode.
 --------------------------------
 [00000071][none]
-扉は離れた場所に設置されている@fcFFFF4640スイッチ@fciを
-押せば開くことができます。スイッチの位置も
-コマンドモードに記されています。
+The door can be opened by pressing the @fcFFFF4640 switch @fci located far away. The position of the switch is also
+noted in the command mode. 
 #
-進みたいルート上に扉がある場合は
-まずはコマンドモードでスイッチの位置を探して
-ユニットを向かわせましょう。
+If there is a door on the route you want to take,
+first find the position of the switch in command mode and direct the unit.
 --------------------------------
 [00000072][none]
 
-@lt1「榴弾攻撃」について
+@lt1About "High-Explosive Bomb Attack"
 --------------------------------
 [00000073][none]
-このミッションでは、敵砲撃陣地から
-@fcFFFF4640特定の範囲内に榴弾攻撃@fciが行われます。
+In this mission, a HE shell attack @fci will be carried out within a certain range
+@fcFFFF4640 from the enemy's artillery position.
 --------------------------------
 [00000074][none]
-榴弾攻撃の予告が行われたら
-すぐに対象範囲内の歩兵を待避させましょう。
+When a high-explosive shell attack is announced, immediately evacuate infantry
+within the targeted area.
 --------------------------------
 [00000075][none]
-屋内、あるいは塹壕があるマップでは
-@fcFFFF4640それらの地形に隠れる事で
-榴弾攻撃を回避する@fciことができます。
+In maps with indoors or trenches
+@fcFFFF4640 you can evade grenades by hiding in those terrain.
 --------------------------------
 [00000076][none]
-また、榴弾攻撃は@fcFFFF4640砲撃陣地攻略ミッションを
-クリア@fciすることで止めることができます。
+Also, the grenade attack can be stopped by clearing the @fcFFFF4640 artillery position capture mission. 
 #
-榴弾攻撃をうまくかわしつつ
-敵を撃破しましょう。
+Defeat your enemies while dodging grenades.
 --------------------------------
 [00000077][none]
 
-@lt1「トロッコ」について
+@lt1About "Trolley"
 --------------------------------
 [00000078][none]
-水道橋には、運搬用の@fcFF008800「トロッコ」@fciと
-線路が設置されており
-エリア間の移動に利用できます。
+The aqueduct has a @fcFF008800 "trolley" @fci for transportation and
+tracks that can be used to move between areas.
 --------------------------------
 [00000079][none]
-アクションモード中にトロッコに近づいて
-「乗る」と表示されている状態で@fcFFFF4640○ボタン@fciを押すと
-線・
+In action mode, if you approach the minecart
+ and press the @fcFFFF4640○ button @fci while the message "Ride" is displayed,
+the line/
 --------------------------------
 [00000080][none]
 
-@lt1「ＳＰ（スペシャルポイント）」について
+@lt1About “SP (Special Points)”
 --------------------------------
 [00000081][none]
-ユニットの@fcFF008800特殊化@fciが使用可能になりました。
-特殊化の使用には
+@fcFF008800 specialization @fci of the unit is now available. 
+For the use of specialization
 @fcFF008800・
 --------------------------------
 [00000082][none]
 
-@lt1「直接指揮」について
+@lt1About "direct command"
 --------------------------------
 [00000083][none]
-クルトの特殊化@fcFF008800「直接指揮」@fciが
-使用可能になりました。
+Kurt's specialization @fcFF008800 "Direct Command" @fci is now available. 
 #
-クルトは「直接指揮」を行うことにより
-@fcFFFF4640最大２名の歩兵を連れて行動@fciすることができます。
+Kurt can take action@fci with up to 2 infantrymen by using ``direct command.''
+@fcFFFF4640. 
 #
-直接指揮中の歩兵は残りAPに関係なく
-クルトと共に移動し、迎撃ダメージを受けません。
+Infantry under direct command will move with Kurt regardless of remaining AP and will not receive interception damage.
 --------------------------------
 [00000084][none]
-また、クルトが攻撃を行う際には
-@fcFFFF4640クルトと同じユニットを狙って同時に攻撃@fciします。
-技甲兵と剣甲兵の場合は同時攻撃を行いません。
+Also, when Kurt attacks,
+@fcFFFF4640Aim at the same unit as Kurt and attack @fci at the same time. 
+In the case of armored soldiers and armored soldiers, they will not attack at the same time.
 --------------------------------
 [00000085][none]
-では、直接指揮の使用方法を説明します。
-コマンドモードでクルトにカーソルを合わせて
-@fcFFFF4640△ボタン@fciを押すと「直接指揮」と表示されます。
+Now we'll show you how to use direct command. 
+Move the cursor to Kurt in command mode and press the
+@fcFFFF4640△ button@fci and ``Direct Command'' will be displayed.
 --------------------------------
 [00000086][none]
-その状態で@fcFFFF4640○ボタン@fciを押すと
-コープ可能な状態でクルトが行動開始します。
+In that state, if you press the @fcFFFF4640○ button @fci,
+Kurt will start acting with the ability to coop.
 --------------------------------
 [00000087][none]
-アクションモード中に、クルトを歩兵に隣接させ
-@fcFF008800「コープ」@fciと表示されている状態で
-@fcFFFF4640○ボタン@fciを押してください。
+In action mode, place Kurt adjacent to the infantry
+@fcFF008800with "Coop"@fci displayed and press
+@fcFFFF4640○ button@fci.
 --------------------------------
 [00000088][none]
-直接指揮を解除するには
-@fcFF008800「コープ解除」@fciと表示されている状態で
-@fcFFFF4640○ボタン@fciを押してください。
+To cancel direct command
+@fcFF008800Press the ○ button @fci while ``Remove Coop'' @fci is displayed. 
 #
-直接指揮を利用すれば、複数の歩兵の移動が
-少ないＣＰで一度に済ませられる上に
-同時攻撃によって敵の撃破が容易になります。
+Using direct command, you can move multiple infantry at once with
+less CP, and it is easier to defeat the enemy by attacking simultaneously.
+
 --------------------------------
 [00000089][none]
-なお、直接指揮の使用にはCPとは別に
+In addition to CP,
 @fcFF008800・
 --------------------------------
 [00000090][none]
 
-@lt1「ヴァルキュリア」について
+@lt1About "Valkyria"
 --------------------------------
 [00000091][none]
-リエラの特殊化@fcFF008800「ヴァルキュリア」@fciが
-使用可能になりました。
+Riela's specialization @fcFF008800 "Valkyria" @fci is now available
+. 
 #
-リエラは特殊化することにより
-ヴァルキュリアとして
-行動することができます。
+By specializing, Riera can
+act as a Valkyrie. 
 #
-ヴァルキュリアは絶大な攻撃力を持つ槍と、
-敵の攻撃を受け付けない盾を持つ
-強力なユニットです。
+Valkyria is a powerful unit with a spear that has tremendous attack power and a shield that blocks enemy attacks.
 --------------------------------
 [00000092][none]
-ヴァルキュリアを使用するには
-コマンドモードでリエラにカーソルを合わせて
-@fcFFFF4640△ボタン@fciを押します。
+To use Valkyria
+Press the cursor on Riela in command mode
+@fcFFFF4640△ button @fci.
 --------------------------------
 [00000093][none]
-「ヴァルキュリア」と表示されますので
-その状態で@fcFFFF4640○ボタン@fciを押すと
-ヴァルキュリアとなったリエラが行動開始します。
+"Valkyria" will be displayed.
+If you press the @fcFFFF4640○ button @fci in that state
+Riera, who has become a Valkyrie, will start acting. 
 #
-ヴァルキュリアの使用には@fcFFFF4640SPとCPを１つずつ
-消費@fciします。使用するタイミングに注意しつつ
-有効に活用しましょう。
+To use Valkyria, @fcFFFF4640SP and CP are consumed @fci. Take advantage of it by being careful when to use it.
+Use it effectively.
 --------------------------------
 [00000094][none]
 
-@lt1「武装開放」について
+@lt1About "Open Arms"
 --------------------------------
 [00000095][none]
-イムカの特殊化@fcFF008800「武装開放」@fciが
-使用可能になりました。
+Imka's specialization @fcFF008800 "Armed release" @fci is now available. 
 #
-イムカは「武装開放」を使用することにより
-一度に複数の敵ユニットを
-攻撃することができます。
+Imka can attack multiple enemy units at once
+by using ``Disarm''.
 --------------------------------
 [00000096][none]
-武装開放を使用した状態でターゲットモードに
-入ると、範囲内の全敵ユニットをロックオンし、
-攻撃します。
+Entering target mode with open arms enabled will lock onto and attack all enemy
+units within range.
 --------------------------------
 [00000097][none]
-武装開放を使用するには
-コマンドモードでイムカにカーソルを合わせて
-@fcFFFF4640△ボタン@fciを押します。
+To use Unarmed,
+Press the cursor on Imka in command mode
+@fcFFFF4640△ button @fci.
 --------------------------------
 [00000098][none]
-「武装開放」と表示されますので
-その状態で@fcFFFF4640○ボタン@fciを押すと
-武装開放したイムカが行動開始します。
+"Disarmed" will be displayed.
+If you press the @fcFFFF4640○ button @fci in that state,
+Imuka with its arms disarmed will start taking action. 
 #
-武装開放の使用には@fcFFFF4640SPとCPを１つずつ
-消費@fciします。使用するタイミングに注意しつつ
-有効に活用しましょう。
+Using open arms requires 1 @fcFFFF4640SP and 1 CP.
+Consumes @fci. Take advantage of it by being careful when to use it.
+Use it effectively.
 --------------------------------
 [00000099][none]
 
-@lt1「特別目標物の撃破」について
+@lt1About "Defeating special targets"
 --------------------------------
 [00000100][none]
-このミッションでは@fcFFFF4640敵の輸送コンテナを破壊@fci
-することが勝利条件となります。
+The victory condition for this mission is to destroy @fcFFFF4640 the enemy's shipping container. 
 #
-輸送コンテナは
-戦車並みの防御力を持っています。
-そのため、一部の攻撃は通用しません。
+Shipping containers have
+the same defense power as tanks. 
+As a result, some attacks will not work.
 --------------------------------
 [00000101][none]
-しかし、@fcFFFF4640技甲兵の軍用レンチ@fciであれば
-大ダメージを与えることができます。
+However, @fcFFFF4640 Technical Armor's military wrench @fci can do a lot of damage
+. 
 #
-以上のことに注意して
-輸送コンテナを破壊してください。
+Be careful and destroy the shipping container.
 --------------------------------
 [00000102][none]
 
-@lt1「特別目標物の防衛」について
+@lt1About "Defense of Special Targets"
 --------------------------------
 [00000103][none]
-このミッションでは@fcFFFF4640ランドグリーズ城門を防衛@fci
-することが勝利条件となります。
+In this mission, the victory condition is to defend @fcFFFF4640 Landgris Castle Gate. 
 #
-ランドグリーズ城門は
-対戦車槍や戦車の砲撃でダメージを受けます。
+Landgriz castle gates can be damaged by
+anti-tank spears and tank fire. 
 #
-ダメージを受けた場合は、
-@fcFFFF4640支援兵のスパナ@fciで修復することが出来ます。
+If you receive damage, you can repair it with
+@fcFFFF4640 support soldier's spanner @fci.
 --------------------------------
 [00000104][none]
-ミッションによっては門だけではなく、
-輸送コンテナを防衛することもあります。
+Depending on the mission, you may not only have to defend a gate, but also a
+shipping container.
 --------------------------------
 [00000105][none]
-門を攻撃する敵を優先的に撃破し、
-目標物を規定ターン防衛してください。
+Prioritize defeating the enemies attacking the gate and defend the target for
+the specified number of turns.
 --------------------------------
 [00000106][none]
 
-@lt1「スイッチ式跳ね橋」について
+@lt1About "switch type drawbridge"
 --------------------------------
 [00000107][none]
-水上都市では
-跳ね橋が上がっていて通れないエリアがあります。
+In the floating city, there are some areas where the drawbridge is raised and
+cannot be passed.
 --------------------------------
 [00000108][none]
-跳ね橋は離れた場所に設置されているスイッチを
-押せば操作することができます。スイッチの位置も
-コマンドモードに記されています。
+The drawbridge can be operated by pressing a switch placed in a remote location.
+The position of the switch is also noted in the command mode.
 --------------------------------
 [00000109][none]
-また、このミッションでは
-エリア５に巨大跳ね橋のスイッチが設置されており
-これを起動させることが勝利条件となります。
+Also, in this mission A huge drawbridge switch is installed in Area 5 The
+victory condition is to activate it.
 --------------------------------
 [00000110][none]
-まずはコマンドモードでスイッチの位置を探して
-ユニットを向かわせましょう。
+First, find the location of the switch in command mode and direct the unit.
 --------------------------------
 [00000111][none]
 
-@lt1「エリア効果・有毒ガス」について
+@lt1About "area effect/toxic gas"
 --------------------------------
 [00000112][none]
-ナジアル平原では
-エリア効果「有毒ガス」が発生します。
+The area effect "Toxic Gas" occurs in Nazial Plains. 
 #
-有毒ガスが発生しているエリアでは
-アクションモード中の歩兵は何もしなくても
-@fcFFFF4640徐々にHPが減少@fciしてしまいます。
+In areas where toxic gas is generated
+If infantry in action mode does nothing,
+@fcFFFF4640 their HP will gradually decrease@fci. 
 #
-アクションモード中は
-残りHPに注意し、素早く行動してください。
+While in action mode,
+be careful of your remaining HP and act quickly.
 --------------------------------
 [00000113][none]
 
-@lt1「エヒドナ主砲」について
+@lt1About "Echidna main gun"
 --------------------------------
 [00000114][none]
-このミッションでは、エリア全域に対して
-エヒドナの強力な主砲が発射されます。
-#
-主砲攻撃は物陰に隠れれば
-回避することができます
-#
-ユニットを移動させる際は
-物陰で行動終了するようにしましょう。
+In this mission, Echidna's powerful main cannon will fire across the entire
+area.  # Main gun attacks can be avoided by hiding behind cover. # When moving
+units, make sure to end the action behind cover.
 --------------------------------

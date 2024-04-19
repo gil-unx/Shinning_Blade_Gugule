@@ -1,587 +1,440 @@
 [0142]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　ナジアル南部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Conquest year 1935 Southern Nazial
 --------------------------------
 [00000001][none]
-ういっく！　ああ……
+Okay! ah……
 --------------------------------
 [00000002][none]
-ネームレスはあ
-気楽な稼業と
-きたもんよ、っと！
+Nameless is just an easy job!
 --------------------------------
 [00000003][none]
-何が気楽だよ
-明日から最前線の
-偵察に行くってのに！
+What's so easy about it I'm going on a front-line reconnaissance mission
+tomorrow!
 --------------------------------
 [00000004][none]
-ザハールのおっさん
-今日もご機嫌だねえ
+Zahar's old man  You're in a good mood today too.
 --------------------------------
 [00000005][none]
-おう、ご機嫌だよ……っと！
-お？
+Oh, I'm in a good mood...!  Oh?
 --------------------------------
 [00000006][none]
-何だよ、もったいねえ
-おい小僧！
-ワシの酒どこやった？
+What, what a waste Hey kid!  Where did I get my sake?
 --------------------------------
 [00000007][none]
-自分で割ったんじゃないか
-そのくらいにしときなよ
-ちょっと呑みすぎだ
+I think you broke it yourself. Just do that. You drank a little too much.
 --------------------------------
 [00000008][none]
-何が呑みすぎだ
-将軍様に向かって
-どういう口の聞き方だ
+Why are you drinking too much?  Toward the General  What kind of way do you ask?
 --------------------------------
 [00000009][none]
-はいはい、将軍様
-もうお休みになる
-お時間ですよ
+Yes, yes, General.  I'm going to take a break now.  It's time.
 --------------------------------
 [00000010][none]
-おお、そうか？
-そうか……ぐぅ
+Oh, really?  I see... ugh
 --------------------------------
 [00000011][none]
-こんな調子で
-明日の作戦大丈夫かよ……
+Like this Tomorrow's strategy Are you okay...
 --------------------------------
 [00000012][none]
-元傭兵で
-腕は確かなんですけどね
+He's a former mercenary, but he's definitely skilled.
 --------------------------------
 [00000013][none]
-お酒絡みの騒動で
-ネームレスに送られたとか
+Sent to Nameless due to a disturbance involving alcohol.
 --------------------------------
 [00000014][none]
-呑んで呑まれて
-ネームレス送りってわけか
-しょうがねえなあ
+It can't be helped if it's swallowed and swallowed. It's sent without a name.
 --------------------------------
 [00000015][none]
-ここで寝たら体こわすぞ
-……部屋まで運ぶか
+You'll break your body if you sleep here ...I'll carry you to your room.
 --------------------------------
 [00000016][none]
-手伝いますよ
+I'll help you
 --------------------------------
 [00000017][none]
-よし、持ち上げるぞ
+Okay, I'll lift it up.
 --------------------------------
 [00000018][none]
-フィラルド万歳！
+Long live Filardo!
 --------------------------------
 [00000019][none]
-うおっ!?
+Wow!?
 --------------------------------
 [00000020][none]
-びっくりした
-……寝言か？
+I was surprised.  ...Are you talking in your sleep?
 --------------------------------
 [00000021][none]
-……ぐぅ
+...Guh
 --------------------------------
 [00000022][none]
-フィラルドって
-第一次大戦で
-帝国に滅ぼされた国だよな
+Filardo is a country that was destroyed by the Empire in World War I.
 --------------------------------
 [00000023][none]
-ザハールさんは
-フィラルド王国
-出身だそうです
+Mr. Zahar  It is said that he is from the Kingdom of Filardo. 
 --------------------------------
 [00000024][none]
-ぐぅ……がぁ
+Guuu...gaa
 --------------------------------
 [00000025][none]
-幸せそうな顔だな
-滅んだ国の夢でも
-見てるのかな……？
+You look happy.  I wonder if I'm even dreaming of a destroyed country ...?
 --------------------------------
 [00000026][none]
-小休止の後
-偵察任務を開始する
+after a short break  Start reconnaissance mission
 --------------------------------
 [00000027][none]
-各員、準備を怠るな
+Everyone, don't neglect your preparations.
 --------------------------------
 [00000028][none]
-クルトめ……
-大声だしやがって
-頭がキンキンするぜ
+Kurt...  It was loud and eventually  My head is pounding.
 --------------------------------
 [00000029][none]
-大声だったか？
-別にいつもと同じだろ
+Was it loud?  It's the same as usual.
 --------------------------------
 [00000030][none]
-うるせえ小僧！
-だから大声出すなって！
+Noisy kid!  That's why I told you not to shout!
 --------------------------------
 [00000031][none]
-まだ酒が抜けてないな
+I haven't stopped drinking yet.
 --------------------------------
 [00000032][none]
-バカ言え！
-まだ足りねえよ
+Be stupid!  It's still not enough
 --------------------------------
 [00000033][none]
-そんなになるまで
-呑むなよな……
+Until that happens  Don't drink...
 --------------------------------
 [00000034][none]
-それより聞いたか？
-南部方面の指揮官
-イェーガーの話
+Did you hear more?  Commander of the Southern Area Story of Jaeger
 --------------------------------
 [00000035][none]
-あの猛将イェーガーか
-実戦好きで最前線に
-出ることもあるらしいな
+That fierce general, Jaeger, seems to love actual combat and sometimes goes to
+the front lines.
 --------------------------------
 [00000036][none]
-そんなのには
-出くわしたくないもんだ
+I don't want to run into that.
 --------------------------------
 [00000037][none]
-おい……
-今なんつった
-誰が指揮官だって？
+Hey...  What did you just say? Who's the commander?
 --------------------------------
 [00000038][none]
-え？
-イェーガ……
+Huh?  Yega...
 --------------------------------
 [00000039][none]
-イェーガーの裏切り者め！
+Jaeger traitor!
 --------------------------------
 [00000040][none]
-裏切り者ってなんだよ？
-イェーガーは元から敵だろ
-帝国の指揮官なんだから
+What is a traitor?  Jaeger is an enemy to begin with. He's the commander of the
+Empire.
 --------------------------------
 [00000041][none]
-あの小僧は
-フィラルド人なんだよ
-ワシの祖国の軍人だった
+That kid  I'm a Philardian. I was a soldier from my homeland.
 --------------------------------
 [00000042][none]
-フィラルドは
-前の戦争で滅んだろ
+Filard was destroyed in the previous war.
 --------------------------------
 [00000043][none]
-こちとらイェーガーが
-小便たれてた時から
-知ってんだ
+I've known since Kochitora Jaeger was dripping piss.
 --------------------------------
 [00000044][none]
-親戚のおじさんかよ……
+Is it a relative's uncle...
 --------------------------------
 [00000045][none]
-あのクソガキ
-帝国に尻尾振りやがって
+That damn kid wagging his tail at the Empire.
 --------------------------------
 [00000046][none]
-ちょっと待て
-手に持ってる酒瓶は何だ？
-まだ呑むのか!?
+Wait a minute What's that liquor bottle in your hand?  Are you still drinking?
 --------------------------------
 [00000047][none]
-これが呑まずに
-いられるかよ！
+Can you survive this without drinking it!
 --------------------------------
 [00000048][none]
-呑まずにいてくれよ！
-これから偵察だって時に！
+Please don't drink!  Sometimes I'm going to scout from now on!
 --------------------------------
 [00000049][none]
-おい、何しやがる!?
-返せよ！
+Hey, what are you doing!? Give it back!
 --------------------------------
 [00000050][none]
-返したら呑むだろ！
-これは処分するからな
+If you give it back, you'll drink it!  I'll dispose of this.
 --------------------------------
 [00000051][none]
-おお……
-くっ、ううっ……！
+Oh... Ugh...!
 --------------------------------
 [00000052][none]
-男泣き!?
+Man crying!?
 --------------------------------
 [00000053][none]
-す、すまん！　やりすぎた！
-でも呑みすぎは
-体によくないから……！
+Sorry! overdid it! 
 --------------------------------
 [00000054][none]
-イェーガーの……
-バカたれが！
+Jaeger's...  You idiot!
 --------------------------------
 [00000055][none]
-そっちかよ!!
+That’s it!!
 --------------------------------
 [00000056][none]
-帝国なんぞに
-与しやがって……！
-う、うう……うおおおお！
+Giving in to the Empire...!  Uh, uh... oooooo!
 --------------------------------
 [00000057][none]
-泣き上戸なのか？
-大丈夫かよ、ザハール
+Are you crying?  Are you okay, Zahar?
 --------------------------------
 [00000058][none]
-やれやれ
-偵察開始まで
-休ませておくか
+Wow  Let's rest until the reconnaissance starts 
 --------------------------------
 [00000059][none]
-帝国と組んで……
-祖国復興ができるものか！
-……ううっ
+By teaming up with the Empire... Is it possible to restore the homeland?  ...Ugh
 --------------------------------
 [00000060][none]
-偵察ってのは
-なかなか嫌なもんだな
+Scouting is pretty unpleasant.
 --------------------------------
 [00000061][none]
-そらそうよ
-情報がない場所へ行って
-情報を集めるんだからな
+That's right. We go to places where there is no information and gather
+information.
 --------------------------------
 [00000062][none]
-酒が抜けると
-まともなんだよな
+Once the alcohol wears off it's decent.
 --------------------------------
 [00000063][none]
-酒が入ろうと何だろうと
-ワシはまともだ！
-そもそも偵察とは……
+No matter if there's alcohol or not, I'm decent!  What is reconnaissance in the
+first place...
 --------------------------------
 [00000064][none]
-静かに！
+Quiet!
 --------------------------------
 [00000065][none]
-おい！
-ワシの話を聞け！
+Hey!  Listen to my story!
 --------------------------------
 [00000066][none]
-待って……
-何か聞こえませんか？
+Wait... Can't you hear anything?
 --------------------------------
 [00000067][none]
-戦車か？
+Tank?
 --------------------------------
 [00000068][none]
-部隊がいやがったか
+Did the troops hate it?
 --------------------------------
 [00000069][none]
-北からか？
+From the north?
 --------------------------------
 [00000070][none]
-機甲部隊だ！
-村を蹂躙してやがる！
+Armored troops!  They're overrunning the village!
 --------------------------------
 [00000071][none]
-何だと!?
-村を襲ってやがるのか！
+What!? They're attacking the village!
 --------------------------------
 [00000072][none]
-けっ！
-帝国め！
+Ke!  Empire!
 --------------------------------
 [00000073][none]
-おい、こんな時に酒かよ！
-やめとけって！
+Hey, why don't you drink at a time like this?  Stop it!
 --------------------------------
 [00000074][none]
-うるせえ！
+Noisy!
 --------------------------------
 [00000075][none]
-呑まねえと
-手の震えが止まらねえし
-頭も回らねえんだよ！
+If I don't drink, my hands won't stop shaking and I won't be able to think
+properly!
 --------------------------------
 [00000076][none]
-やめろっての！
-おい！
+Stop it!  Hey!
 --------------------------------
 [00000077][none]
-うぃっ……
-いいぞ、冴えてきやがった
+Ugh... That's good, you're smart.
 --------------------------------
 [00000078][none]
-おいクルト！
-クルトはどこだ！
+Hey Kurt!  Where's Kurt!
 --------------------------------
 [00000079][none]
-どうしたザハール
+What's up Zahar?
 --------------------------------
 [00000080][none]
-帝国軍の機甲部隊が
-いやがる！
+The Imperial Army's armored forces are reluctant!
 --------------------------------
 [00000081][none]
-分かっている
-これから作戦を……
+I know I'm planning a strategy now...
 --------------------------------
 [00000082][none]
-考える必要はない！
-ここから突撃だ！
+No need to think about it!  Let's attack from here!
 --------------------------------
 [00000083][none]
-なにい!?
+What!?
 --------------------------------
 [00000084][none]
-村なんか破壊しやがって！
-あれはこっちの偵察に
-まったく気付いてねえ！
+Destroy the village!  That guy didn't notice our scout at all!
 --------------------------------
 [00000085][none]
-こういう時は
-先制あるのみだ！
+At times like this the only thing you can do is take the initiative!
 --------------------------------
 [00000086][none]
-戦車が何台いようが
-完全な奇襲ってのは強い！
+No matter how many tanks there are a complete surprise attack is strong!
 --------------------------------
 [00000087][none]
-民間人に危害を加える
-クソッタレ共に
-軍人の誇りを叩き込むぞ！
+Those who harm civilians will destroy the pride of the military!
 --------------------------------
 [00000088][none]
-ふむ……
-いい考えだ
-ザハールの作戦を採用する
+Hmm... Good idea.  Adopt Zahar's strategy
 --------------------------------
 [00000089][none]
-いいのかよ!?
-ちゃんと考えた方が
-いいんじゃないのか!?
+Is it okay!? Isn't it better to think about it properly?
 --------------------------------
 [00000090][none]
-ザハールの経験と
-状況判断は信頼に値する
+Zahar's experience and situational judgment are trustworthy.
 --------------------------------
 [00000091][none]
-何より奇襲は速さが命だ
-迷っていたら機を逃す
+Above all, speed is the key to a surprise attack. If you hesitate, you will miss
+the opportunity.
 --------------------------------
 [00000092][none]
-よく言った！
-行くぞ野郎共！
-帝国野郎にブチ込むぞ！
+Well said!  Let's go, you bastards!  I'm going to attack that imperial bastard!
 --------------------------------
 [00000093][none]
-ザハールがポテンシャル@fcFF008800「祖国への想い」@fciに
-目覚めました。
+Zahar has awakened to the potential @fcFF008800 "Thoughts for the Motherland" @fci.
 --------------------------------
 [00000094][none]
-戦闘終了
-勝つには勝ったが……
+The battle is over I won, but...
 --------------------------------
 [00000095][none]
-負け戦だ！
-クソッタレが！
+It's a losing battle!  Damn it!
 --------------------------------
 [00000096][none]
-村の住民を
-守れませんでしたね……
+You couldn't protect the village residents...
 --------------------------------
 [00000097][none]
-ザハールの言う通り
-すぐに攻めなかったら
-もっと犠牲が増えていたね
+As Zahar said If we didn't attack right away, we would have suffered more
+casualties.
 --------------------------------
 [00000098][none]
-帝国軍め……！
-この村の人間が
-何したってんだ!!
+Imperial Army...!  What did the people of this village do?
 --------------------------------
 [00000099][none]
-ザハール、酒はもう
-やめとけって
+Zahar, please stop drinking.
 --------------------------------
 [00000100][none]
-黙れ小僧！
+Shut up, kid!
 --------------------------------
 [00000101][none]
-ワシはな、ずっとこれを
-見続けてきたんだ！
+I've been watching this for a long time!
 --------------------------------
 [00000102][none]
-軍人同士が殺し合うのは
-しょうがねえことだ！
+It's unavoidable for soldiers to kill each other!
 --------------------------------
 [00000103][none]
-だが実際にはどうだ？
-どれだけの民間人が
-巻き込まれて死んでいる!?
+But what actually happens?  How many civilians were involved and died!?
 --------------------------------
 [00000104][none]
-ザハールさん……
+Mr. Zahar...
 --------------------------------
 [00000105][none]
-ワシの祖国フィラルドは
-どうなったと思う？
+What do you think happened to Filard, the eagle's homeland?
 --------------------------------
 [00000106][none]
-国土を容赦なく荒らされ
-祖国のために戦った者達は
-片っ端から処刑された！
+The land was ravaged mercilessly Those who fought for the homeland were all
+executed!
 --------------------------------
 [00000107][none]
-それが帝国の
-やり方なのだ！
+That's the Empire's way!
 --------------------------------
 [00000108][none]
-ガリアは負けてはならん
-第二のフィラルドを
-生んではいかんのだ……
+Gaul must not lose We cannot give birth to a second Filard...
 --------------------------------
 [00000109][none]
-ザハール、あんた
-そんな想いで
-戦っていたのか……
+Zahar, were you fighting with such feelings...
 --------------------------------
 [00000110][none]
-すまん、呑ませてくれ
+Sorry, let me drink.
 --------------------------------
 [00000111][none]
-今日は悲しみが
-おさまりそうにない
+My sadness doesn't seem to go away today.
 --------------------------------
 [00000112][none]
-クルト、ザハールが
-呑んでるのは死者の涙だ
-そういうことでいいよな？
+Kurt, what Zahar is drinking are the tears of the dead. Is that okay?
 --------------------------------
 [00000113][none]
-……料理長に任せる
-俺は戦闘記録を
-まとめるとしよう
+...I'll leave it to the head chef. I'll compile the battle records .
 --------------------------------
 [00000114][none]
-イェーガー……
-クソ野郎が！
-これがお前のやり方か！
+Jaeger...  You bastard!  Is this your way?
 --------------------------------
 [00000115][none]
-帝国と組んで本当に
-祖国が蘇ると
-思っているのか！
+Do you really think that your homeland will be revived by teaming up with the
+Empire?
 --------------------------------
 [00000116][none]
-野を山を、川を愛し
-友を、祖先を、子を慈しむ
-その心が国となるのだ！
+love the fields, mountains, and rivers  Love your friends, ancestors, and
+children That heart will become your country!
 --------------------------------
 [00000117][none]
-帝国と組んで
-何の心が生まれるのか？
+What kind of heart will be born by teaming up with the Empire?
 --------------------------------
 [00000118][none]
-領土が国家なのではない！
-人あっての国家なのだ！
+Territory is not a nation!  A nation is made up of people!
 --------------------------------
 [00000119][none]
-俺もそう思う
-ザハール、今夜は
-一杯付き合うよ
+I think so too Zahar, I'll have a drink with you tonight.
 --------------------------------
 [00000120][none]
-オレもだ
+Me too
 --------------------------------
 [00000121][none]
-ぐぅ……がぁ
+Guuu...gaa
 --------------------------------
 [00000122][none]
-うう……イェーガー
-お前は……国の
-誇……りに
+Uh... Jaeger You are... the pride of the country...
 --------------------------------
 [00000123][none]
-寝てしまいましたね
+I fell asleep.
 --------------------------------
 [00000124][none]
-そっとしておいてやろう
+Leave it alone
 --------------------------------
 [00000125][none]
-ところでこんな話
-知ってますか
+By the way, do you know this story?
 --------------------------------
 [00000126][none]
-フィラルド王国の
-英雄とうたわれた将軍は
+The general who was hailed as a hero of Filard Kingdom was
 --------------------------------
 [00000127][none]
-ラディ・イェーガーの
-才能を見い出し
-将軍の座を与えて引退した
+He discovered Rady Jaeger's talent, gave him the rank of general, and retired.
 --------------------------------
 [00000128][none]
-何だよそれ？
+What is that?
 --------------------------------
 [00000129][none]
-まさかイェーガーを
-子どもの頃から知ってる
-ってのは本当だったって？
+Is it true that you've known Jaeger since you were a child?
 --------------------------------
 [00000130][none]
-フィラルド王国の軍人は
-イェーガー将軍以外
-ほとんど処刑された……
+Most of the soldiers of the Filard Kingdom were executed except General
+Jaeger...
 --------------------------------
 [00000131][none]
-これは事実です
+this is true
 --------------------------------
 [00000132][none]
-てことは、イェーガーを
-子ども扱いできるような
-フィラルド軍人は……
+In other words, Filard's military personnel who can treat Jaeger like a child...
 --------------------------------
 [00000133][none]
-ほとんど
-生き残っていないわけか
+So there aren't many survivors?
 --------------------------------
 [00000134][none]
-まさか……この
-酔いどれオヤジが
-将軍様、ねえ？
+I didn't expect... this drunk old man Shogun-sama, huh?
 --------------------------------
 [00000135][none]
-おう！
-ワシは将軍よ！
+Oh!  I'm the general!
 --------------------------------
 [00000136][none]
-起きてたのかよ!?
+Were you awake!?
 --------------------------------
 [00000137][none]
-本当に将軍だったのか？
+Was he really a general?
 --------------------------------
 [00000138][none]
-そうよ！
-ワシは酒呑みの将軍様だ！
+Yes!  I'm a drunkard general!
 --------------------------------
 [00000139][none]
-飲み比べなら
-イェーガーにだって
-負けやしねえ！
+If it's a drinking competition, even Jaeger won't lose!
 --------------------------------
 [00000140][none]
-だめだこりゃ……
+No way...
 --------------------------------
 [00000141][none]
-がはは、祖国復興だって
-イェーガーの小僧には
-負けねえぞ！
+Hahaha, it's the restoration of the homeland.  To the Jaeger boy  I won't lose!
 --------------------------------

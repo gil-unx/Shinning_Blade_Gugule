@@ -1,25 +1,22 @@
 [0006]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-まずいな。
-もう敵に占拠されてるぞ。
+That's bad.  It's already occupied by the enemy.
 --------------------------------
 [00000001][龍那,,龍那]
-ですが、教団の方々は
-すでに安全な場所へ避難されたようです。
+However, it seems that the members of the cult have already evacuated to a safe
+location.
 --------------------------------
 [00000002][剛龍鬼,,剛龍鬼]
-ならば、後は敵を叩き潰すのみ！
+Then all that's left is to crush the enemy!
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-そういうことなら、遠慮なく暴れられるな。
-行くぜ！
+If that's the case, feel free to go wild.  Let's go!
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-ふう……とりあえず、全員追い払ったみたいだな。
-みんなは無事か？
+Hmm... Looks like we've chased them all away for now.  Is everyone safe?
 --------------------------------
 [00000005][龍那,,龍那]
-はい。私たちも教団の者たちも無事です。
-レイジさん、ご協力ありがとうございました。
+Yes. We and the members of the cult are safe.  Thank you for your cooperation,
+Rage-san.
 --------------------------------

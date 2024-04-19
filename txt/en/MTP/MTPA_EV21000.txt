@@ -1,442 +1,374 @@
 [0101]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-やあ、刃九郎さん。１人でなにやってんだい？
+Hello, Mr. Hamakuro. What are you doing alone?
 --------------------------------
 [00000001][刃九郎,,刃九郎]
-む、レイジか……。
-いや、別に。ただ、昔のことを振り返って
-いただけだ。
+Hmm, Rage...  No, not really. I was just looking back on the past.
 --------------------------------
 [00000002][刃九郎,,刃九郎]
-過去を振り返り、自らを見つめ直すことで
-得られるものもある……そう思ってな。
+There are things you can gain by looking back on your past and reexamining
+yourself... That's what I think.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-ふ～ん……そういうもんなのか。
-だったらさ、オレにも刃九郎さんの話を聞かせてよ。
-オレ、刃九郎さんのことよく知らないしさ。
+Hmm... I guess that's what it is.  In that case, please tell me about Hakuro-san
+as well.  I don't know much about Hakuro-san.
 --------------------------------
 [00000004][刃九郎,,刃九郎]
-……いいだろう。隠すようなことでもないからな。
-さて、なにから話してやったものか……。
+...That's fine. It's not something to hide.  Now then, what did I start talking
+about...?
 --------------------------------
 [00000005][刃九郎,,刃九郎]
-拙者はかつて、セイランという国に仕えていた。
-そしてある時、拙者はセイランと敵国との
-和平を締結するための任務についたのだ……。
+I once served a country called Seiran.  And one day, I was assigned a mission to
+conclude peace between Seiran and an enemy country...
 --------------------------------
 [00000006][刃九郎,,刃九郎]
-それが成功すれば、セイランにも近隣国にも
-平和が訪れる。絶対に失敗できない任務だった。
+If it succeeds, peace will come to Seiran and neighboring countries. It was a
+mission that could never fail.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-へえ～。刃九郎さんって、
-ずいぶん大きな仕事をしてたんだな。
+Huh. Mr. Hakuro was doing quite a big job.
 --------------------------------
 [00000008][刃九郎,,刃九郎]
-だが、和平に向けた会談は、セイランの宰相である
-シュマリの陰謀により失敗した……。
+However, the peace talks failed due to a conspiracy by Seiran's prime minister,
+Shmari...
 --------------------------------
 [00000009][刃九郎,,刃九郎]
-……そして拙者は、シュマリの放った追っ手から
-逃れるため、セイランを去って流浪の身と
-なったのだ。
+...And in order to escape from the pursuers sent by Shumari, I left Seiran and
+became a wanderer.
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-大変だったんだな……。
+It must have been tough...
 --------------------------------
 [00000011][刃九郎,,刃九郎]
-拙者は理想の実現のため、国民すべてのために全力で
-働いたつもりだったが……それを望まぬ者も
-いたということだ。
+I intended to work as hard as I could for the sake of all the people in order to
+realize my ideals, but... there were some people who didn't want that.
 --------------------------------
 [00000012][刃九郎,,刃九郎]
-我ながら考えが甘かった……。
-拙者は、取り返しのつかない失敗を
-犯してしまったのだ……。
+I was naive...  I have made an irreversible mistake...
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-まあ、次に失敗しなけりゃいいじゃないか。
-刃九郎さんだったら、もう失敗なんかしないって、
-オレはそう思うけどな。
+Well, I hope I don't fail next time.  I think that if it was Hakuro-san, he
+would never fail again. That's what I think.
 --------------------------------
 [00000014][刃九郎,,刃九郎]
-うむ……だが、世の中には許されぬ罪という
-ものもある……会談の失敗により命を落とした
-仲間もいるのだからな……。
+Hmm... However, there are some unforgivable sins in this world... Some of my
+friends lost their lives due to failed talks...
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-……そうなのか。
-でも、うまく言えないけど……あんまり自分を
-責めちゃダメだと思うぜ、刃九郎さん。
+...Is that so?  But I can't say it well... I don't think you should blame
+yourself too much, Hakuro-san.
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-オレは、甘い理想ってのも嫌いじゃないぜ。
-今よりも世の中を良くするためには、理想ってのも
-大切なんじゃないか？
+I don't dislike naive ideals either.  In order to make the world better than it
+is now, aren't ideals important?
 --------------------------------
 [00000017][刃九郎,,刃九郎]
-……そうだな、レイジ。
-お前の言う通りだ。過去の失敗に
-とらわれすぎてはいかんな……。
+...That's right, Rage.  You're right. Don't get too caught up in your past
+failures...
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-…………。
-ごめん、オレ、なんて言っていいのか……。
-大変な目に遭ってたんだな、刃九郎さん……。
+………….  I'm sorry, I don't know what to say...  You must have been in a lot of
+trouble, Hakuro-san...
 --------------------------------
 [00000019][刃九郎,,刃九郎]
-……なあに。この戦乱の世において、大変な目に
-遭っているのは拙者ばかりではない。
-だが、お前の気遣いは嬉しく思うぞ。
+...Hey. In this war-torn world, I am not the only one who is facing hardships. 
+However, I'm glad for your consideration.
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-でも、国から追っ手が差し向けられたのに
-しっかり逃げ切るなんて、さすがはニンジャだな。
+But, even though the country sent a pursuer to you, you managed to escape, as
+expected of a ninja.
 --------------------------------
 [00000021][刃九郎,,刃九郎]
-いや。実を言うと、拙者１人の力で生き抜いた
-わけではない。拙者の危機を救ってくれたのは
-聖フィリアス王国の姫君なのだ。
+No. To tell you the truth, I didn't survive on my own. The person who saved me
+from my crisis was the princess of the Kingdom of St. Philias.
 --------------------------------
 [00000022][刃九郎,,刃九郎]
-逃亡中に重傷を負っていた拙者を、
-姫が聖水で癒してくれた……。
+The princess healed me with holy water when I was seriously injured while
+escaping...
 --------------------------------
 [00000023][刃九郎,,刃九郎]
-拙者は、その恩義になんとしても報いねばならん。
-……そして、ベスティアにも。
+I must repay that kindness no matter what.  ...And also to Bestia.
 --------------------------------
 [00000024][刃九郎,,刃九郎]
-ベスティア国内が平和だった頃には、セイランも
-拙者も、ベスティアからの援軍に助けられたからな。
+When Bestia was at peace, both Seiran and I were helped by reinforcements from
+Bestia.
 --------------------------------
 [00000025][刃九郎,,刃九郎]
-恩人への義理を返すこと……それも拙者の
-生きる理由のひとつだ。
+To repay my duty to my benefactors... that is also one of my reasons for living.
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-刃九郎さんって義理堅いんだなあ……。
-きっと、そういう性格だからみんなから信頼
-されるんだろうな。
+Hakuro-san is so loyal...  I'm sure that's why everyone trusts her because of
+her personality.
 --------------------------------
 [00000027][刃九郎,,刃九郎]
-信頼……？　拙者が？　ふむ……あまり考えた
-ことはないが、レイジが言うのであれば
-そうなのだろう。
+Trust...? Me? Hmm... I haven't thought about it much, but if Rage says so, I
+guess it's true.
 --------------------------------
 [00000028][レイジ,レイジ,レイジ]
-それにしても、お姫様に救われたとはねえ。
-まさに救いの女神って感じだな！
+Anyway, I can't believe I was saved by a princess.  It really feels like the
+goddess of salvation!
 --------------------------------
 [00000029][刃九郎,,刃九郎]
-そうかもしれんな。高貴な生まれという
-だけではなく、慈愛や強さも兼ね備えたお方だ。
-レイジも深い敬意を持って接するようにな。
+Maybe so. Not only is he of noble birth, but he is also compassionate and
+strong.  I also started treating Rage with deep respect.
 --------------------------------
 [00000030][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（ふーん……刃九郎さんが
-ここまで熱く語るなんて珍しいな。
-お姫様のこと、大事に思ってるんだな）
+@fcFFAAFFAA(Hmm...
+It's rare for Hakuro-san to talk so passionately.
+I guess he cares about the princess.)
 --------------------------------
 [00000031][none]
-まあ、次に失敗しなけりゃいいじゃないか
+Well, I hope I don't fail next time.
 --------------------------------
 [00000032][none]
-オレは、甘い理想ってのも嫌いじゃないぜ
+I don't hate naive ideals either.
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-よお、クララ姫。
-いったいなにしてるんだ？
+Hey, Princess Clalaclan.  What on earth are you doing?
 --------------------------------
 [00000034][クララクラン,クララクラン,クララクラン]
-あっ……レイジ殿。ちょうどよかったですわ。
-実は勇者レイジ殿にお願いがあるのです。
+Ah... Rage-dono. It was just right.  Actually, I have a request from the brave
+Rage-dono.
 --------------------------------
 [00000035][クララクラン,クララクラン,クララクラン]
-勇者様たちの栄光の歴史を本にまとめておりまして
-勇者様の知られざる生態というものを観察させて
-いただきたいのですが……よろしいですか？
+I am compiling the glorious history of the heroes in a book. I would like to
+observe the unknown ecology of the heroes. Is that okay?
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-生態って……オレは動物かよ。
+Ecology... Am I an animal?
 --------------------------------
 [00000037][クララクラン,クララクラン,クララクラン]
-あ、いえ、そんな意味では……。
-ただ、異世界からやってきた勇者様は、
-どのような生活をされているのかと……
+Oh, no, in that sense...  However, I wonder how the hero who came from another
+world lives ...
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-いや、別に変ったところはないと思うけど……。
-むしろ、王女であるクララ姫のほうがよっぽど
-変わった生活をしてるんじゃないか？
+No, I don't think anything has changed...  In fact, isn't Princess Clalaclan
+leading a much different life?
 --------------------------------
 [00000039][クララクラン,クララクラン,クララクラン]
-いえ。勇者様の生活、とっても興味深いですわ。
-レイジ殿、もしお時間がおありなら、いろいろ
-お話を聞かせていただけませんか？
+No. The life of a hero is very interesting.  Rage-dono, if you have time, could
+you please tell me some stories?
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-ああ。今はヒマだし、別にいいぜ。
-なんでも聞いてくれよ。
+Yeah. I have free time right now, so it's okay.  Ask me anything.
 --------------------------------
 [00000041][クララクラン,クララクラン,クララクラン]
-ところで、レイジ殿はいつもお１人で行動
-されているようですけれど……従者の方はどこに
-お控えになっているのですか？
+By the way, Rage-dono seems to be acting alone all the time, but... where are
+your servants?
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-えっ？　じゅ、従者？　そんな人はいないよ。
-別にオレ、偉いわけでもなんでもないし……。
+Huh? Ju-squire? There is no such person.  It's not like I'm great or anything...
 --------------------------------
 [00000043][クララクラン,クララクラン,クララクラン]
-あら、そんなことはありませんわ。世界を救って
-くださる伝説の勇者様ですもの。レイジ殿は、
-わたくしなど足元にも及ばないお方です。
+Oh, that's not true. He is a legendary hero who will save the world. Rage-dono
+is not even close to me.
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-い、いや、そんなことは……。
+No, no, that's not true...
 --------------------------------
 [00000045][クララクラン,クララクラン,クララクラン]
-でも……従者がいないとなると、お着替えや
-お食事も１人でなさるのですか？
-不便ではありませんか？
+But...if you don't have a servant, will you be able to change clothes and eat by
+yourself?  Isn't it inconvenient?
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-もちろん、普通に１人で……って、着替えっ!?
-クララ姫って、着替えを他人に手伝ってもらうの!?
+Of course, she usually does it all by herself...but does she change her
+clothes?! Does Princess Clalaclan need someone else to help her change her
+clothes?
 --------------------------------
 [00000047][クララクラン,クララクラン,クララクラン]
-ええ。お城にいる時には、着替えや髪結いなどは
-すべて侍女に手伝ってもらっていますわ。
+Yeah. When I'm in the castle, the maids help me with all the things like
+changing my clothes and doing my hair.
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-そうなのか……。やっぱりお姫様なんだなあ……。
+Is that so? She is a princess after all...
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-き、着替えの手伝いが必要だったら……。
+I-if you need help getting dressed...
 --------------------------------
 [00000050][クララクラン,クララクラン,クララクラン]
-……はい？　なんでしょうか？
-レイジ殿？　今、なんと……。
+...Yes? What'll we do? Now...
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-い、いや！　なんでもないっ！
-忘れて忘れてっ！
+No, no! It's nothing!  Forget, forget!
 --------------------------------
 [00000052][ユキヒメ,ユキヒメ,ユキヒメ]
-……レイジ。私は聞いたぞ！
-しっかりとな！　どさくさにまぎれてなにを言う！
-このたわけ者が！
+...Rage. I heard it!  Stay firm!　What are you saying in the midst of the
+clutter?  This is the reason!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-じょ、冗談だってば……！　冗談！
-つい願望が口からポロッと……じゃなくて！
-思いついた冗談をそのまま言っちゃっただけだよ！
+Well, if you're kidding...! joke!  I just said a joke that came to mind!
 --------------------------------
 [00000054][ユキヒメ,ユキヒメ,ユキヒメ]
-言い訳にもなんにもなっておらんわ！
-このバカモノがっ！
+That's not even an excuse!  This stupid thing!
 --------------------------------
 [00000055][クララクラン,クララクラン,クララクラン]
-…………なんだか。よくわかりませんわ。
+……Somehow. I don't really understand.
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-それじゃ、城の外での生活は大変だな。
-なにか不便なことはないか、クララ姫？
+Then life outside the castle must be difficult.  Is there any inconvenience,
+Princess Clalaclan?
 --------------------------------
 [00000057][クララクラン,クララクラン,クララクラン]
-レイジ殿……お気遣いありがとうございます。
+Rage-dono... Thank you for your concern.
 --------------------------------
 [00000058][クララクラン,クララクラン,クララクラン]
-でも平気ですわ。王女だからといって、
-わたくしばかりがわがままを言うわけには
-まいりませんもの。
+But it's okay. Just because I'm a princess doesn't mean I can be selfish.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-そうか……偉いな、クララ姫は。
+I see... Princess Clalaclan is great.
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000061][クララクラン,クララクラン,クララクラン]
-……？　どうされましたか、レイジ殿？
-急に黙り込んでしまって……。
+...? What happened, Rage-dono?  She suddenly fell silent...
 --------------------------------
 [00000062][レイジ,レイジ,レイジ]
-いや、オレ、本当にお姫様と話してるんだなあと
-思ってさ。そんなに偉い人と気安く話なんか
-しちゃっていいのかな？
+No, I thought I was actually talking to a princess. Is it okay to have a casual
+conversation with such a great person?
 --------------------------------
 [00000063][クララクラン,クララクラン,クララクラン]
-あら、レイジ殿は礼節を大切になさる方ですのね。
-でも、伝説の勇者様とお話しができて、
-わたくしの方こそ光栄ですわ。
+Oh, Rage-dono is a person who values ??civility.  However, I am the one who is
+honored to be able to talk with the legendary hero. 
 --------------------------------
 [00000064][クララクラン,クララクラン,クララクラン]
-……あら、もうこんな時間。
-レイジ殿とお話ししていると、あっという間に
-時間が過ぎてしまいますわね。
+...Oh, it's already that long.  When I'm talking with Rage-dono, time passes by
+in the blink of an eye.
 --------------------------------
 [00000065][クララクラン,クララクラン,クララクラン]
-いつか戦いが終わったら、もっとゆっくりと
-レイジ殿のお話をうかがいたいものですわ。
+Someday, once the battle is over, I would like to listen to Rage-dono talk more
+slowly.
 --------------------------------
 [00000066][レイジ,レイジ,レイジ]
-ああ、オレでよかったらいつでも。
-オレの世界のことについても、
-いろいろ教えてやるよ。
+Yeah, anytime if it's okay with me.  I'll also teach you a lot about my world.
 --------------------------------
 [00000067][クララクラン,クララクラン,クララクラン]
-本当ですか!?　それなら、なおさら早く戦いを
-終わらせなくてはいけませんね。
+Really!? If that's the case, we have to end the battle even faster.
 --------------------------------
 [00000068][クララクラン,クララクラン,クララクラン]
-じゃ、約束の握手です！
-世界に平和が訪れたら、お友達もご招待して
-晩餐会を開きましょうね。
+Well, here's the promised handshake!  When peace comes to the world, let's
+invite your friends and have a dinner party. 
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-握手？　オッケー。
-……って、クララ姫の手、すごく細くて
-折れそうな……さすがはお姫様……。
+A handshake? Okay.  ...Princess Clalaclan's hands are so thin that they look
+like they might break... As expected from a princess...
 --------------------------------
 [00000070][ユキヒメ,ユキヒメ,ユキヒメ]
-こらっ！　握手くらいでデレデレするな！
-お前も勇者なら、それらしくシャキッとせんか！
+Hey! Don't get nervous just by shaking hands!  If you're a hero too, why not act
+like one!
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-あーもう。うるさいな、ユキヒメは……。
-ま、とりあえず、これからもよろしくな。クララ姫。
+Oh, already. Yukihime is so noisy...  Well, for now, please continue to support
+me. Princess Clalaclan.
 --------------------------------
 [00000072][クララクラン,クララクラン,クララクラン]
-はいっ！　今後ともよろしくお願いいたします。
-勇者様！
+Yes! Thank you for your continued support.  Hero-sama!
 --------------------------------
 [00000073][none]
-き、着替えの手伝いが必要だったら……
+If you need help getting dressed...
 --------------------------------
 [00000074][none]
-それじゃ、城の外での生活は大変だな
+Then life outside the castle must be difficult.
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-おーい、クララ姫。いったいなんの騒ぎだ？
-モンスターでも発見したか？
+Hey, Princess Clalaclan. What on earth is all the fuss about?  Did you find any
+monsters?
 --------------------------------
 [00000076][クララクラン,クララクラン,クララクラン]
-あっ、レイジ殿！　実は、ベスティアが
-帝国の襲撃を受けているようなのです！
-ですから急いでベスティアに向かわねばなりません！
+Ah, Rage-dono! Actually, it seems that Bestia is under attack by the Empire!  So
+we have to hurry and head to Bestia!
 --------------------------------
 [00000077][刃九郎,,刃九郎]
-もちろん拙者も同行する。
-クララ姫にもベスティアにも恩義があるのでな。
+Of course I will accompany you.  I am indebted to both Princess Clalaclan and
+Bestia.
 --------------------------------
 [00000078][クララクラン,クララクラン,クララクラン]
-わたくしの国も以前、
-ベスティアの皆様に助けられました。
-今こそその恩義に報いる時です！
+My country was also helped by everyone in Bestia before.  Now is the time to
+repay that kindness!
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-ようし。なら、オレも手伝うぜ！
-一緒に連れて行ってくれ、クララ姫、刃九郎さん！
+Yes. If so, I'll help you too!  Please take me with you, Princess Clalaclan, Mr.
+Hakuro!
 --------------------------------
 [00000080][クララクラン,クララクラン,クララクラン]
-ありがとうございます、レイジ殿！
-レイジ殿が来てくださるのなら心強いですわ。
-さあ、出陣です！
+Thank you, Rage-dono!  It would be reassuring if Rage-dono came.  Now, let's go!
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-２人とも、よくやったな。
-誰かのために命をかけて戦うなんて、
-なかなかできることじゃないぜ。
+Well done to both of you.  It's not easy to risk your life fighting for someone
+.
 --------------------------------
 [00000082][クララクラン,クララクラン,クララクラン]
-いいえ、そんな……。
-わたくしはただ、かつてベスティアに助けられた
-恩を返しただけですから。
+No, that's it...  I was simply repaying Bestia for helping me in the past.
 --------------------------------
 [00000083][刃九郎,,刃九郎]
-拙者もクララ姫と同じだ。
-恩義を返すのは人として当然の行動……。
-褒められるほどのことではない。
+I'm just like Princess Clalaclan.  Repaying a debt of gratitude is the natural
+thing for a human to do...  It's not something that deserves praise.
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-それでも２人は偉いと思うぜ。
-当然のことを当然のように行うのって、
-意外と難しいしな。
+I still think they're both great.  It's surprisingly difficult to do things that
+are natural.
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-でも、そうやってお互いに相手のために行動して、
-恩を返し合って……絆って、そういう風に
-少しずつ育っていくんじゃないかな。
+But, by doing things for each other and repaying each other's kindness...I think
+that's how bonds grow little by little.
 --------------------------------
 [00000086][クララクラン,クララクラン,クララクラン]
-そうですね。わたくしたちとベスティアの結束は
-これで終わりではありません。これからも
-大切に育てていかなければ。
+Yes. The bond between us and Bestia does not end here. We must continue to
+cherish it from now on.
 --------------------------------
 [00000087][刃九郎,,刃九郎]
-それから、レイジとの絆もな。
-伝説の勇者に助けられた恩義は、ベスティアの
-人々の胸に深く刻まれるだろう。
+Also, the bond with Rage.  The debt of being saved by the legendary hero will be
+deeply engraved in the hearts of the people of Bestia.
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-あ、いやあ、オレは２人をちょっと助けただけだよ。
-恩義とか、そんなに大げさな話じゃないさ。
+Oh, no, I just helped them a little.  It's not such a big deal about being
+indebted to someone.
 --------------------------------
 [00000089][クララクラン,クララクラン,クララクラン]
-でも、わたくしたちの柱になってくださるのは
-やはりレイジ殿だと思います。
-レイジ殿は、いざとなると頼りになる方ですもの。
+However, I believe that Rage-dono is our pillar of support.  Rage-dono is
+someone I can rely on in times of need.
 --------------------------------
 [00000090][刃九郎,,刃九郎]
-そうだな。レイジは肉体的にも精神的にも
-まだまだ強くなるだろう。期待しているぞ。
+That's right. Rage will continue to grow stronger both physically and mentally.
+I'm looking forward to it.
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-……オレはそんなにすごい人間じゃないけど、
-クララ姫と刃九郎さんのためにもがんばるよ。
+...I'm not that great of a person, but I'll do my best for Princess Clalaclan
+and Hakuro-san.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-２人とも、まだまだ苦労が多そうだしな……。
-クララ姫も刃九郎さんも、これからもみんなのために
-戦い続けるんだろ？
+It seems like both of them are still having a lot of trouble...  Princess
+Clalaclan and Mr. Hakuro will continue to fight for everyone from now on, right?
 --------------------------------
 [00000093][クララクラン,クララクラン,クララクラン]
-はい！　フィリアスもベスティアも、そして
-エルデも……どんなに離れていようとも、世界は
-ひとつです。
+Yes! Phileas, Bestia, and Elde... No matter how far apart they are, the world is
+one.
 --------------------------------
 [00000094][クララクラン,クララクラン,クララクラン]
-この世界のすべてに平和が訪れるまで、わたくしは
-戦い続けます！
+I will continue to fight until there is peace in this world!
 --------------------------------
 [00000095][刃九郎,,刃九郎]
-……さすがはクララ姫だ。
-この刃九郎も、微力ながら力になろう。
+...As expected of Princess Clalaclan.  I'll try to help this Hakuro, even if
+it's just in a small way.
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-話が壮大になってきたな……。
-だけど、世界の平和のために戦うってのは賛成だ。
+The story is getting epic...  However, I agree with fighting for world peace.
 --------------------------------
 [00000097][レイジ,レイジ,レイジ]
-そういう大きな理想をまっすぐに語れるところも、
-クララ姫と刃九郎さんのいいところなんだろうしな。
+I think one of the good things about Princess Clalaclan and Mr. Hakuro is that
+they can talk about their big ideals straight.
 --------------------------------
 [00000098][クララクラン,クララクラン,クララクラン]
-ええ。わたくしたちはこれからも、諦めずに
-理想を追いかけるつもりです。
-レイジ殿。ご助力のほど、よろしくお願いします。
+Yeah. We will continue to pursue our ideals without giving up.  Rage-dono. Thank
+you very much for your help.
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（諦めないで理想を追い続ける……か。
-時には、理想を捨てたくなるような辛いことだって
-あっただろうに……）
+@fcFFAAFFAA(Don't give up and keep chasing your ideals... huh?
+Sometimes there must have been some painful things that made you want to abandon your ideals...)
 --------------------------------
 [00000100][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（クララ姫と刃九郎さんって、オレが思ってたより
-ずっと強い心を持っているのかもな……。
-オレも見習わなくちゃ！）
+@fcFFAAFFAA(Maybe Princess Clalaclan and Mr. Hakuro 
+have much stronger hearts than I thought...
+I have to learn from them too!)
 --------------------------------

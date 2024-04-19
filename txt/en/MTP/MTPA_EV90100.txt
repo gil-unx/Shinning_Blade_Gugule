@@ -4,595 +4,462 @@
 
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1征暦１９３５年３月１５日
-東ヨーロッパ帝国連合はガリア公国に宣戦を布告
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1 March 15, 1935
+The Union of Eastern European Empires declares war on the Principality of Gaul.
 --------------------------------
 [00000002][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1ガリア公国に帝国軍が侵攻を開始した
-のちに『ガリア戦役』と呼ばれる戦争の始まりである
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Imperial Army began an invasion of the Principality of Gallia
+This was the beginning of the war known as the ``Galian Campaign.''
 --------------------------------
 [00000003][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1実戦経験に乏しいガリア軍は帝国軍に圧倒され
-わずかな期間で国土の半分を占領された
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Gallic army, which lacks actual combat experience, was overwhelmed by the Imperial army
+Half of the country was occupied in a short period of time.
 --------------------------------
 [00000004][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1からくも首都ランドグリーズを守りきったガリア軍は
-民間人を義勇兵とする義勇軍を投入し懸命の防戦を展開
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1 The Gallic army successfully defended the spider capital, Landgriz,
+They deployed a volunteer army made up of civilians and waged a fierce defense.
 --------------------------------
 [00000005][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1帝国軍も開戦当初の勢いを失い
-戦線は停滞する気配を見せていた
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Imperial Army also lost the momentum it had at the beginning of the war
+The front was showing signs of stagnation.
 --------------------------------
 [00000006][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1両軍は次なる一手を模索し、帝国軍は
-これまで戦火を免れていたガリア南部への進出を画策していた
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1 Both armies were searching for their next move, and the Imperial Army was planning to advance into southern Gaul, which had been spared the war until now.
 --------------------------------
 [00000007][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1ガリア軍はクルト・アーヴィング少尉率いる懲罰部隊
-４２２部隊、通称ネームレスをガリア南部の防衛に派遣
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Gallic army dispatches the Punitive Force 422, also known as Nameless, led by Ensign Kurt Irving, to the defense of southern Gallia.
 --------------------------------
 [00000008][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1対する帝国軍はダハウ大尉率いる特別遊撃部隊
-カラミティ・レーヴェンを南部侵攻の先遣部隊として送り込む
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The Imperial Army sends a special guerrilla force led by Captain Dahau
+Calamity Leben as an advance force for the invasion of the south.
 --------------------------------
 [00000009][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1ふたつの黒衣の部隊が激突する時が迫っていた
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1The time for the two black-clad troops to clash was drawing near.
 --------------------------------
 [00000010][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　カラミティ・レーヴェン本拠地
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1 Calamity Raven Headquarters, 1935
 --------------------------------
 [00000011][none]
-リディア、お前の出番だ
+Lydia, it's your turn.
 --------------------------------
 [00000012][none]
-出番？　面倒なことは
-やりたくないわよ
+It's your turn? I don't want to do anything troublesome.
 --------------------------------
 [00000013][none]
-エヒドナの性能テストだ
-他の者には任せられん
+This is Echidna's performance test I can't leave it to anyone else.
 --------------------------------
 [00000014][none]
-ああ、エヒドナちゃんね
-それはアタシがやらなきゃ
-仕方ないわ
+Ah, Echidna-chan I have to do that I have no choice.
 --------------------------------
 [00000015][none]
-メルフェア市を攻撃しろ
-どれほどの破壊力があるか
-知っておきたい
+Attack Melfair City I want to know how much destructive power it has 
 --------------------------------
 [00000016][none]
-思いっきり
-暴れてもいいのね？
+It's okay to go wild to your heart's content, right?
 --------------------------------
 [00000017][none]
-手加減できる
-ものでもあるまい
-エヒドナは
+There's nothing we can do to cut back on the echidna.
 --------------------------------
 [00000018][none]
-そうね
-じゃ、メルフェア市を
-踏み潰してくるわ
+That's right Then I'll crush Melfair City.
 --------------------------------
 [00000019][none]
-さて、ガリア軍はどう動く？
-見せてもらうとしよう
+Now, how will the Gallic army move?  I'll ask you to show me.
 --------------------------------
 [00000020][none]
-今回、我々に与えられた
-任務は、メルフェア市を
-攻撃中の巨大戦車撃破だ
+The mission given to us this time is to destroy a huge tank attacking Melfair
+City.
 --------------------------------
 [00000021][none]
-巨大戦車!?
+Huge tank!?
 --------------------------------
 [00000022][none]
-そう、あの黒衣の部隊
-カラミティ・レーヴェンの
-切り札とみて間違いない
+Yes, that black-clad unit can definitely be seen as Calamity Raven's trump card.
 --------------------------------
 [00000023][none]
-それを私達だけで
-破壊しなければならないの？
+Do we have to destroy it by ourselves?
 --------------------------------
 [00000024][none]
-忘れたのか
-俺達は懲罰部隊だ
-命令違反は……
+Have you forgotten? We are a punishment force. Violations of orders...
 --------------------------------
 [00000025][none]
-銃殺刑……ね
+Execution by firing squad... right?
 --------------------------------
 [00000026][none]
-拒否権は無い
+no veto power
 --------------------------------
 [00000027][none]
-司令部の作戦指示は絶対だ
-どんな内容であっても
-やり遂げるしかない
+The command's operational instructions are absolute No matter what the
+instructions are, we have no choice but to follow through.
 --------------------------------
 [00000028][none]
-そうね……
+Yeah...
 --------------------------------
 [00000029][none]
-他に道は無い
+there is no other way
 --------------------------------
 [00000030][none]
-だが心配するな
-策はすでに考えてある
+But don't worry I've already thought of a plan.
 --------------------------------
 [00000031][none]
-敵巨大戦車の武装の中では
-左側にある２基の副砲が
-厄介だ
+Among the armaments of the enemy's giant tank, the two secondary guns on the
+left side are troublesome.
 --------------------------------
 [00000032][none]
-あれを破壊すれば
-こちらの有利な展開に
-持ち込める
+If we destroy that, we can get an advantageous development .
 --------------------------------
 [00000033][none]
-左側の副砲を
-破壊するのね？
-分かったわ！
+You want to destroy the secondary gun on the left, right?  I understand!
 --------------------------------
 [00000034][none]
-あの程度の武装
-やれないことはない
+With that level of armament There's nothing you can't do.
 --------------------------------
 [00000035][none]
-まずは巨大戦車に
-接近することが重要だ
+First of all, it is important to approach the huge tank 
 --------------------------------
 [00000036][none]
-敵歩兵部隊を排除しつつ
-突破を試みてくれ
+Attempt to break through while eliminating enemy infantry units.
 --------------------------------
 [00000037][none]
-はい！
+Yes!
 --------------------------------
 [00000038][none]
-問題ない
+no problem
 --------------------------------
 [00000039][none]
-４２２部隊、ネームレス
-行動を開始する！
+Unit 422, nameless, begins action!
 --------------------------------
 [00000040][none]
-やってくれるじゃないの！
-アタシのお楽しみを
-邪魔してくれちゃって！
+You can do it!  You're interfering with my fun !
 --------------------------------
 [00000041][none]
-名無しの部隊が
-いい気になるんじゃないわ！
+Anonymous troops don't mind me!
 --------------------------------
 [00000042][none]
-次会う時はまとめて
-あの世にいかせてあげる！
-楽しみにしてなさい！
+Next time we meet, I'll take you to the other world all at once!  Look forward
+to it!
 --------------------------------
 [00000043][none]
-帰るわよ！
+I'm going home!
 --------------------------------
 [00000044][none]
-敵巨大戦車の撃退に成功
-戦闘終了だ
+Successfully repulsed the enemy's giant tank The battle is over.
 --------------------------------
 [00000045][none]
-やった！
-メルフェア市を
-守れたのね！
+Yay!  You were able to protect Melfair City!
 --------------------------------
 [00000046][none]
-破壊できなかった
-だが勝利には違いない
+Couldn't destroy it But it's definitely a victory.
 --------------------------------
 [00000047][none]
-ああ、重要なのは
-任務を達成したこと
-そして市民の安全だ
+Yeah, what's important is that the mission was accomplished and that the
+citizens are safe.
 --------------------------------
 [00000048][none]
-避難した街の人達には
-大きな被害はなかったわ
-嬉しいね！
+There was no major damage to the people in the city who evacuated. I'm glad!
 --------------------------------
 [00000049][none]
-いつもの任務よりは
-有意義な戦いだった
+It was a more meaningful battle than the usual missions.
 --------------------------------
 [00000050][none]
-そうだね……
+That's right...
 --------------------------------
 [00000051][none]
-それにしてもカラミティ・
-レーヴェンの動きは
-予測が難しい
+Even so, Calamity Leven's movements are difficult to predict.
 --------------------------------
 [00000052][none]
-あの巨大戦車の撤退を
-許してしまうのは
-後々響くかもしれないな
+Allowing that giant tank to retreat may have repercussions later.
 --------------------------------
 [00000053][none]
-この戦力では
-深追いするべきではない
+With this strength you shouldn't chase too far.
 --------------------------------
 [00000054][none]
-イムカの言う通り
-メルフェア市を
-守れたんだから充分だよ
+As Imuka said, it was enough to protect Melfair City.
 --------------------------------
 [00000055][none]
-守れた……か
+I was able to protect it...
 --------------------------------
 [00000056][none]
-この攻撃の意図は何だ？
-無意味にあの戦車を
-出してくるとは思えないが
+What is the intent of this attack?  I don't think they would bring out that tank
+for no reason.
 --------------------------------
 [00000057][none]
-リディアは派手に
-やってくれたようだな
+Looks like Lydia did it in a flashy way.
 --------------------------------
 [00000058][none]
-エヒドナは目立つ
-あれを使えば
-こちらも色々と動きやすい
+Echidna stands out. If you use that, It will also be easier to move in various
+ways.
 --------------------------------
 [00000059][none]
-あとは私の仕事だ
+The rest is my job.
 --------------------------------
 [00000060][none]
-敵巨大戦車に接近した
-……規格外だな、これは
+Approaching a giant enemy tank ...This is out of the norm.
 --------------------------------
 [00000061][none]
-エヒドナちゃんを見て
-ビビッてるようね
+Looks like you're scared when you see Echidna-chan.
 --------------------------------
 [00000062][none]
-こんなもの……
-破壊できるのかしら？
+Something like this... Can it be destroyed?
 --------------------------------
 [00000063][none]
-攻撃目標は左側の副砲だ
-それ以外は狙う必要がない
+The attack target is the secondary gun on the left There is no need to aim at
+anything else.
 --------------------------------
 [00000064][none]
-イムカの言う通りだ
-２基ある副砲の破壊に
-専念してくれ
+Imka is right. Concentrate on destroying the two secondary guns. 
 --------------------------------
 [00000065][none]
-はははっ！　潰してあげる！
+Haha! I'll crush you!
 --------------------------------
 [00000066][none]
-リディアは
-よくやってくれた
+Lydia did a great job 
 --------------------------------
 [00000067][none]
-お陰でこの山岳要塞を
-労せず手に入れることが
-できたのだからな
+Thanks to you, I was able to obtain this mountain fortress without any effort.
 --------------------------------
 [00000068][none]
-メルフェア市には
-大した戦略的価値がない
+Melfair City has no great strategic value.
 --------------------------------
 [00000069][none]
-この要塞を押さえておけば
-あの程度の街など
-いつでも攻め落とせる
+If you hold this fortress you can attack a town of that size at any time.
 --------------------------------
 [00000070][none]
-あとは帝国軍をここへ
-呼び込めば任務完了だ
+All you have to do is call the Imperial Army here and the mission will be
+completed.
 --------------------------------
 [00000071][none]
 ……
 --------------------------------
 [00000072][none]
-どうしたの？
-浮かない顔をして
+What's wrong?  With a sad face
 --------------------------------
 [00000073][none]
-カラミティ・レーヴェンの
-メルフェア市への攻撃は
-何のためだったのか
+What was Calamity Raven's attack on Melfair City for?
 --------------------------------
 [00000074][none]
-答えが見えてこなくてな
+I can't find the answer
 --------------------------------
 [00000075][none]
-確かに、軍事拠点でもない
-ただの街を攻撃した
-意味が分からない
+Certainly, it's not even a military base. I don't understand why they attacked a
+normal city. 
 --------------------------------
 [00000076][none]
-言われてみれば変ね
-あんな戦車は戦場で
-使えばいいのに
+That's strange if you ask me. Tanks like that should be used on the battlefield 
 --------------------------------
 [00000077][none]
-おとりの可能性が強いな
-巨大戦車をおとりにして
-攻めるとしたらどこだ……？
+There's a strong possibility that it's a decoy. If we were to attack using a
+giant tank as a decoy, where would it be...?
 --------------------------------
 [00000078][none]
 ……
 --------------------------------
 [00000079][none]
-……そういうことか！
+...Is that so?
 --------------------------------
 [00000080][none]
-何か分かったの？
+Did you find out anything?
 --------------------------------
 [00000081][none]
-単純なことだ
-あの戦車が使えない場所が
-敵の狙いだ
+It's simple The enemy's target is where that tank can't be used.
 --------------------------------
 [00000082][none]
-このメルフェア市を
-見下ろす位置に
-ガリア軍の山岳要塞がある
+There is a mountain fortress of the Gallic army overlooking Melfair City.
 --------------------------------
 [00000083][none]
-巨大戦車が使えないから
-あれをおとりにして
-山岳要塞の注意をひきつけ
+Since you can't use the giant tank, use that as a bait to attract the attention
+of the mountain fortress.
 --------------------------------
 [00000084][none]
-その隙を突いたに違いない
+I must have taken advantage of that opportunity.
 --------------------------------
 [00000085][none]
-じゃあ山岳要塞はもう
-敵の手に？
+So the mountain fortress is now in the hands of the enemy?
 --------------------------------
 [00000086][none]
-おそらくな
-だが警戒をかいくぐるため
-少数での奇襲だったはずだ
+Probably but it was probably a surprise attack by a small number of people to
+evade warnings.
 --------------------------------
 [00000087][none]
-奪還できる可能性はある
+There is a possibility that it can be recaptured
 --------------------------------
 [00000088][none]
-急がねばならない
+I have to hurry
 --------------------------------
 [00000089][none]
-これよりネームレスは
-山岳要塞へ急行する
-行動準備急げ！
+From now on, Nameless will hurry to the mountain fortress. Hurry and prepare for
+action!
 --------------------------------
 [00000090][none]
-よく来たな、ネームレス
+Nice to see you, Nameless.
 --------------------------------
 [00000091][none]
-狙いは読ませてもらった
-この要塞は奪還する
+I have read your aim We will retake this fortress.
 --------------------------------
 [00000092][none]
-できるかな？
+Can you do it?
 --------------------------------
 [00000093][none]
-負けはしない
+never lose
 --------------------------------
 [00000094][none]
-ここを取られたら
-メルフェア市が危ない……
-絶対に勝たなくちゃ！
+If this place is taken Melfair City will be in danger... We absolutely have to
+win!
 --------------------------------
 [00000095][none]
-よくこの作戦に
-気付いたものだ
-それは褒めてやろう
+I've noticed this strategy well. I'll give you credit for that.
 --------------------------------
 [00000096][none]
-だが、戦闘に関しては
-まだ未熟……この程度では
-面白くない
+However, when it comes to combat I'm still inexperienced... It's not fun at this
+level.
 --------------------------------
 [00000097][none]
-いずれ戦場で
-出会うこともあるだろう
+We may meet on the battlefield someday.
 --------------------------------
 [00000098][none]
-その時はどれだけ
-楽しませてくれるかな？
+How much will it entertain you at that time?
 --------------------------------
 [00000099][none]
-撤退する
-追撃は心配しなくていい
-彼らにその力は無い
+Retreat Don't worry about pursuing them They don't have the power to do so.
 --------------------------------
 [00000100][none]
-どうにか要塞を
-取り戻せたな
+We managed to get the fortress back.
 --------------------------------
 [00000101][none]
-防衛している戦力が
-少なくてよかったね
+It's good that there aren't many forces defending.
 --------------------------------
 [00000102][none]
-勝てたが、余裕を持って
-退却された
-攻め方にミスがあったな
+We won, but we retreated with plenty of time. There was a mistake in our attack.
 --------------------------------
 [00000103][none]
-もっといい戦い方が
-できたはずなんだが……
+I could have fought in a better way...
 --------------------------------
 [00000104][none]
-こちらも態勢が
-不十分だった
-やむを得ない
+Our preparedness was also insufficient. It was unavoidable.
 --------------------------------
 [00000105][none]
-結果は出せたが
-反省点もある
-まだまだだな……！
+Although we achieved results There are some points to reflect on. There is still
+a long way to go...!
 --------------------------------
 [00000106][none]
-カラミティ・
-レーヴェンとの戦いは
-これからも続くだろう
+Calamity The battle with Raven will continue from now on.
 --------------------------------
 [00000107][none]
-負けられないね、絶対に！
+I can't lose, absolutely!
 --------------------------------
 [00000108][none]
-もっと強くならなければ
-あの部隊は潰せない
+If we don't get stronger, we won't be able to destroy that unit.
 --------------------------------
 [00000109][none]
-俺はネームレスを
-もっと強い部隊に
-してみせる……
+I will turn Nameless into a stronger force...
 --------------------------------
 [00000110][none]
-そしてダハウ大尉を
-次こそ必ず倒す！
+And I will definitely defeat Captain Dachau next time!
 --------------------------------
 [00000111][none]
-ここまでやるとは
-あなどれんな……！
+I'm so sorry for going this far...!
 --------------------------------
 [00000112][none]
-この部隊はいずれ
-帝国軍にとって厄介な
-存在になるかもしれん
+This unit may become a thorn in the side of the Imperial Army someday.
 --------------------------------
 [00000113][none]
-早めに手を打っておいて
-損はなさそうだ
+There's no harm in taking action early 
 --------------------------------
 [00000114][none]
-次会う時は
-こうはいかんぞ
+Next time we meet it won't be like this.
 --------------------------------
 [00000115][none]
-撤退する
-後方は充分に警戒しろ
-しかけてくるかもしれんぞ
+Retreat Be careful in the rear They might try to attack you.
 --------------------------------
 [00000116][none]
-要塞奪還は成功だ
-敵部隊にも充分な
-打撃を与えただろう
+The retaking of the fortress was a success. The enemy forces were also dealt a
+sufficient blow. 
 --------------------------------
 [00000117][none]
-手強い部隊だったけど
-私達の勝利ね！
+It was a formidable force, but we won!
 --------------------------------
 [00000118][none]
-もう一歩のところで
-せん滅できなかったが
-欲張る必要はないな
+I was one step away from being destroyed, but there's no need to be greedy.
 --------------------------------
 [00000119][none]
-こちらは連戦だ
-これ以上追うのは
-賢明ではない
+This is a series of battles It's not wise to chase any further 
 --------------------------------
 [00000120][none]
-今度は私達がここを
-守って正規軍の到着を
-待たなきゃいけないものね
+Now we have to protect this place and wait for the regular army to arrive.
 --------------------------------
 [00000121][none]
-伝令を出して
-しばらくはここで
-防衛任務につくとしよう
+Let's send out a messenger and then stay here for a while and go on a defensive
+mission.
 --------------------------------
 [00000122][none]
-クルト、お疲れ様！
-メルフェア市に続いて
-連勝だね！
+Kurt, thank you for your hard work!  After Melfair City, this is a consecutive
+victory!
 --------------------------------
 [00000123][none]
-今回の指揮には
-何も文句は無い
+I have no complaints about this command.
 --------------------------------
 [00000124][none]
-完璧とは言えないが
-自分でも納得はできている
+I can't say it's perfect, but I'm satisfied with it myself.
 --------------------------------
 [00000125][none]
-珍しいわね
-クルトが納得するなんて
+It's rare that Kurt would agree.
 --------------------------------
 [00000126][none]
-そうだな
-うまくやれたと思う
+Yeah, I think I did a good job.
 --------------------------------
 [00000127][none]
-これだけ戦えれば
-今後も不安はない
+If I can fight like this, I won't have any worries in the future.
 --------------------------------
 [00000128][none]
-俺達に与えられる任務は
-より厳しくなっていく
+The missions given to us are getting tougher.
 --------------------------------
 [00000129][none]
-俺も、部隊ももっと
-強くならなければ
-生き残れない
+If I and my troops don't get stronger, we won't survive.
 --------------------------------
 [00000130][none]
-そうだね！
+That's right!
 --------------------------------
 [00000131][none]
-違いない
+definitely
 --------------------------------
 [00000132][none]
-先は長い
-この戦いからもよく学び
-明日につなげる必要がある
+We have a long way to go We need to learn from this battle and apply it to
+tomorrow.
 --------------------------------
 [00000133][none]
-俺達の
-ガリアの勝利のために！
+For our Gaul victory!
 --------------------------------
 [00000134][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1クルト・アーヴィングとネームレス
-彼らの名は歴史書に登場することはなかった　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1Kurt Irving and Nameless
+Their names never appeared in history books.
 --------------------------------
 [00000135][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1いかなる勝利も決して称賛されず
-敗北すれば人知れず死にゆくのみである　　　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1No victory will ever be praised
+If you lose, you will simply die in obscurity.
 --------------------------------
 [00000136][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1しかし彼らが国家の存亡をかけた戦争を
-勝利に導いたのは、まぎれもない事実だった　　　　　
+@fcFFFFF5F0@dc9F555555@db2@dt1However, it was an undeniable fact that they led the nation to victory in a war in which the survival of the nation depended on it.
 --------------------------------
 [00000137][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1決して語られることのない、影の歴史が　　　　　　　
-今、紐解かれる……
+@fcFFFFF5F0@dc9F555555@db2@dt1The history of the shadows that will never be told is now being unraveled...
 --------------------------------
 [00000138][none]
 
-@lt1「分岐」について
+@lt1About "branch"
 --------------------------------
 [00000139][none]
-この進軍マップには
-「もしこんな風に戦ったら？」という
-もう一つの結果が用意されています。
+This march map has
+another result``What if we fought like this?'' 
 #
-もしかしたら、先ほどと違うイベントが
-発生するかもしれません。
+Maybe a different event than the one before will occur
+. 
 #
-@fcFFFF4640２回目の戦闘@fciに条件が隠されていますので、
-ぜひ試してみてください。
+@fcFFFF4640The conditions are hidden in the second battle @fci, so please try it out.
 --------------------------------
 [00000140][none]
 
-@lt1進軍マップ完成！
+@lt1 March map completed!
 --------------------------------
 [00000141][none]
-おめでとうございま
+Congratulations
 --------------------------------

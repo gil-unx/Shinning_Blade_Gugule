@@ -1,779 +1,584 @@
 [0188]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　ガリア北部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Conquest year 1935 Northern Gaul
 --------------------------------
 [00000001][none]
-さあて、ごはんごはん！
+Come on, have some food!
 --------------------------------
 [00000002][none]
-アニカさん
-食事のトレイを持って
-走ったら危ないですよ！
+Anika-san It's dangerous to run with a tray of food !
 --------------------------------
 [00000003][none]
-だいじょう……あわわっ!?
+Oh dear... Wow!?
 --------------------------------
 [00000004][none]
-あちゃ……
+Acha...
 --------------------------------
 [00000005][none]
-どうした!?
+What happened!?
 --------------------------------
 [00000006][none]
-アニカ、ケガをしたのか!?
-おい、衛生兵！
+Annika, are you hurt? Hey, medic!
 --------------------------------
 [00000007][none]
-あ、あの……あたし
-転んだだけですけど……？
+Oh, uh...I just fell down...?
 --------------------------------
 [00000008][none]
-衛生兵を呼ぶことは
-ないんじゃないですか？
+There's no need to call a medic, right?
 --------------------------------
 [00000009][none]
-いいからケガは！
-傷を見せてみろ！
+Don't worry about getting hurt!  Show me your scars!
 --------------------------------
 [00000010][none]
-ケガより、ひっくり返した
-食事の方がイタいです……
+An overturned meal is worse than an injury...
 --------------------------------
 [00000011][none]
-メシは俺のをやる
+Food is mine
 --------------------------------
 [00000012][none]
-散らかったのは
-片付けておくから
-救護テントへ行ってこい！
+I'll clean up the mess. Go to the first aid tent!
 --------------------------------
 [00000013][none]
-はあ……ホントに
-いいのかな？
+Huh...Is it really ok?
 --------------------------------
 [00000014][none]
-必要以上に
-大事になってるような
-気がします……
+I feel like it's becoming more important than it needs to be...
 --------------------------------
 [00000015][none]
-よいしょっと……
+Good shot...
 --------------------------------
 [00000016][none]
-今度の作戦で持っていく
-食料は、あと……
+There's more food to bring for the next mission...
 --------------------------------
 [00000017][none]
-重そうだなエイミー
-力仕事なら
-俺が手伝うぜ！
+That looks heavy, Amy If you have to do the heavy lifting, I'll help you!
 --------------------------------
 [00000018][none]
-あ、フェリクスさん
+Oh, Felix.
 --------------------------------
 [00000019][none]
-食料を運んでるんだな？
-よし、任せろ！
+Are you carrying food?  Okay, leave it to me!
 --------------------------------
 [00000020][none]
-あの、もうほとんど
-運び終わって……
+Um, I've almost finished carrying it...
 --------------------------------
 [00000021][none]
-４ダース持ってきたぞ！
-どこに置けばいい？
+I brought four dozen!  Where should I put it?
 --------------------------------
 [00000022][none]
-４ダース!?
-そ、そんなにいりません！
+4 dozen!? I-I don't need that many!
 --------------------------------
 [00000023][none]
-そうなのか？
+Is that so?
 --------------------------------
 [00000024][none]
-手伝ってくれるのは
-うれしいですけど
-張り切りすぎです！
+I'm happy to help you, but I'm too excited!
 --------------------------------
 [00000025][none]
-す、すまん……
+Sorry...
 --------------------------------
 [00000026][none]
-ああ、次の任務は
-イヤだな……はあ
+Ah, I don't want the next mission...sigh.
 --------------------------------
 [00000027][none]
-峡谷に入り込んだ帝国軍を
-撃破しろってのがかい？
+Imperial forces that entered the canyon  Do you want me to destroy it?
 --------------------------------
 [00000028][none]
-峡谷って
-逃げ場がないだろ？
+There's no escape in the canyon, right?
 --------------------------------
 [00000029][none]
-まるで、ひき肉製造器に
-放り込まれるような
-気分になるんだよ
+It's like a minced meat maker.  I feel like I'm being thrown into it 
 --------------------------------
 [00000030][none]
-ひき肉製造器か
-うまいこと言うじゃないか
+Minced meat maker? That's a nice thing to say.
 --------------------------------
 [00000031][none]
-笑い事じゃないぞ！
-ひき肉製造器の恐ろしさが
-全然分かってない！
+It's no laughing matter!  I don't understand the horror of minced meat machines
+at all!
 --------------------------------
 [00000032][none]
-心配すんなって！
-俺がひき肉製造器なんか
-ぶっ壊してやる！
+Don't worry!  I'll destroy the minced meat machine !
 --------------------------------
 [00000033][none]
-ぶっ壊すって……
-張り切るのはいいけど
-無理はしないでくれよ
+Destroying it... It's okay to be excited, though.  Please don't push yourself
+too hard.
 --------------------------------
 [00000034][none]
-用意する食事の数が
-日に日に減っていくのは
-たまらないからな
+Number of meals to prepare  It is decreasing day by day.  Because it's
+irresistible
 --------------------------------
 [00000035][none]
-俺がいる限り
-そんなことにはならんし
-させはしないさ！
+As long as I'm here that won't happen and I won't let it happen!
 --------------------------------
 [00000036][none]
-ご立派な物言いだね
-アンタ、正規軍でも
-その調子だったのかい？
+That's a nice thing to say.  You, even in the regular army.  Is that how it was?
 --------------------------------
 [00000037][none]
-へえ、フェリクスは
-元正規兵だったのか
-なんでまたネームレスに？
+Hey, Felix is  Was he a former regular soldier?  Why is it nameless again?
 --------------------------------
 [00000038][none]
-命令違反だ
+This is a violation of the order.
 --------------------------------
 [00000039][none]
-上官の間違いを指摘して
-作戦に反対したら
-ここに送られた
+I pointed out my superior's mistake and objected to the operation, and I was
+sent here.
 --------------------------------
 [00000040][none]
-まるで自分は悪くないって
-態度だねえ
+It's like you're acting like it's not your fault.
 --------------------------------
 [00000041][none]
-確かに、軍人にとって
-上官の命令は絶対だ
+It is true that for a soldier the commands of his superiors are absolute.
 --------------------------------
 [00000042][none]
-だけどよ
-間違いのせいで死ぬのは
-俺達隊員なんだぜ？
+But You die because of a mistake.  We are members, right?
 --------------------------------
 [00000043][none]
-命あっての物種だよな
-隊長がダメだと
-つらいもんだ
+It's all about life. If the captain is no good, It's hard.
 --------------------------------
 [00000044][none]
-その通りだよ
-ダメなものをダメと
-言うのは悪くないはずだ
+That's right. There's nothing wrong with saying no to something that's no good.
 --------------------------------
 [00000045][none]
-うちの隊長は
-どうなんだい？
+What about my captain?
 --------------------------------
 [00000046][none]
-フェリクスは
-クルトが隊長になるのを
-認めなかったよな
+Felix didn't approve of Kurt becoming captain.
 --------------------------------
 [00000047][none]
-優秀なのは分かってる
-だが、隊長として
-信頼できるかっていうとな
+I know you're good, but I wonder if you can trust me as a captain.
 --------------------------------
 [00000048][none]
-この前の戦闘でエイミーを
-危険な場所に配置しただろ？
+You put Amy in a dangerous place in the last battle, right?
 --------------------------------
 [00000049][none]
-ああいうのが俺としては
-信用ならねえんだ
+I don't believe in that kind of thing.
 --------------------------------
 [00000050][none]
-それが指揮官ってもんさ
-リスクを避けるだけじゃ
-勝てないからね
+That's what a commander is all about You can't win just by avoiding risks 
 --------------------------------
 [00000051][none]
-分かってるって！
-けど、仲間を危険にさらす
-指揮は認めたくねえんだ
+I know!  But I don't want to accept command, putting my friends in danger 
 --------------------------------
 [00000052][none]
-嫌なんだよ……！
+I don't like it...!
 --------------------------------
 [00000053][none]
-いやにこだわるな
-ま、そうカッカするなって
+Don't get hung up on it Well, don't get mad like that.
 --------------------------------
 [00000054][none]
-オレのスープでも飲んで
-リラックスしろよ
+Drink some of my soup and relax.
 --------------------------------
 [00000055][none]
-すまん、ダメだな……
-俺が心配されちゃ
-どうしようもねえのに！
+Sorry, I can't... Don't worry about me There's nothing I can do!
 --------------------------------
 [00000056][none]
-ちくしょう!!
+Damn it!!
 --------------------------------
 [00000057][none]
-だから力抜けって！
+That's why I'm weak!
 --------------------------------
 [00000058][none]
-坂が続くなあ
-登っても登っても
-きりがないぜ
+The slope continues No matter how much I climb, there's no end to it.
 --------------------------------
 [00000059][none]
-平地よりはこの道の方が
-安全だからな
+This road is safer than the flat ground.
 --------------------------------
 [00000060][none]
-安全なはずだよ
-こんなきつい道
-帝国軍も通りたくねえさ！
+It's supposed to be safe. Even the Imperial Army doesn't want to pass on such a
+tough road!
 --------------------------------
 [00000061][none]
-って、うわっ!?
+Wow!?
 --------------------------------
 [00000062][none]
-ヘビ！　ヘビだ！
-助けてくれ！
+Snake! It's a snake!  Help me!
 --------------------------------
 [00000063][none]
-ジュリオ！
+Julio!
 --------------------------------
 [00000064][none]
-どこだヘビは！
+Where's the snake?
 --------------------------------
 [00000065][none]
-何事です？
+What's going on?
 --------------------------------
 [00000066][none]
-ヘビがいたんだ
-オレ、ヘビは
-苦手なんだよ……
+There was a snake I'm not good with snakes ...
 --------------------------------
 [00000067][none]
-ヘビなら
-もう逃げたのでは？
-臆病な生き物ですから
+If it was a snake, wouldn't it have run away already?  They are cowardly
+creatures.
 --------------------------------
 [00000068][none]
-ジュリオ、かまれたのか？
-毒は？
-解毒剤はあるのか？
+Julio, were you bitten?  What about poison?  Is there an antidote?
 --------------------------------
 [00000069][none]
-軍服を貫通するほどの
-牙を持つヘビなんて
-そうそういませんよ
+There aren't many snakes with fangs that can penetrate military uniforms.
 --------------------------------
 [00000070][none]
-かまれてはいないよ
-ただ驚いて転んだだけだ
+I wasn't bitten. I was just startled and fell.
 --------------------------------
 [00000071][none]
-ん？　イテテ……
-足をやっちまったか
+Huh?　Itety... Did you damage your leg?
 --------------------------------
 [00000072][none]
-何だと!?
-衛生兵！
-ジュリオが大変だ！
+What!? Medic!  Julio is in trouble!
 --------------------------------
 [00000073][none]
-大げさに騒ぐなよ
-別にどうってことは……
+Don't make a big deal I don't really care...
 --------------------------------
 [00000074][none]
-タンカを持ってこい！
-ジュリオが骨折したぞ！
+Bring the thangka!  Julio has broken a bone!
 --------------------------------
 [00000075][none]
-してねえよ！
-ちょっとひねった程度だ
+Don't do that!  It's just a little twist.
 --------------------------------
 [00000076][none]
-じゃあ
-なんで座ってるんだ？
+Then Why are you sitting?
 --------------------------------
 [00000077][none]
-ちょっと疲れただけだって
-よっ……イテッ！
+It's just that I'm a little tired... That's it!
 --------------------------------
 [00000078][none]
-セルジュ！　タンカだ！
+Serge! It's Thangka!
 --------------------------------
 [00000079][none]
-いらねえって！
-たいしたことないから！
+I don't need it!  It's not a big deal!
 --------------------------------
 [00000080][none]
-まだしばらく歩くんだぞ？
-無理をしたら
-悪化するかもしれないだろ
+We still have to walk for a while, right?  If you force it it might get worse.
 --------------------------------
 [00000081][none]
-あのな
-オレの世話を焼いても
-メシの盛りは増やさんぞ？
+You know, Even if you take care of me, you won't get more food, right?
 --------------------------------
 [00000082][none]
-メシなんかどうでもいい！
-お前の足が心配なんだ！
+I don't care about food!  I'm worried about your feet!
 --------------------------------
 [00000083][none]
-騒ぐなって！
-みんな
-集まってきたじゃないか
+Don't make a fuss!  Everyone  They've all gathered, haven't they?
 --------------------------------
 [00000084][none]
-どうした№21？
-トラブルか
+What's wrong with No.21?  Is there a problem?
 --------------------------------
 [00000085][none]
-フェリクスが晩メシを
-大盛りにしろって
-ゴネただけだよ
+Felix just asked me to have a big dinner.
 --------------------------------
 [00000086][none]
-おい、ジュリオ！
+Hey, Julio!
 --------------------------------
 [00000087][none]
-いいから、黙ってろ
+Okay, shut up.
 --------------------------------
 [00000088][none]
-ふむ……分かった
-ちょうどいい
-ここで小休止にする
+Hmm...I see.  Just right  Let's take a short break here.
 --------------------------------
 [00000089][none]
-部隊、小休止！
+Troops, take a short break!
 --------------------------------
 [00000090][none]
-ふう、いいタイミングだぜ
+Huh, good timing.
 --------------------------------
 [00000091][none]
-もしかして……
-ジュリオのケガを
-気遣ってくれたのか？
+Maybe...  Julio's injury  Did you care?
 --------------------------------
 [00000092][none]
-タイミングが
-よかっただけだ
-それより№21
+The timing was just good More than that, №21
 --------------------------------
 [00000093][none]
-ん、何だ？
+Huh, what?
 --------------------------------
 [00000094][none]
-前方に偵察を出す
-君が行け
+Send scouts forward  You should go.
 --------------------------------
 [00000095][none]
-了解！
+Understood!
 --------------------------------
 [00000096][none]
-怪しいものは見逃すなよ
-こんな山道じゃ敵より
-ヘビに気をつけた方がいい
+Don't miss anything suspicious. On a mountain path like this, it's better to be
+careful of snakes than enemies. 
 --------------------------------
 [00000097][none]
-もう一度確認するが
-足は大丈夫なんだな？
+I'll check again Are your legs okay?
 --------------------------------
 [00000098][none]
-平気だって！
-別に撃たれたわけじゃ
-ないんだから！
+It's okay!  It's not like I was shot. It's not like I was shot!
 --------------------------------
 [00000099][none]
-……ならいいんだが
+It would be fine if...
 --------------------------------
 [00000100][none]
-こんな場所に
-怪しいものなんて
-あるわけねえか……
+There can't be anything suspicious in a place like this...
 --------------------------------
 [00000101][none]
-ん？　雨も降ってねえのに
-地面が柔らかくなってる
+Huh? Even though it's not raining, the ground is soft.
 --------------------------------
 [00000102][none]
-まさか……掘ってみるか
+No way... I'll try digging.
 --------------------------------
 [00000103][none]
-当たりか！
-帝国軍め、よくこんな道に
-地雷を埋めやがったな！
+You won!  The Imperial Army often goes this way.  You buried the mine!
 --------------------------------
 [00000104][none]
-さて……どうする？
+Now...what should we do?
 --------------------------------
 [00000105][none]
-前方に地雷原があったぞ！
+There's a minefield ahead!
 --------------------------------
 [00000106][none]
-分かった
+Got it
 --------------------------------
 [00000107][none]
-どうする？
-目の前には地雷原
-帝国軍はその向こうだ
+What should I do?  There's a minefield in front of me  The Imperial Army is on
+the other side.
 --------------------------------
 [00000108][none]
-このまま前進だ
-地雷は最小限の撤去作業で
-強攻突破する
+Continue to move forward With minimal removal of mines We will forcefully break
+through the landmines.
 --------------------------------
 [00000109][none]
-待てよ！
-このルートは
-警戒されてるってことだろ！
+Wait!  This route is being guarded !
 --------------------------------
 [00000110][none]
-別のルートへ回った方が
-安全なはずだ！
+It's probably safer to take a different route!
 --------------------------------
 [00000111][none]
-それでは峡谷に入るのが
-帝国軍より遅れる
-遠回りする時間はない
+Then we'll be later than the Imperial Army in entering the canyon. We won't have
+time to take a detour.
 --------------------------------
 [00000112][none]
-しかし！
+But!
 --------------------------------
 [00000113][none]
-敵はここを突破してくると
-思っていないなら
-むしろ好都合だ
+If you don't think the enemy will break through here, this is actually
+convenient.
 --------------------------------
 [00000114][none]
-ふざけるな！
-被害が出たら
-どうするつもりだ！
+Don't be silly!  If damage occurs What are you planning to do?
 --------------------------------
 [00000115][none]
-地雷撤去はやると言った
-迅速かつ正確にやれば
-最高の結果が得られる
+We said we would clear the mines If we do it quickly and accurately we will get
+the best results.
 --------------------------------
 [00000116][none]
-峡谷への到着が遅れたら
-帝国軍に先手を取られる
-それが最大の懸念事項だ
+If we arrive late at the canyon, the Imperial Army will take the initiative.
+That's our biggest concern.
 --------------------------------
 [00000117][none]
-お前の言うことは
-正論だってことぐらい
-俺にも分かるさ
+I can at least see that what you say is just.
 --------------------------------
 [00000118][none]
-だけどな！
-隊員の安全を優先しない
-やり方は納得できねえ！
+But!  I can't accept the way you don't prioritize the safety of the members !
 --------------------------------
 [00000119][none]
-……進路は変更しない
-地雷原は突破する
+...do not change course Break through the minefield
 --------------------------------
 [00000120][none]
-くっ……
+Damn...
 --------------------------------
 [00000121][none]
-納得いかねえ！
-あの野郎
-無茶いいやがって！
+I don't understand!  That bastard That's so reckless!
 --------------------------------
 [00000122][none]
-クルトだって考えて
-判断しているんだ
+Think of it as Kurt.  I'm making a judgment.
 --------------------------------
 [00000123][none]
-何の考えもなく
-無茶をする奴じゃない
-これまでもそうだったろ？
+I'm not someone who does something reckless without thinking.  It's always been
+like that, hasn't it?
 --------------------------------
 [00000124][none]
-それは分かってる
-だけどな……！
+I know that but...!
 --------------------------------
 [00000125][none]
-懲罰部隊に安全なんて
-ないんだよ
+There is no safety in the punishment squad.
 --------------------------------
 [00000126][none]
-それでも……
-俺はみんなに
-死んでほしくないんだ！
+Still...  I don't want everyone to die!
 --------------------------------
 [00000127][none]
-フェリクス……
+Felix...
 --------------------------------
 [00000128][none]
-お前、いい奴だな
+You're a nice guy.
 --------------------------------
 [00000129][none]
-え……？
+Huh...?
 --------------------------------
 [00000130][none]
-いい奴すぎて
-軍人に向いてないんだよ
+He's too nice to be a soldier.
 --------------------------------
 [00000131][none]
-俺は……！
+I...!
 --------------------------------
 [00000132][none]
-俺は料理人だ
-戦争をどうこう
-語るつもりはないが……
+I'm a chef  I'm not going to talk about the war But...
 --------------------------------
 [00000133][none]
-戦争ってのは安全第一で
-生き残れるものじゃ
-ないんじゃないか？
+Isn't war about safety first and survival?
 --------------------------------
 [00000134][none]
-クルトの指揮を見てると
-そう思うんだ、オレは
+Looking at Kurt's command  That's what I think.
 --------------------------------
 [00000135][none]
 ……
 --------------------------------
 [00000136][none]
-分かったよ！
-こうなったらやってやる！
+Got it!  If this happens, I'll do it!
 --------------------------------
 [00000137][none]
-俺が全員守ってみせりゃ
-いいんだろ！
+It's fine as long as I protect everyone!
 --------------------------------
 [00000138][none]
-え？
-どうしてそうなる!?
+Huh?  How can it be like that!?
 --------------------------------
 [00000139][none]
-どうしてもこうしてもねえ！
-地雷だろうが敵だろうが
-仲間は死なせねえぞ！
+I really can't do this!  Whether it's a mine or an enemy, I won't let my friends
+die!
 --------------------------------
 [00000140][none]
-絶対にな！
+Absolutely!
 --------------------------------
 [00000141][none]
-フェリクスがポテンシャル@fcFF008800「仲間の絆」@fciに
-目覚めました。
+Felix has awakened to the potential @fcFF008800 "Friendship Bonds" @fci.
 --------------------------------
 [00000142][none]
-勝った……
-みんな無事か！
+I won...  Is everyone safe?
 --------------------------------
 [00000143][none]
-おやフェリクス
-生きてたかい
+Hey Felix  Are you alive?
 --------------------------------
 [00000144][none]
-グロリア！
-ケガはないみたいだな
+Gloria!  Looks like there are no injuries.
 --------------------------------
 [00000145][none]
-帝国軍より先に現地に
-到着したのが勝因だね
-隊長の判断が正解さ
+Arriving at the site before the Imperial Army was the reason for our victory.
+The captain's decision was correct.
 --------------------------------
 [00000146][none]
-そうか
-そうかもな……
+I see. Maybe...
 --------------------------------
 [00000147][none]
-ところでアンタ
-ジュリオと
-一緒じゃなかったのかい？
+By the way, you and Giulio  Weren't you together?
 --------------------------------
 [00000148][none]
-ジュリオは
-まだ戻ってないのか！？
-……くっ！
+Julio isn't back yet! ?  ...Damn!
 --------------------------------
 [00000149][none]
-待ちな！
-どうするつもりだい!?
+Wait!  What are you planning to do!?
 --------------------------------
 [00000150][none]
-探しに行くに
-決まってるだろ！
+I'm sure you'll go find it!
 --------------------------------
 [00000151][none]
-帝国軍の別部隊が
-接近してるんだ
-探す時間なんてないよ！
+Another Imperial force is approaching We don't have time to search!
 --------------------------------
 [00000152][none]
-そんなもん、知るか！
+You know what?
 --------------------------------
 [00000153][none]
-フェリクス！
+Felix!
 --------------------------------
 [00000154][none]
-くそ、足が痛え……！
+Shit, my feet hurt...!
 --------------------------------
 [00000155][none]
-フェリクスの言った通りだ
-走ってるうちに
-悪化しやがった……
+It's just as Felix said It got worse while I was running...
 --------------------------------
 [00000156][none]
-敵が来たか！
-這って逃げても
-無駄だろうな……
+The enemy has arrived!  There's no point in crawling away ...
 --------------------------------
 [00000157][none]
-すまん、みんな
-もうメシは作って
-やれそうにねえ……
+Sorry, guys.  I've already made some food. I don't think I'll be able to do
+it...
 --------------------------------
 [00000158][none]
-ジュリオ！
+Julio!
 --------------------------------
 [00000159][none]
-フェリクス!?
-馬鹿野郎！
-どうして戻ってきたんだ！
+Felix!? You idiot!  Why did you come back?
 --------------------------------
 [00000160][none]
-よかった！
-生きてたんだな！
+Good!  You're alive!
 --------------------------------
 [00000161][none]
-人の話を聞けって！
-オレに構わず早く逃げろ！
+Listen to what people have to say!  Don't worry about me, run away quickly!
 --------------------------------
 [00000162][none]
-荷物は黙ってろ！
+Shut up, baggage!
 --------------------------------
 [00000163][none]
-に、荷物!?
+Baggage!?
 --------------------------------
 [00000164][none]
-歩けないんだろ？
-俺が担いで帰る！
-今からお前は荷物だ！
+You can't walk, right?  I'll carry it home!  From now on, you're a burden!
 --------------------------------
 [00000165][none]
-本気で言ってるのか!?
-オレはそんなに
-軽くないぞ？
+Are you serious?! I'm not that light, am I?
 --------------------------------
 [00000166][none]
-何のために軍で体を
-鍛えてたと思ってんだ！
-元正規軍をなめんじゃねえ！
+Why did you think I trained in the military?  Don't insult the former regular
+army!
 --------------------------------
 [00000167][none]
-担ぐぞ
-足は痛くないか？
+I'll carry you. Are your legs hurting?
 --------------------------------
 [00000168][none]
-大丈夫だ
-しかし馬鹿力だな
-オマエ……
+It's okay But you're stupid. You...
 --------------------------------
 [00000169][none]
-よし、行くぜ！
+Okay, let's go!
 --------------------------------
 [00000170][none]
-無茶しやがって
-あんなにクルトには
-文句を言ってたくせに
+That's ridiculous  Even though you complained about Kurt so much 
 --------------------------------
 [00000171][none]
-無茶をさせるのは大嫌いだ
-でも俺が無茶をするのは
-いいんだ！
+I hate doing things unreasonably.  But I'm being reckless.  It's okay!
 --------------------------------
 [00000172][none]
-理屈もへったくれも
-ねえな……もう
+I don't have any logic or clumsiness... anymore.
 --------------------------------
 [00000173][none]
-俺はな、前の大戦で
-家族を亡くしたんだ
-親も兄妹も、じいさんもな
+I lost my family in the last war. My parents, my siblings, and my grandfather.
 --------------------------------
 [00000174][none]
 ……
 --------------------------------
 [00000175][none]
-俺にとって
-仲間は家族なんだよ
+To me, my friends are family.
 --------------------------------
 [00000176][none]
-家族は絶対に守る
-ガキの頃にそう決めたんだ
+I will always protect my family I decided that when I was a kid.
 --------------------------------
 [00000177][none]
-そうだったのか……
+Is that so...
 --------------------------------
 [00000178][none]
-だからあんなに
-仲間を大事にして……
+That's why you value your friends so much...
 --------------------------------
 [00000179][none]
-よし、飛ばすぜ！
-しっかり掴まってろよ！
+Okay, let's fly!  Hold on tight!
 --------------------------------
 [00000180][none]
-おい!?
-まだスピード出るのかよ!?
+Hey!? Are you still getting faster!?
 --------------------------------
 [00000181][none]
-言っただろ
-俺が無茶するのはいい
-ってな！
+I told you it's okay for me to be reckless!
 --------------------------------
 [00000182][none]
-あっ、フェリクスさんが
-戻ってきましたよ！
+Ah, Felix-san is back!
 --------------------------------
 [00000183][none]
-ジュリオさんを
-担いで走ってきます！
+I'm running carrying Julio-san on my shoulders!
 --------------------------------
 [00000184][none]
-やれやれ、まったく
-しょうがない男だねえ……
+Wow, that's a totally hopeless guy...
 --------------------------------
 [00000185][none]
-もうすぐだぞ、ジュリオ！
+Almost there, Julio!
 --------------------------------
 [00000186][none]
-本当に逃げ切りやがった
-ったく、なんて奴だ……！
+What kind of guy really managed to escape...!
 --------------------------------
 [00000187][none]
-楽勝だっての！
-俺にとっちゃ
-仲間が力の源だからな！
+It's an easy win!  My friends are my source of strength!
 --------------------------------

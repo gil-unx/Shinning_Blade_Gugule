@@ -1,32 +1,28 @@
 [0007]
 *****************
 [00000000][クララクラン,クララクラン,クララクラン]
-そこまでです！
-それ以上の侵略行為は、わたくしたちが許しません！
+That's it!  We will not tolerate further acts of aggression!
 --------------------------------
 [00000001][レイジ,レイジ,レイジ]
-オレたちが来た以上、お前たちに勝ち目はねえ！
-さっさと降参しろ！　……って、そんな簡単に
-言うことを聞く連中じゃねえよな……。
+Now that we're here, there's no chance for you to win!  Surrender
+now!　...They're not the kind of people who listen to what you say so easily...
 --------------------------------
 [00000002][刃九郎,,刃九郎]
-そのようだな。
-ここは拙者たちの力を示して追い払うしかあるまい。
-いくぞ！　各自、油断するなよ!?
+It seems so.  We have no choice but to show our strength and chase them away. 
+Let's go! Everyone, don't let your guard down!?
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-よし、なんとか敵を撃退したな。
-クララ姫、刃九郎さん！　無事か!?
+Okay, you managed to repel the enemy.  Princess Clalaclan, Mr. Hakuro! Are you
+okay!?
 --------------------------------
 [00000004][クララクラン,クララクラン,クララクラン]
-はい、わたくしも兵たちも無事です。
+Yes, I and my soldiers are safe.
 --------------------------------
 [00000005][刃九郎,,刃九郎]
-拙者も心配ない。
-ベスティアにも大きな被害はないようだ。
+I don't have to worry either.  There doesn't seem to be any major damage to
+Bestia.
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-そうか、よかったな。
-ベスティアの人々も、２人には感謝してる
-だろうな。
+Yeah, that's good.  I'm sure the people of Bestia are also grateful to these
+two. 
 --------------------------------

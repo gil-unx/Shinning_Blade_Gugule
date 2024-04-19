@@ -1,733 +1,565 @@
 [0386]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1８月１日、ガリア軍は中部ガリア戦線を北へ押し上げることに成功
-スメイク、アインドンを奪還し、中部の重要な補給路を遮断する
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1On August 1st, the Gallic army succeeded in pushing the Central Gallic front northward
+Recaptured Smeik and Eindon, cutting off the important supply route in the central region.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1これにより、帝国軍の中部と北部の中継が分断され
-守りの堅いファウゼンを攻略する糸口が見えはじめるのだった
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1As a result, the Imperial Army's central and northern relay routes were separated.
+A clue to capturing the heavily defended Fausen began to appear.
 --------------------------------
 [00000002][none]
-@fcFFFFF5F0@dc9F000000@db2@dt1@lt1その頃、ネームレスはユエル市から新たな地へ向かう準備を開始
-逃走生活は続く
+@fcFFFFF5F0@dc9F000000@db2@dt1@lt1Meanwhile, Nameless begins preparations to leave Yuel City for a new place
+The life on the run continues.
 --------------------------------
 [00000003][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　８月上旬　ユエル市
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seireki 1935 Early August Yuel City
 --------------------------------
 [00000004][none]
-そろそろユエル市とは
-おさらばか
+It's time to say goodbye to Yuel City, idiot.
 --------------------------------
 [00000005][none]
-さすがに市内で交戦したら
-情報がガリア軍に
-伝わっちまうからな
+If we engage in a battle in the city, the information will be passed on to the
+Gallic army.
 --------------------------------
 [00000006][none]
-クルト、ユエル市を出たら
-どこへ向かうの？
+Kurt, where will you go when you leave Yuel City?
 --------------------------------
 [00000007][none]
-まずは部隊が
-戦うための態勢を
-整える必要がある
+First, we need to prepare our troops for battle.
 --------------------------------
 [00000008][none]
-それと情報だ
-戦況を把握して
-ガリア軍との接触を避け
+And information Understand the war situation Avoid contact with the Gallic army.
 --------------------------------
 [00000009][none]
-帝国軍を攻撃する
-あくまでも第一の敵は
-帝国軍だ
+Attack the Imperial Army The primary enemy is The Imperial Army.
 --------------------------------
 [00000010][none]
-情報収集はおれが
-やれるだけやってみる
-趣味と実益を兼ねてな
+I collect information I try to do as much as I can for both hobby and practical
+benefit.
 --------------------------------
 [00000011][none]
-頼む、アルフォンス
+Please, Alphonse.
 --------------------------------
 [00000012][none]
-兵站の確保は
-わたしの仕事ですね
+Securing the logistics is my job.
 --------------------------------
 [00000013][none]
-戦火にさらされていない
-ガリア南西部に行けば
-物資を入手しやすいですよ
+If you go to southwestern Gaul, which is not exposed to war, it will be easier
+to get supplies.
 --------------------------------
 [00000014][none]
-そうだな、戦線からは
-一度離れるのが賢明だ
+That's right, it's wise to leave the front line once.
 --------------------------------
 [00000015][none]
-しんどい旅だな……
+It's a tough journey...
 --------------------------------
 [00000016][none]
-無能な司令部に
-突撃させられるのと
-どっちがマシだろうね
+Which would be better: being attacked by an incompetent command center?
 --------------------------------
 [00000017][none]
-イヤな選択だな
-どっちも……
+That's a bad choice Both...
 --------------------------------
 [00000018][none]
-次の目的地は南西の
-メルフェア市にしよう
+The next destination is Melfair City in the southwest.
 --------------------------------
 [00000019][none]
-メルフェア市には
-自警団がいて、ガリア軍は
-駐留してないんだったな
+There is a vigilante group in Melfair City, and the Gallic army is not stationed
+there.
 --------------------------------
 [00000020][none]
-しばらく
-滞在できるといいね
+I hope you can stay for a while 
 --------------------------------
 [00000021][none]
-アンタ、何で帰ってきたの？
+Hey, why did you come back?
 --------------------------------
 [00000022][none]
-戦力を失った
-申し訳ない
+I'm sorry for losing my strength.
 --------------------------------
 [00000023][none]
-そうじゃなくて！
-戻ってこられても
-困るって言ってんの！
+That's not it!  Are you saying you won't be in trouble even if you come back?
 --------------------------------
 [00000024][none]
-リディア
-冷静さを失うとは
-お前らしくないな
+Lydia It's not like you to lose your cool 
 --------------------------------
 [00000025][none]
-当然でしょう！
-コイツが戻ってくる
-理由がないんだから！
+Of course!  There's no reason for him to come back!
 --------------------------------
 [00000026][none]
-俺はカラミティ・
-レーヴェンの一員だ
-戻る理由が他に必要か？
+I am Calamity A member of Raven. Do I need another reason to return?
 --------------------------------
 [00000027][none]
-わざと兵と戦車だけを
-失ってきたんでしょ？
-自白しないと拷問するわよ？
+You only lost soldiers and tanks on purpose, right?  If you don't confess, I'll
+torture you, okay?
 --------------------------------
 [00000028][none]
-任務は偵察ではなく
-攻撃任務だった
-犠牲が出るのは仕方がない
+The mission was an attack mission, not a reconnaissance mission. There will be
+casualties.
 --------------------------------
 [00000029][none]
-開き直るつもり!?
+Are you planning to open up again?
 --------------------------------
 [00000030][none]
-リディア
-グスルグをわずかな兵力で
-出撃させたそうだな？
+I heard that Lydia Gusrug was dispatched with a small number of troops?
 --------------------------------
 [00000031][none]
-何よ、問題ある？
+What, is there a problem?
 --------------------------------
 [00000032][none]
-部下の行動結果は
-上官の責任だ
-忘れてはいまいな？
+Don't forget that the results of your subordinate's actions are the
+responsibility of your superiors.
 --------------------------------
 [00000033][none]
-スパイの責任まで
-とってらんないわよ！
+I don't even want to take responsibility for being a spy!
 --------------------------------
 [00000034][none]
-俺はスパイじゃない
+I'm not a spy
 --------------------------------
 [00000035][none]
-証明できるの？
-できるならしてみなさいよ！
+Can you prove it?  If you can, try it!
 --------------------------------
 [00000036][none]
-ダハウ様、オレもまだ
-敵だった者が味方にいる
-感覚に慣れません
+Dear Dahau, I still can't get used to the feeling of having someone who was my
+enemy on my side.
 --------------------------------
 [00000037][none]
-ふむ……
+Hmm...
 --------------------------------
 [00000038][none]
-『空を見ろ』と言えば
-分かってもらえるか？
+If I say, ``Look at the sky,'' Will they understand?
 --------------------------------
 [00000039][none]
-それは……！
+That's...!
 --------------------------------
 [00000040][none]
-何なのよ？
-空を見たら
-答えでも書いてあるわけ？
+What is it?  If you look at the sky Is the answer written there?
 --------------------------------
 [00000041][none]
-何のしがらみもない
-自由な空に
-ダルクス人の魂はある……
+The soul of the Darcian lives in the free sky without any constraints...
 --------------------------------
 [00000042][none]
-過去や環境に囚われず
-前を向いて進めという
-ダルクス人の格言だ
+It's a Darcian saying to move forward without getting caught up in the past or
+environment 
 --------------------------------
 [00000043][none]
-これはダルクス人が代々
-受け継いできた精神……
-心の有りようでな
+This is the spirit that the Darcians have inherited from generation to
+generation... It's like their heart.
 --------------------------------
 [00000044][none]
-我々の求める独立とは
-国家や立場を越えて
+The independence we seek beyond nation and position.
 --------------------------------
 [00000045][none]
-全ダルクス人が
-共に目指すものだ
+This is what all Darxians aim for together.
 --------------------------------
 [00000046][none]
-グスルグは私の理念を
-よく理解している
+Gusrug understands my philosophy very well.
 --------------------------------
 [00000047][none]
-ジグ、ガリアや連邦に
-属するダルクス人は
-我らの敵か？
+Zig, are the Dalxians belonging to Gaul and the Federation our enemies?
 --------------------------------
 [00000048][none]
-違います！
-共に独立を目指すべき
-同胞です！
+No!  We are compatriots who should aim for independence together!
 --------------------------------
 [00000049][none]
-グスルグもそのひとりだ
-彼はガリアへの帰属を捨て
-独立を目指す戦士となった
+Gusrug is one of them He abandoned his belonging to Gaul He became a warrior
+aiming for independence.
 --------------------------------
 [00000050][none]
-分かります、ダハウ様！
+I understand, Mr. Dahau!
 --------------------------------
 [00000051][none]
-アタシには
-全然分かんない！
+I don't understand at all!
 --------------------------------
 [00000052][none]
-結果を出せばリディアも
-認めてくれるのだろう？
+If I produce results, Lydia will approve, right?
 --------------------------------
 [00000053][none]
-本当に元の仲間を
-やれるっていうの？
+Do you really think you'll be able to return to your former comrades?
 --------------------------------
 [00000054][none]
-ネームレスは今
-補給不足で弱っている
+Nameless is currently weakened due to lack of supplies.
 --------------------------------
 [00000055][none]
-それに
-ヴァルキュリアの存在は
-確かに脅威だが
+Besides, the existence of Valkyria is certainly a threat.
 --------------------------------
 [00000056][none]
-まだあの力を
-自由に使えるわけでは
-ないようだ
+It doesn't seem like I can use that power freely yet.
 --------------------------------
 [00000057][none]
-ほう、それは興味深いな
+Hmm, that's interesting.
 --------------------------------
 [00000058][none]
-ネームレスを叩くなら
-今がチャンスだ
-すぐに再攻撃した方がいい
+If you want to attack Nameless, now is your chance. You'd better attack again
+right away.
 --------------------------------
 [00000059][none]
-元・仲間を相手に
-容赦ないのね
-どうせ口だけでしょうけど！
+You're so merciless towards your former friends. It's all just talk anyway!
 --------------------------------
 [00000060][none]
-俺にとっては
-過去の仲間より
-未来の理想の方が大切だ
+For me, my future ideals are more important than my past friends.
 --------------------------------
 [00000061][none]
-独立実現のためなら
-俺は喜んで
-彼らを殺すつもりだ
+I'm willing to kill them for independence.
 --------------------------------
 [00000062][none]
-グスルグ……
+Gusrug...
 --------------------------------
 [00000063][none]
-理想は語るだけでなく
-行動で証明しなくてはな
-お前の働きに期待するぞ
+Your ideals don't just need to be talked about. You have to prove them with your
+actions. I look forward to your work.
 --------------------------------
 [00000064][none]
-はっ！
+Ha!
 --------------------------------
 [00000065][none]
-はあ……ダルクス人の
-考えることって
-やっぱり分かんないわ
+Sigh... I still don't understand what the Dalxians think 
 --------------------------------
 [00000066][none]
-ああもう！
-居心地の悪い……！
+Oh already!  It's uncomfortable...!
 --------------------------------
 [00000067][none]
-現状を整理しよう
-話を聞いてくれ
+Let's sort out the current situation Please listen to me.
 --------------------------------
 [00000068][none]
-ガリア軍は追討部隊を
-南部に派遣してくると予想される。
+The Gallic army is expected to send a pursuit force to the south.
 --------------------------------
 [00000069][none]
-我々はそれを振り切る形で南西へ進むしかない。
+We have no choice but to shake it off and move southwest.
 --------------------------------
 [00000070][none]
-南部方面はガリア軍、
-帝国軍ともに数が少ないはずだ。
+In the southern area, both the Gallic army and the Imperial army should be small
+in number.
 --------------------------------
 [00000071][none]
-南西には以前立ち寄ったメルフェア市がある。物資も
-残り少ない。ここでできる限りの補給を行う予定だ。
+To the southwest is Melfair City, where I stopped before. There are not many
+supplies left. We plan to replenish as much as we can here.
 --------------------------------
 [00000072][none]
-メルフェア市での補給がままならない状況ならば
-さらに南下し、アントホルトを目指す。
+If supplies are not available in Melfair City, we will head further south and
+aim for Antholt.
 --------------------------------
 [00000073][none]
-物資が尽きたらこの先、行動のしようがない。
+If supplies run out, there is nothing you can do from now on.
 --------------------------------
 [00000074][none]
-補給の確保を第一に考えつつ、
-ガリア軍の追撃を振り切るぞ。
+We will shake off the pursuit of the Gallic army while thinking first about
+securing supplies.
 --------------------------------
 [00000075][none]
-各自警戒を怠らないように
-では行くぞ
+Please be on your guard Let's go.
 --------------------------------
 [00000076][none]
-武器弾薬の補給や
-戦車の修理は
-完了したみたいですよ！
+It looks like the replenishment of weapons and ammunition and repair of the tank
+have been completed!
 --------------------------------
 [00000077][none]
-ありがとう
-世話になった
+Thank you Thank you for your help.
 --------------------------------
 [00000078][none]
-最後に
-健康診断をしましょう
+Finally, Let's do a health check.
 --------------------------------
 [00000079][none]
-リ・エ・ラ・さん！
+R-E-R-san!
 --------------------------------
 [00000080][none]
-えっ？　私!?
+Huh? I!?
 --------------------------------
 [00000081][none]
-あまり顔色がよくないから
-気になってたんですよね
-さあ、診せて診せて！
+I was worried because your complexion doesn't look very good. Come on, let me
+check you out!
 --------------------------------
 [00000082][none]
-でも……
+But...
 --------------------------------
 [00000083][none]
-わたし、これでも
-医学志望なんですから！
-心配しないで！
+I still want to go into medicine!  Don't worry!
 --------------------------------
 [00000084][none]
-う、うん
-それじゃ……お願いするね
+U-Yeah Then...I'll ask you.
 --------------------------------
 [00000085][none]
-どうかな……？
+I wonder...?
 --------------------------------
 [00000086][none]
-ふむふむ、だいぶ疲労が
-たまってますね
+Hmm, I'm feeling pretty tired.
 --------------------------------
 [00000087][none]
-体より精神的な疲労が
-強いんじゃないですか？
+Isn't mental fatigue stronger than physical fatigue?
 --------------------------------
 [00000088][none]
-そうなのかな？
+Is that so?
 --------------------------------
 [00000089][none]
-女性は心の疲れが
-顔に出るのです！
+Women's mental fatigue shows on their faces!
 --------------------------------
 [00000090][none]
-クルトさん、リエラさんを
-いつでもちゃんと
-見てあげてくださいね
+Kurt-san, please keep an eye on Riera-san at all times.
 --------------------------------
 [00000091][none]
-ああ、そうする
-リエラ、顔を
-よく見せてくれ
+Oh, I do. Riera, please show me your face.
 --------------------------------
 [00000092][none]
-いっ、いいよクルト！
-そんなに真剣に見られたら
+It's okay, Kurt!  If you look at me that seriously
 --------------------------------
 [00000093][none]
-困っちゃうよ……
+I'm in trouble...
 --------------------------------
 [00000094][none]
-そうなのか？
+Is that so?
 --------------------------------
 [00000095][none]
-う、うん……
+Uh, yeah...
 --------------------------------
 [00000096][none]
-心の準備とかあるじゃない
-心の準備とか……もう
+There is such a thing as mental preparation. There is such a thing as mental
+preparation...
 --------------------------------
 [00000097][none]
-大事にしてもらってね
-リエラさん！
+Please take good care of yourself Riera-san!
 --------------------------------
 [00000098][none]
-ヴァールがどこにもない！
+Var is nowhere to be found!
 --------------------------------
 [00000099][none]
-バール？
-バールなら工具箱に
-入ってるはずだけど？
+crowbar?  If it's a crowbar, it should be in the tool box, right?
 --------------------------------
 [00000100][none]
-ヴァールだ！
-バールじゃない！
+Var!  It's not a crowbar!
 --------------------------------
 [00000101][none]
-え？　え？
+Huh? picture?
 --------------------------------
 [00000102][none]
-ヴァールは自分が整備する！
-誰にも触らせたくない！
+I will maintain the var!  I don't want anyone to touch it!
 --------------------------------
 [00000103][none]
-きっと誰かが好意で
-手入れしてくれたんだろう
-感謝すべきだぞ
+I'm sure someone took care of it for you You should be grateful.
 --------------------------------
 [00000104][none]
-余計なお世話だ！
-気に入らない！
+Thank you for your help!  I don't like it!
 --------------------------------
 [00000105][none]
-ユエル市民の
-好意がなければ
+Without the goodwill of Yuel citizens
 --------------------------------
 [00000106][none]
-武器の整備はおろか
-まともな食料も
-手に入らなかった
+We couldn't even get proper food, let alone maintain weapons.
 --------------------------------
 [00000107][none]
-今頃、野生のキノコで
-食いつないでいたかも
-しれないぞ
+They might have been eating wild mushrooms by now.
 --------------------------------
 [00000108][none]
-きっ……!?
+Ki...!?
 --------------------------------
 [00000109][none]
-分かったか？
+Got it?
 --------------------------------
 [00000110][none]
-それは……
-感謝しなければならない
+That's... I have to thank you.
 --------------------------------
 [00000111][none]
-あの、私たちが
-気を悪くさせたなら
-ごめんなさい
+Um, I'm sorry if we offended you.
 --------------------------------
 [00000112][none]
-こちらこそ、すまない
+I'm sorry.
 --------------------------------
 [00000113][none]
-キノコ……圧倒的だわ！
+Mushrooms...it's overwhelming!
 --------------------------------
 [00000114][none]
-俺達はこれから
-メルフェア市ヘ向かう
+We are now heading to Melfair City.
 --------------------------------
 [00000115][none]
-はい！
-どうぞご無事で！
+Yes!  Please be safe!
 --------------------------------
 [00000116][none]
-コゼット
-いろいろとありがとう
-元気でね
+Cosette Thank you for everything I hope you're well.
 --------------------------------
 [00000117][none]
-みなさんもお元気で！
+Hope everyone is doing well!
 --------------------------------
 [00000118][none]
-よし、できたっ！
-これをクルトに……ふふっ
+Okay, done!  Give this to Kurt...hehe
 --------------------------------
 [00000119][none]
-できた……これなら
-邪魔にはならない、はず
+It's done... It shouldn't get in the way.
 --------------------------------
 [00000120][none]
-ガリア軍の追撃部隊は
-おそらく２日以内に
-ユエル市に来るだろう……
+The Gallic pursuit force will probably arrive in Yuel City within two days...
 --------------------------------
 [00000121][none]
-あら、隊長はひとりなの？
-今日は贈り物攻めに
-されてると思ったのに
+Oh, is the captain alone?  I thought you were being bombarded with gifts today 
 --------------------------------
 [00000122][none]
-精霊節のことか？
+Are you talking about the Spirit Festival?
 --------------------------------
 [00000123][none]
-そう、今日は
-ガリアに住む妖精や
-精霊達が愛を交わす日
+Yes, today is the day when fairies and spirits living in Gaul make love.
 --------------------------------
 [00000124][none]
-それにあやかって
-好きな人に贈り物をすると
-うまくいくという風習よ
+It's a custom that if you give a gift to someone you like, it will go well.
 --------------------------------
 [00000125][none]
-これがいつ頃慣習化したか
-諸説あって、興味深い
-研究テーマなんだけどね
+There are various theories about when this became a custom, so it's an
+interesting research topic.
 --------------------------------
 [00000126][none]
-……俺は妖精や精霊の
-実在を信じていない
-精霊節には興味がないんだ
+...I don't believe in the existence of fairies and spirits. I'm not interested
+in the spirit festival.
 --------------------------------
 [00000127][none]
-あのね、私に言うのは
-いいけど、興味ないとか
-他の子には言っちゃダメよ？
+You know, it's okay to tell me, but you can't tell other kids that you're not
+interested, right?
 --------------------------------
 [00000128][none]
-なぜだ？
+Why?
 --------------------------------
 [00000129][none]
-……ああなっちゃうから
+...That's what happens.
 --------------------------------
 [00000130][none]
-……！
+……!
 --------------------------------
 [00000131][none]
-はは、そうですよね
-クルトさんは
-そういう人ですもんね……
+Haha, that's right Kurt-san is that kind of person...
 --------------------------------
 [00000132][none]
-贈り物というのは
-気持ちだから、ね？
+A gift is a feeling, right?
 --------------------------------
 [00000133][none]
-それは、分かる
+I understand that.
 --------------------------------
 [00000134][none]
-贈らなくてもいいから
-ちゃんと
-受けとってあげるのよ？
+You don't have to give it to me, just accept it.
 --------------------------------
 [00000135][none]
-ああ、そうする
+Oh, I will.
 --------------------------------
 [00000136][none]
-……結局
-誰も贈り物なんて
-持ってこなかったな
+...In the end, no one brought any gifts.
 --------------------------------
 [00000137][none]
-クルト、起きてる？
+Kurt, are you awake?
 --------------------------------
 [00000138][none]
-リエラか、どうぞ
+Riera, please.
 --------------------------------
 [00000139][none]
-あのね、どうしようかって
-迷ってたんだけど
-来ちゃった
+You know, I was wondering what to do, but here I come.
 --------------------------------
 [00000140][none]
-迷うって、何が？
+What do you mean by getting lost?
 --------------------------------
 [00000141][none]
-精霊節の贈り物よ
-クルトはそういうの
-好きじゃないかなって……
+It's a gift for the Spirit Festival I think Kurt would like that kind of
+thing...
 --------------------------------
 [00000142][none]
-だから、精霊節とは
-関係なしで
-明日にしようと思ったの
+That's why I decided to do it tomorrow without anything to do with the Spirit
+Festival.
 --------------------------------
 [00000143][none]
-だけど、それじゃやっぱり
-気持ちが伝わらないよね？
+But that doesn't really convey your feelings, right?
 --------------------------------
 [00000144][none]
-だから、あの
-これ、なんだけど
+So,  what is this?
 --------------------------------
 [00000145][none]
-これは、すごいな
-リエラが作ったのか？
+This is amazing Did Riera make it?
 --------------------------------
 [00000146][none]
-花冠を編むのは子どもの頃に
-よくやった遊びなの
-役に立ったかな？
+Weaving flower crowns was a game I used to play when I was a child. Did you find
+it useful?
 --------------------------------
 [00000147][none]
-カモミールにセージ
-ミント、タイムに
-ラベンダーもある
+chamomile, sage mint, thyme and lavender
 --------------------------------
 [00000148][none]
-驚いたな、こうして見ると
-見慣れたハーブが
-美しい花だったと気付く
+I was surprised. When I looked at it like this, I realized that the familiar
+herb was actually a beautiful flower.
 --------------------------------
 [00000149][none]
-ねえ、これを
-頭に乗せてみて？
+Hey, why don't you try putting this on your head?
 --------------------------------
 [00000150][none]
-分かった、じゃあ……
+Okay, then...
 --------------------------------
 [00000151][none]
-えっ？
+Huh?
 --------------------------------
 [00000152][none]
-うん、よく似合う
+Yeah, it looks good on you.
 --------------------------------
 [00000153][none]
-クルトってば、これは
-クルトへの贈り物なのよ？
+Speaking of Kurt, this is a gift for Kurt, right?
 --------------------------------
 [00000154][none]
-俺はこれを
-頭に乗せたリエラが
-見たかったんだ
+I wanted to see Riera with this on her head.
 --------------------------------
 [00000155][none]
-あ……う
+Ah...uh
 --------------------------------
 [00000156][none]
-素晴らしい贈り物は
-より素晴らしく
-使われるべきだろう？
+A great gift should be used more wonderfully, right?
 --------------------------------
 [00000157][none]
-やだ、もう……
-恥ずかしいよ
+No, it's already... It's embarrassing.
 --------------------------------
 [00000158][none]
-いい贈り物だ
-ありがとう、リエラ
+That's a nice gift Thank you, Liela.
 --------------------------------
 [00000159][none]
-喜んでくれたのは
-嬉しいけど
-いいのかな、これで……？
+I'm glad that you liked it, but I wonder if this is okay...?
 --------------------------------
 [00000160][none]
-０時か……てことは……
+It's 0 o'clock... That means...
 --------------------------------
 [00000161][none]
-まだ、眠ってないか？
+Are you still asleep?
 --------------------------------
 [00000162][none]
-イムカか
-こんな時間にどうした？
+Imuka? What are you doing at this hour?
 --------------------------------
 [00000163][none]
-これ、返すのを忘れていた
-すっ……少し変わったが
-問題は、無い……？
+I forgot to return this So... it's a little strange, but there's no problem...?
 --------------------------------
 [00000164][none]
-これは、俺の部屋から
-イムカに貸した毛布か？
+Is this the blanket I lent Imka from my room?
 --------------------------------
 [00000165][none]
-この模様は
-確かダルクスの……
-イムカが入れたのか？
+This pattern is Darkus's... Did Imka put it in?
 --------------------------------
 [00000166][none]
-縫い物は苦手ではない
+I'm not bad at sewing
 --------------------------------
 [00000167][none]
-ただ、その……自分には
-センスが、無い……
+But... I don't have any sense...
 --------------------------------
 [00000168][none]
-だから
-その模様しか、できない
+That's why I can only do that pattern.
 --------------------------------
 [00000169][none]
-嫌だったら
-捨てても構わない
+If you don't like it you can throw it away.
 --------------------------------
 [00000170][none]
-見事なものじゃないか
-ありがとう、大事にする
+Isn't it wonderful? Thank you, I'll take care of it.
 --------------------------------
 [00000171][none]
-精霊節の贈り物として
-作ってくれたんだろう？
+I guess you made it for me as a gift for Spirit Festival, right?
 --------------------------------
 [00000172][none]
-ちっ、違う……今日はもう
-精霊節の次の日だし
-それは返却物だ
+Tch, no... it's already the day after Spirit Festival It's a return item.
 --------------------------------
 [00000173][none]
-贈り物ではない……
+It's not a gift...
 --------------------------------
 [00000174][none]
-この部屋の時計は
-１０分進んでるから
-今はまだ精霊節だ
+The clock in this room is 10 minutes ahead so it's still Spirit Day.
 --------------------------------
 [00000175][none]
-それにこの毛布は
-おろしたての新品に
-手を加えてある
+And this blanket is new and has been retouched.
 --------------------------------
 [00000176][none]
-俺の部屋にあったものとは
-違うから
-返却物とはいえないな
+It's different from the one in my room, so I can't call it a returned item.
 --------------------------------
 [00000177][none]
 ……!!
@@ -736,876 +568,647 @@
 ……
 --------------------------------
 [00000179][none]
-……お前には、かなわない
+...I can't match you
 --------------------------------
 [00000180][none]
-ダハウめ
-ヴァルキュリアを
-仕留めそこねたか
+Dahau You failed to kill Valkyria 
 --------------------------------
 [00000181][none]
-……とはいえ、所在を
-掴むまでの首尾は
-見事と言ってよい
+...However, the success in finding the whereabouts can be said to be admirable.
 --------------------------------
 [00000182][none]
-相手はあの
-ヴァルキュリアだ
-慎重になるのもやむなしか
+The opponent is that Valkyria There's no choice but to be cautious.
 --------------------------------
 [00000183][none]
-今後はアイスラーと
-情報を共有させて
-追い詰めるとしよう
+From now on, let's share information with Eisler and corner him.
 --------------------------------
 [00000184][none]
-天に戻ってもらうぞ
-ヴァルキュリア……
-ふふふ！
+I'll have you return to heaven Valkyria... Hehehe!
 --------------------------------
 [00000185][none]
-……ふむ、カラミティ・
-レーヴェンと情報を共有し
-追撃を強化せよ、か
+...Hmm, let's share the information with Calamity Raven and strengthen our
+pursuit.
 --------------------------------
 [00000186][none]
-確かに、ネームレスを
-追い詰めるには有効だ
+It's certainly effective in cornering Nameless.
 --------------------------------
 [00000187][none]
-しかし、動きすぎては
-ガリア軍内で目立つ
-危険性もある
+However, there is a risk of standing out among the Gallic army if you move too
+much.
 --------------------------------
 [00000188][none]
-だが、あのダハウとかいう
-ダルクス人に手柄を
-やるわけにはいかん
+But I can't give credit to that Darcian named Dachau.
 --------------------------------
 [00000189][none]
-何としてもこの手で
-ネームレスを葬らねば……！
+I have to kill Nameless no matter what...!
 --------------------------------
 [00000190][none]
-カラミティからの情報では
-ヴァルキュリアの力は
-自由に使えない、とあるな
+According to information from Calamity, Valkyria's power cannot be used freely .
 --------------------------------
 [00000191][none]
-ならば南部への
-兵力を増強し
-手数で攻めるのが上策だ
+In that case, it would be a good idea to increase the military force to the
+south and attack with fewer moves.
 --------------------------------
 [00000192][none]
-アーヴィング
-君はよく抵抗したが
-そろそろお終いだ……
+Irving You resisted well It's almost over...
 --------------------------------
 [00000193][none]
-メルフェア市に
-到着ですよ！
+We have arrived at Melfair City!
 --------------------------------
 [00000194][none]
-以前、巨大戦車に
-襲われた被害から
-少しだけ復旧しているのね
+You've recovered a little from the damage you were attacked by a giant tank
+before.
 --------------------------------
 [00000195][none]
-復旧じゃないぜ、復興だ！
-前より立派な街にしようと
-みんな頑張ってるんだ！
+It's not recovery, it's reconstruction!  Everyone is working hard to make the
+city better than before!
 --------------------------------
 [00000196][none]
-あ、君は……
+Oh, you...
 --------------------------------
 [00000197][none]
-アバン・ハーデンスだ
-俺のこと、覚えてるか？
+This is Avan Hardens Do you remember me?
 --------------------------------
 [00000198][none]
-当然だ
-それに、あれから
-ある人物にも出会ったしな
+Of course. Besides, I met someone since then.
 --------------------------------
 [00000199][none]
-ある人物？
+Someone?
 --------------------------------
 [00000200][none]
-レオン・ハーデンスと
-共に戦ったよ
+I fought alongside Leon Hardens.
 --------------------------------
 [00000201][none]
-兄さんと会ったのか!?
-どうだった、俺の兄さんは！
-すごかったろ？
+Did you meet my brother!? How was my brother?  Wasn't it amazing?
 --------------------------------
 [00000202][none]
-君が言った通りの男だった
-あんなに頼もしい義勇兵は
-そうそういない
+He was exactly what you said. There aren't many volunteer soldiers who are that
+reliable. 
 --------------------------------
 [00000203][none]
-だろ？
-それで、俺のこと
-伝えてくれたか？
+Right?  So, did you tell me about me?
 --------------------------------
 [00000204][none]
-アバンが
-元気じゃないわけがないと
-笑っていたよ
+Avan was laughing and thinking there was no way he wasn't feeling well.
 --------------------------------
 [00000205][none]
-そうか……へへっ！
+I see...hehe!
 --------------------------------
 [00000206][none]
-何だ!?
+What!?
 --------------------------------
 [00000207][none]
-まさか
-もう捕捉されたのか？
+Could it be that it has already been captured?
 --------------------------------
 [00000208][none]
-報告する！
-ガリア軍部隊が
-市内に入った
+Report!  Galian troops have entered the city.
 --------------------------------
 [00000209][none]
-指示を頼む！
+Ask for instructions!
 --------------------------------
 [00000210][none]
-早すぎるわね
-こんなに早く
-動けるものなのかしら？
+That's too fast Is it possible to move this fast ?
 --------------------------------
 [00000211][none]
-正規軍め！
-これぐらいの動きを
-帝国軍相手にやれっての！
+Regular army!  A move like this You can't do it against the Imperial Army!
 --------------------------------
 [00000212][none]
-待ってくれ！
-正規軍て、あんた達
-何と戦ってるんだ？
+Wait!  Regular army, what are you guys fighting against?
 --------------------------------
 [00000213][none]
-俺達は今
-ガリア軍に
-追われる身なんだ
+We are now being chased by the Gallic army.
 --------------------------------
 [00000214][none]
-どういうことだよ!?
-あんた達は
-俺達の味方じゃねえのか！
+What do you mean!? You guys are not on our side!
 --------------------------------
 [00000215][none]
-もちろん、君達の味方だ
-だがガリア軍は
-違うという判断を下した
+Of course, we're on your side, but the Gallic army has decided otherwise.
 --------------------------------
 [00000216][none]
-そんなバカな！
+That's stupid!
 --------------------------------
 [00000217][none]
-避難してくれアバン
-ここにいたら君も撃たれる
+Evacuate, Aban You'll be shot if you stay here.
 --------------------------------
 [00000218][none]
-そんなのって……！
+That's...!
 --------------------------------
 [00000219][none]
-君にはガリア軍と戦う
-理由がないだろう
+You have no reason to fight the Gallic army.
 --------------------------------
 [00000220][none]
-う……
+Uh...
 --------------------------------
 [00000221][none]
-……分かった
+...I understand
 --------------------------------
 [00000222][none]
-クルト、撤退準備完了よ！
+Kurt, ready to retreat!
 --------------------------------
 [00000223][none]
-市外へ脱出する！
-遅れるな！
+Escape from the city!  Don't be late!
 --------------------------------
 [00000224][none]
-追ってこないか……
+Don't come after me...
 --------------------------------
 [00000225][none]
-敵部隊もなかなか慎重ね
+Enemy units are also very cautious.
 --------------------------------
 [00000226][none]
-敵部隊……敵って何だよ？
+Enemy troops... what are the enemies?
 --------------------------------
 [00000227][none]
-どうしてガリア人同士で
-戦わなきゃ
-いけないんだ!?
+Why do Gauls have to fight against each other!?
 --------------------------------
 [00000228][none]
-俺達は帝国と
-戦ってるんじゃないのか！
-どうして味方を撃つんだよ！
+We're fighting the Empire, aren't we?  Why are you shooting at your allies?
 --------------------------------
 [00000229][none]
-俺達は間違ったことは
-していない
-これだけは信じて欲しい
+We didn't do anything wrong I want you to believe this.
 --------------------------------
 [00000230][none]
-ならどうして逃げるんだ？
-堂々と正しいと
-言えばいいじゃないか！
+Then why do you run away?  You can just say it's right!
 --------------------------------
 [00000231][none]
-真実が常に正しいと
-認められるほど
-世界は単純ではない
+The world is not simple enough to accept that the truth is always true.
 --------------------------------
 [00000232][none]
-そんなの、納得できねえよ！
+I can't accept that!
 --------------------------------
 [00000233][none]
-俺も納得していない
-だから今も正しさを
-貫くために戦っている
+I'm not convinced either That's why I'm still fighting for what's right.
 --------------------------------
 [00000234][none]
-君もいつか
-戦わねばならない時が
-来るだろう
+The time will come when you too will have to fight.
 --------------------------------
 [00000235][none]
-その時は
-真実から目をそらすな
+At that time don't turn your eyes away from the truth
 --------------------------------
 [00000236][none]
-真実……
+Truth...
 --------------------------------
 [00000237][none]
-そうだ……何が正しくて
-何が間違っているのかを
-自分の目で、見極めろ
+That's right... find out with your own eyes what's right and what's wrong.
 --------------------------------
 [00000238][none]
-そして
-信じるべきものを信じ
-戦うべきものと戦ってくれ
+And Believe in what you need to believe Fight what you need to fight.
 --------------------------------
 [00000239][none]
-俺は……あんた達を信じる
+I... believe in you guys.
 --------------------------------
 [00000240][none]
-メルフェア市が襲われた時
-駆けつけてくれたのは
-あんた達だ
+When Melfair City was attacked, you were the ones who came running.
 --------------------------------
 [00000241][none]
-それは、真実だろ？
+Isn't that true?
 --------------------------------
 [00000242][none]
-ああ、そうだ
+Oh, yeah
 --------------------------------
 [00000243][none]
-逆境に置かれてこそ
-その人間の真価が問われる
+A person's true worth is tested only when they are placed in adversity.
 --------------------------------
 [00000244][none]
-……兄さんの言葉だ
-今のあんた達に贈るぜ
+...These are my brother's words. I give them to you today.
 --------------------------------
 [00000245][none]
-いい言葉だ
-ありがとう、アバン
+Nice words Thank you, Avan.
 --------------------------------
 [00000246][none]
-これからどうするんだ？
+What are you going to do now?
 --------------------------------
 [00000247][none]
-アントホルト港へ向かう
-物資を調達できそうな街は
-他にないからな
+Head to Antholt Port There is no other town where you can get supplies 
 --------------------------------
 [00000248][none]
-そうか……元気でな！
-また会おうぜ！
+I see... Stay well!  See you again!
 --------------------------------
 [00000249][none]
-ああ！
+Oh!
 --------------------------------
 [00000250][none]
-ガリア軍からの
-情報によるとネームレスが
-メルフェアを出たようだ
+According to information from the Gallic army, Nameless seems to have left
+Melfair.
 --------------------------------
 [00000251][none]
-しぶといわね
+Shibuto Iwane
 --------------------------------
 [00000252][none]
-彼らはガリア正規軍とは
-くぐってきた
-修羅場の数が違うさ
+They have a different number of shambles than the Gallic regular army.
 --------------------------------
 [00000253][none]
-グスルグ
-ネームレスへの攻撃は
-お前に任せる
+Gusurg I leave the attack on Nameless to you.
 --------------------------------
 [00000254][none]
-了解です、ダハウ大尉
+Understood, Captain Dachau.
 --------------------------------
 [00000255][none]
-私はファウゼン防衛戦への
-参加要請を受け
-北部へ向かう
+I received a request to participate in the defense of Fausen and headed north.
 --------------------------------
 [00000256][none]
-部隊を二手に
-分けるのですか？
+Are you going to split your troops into two groups?
 --------------------------------
 [00000257][none]
-そうだ
-グスルグのおかげで
-だいぶ動きやすくなった
+That's right Thanks to Gusurg it's much easier to move around.
 --------------------------------
 [00000258][none]
-私は先に出発する
-リディア、あとは頼むぞ
+I'll leave first Lydia, I'll take care of the rest.
 --------------------------------
 [00000259][none]
-ダハウはアンタを
-完全に信頼したようね
+Looks like Dachau trusted you completely.
 --------------------------------
 [00000260][none]
-ありがたいことだ
+Thank goodness
 --------------------------------
 [00000261][none]
-でもアンタの上官は
-このリディア様なの
-残念だけどね
+But your superior is this Lydia-sama. It's a shame.
 --------------------------------
 [00000262][none]
-ダハウが与えると言った
-戦力の半分だけ
-連れて行きなさい
+Take only half of the force Dachau said they would give you.
 --------------------------------
 [00000263][none]
-半分？
+Half?
 --------------------------------
 [00000264][none]
-数を減らしておけば
-アンタが裏切っても
-失う兵は半分で済むからね
+If you reduce their numbers, even if you betray you'll only lose half your
+troops.
 --------------------------------
 [00000265][none]
-ヴァルキュリア抹殺の
-成功率は下がるぞ？
+Will the success rate of annihilating Valkyria go down?
 --------------------------------
 [00000266][none]
-あのね
-アタシは別に独立なんて
-興味ないの
+You see, I'm not interested in being independent.
 --------------------------------
 [00000267][none]
-アタシはボルジア様から
-ダハウの監視を任された
-お目付役だから
+I have been entrusted with monitoring Dachau by Lord Borgia.
 --------------------------------
 [00000268][none]
-……君だけ
-ダルクス人じゃないのは
-それでか
+...You're the only one who isn't a Dalxian. Is that so?
 --------------------------------
 [00000269][none]
-アタシはボルジア様に
-出世してもらって
-もっと上に行きたいのよ
+I want Lord Borgia to give me a promotion. I want to go higher.
 --------------------------------
 [00000270][none]
-富と権力を手に入れて
-優雅に暮らす……
-そのためのお仕事なの
+Obtain wealth and power and live elegantly... That's what this job is for.
 --------------------------------
 [00000271][none]
-だからアタシからすれば
-スパイを信用して
-大失敗するよりは
+So from my point of view, it's better to trust a spy and fail badly.
 --------------------------------
 [00000272][none]
-さっさと死んでもらって
-ダハウに本気を
-出させる方がいいってわけ
+It's better to just die quickly and let Dahau get serious.
 --------------------------------
 [00000273][none]
-なるほどな……
+I see...
 --------------------------------
 [00000274][none]
 ……
 --------------------------------
 [00000275][none]
-リディアさん
-オレ、グスルグと
-一緒に出撃します！
+Lydia-san I'll go out with Gusurg !
 --------------------------------
 [00000276][none]
-はあ？
-何を言い出すの、ジグ
+Huh?  What are you talking about, Jig?
 --------------------------------
 [00000277][none]
-グスルグがスパイかどうか
-この目で確かめたいんです
-完全に信頼するために！
+I want to see for myself if Gusurg is a spy. To trust him completely!
 --------------------------------
 [00000278][none]
-何よ、グスルグに
-同情でもしたわけ？
+What, you felt pity for Gusurg?
 --------------------------------
 [00000279][none]
-こいつが本当に
-信頼できる味方なら
-ダハウ様の……
+If this guy is really a reliable ally Dahau...
 --------------------------------
 [00000280][none]
-いや、オレ達にとって
-大きなプラスになる
-捨てるには惜しいんですよ
+No, it's a big plus for us. It's a shame to throw it away.
 --------------------------------
 [00000281][none]
-どうしてもというなら
-止めないわ
-ただし責任はとってね？
+If you have to do it, I won't stop you. But please take responsibility, okay?
 --------------------------------
 [00000282][none]
-はい！
+Yes!
 --------------------------------
 [00000283][none]
-ジグ、いいのか？
+Jig, are you okay?
 --------------------------------
 [00000284][none]
-あんたのためじゃない
-全てはダハウ様のためだ
+It's not for you It's all for Lord Dahau.
 --------------------------------
 [00000285][none]
-将軍、特別遊撃部隊の
-ダハウ大尉が
-作戦の具申に来ております
+General, Captain Dachau of the special guerrilla force has come to report on the
+strategy.
 --------------------------------
 [00000286][none]
-ダハウ……？
-通せ
+Dahau...?  Let it pass
 --------------------------------
 [00000287][none]
-お初にお目通りいたします
-将軍閣下
+I'll be the first to see you Mr. General.
 --------------------------------
 [00000288][none]
-私は忙しい
-５分で済ませろ
+I'm busy Please do it in 5 minutes.
 --------------------------------
 [00000289][none]
-ありがとうございます
-３分あれば充分です
+Thank you 3 minutes is enough.
 --------------------------------
 [00000290][none]
-ふん……
+Hmm...
 --------------------------------
 [00000291][none]
-現在、ガリア公国義勇軍が
-北部へ進軍しています
+Currently, the Duchy of Gallia's volunteer army is marching to the north.
 --------------------------------
 [00000292][none]
-我が軍はこれを
-野戦で叩くべきだと
-進言させていただきたい
+I would like to suggest that our army should attack this in the field.
 --------------------------------
 [00000293][none]
-野戦……？
+Field battle...?
 --------------------------------
 [00000294][none]
-ガリア公国義勇軍の勇士
-ウェルキン・
-ギュンター少尉は
+A brave soldier of the Duchy of Gallia's volunteer army, Ensign Welkin Gunter is
 --------------------------------
 [00000295][none]
-奇策を使うと聞きます
-策で勝つ指揮官は
-野戦を苦手とするもの……
+I've heard that commanders who win with tricks are not good at field battles...
 --------------------------------
 [00000296][none]
-兵力で勝る優位性に加え
-敵の策を封じる意味でも
-野戦が最適だといえます
+In addition to the superiority of military strength, field battles are the best
+for blocking the enemy's plans. 
 --------------------------------
 [00000297][none]
-……却下する
+...dismiss
 --------------------------------
 [00000298][none]
-は……
+is...
 --------------------------------
 [00000299][none]
-たしかに野戦ならば
-確実に勝てるだろう
-だが、兵の損失が増える
+If it's a field battle, you'll definitely win , but you'll lose more troops.
 --------------------------------
 [00000300][none]
-ファウゼンは
-守りに適した土地だ
-防衛戦で難なく勝てる
+Fausen is a good land for defense You can win easily in defensive battles.
 --------------------------------
 [00000301][none]
-ファウゼンに接近する
-ガリア軍には
+For the Gallic army approaching Fausen
 --------------------------------
 [00000302][none]
-装甲列車エーゼルの
-射程を上回る兵器は
-存在しないからな
+There is no weapon that can exceed the range of the armored train Ezel.
 --------------------------------
 [00000303][none]
 ……
 --------------------------------
 [00000304][none]
-ファウゼンは
-ガリアの土地……
+Fausen is the land of Gaul...
 --------------------------------
 [00000305][none]
-無策で攻めてくるとも
-思えないが……
+I don't think they'll attack without a plan, but...
 --------------------------------
 [00000306][none]
-開戦から５ヶ月
-我が軍は多くの兵を失った
+5 months after the war started Our army lost many soldiers.
 --------------------------------
 [00000307][none]
-兵力を温存できているのは
-我が北部方面軍のみ……
+Only our northern army has been able to conserve its troops...
 --------------------------------
 [00000308][none]
-ガリア軍ごときを相手に
-不名誉な戦いをしていると
-言わざるを得ない
+I have to say that we are fighting a dishonorable battle against the likes of
+the Gallic army.
 --------------------------------
 [00000309][none]
-これ以上兵の命を無駄にし
-帝国の威信に傷をつけては
-皇帝陛下に申し訳がたたん
+I would like to apologize to His Majesty the Emperor for wasting the lives of
+any more soldiers and damaging the prestige of the Empire.
 --------------------------------
 [00000310][none]
-犠牲を省みず
-ただ勝てばよいなどという
-戦い方は許されんのだ
+It is unacceptable to fight without considering the sacrifices just winning is
+the way to go.
 --------------------------------
 [00000311][none]
-……将軍の下で戦う兵は
-幸せです
+...The soldiers who fight under the general are happy.
 --------------------------------
 [00000312][none]
-彼の判断もまた正しい
-さて、ガリア軍はどんな
-戦いを見せてくれる……？
+His judgment is also correct Now, what kind of battle will the Gallic army show
+us...?
 --------------------------------
 [00000313][none]
-時間だ、下がれ
+It's time, stand back.
 --------------------------------
 [00000314][none]
-貴重なお時間
-ありがとうございました
-失礼いたします
+Thank you for your valuable time I apologize for the inconvenience.
 --------------------------------
 [00000315][none]
-……ふん
+...huh
 --------------------------------
 [00000316][none]
-アントホルト……
-ガリアの南の玄関だな
+Antholt... It's the southern gateway to Gaul.
 --------------------------------
 [00000317][none]
-まるで戦争中だなんて
-思えない穏やかな
-雰囲気ね
+It's such a calm atmosphere that it's hard to believe we're at war.
 --------------------------------
 [00000318][none]
-アントホルトに手を出せば
-連邦が黙っちゃいない
-帝国軍もヘタに攻めないさ
+If you mess with Antholt, the Federation won't shut up  The Imperial Army won't
+attack too badly.
 --------------------------------
 [00000319][none]
-弾薬と燃料はメルフェアで
-ほとんど使っちまったぞ
-早く手に入れないと
+I've used up most of my ammunition and fuel in Melfair. I need to get it soon.
 --------------------------------
 [00000320][none]
-カリサ、物資調達を急いで！
-気合いじゃ銃から
-弾は出ないのよ！
+Karisa, hurry up and get supplies!  If you keep your spirits high, the bullets
+won't come out of the gun!
 --------------------------------
 [00000321][none]
-はいですよ
-……ツケで取引できる
-商会はあるんでしょうか？
+Yes, ...Is there a trading company where you can trade for a fee?
 --------------------------------
 [00000322][none]
-すみません
-この中に№7という方は
-いらっしゃいますか？
+Excuse me Is there anyone named No.7 among you ?
 --------------------------------
 [00000323][none]
-……俺だが、君は？
+...me, but what about you?
 --------------------------------
 [00000324][none]
-クロウ中佐の使いの者です
+I am Commander Crow's messenger.
 --------------------------------
 [00000325][none]
-中佐の？
-諜報部の人間か
+Lieutenant Colonel?  Are you from the intelligence department?
 --------------------------------
 [00000326][none]
-謹慎中の中佐より
-伝言を預かっております
+I have a message from a lieutenant colonel who is on suspension.
 --------------------------------
 [00000327][none]
-ネームレスの動きは
-おおむね把握している
+I generally understand Nameless's movements 
 --------------------------------
 [00000328][none]
-アントホルト港に
-補給物資を運んであるから
-自由に使え、とのことです
+They say they are bringing supplies to Antholt Port, so you can use them freely.
 --------------------------------
 [00000329][none]
-補給物資を……？
-それは助かる
+Supplies...?  That's helpful
 --------------------------------
 [00000330][none]
-中佐は現在
-ガリア軍内の動きを
-内偵しておられます
+The lieutenant colonel is currently spying on movements within the Gallic army.
 --------------------------------
 [00000331][none]
-クロウ中佐も
-軍内に裏切り者がいると
-考えているんだな？
+Commander Crow also thinks there's a traitor in the army, right?
 --------------------------------
 [00000332][none]
-はい
-ネームレスへの攻撃が
-誰の命令によるものか
+Yes Who ordered the attack on Nameless?
 --------------------------------
 [00000333][none]
-証拠を掴むまで
-生き延びろとのことです
+I'm told to survive until I get the evidence.
 --------------------------------
 [00000334][none]
-ありがとう
-中佐にもよろしく
-伝えてくれ
+Thank you Please give my regards to the lieutenant colonel as well 
 --------------------------------
 [00000335][none]
-はっ
+Ha
 --------------------------------
 [00000336][none]
 ……!?
 --------------------------------
 [00000337][none]
-報告します！
-カラミティの部隊が
-アントホルトに進入！
+Report!  Calamity troops enter Antholt!
 --------------------------------
 [00000338][none]
-指示を願います！
+Please give me instructions!
 --------------------------------
 [00000339][none]
-カラミティか！
-この情報伝達速度……
+Calamity!  This information transmission speed...
 --------------------------------
 [00000340][none]
-確実にガリア軍から
-情報が渡っているな
+Information is definitely being passed on from the Gallic army.
 --------------------------------
 [00000341][none]
-各員、大至急港へ向かえ！
-補給物資を回収して
-反撃に転じる！
+Everyone, head to the port immediately!  Collect supplies and  start a
+counterattack!
 --------------------------------
 [00000342][none]
-あと一歩遅かったか！
-物資を回収させなければ
-勝てたんだが……！
+I was one step too late!  I could have won if I hadn't let them collect the
+supplies, but...!
 --------------------------------
 [00000343][none]
-あんたって人は……
-元仲間が相手でも
-全く手加減無しだな
+You're a person... Even if it's a former comrade, you don't hold back at all.
 --------------------------------
 [00000344][none]
-ネームレスは……
-いやクルトは手心を加えて
-勝てる相手じゃない
+Nameless... No, Kurt is not someone you can beat with extra effort 
 --------------------------------
 [00000345][none]
-それを一番知っているのは
-俺だからな
+I'm the one who knows that the most.
 --------------------------------
 [00000346][none]
-喜んで彼らを殺すと言った
-あんたの覚悟は本物だ
-認めるよ
+You said you were willing to kill them. Your determination is genuine. I admit
+it.
 --------------------------------
 [00000347][none]
-……そのセリフは
-勝利の後に聞きたかった
+...I wanted to hear that line after the victory.
 --------------------------------
 [00000348][none]
-ここで叩けなかった
-ツケは高くつきそうだぞ
+The price for not being able to hit here will probably be high.
 --------------------------------
 [00000349][none]
-グスルグ！
+Gusrug!
 --------------------------------
 [00000350][none]
-クルトか
-さすがにしぶといな
+Kurt? He's really stubborn.
 --------------------------------
 [00000351][none]
-本気で俺達を潰す気なら
-なぜそんな少ない戦力で
-攻めてくる？
+If you really want to crush us, why are you attacking with such a small force?
 --------------------------------
 [00000352][none]
-……こっちにも
-事情ってものがある
+... There are circumstances here as well.
 --------------------------------
 [00000353][none]
-ガリア正規軍と君達……
-双方が連携しているような
-速攻だったが
+The Gallic regular army and you guys... It was a quick attack as if both sides
+were cooperating. 
 --------------------------------
 [00000354][none]
-それにしては
-攻撃があまりに中途半端だ
+For that, the attack is too half-hearted.
 --------------------------------
 [00000355][none]
-あのダハウ大尉と君が
-こんな戦い方をする
-理由が分からない
+I don't understand why Captain Dachau and you fight like this.
 --------------------------------
 [00000356][none]
-……相変わらず
-頭は切れるようだ
+...You seem to be as sharp as ever 
 --------------------------------
 [00000357][none]
-君と戦うのは嫌な役目だ
-色々な意味でな
+Fighting you is a bad job In many ways.
 --------------------------------
 [00000358][none]
-だが、俺はそのために
-カラミティ・レーヴェンに
-いるのかもしれん
+But maybe that's why I'm in Calamity Raven.
 --------------------------------
 [00000359][none]
-今日は俺の負けだ
-しかしこれで終わりだと
-思うなよ
+Today is my loss But don't think this is the end 
 --------------------------------
 [00000360][none]
-撤退だ、ジグ
+Retreat, Zig
 --------------------------------
 [00000361][none]
-了解
+Understood
 --------------------------------
 [00000362][none]
 ……
 --------------------------------
 [00000363][none]
-弾薬と燃料はこれからも
-クロウ中佐が
-面倒見てくれるそうですよ
+Apparently Commander Crow will continue to take care of ammunition and fuel.
 --------------------------------
 [00000364][none]
-これでツケを踏み倒す
-イヤなお仕事は
-しなくてすみそうです
+Now I don't have to do any unpleasant work to pay off 
 --------------------------------
 [00000365][none]
-踏み倒す気だったのかい
-やるね、アンタも
+Were you trying to overthrow me? I'll do it, you too.
 --------------------------------
 [00000366][none]
-ともあれ、弾と燃料の
-心配はしなくていいわけか
+Anyway, I don't have to worry about bullets and fuel.
 --------------------------------
 [00000367][none]
-これで一安心ね！
+This is a relief!
 --------------------------------
 [00000368][none]
-軍用レーション以外の
-食材も面倒見てくれりゃ
-最高だったんだがな
+It would have been great if they could take care of the ingredients other than
+military rations.
 --------------------------------
 [00000369][none]
-ぜいたくは敵よ！
+Luxury is the enemy!
 --------------------------------
 [00000370][none]
-うへっ！
+Wow!
 --------------------------------
 [00000371][none]
-補給はひとまずいいとして
-ここからどう動く？
+Assuming the supply is good for now What should we do from here?
 --------------------------------
 [00000372][none]
-ガリア軍とカラミティの
-両方から狙われるとなると
-厳しいわね
+It would be tough to be targeted by both the Gallic army and Calamity.
 --------------------------------
 [00000373][none]
-諜報部の方に聞きたい
-補給物資はどうやって
-運んできたのか？
+I would like to ask the intelligence department How did the supplies arrive ?
 --------------------------------
 [00000374][none]
-輸送船で海路を使いました
+Used sea route with transport ship
 --------------------------------
 [00000375][none]
-……海路か、使えるな
+...I can use the sea route.
 --------------------------------
 [00000376][none]
-へえ、ここから船旅かい？
+Huh, are you going on a cruise from here?
 --------------------------------
 [00000377][none]
-輸送船は密入港したので
-港の記録には残りません
+Since the transport ship smuggled into the port, it will not be recorded in the
+port records.
 --------------------------------
 [00000378][none]
-そいつはご機嫌だね
-ここで一度、完全に
-足取りを消せるってわけだ
+That guy is in a good mood Now he can completely turn off his tracks once and
+for all.
 --------------------------------
 [00000379][none]
-悪くない
+Not bad
 --------------------------------
 [00000380][none]
-決まりだ
-今晩、闇夜に紛れて
-アントホルト港を発つ
+It's decided Tonight, under cover of darkness We'll leave the port of Antholt.
 --------------------------------
 [00000381][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1アントホルト市にて、クロウ中佐の手配で　　　　　　　
-補給ルートを確保したネームレスは──
+@fcFFFFF5F0@dc9F555555@db2@dt1 Nameless, who secured the supply route in Antholt City with the arrangement of Commander Crowe, is──
 --------------------------------
 [00000382][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1ガリア正規軍とカラミティ・レーヴェンの　　　　　　　
-追撃を断つために船で海に出る
+@fcFFFFF5F0@dc9F555555@db2@dt1 Go to sea by ship to cut off the pursuit of the Gallic regular army and Calamity Raven.
 --------------------------------
 [00000383][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1追われる身であることに変わりはないが　　　　　　　　
-ここからは逃げるだけではない
+@fcFFFFF5F0@dc9F555555@db2@dt1There is no change in the fact that you are being chased, but you can't just run away from here.
 --------------------------------
 [00000384][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1ガリアのために、何ができるか？　　　　　　　　　　　
-彼らは考え、道を選んだ
+@fcFFFFF5F0@dc9F555555@db2@dt1 What can we do for Gaul? 
+They thought and chose their path.
 --------------------------------
 [00000385][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1戦闘能力を備えた独立部隊として　　　　　　　　　　　
-新たな戦いが始まる
+@fcFFFFF5F0@dc9F555555@db2@dt1 As an independent unit with combat capabilities, a new battle begins.
 --------------------------------

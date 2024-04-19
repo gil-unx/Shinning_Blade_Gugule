@@ -1,771 +1,557 @@
 [0177]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年  ガリア東部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt11935 Eastern Gaul
 --------------------------------
 [00000001][none]
-みんな、メシだぞ！
+Everyone, it's food!
 --------------------------------
 [00000002][none]
-ん？　なんだそれは？
+Huh? What is that?
 --------------------------------
 [00000003][none]
-魚料理みたいですけど
-軍の糧食じゃないですよね？
+It looks like a fish dish, but it's not military rations, right?
 --------------------------------
 [00000004][none]
-今日は近くでいい食材が
-取れたんでな
-オレの特別メニューさ
+I was able to get some good ingredients nearby today, so this is my special
+menu.
 --------------------------------
 [00000005][none]
-『フジウオ』のソテーだ
-こいつは川魚なんだが
-泥臭さがなくてな
+It's sauteed ``Fujifish''. This is a river fish, but it doesn't have a muddy
+smell.
 --------------------------------
 [00000006][none]
-淡泊な白身にコンソメで
-味をつけて、香草を使って
-焼き上げると絶品なんだぜ
+The plain white meat is seasoned with consomme and grilled with herbs, making it
+exquisite.
 --------------------------------
 [00000007][none]
-わあ、いい香り！
-すごくおいしそうです！
+Wow, what a nice scent!  It looks really delicious!
 --------------------------------
 [00000008][none]
-おおっ、味も抜群だ！
-ジュリオ
-お前が作ったのか!?
+Oh, it tastes great too!  Julio You made it!?
 --------------------------------
 [00000009][none]
-この季節は特に
-大物がとれるんだよ
-食べ応えがあるだろ？
+Especially this season You can catch big fish. It's worth eating, isn't it?
 --------------------------------
 [00000010][none]
-どんどん食べてくれ！
-おかわりもあるからな！
+Eat more and more!  There's also refills!
 --------------------------------
 [00000011][none]
-まさか作戦行動中に
-こんなうまいものが
-食えるとは思わなかったぜ
+I never thought I'd be able to eat something this delicious while on a mission.
 --------------------------------
 [00000012][none]
-でも、このお魚を
-いつ獲りに行ったんですか？
+But when did you go catch this fish?
 --------------------------------
 [00000013][none]
-実は、夜にちょっとだけ
-キャンプを抜け出して
-川に行ってたんだ
+Actually, I slipped out of camp for a little while at night and went to the
+river.
 --------------------------------
 [00000014][none]
-それ、隊長さんにバレたら
-大変ですよ!?
+It would be difficult if the captain found out!?
 --------------------------------
 [00000015][none]
-オレはどうしても
-この季節の『フジウオ』を
-みんなに食べさせたかった！
+I really wanted to feed everyone this season's Fujio fish!
 --------------------------------
 [00000016][none]
-そのためなら多少の
-リスクは覚悟の上さ
+If that's the case, I'm prepared to take some risk.
 --------------------------------
 [00000017][none]
-なんで、そこまで料理に
-必死になるんだ？
+Why are you so desperate to cook?
 --------------------------------
 [00000018][none]
-オレの本職はシェフだ
-銃を撃つより料理する方が
-得意なんでね
+My day job is a chef I'm better at cooking than shooting guns.
 --------------------------------
 [00000019][none]
-本職ったってなあ……
-やりすぎだろう
+Even if you have a real job... It's probably too much.
 --------------------------------
 [00000020][none]
-どこか有名なお店で
-働いていたんですか？
+Did you work at some famous shop?
 --------------------------------
 [00000021][none]
-いや、オレは色んな料理を
-知りたくて、ガリア各地を
-巡って修行していたんだ
+No, I wanted to learn about various cuisines, so I traveled all over Gaul to
+train.
 --------------------------------
 [00000022][none]
-いずれは世界中を旅して
-味の研究をしたいと
-考えている
+Someday, I would like to travel around the world  and research flavors 
 --------------------------------
 [00000023][none]
-平和にならなきゃ無理だな
+It's impossible without peace.
 --------------------------------
 [00000024][none]
-まあね
+Well
 --------------------------------
 [00000025][none]
-あれっ？
+Huh?
 --------------------------------
 [00000026][none]
-どうした
-エイミーちゃん？
+What's wrong Amy?
 --------------------------------
 [00000027][none]
-せっかく、いつもと違う
-おいしい料理なのに
+It's a different and delicious dish than usual.
 --------------------------------
 [00000028][none]
-№56さんは
-食べないのかなって
+I wonder if No. 56 doesn't eat it.
 --------------------------------
 [00000029][none]
-№56……？
+№56...?
 --------------------------------
 [00000030][none]
-ほら、あそこで
-何も食べずに
-じっとしていますよ
+Look, I'm just sitting over there without eating anything.
 --------------------------------
 [00000031][none]
-しょうがねえなあ
-おい、№56！
+It can't be helped Hey, No. 56!
 --------------------------------
 [00000032][none]
 …………
 --------------------------------
 [00000033][none]
-むっつりしてないで
-食事を楽しもうぜ！
+Don't be sullen Let's enjoy the meal!
 --------------------------------
 [00000034][none]
-ほら、食べてみろよ！
-オレの自信作だぞ
+Come on, try it!  This is my work of confidence.
 --------------------------------
 [00000035][none]
-ほっといてくれ
-俺のことは
+Please leave me alone 
 --------------------------------
 [00000036][none]
-まあまあ、そう言うなよ
-試しに一口食べてみろって！
+Well, don't say that. Try a bite!
 --------------------------------
 [00000037][none]
-味には自信がある
-みんなもうまいって
-言ってくれてるしな！
+I'm confident in the taste Everyone says it's delicious !
 --------------------------------
 [00000038][none]
-……一口だけだぞ
+...just one bite.
 --------------------------------
 [00000039][none]
-おう、かまわないぞ
+Oh, it doesn't matter.
 --------------------------------
 [00000040][none]
-……食った
-これでいいだろ
+...I ate This is fine.
 --------------------------------
 [00000041][none]
-所詮メシはメシだ
-それ以上でも
-以下でもねえよ
+After all, food is food Nothing more, nothing less.
 --------------------------------
 [00000042][none]
-ふむ……
-アンタの口には
-合わなかったのか
+Hmm... Maybe it didn't suit your tastes 
 --------------------------------
 [00000043][none]
-……何を笑ってやがる
+...What are you laughing at?
 --------------------------------
 [00000044][none]
-アンタの味の好みが
-少し分かったからな
+I know a little bit about your taste preferences 
 --------------------------------
 [00000045][none]
-味覚ってのは人それぞれに
-違いがあるもんだ
+Taste is different for each person.
 --------------------------------
 [00000046][none]
-それを知ることは
-料理人にとってすごく
-大事なことなんでね
+Knowing that is very important for a chef.
 --------------------------------
 [00000047][none]
-……くだらねえ
+...that's rubbish
 --------------------------------
 [00000048][none]
-なあ、ちょっといいか？
+Hey, can I have a moment?
 --------------------------------
 [00000049][none]
-何の用だ
+What is it for?
 --------------------------------
 [00000050][none]
-オレとしたことが
-うっかり、この前の料理の
-感想を聞き忘れてさ
+I accidentally forgot to ask you what you thought about the dish you cooked the
+other day.
 --------------------------------
 [00000051][none]
-『フジウオ』のソテーは
-どんな味に感じたか
-聞かせてくれないか？
+Could you tell me how the sauteed ``Fujiuo'' tasted ?
 --------------------------------
 [00000052][none]
-面倒だな……
+That's a hassle...
 --------------------------------
 [00000053][none]
-そう言わずに頼むよ
-オレにとっては
-大事なことなんだ
+Please don't say that It's important to me 
 --------------------------------
 [00000054][none]
-味のことなんて
-俺は知らないぜ
+I don't know anything about taste.
 --------------------------------
 [00000055][none]
-何でもいいんだ
-感じたままを言ってくれ
+Anything is fine Say what you feel.
 --------------------------------
 [00000056][none]
 ……
 --------------------------------
 [00000057][none]
-もう少し塩が薄い方がいい
-俺の育った故郷の味は
-もっと優しい感じだった
+I would like it to be a little less salty. The taste of my hometown where I grew
+up was more gentle.
 --------------------------------
 [00000058][none]
-優しい、か
-それは非常に興味深いな
+Kind, huh? That's very interesting.
 --------------------------------
 [00000059][none]
-ダルクス人の料理は
-全体的に塩は
-少なめなのか？
+Does Darcus cuisine contain less salt overall?
 --------------------------------
 [00000060][none]
-ダルクス人の料理に
-文句があるのか？
+Do you have any complaints about the food of the Dalxians?
 --------------------------------
 [00000061][none]
-文句なんてとんでもない！
-味の好みや料理のことを
-知りたいだけさ
+There's nothing to complain about!  I just want to know your taste preferences
+and cooking 
 --------------------------------
 [00000062][none]
-オレは料理に
-人生をかけているからな
+I dedicate my life to cooking.
 --------------------------------
 [00000063][none]
-料理に人生かけてるやつが
-どうしてネームレスに
-いるんだよ……
+Why is there someone who spends his life cooking on Nameless...
 --------------------------------
 [00000064][none]
-そういえばアンタには
-オレがネームレスに来た
-理由を話してなかったか
+Come to think of it, didn't I tell you why I came to Nameless?
 --------------------------------
 [00000065][none]
-アンタは
-ブラックダイヤって
-食べ物を知ってるかい？
+Do you know the food called black diamond?
 --------------------------------
 [00000066][none]
-なんだよ、突然……
-聞いたことはある
-高級食材だろ
+What, all of a sudden... I've heard of it It's a high-class ingredient, right?
 --------------------------------
 [00000067][none]
-その通り！
-ブラックダイヤは
-イッカクザメの卵のことだ
+That's right!  Black diamonds are narwhal shark eggs.
 --------------------------------
 [00000068][none]
-昔から滋養強壮や
-万病に効く食べ物として
-重宝されてきたんだが……
+Since ancient times, it has been valued as a nourishing tonic and a food that
+cures all kinds of illnesses...
 --------------------------------
 [00000069][none]
-イッカクザメの
-漁獲高激減で値段が
-高騰しちまったんだよな
+The price of narwhal sharks has skyrocketed due to a drastic drop in catches of
+narwhal sharks.
 --------------------------------
 [00000070][none]
-今では幻の食材と
-言われるほどの
-貴重で高級な食材だ
+Nowadays, it is such a valuable and high-class ingredient that it is said to be
+a mythical ingredient.
 --------------------------------
 [00000071][none]
-そんな幻の食材が、だ
-将校専用の特別食材の中に
-あるって聞いてな
+I heard that such a phantom ingredient is among the special ingredients reserved
+for officers.
 --------------------------------
 [00000072][none]
-もしかして……
+Maybe...
 --------------------------------
 [00000073][none]
-おう！
-貯蔵庫に忍び込んで
-取ってきちまった
+Oh!  I snuck into the storage room and took it.
 --------------------------------
 [00000074][none]
-一般兵士にはたいした食材
-渡さないくせに
+Even though they don't give much food to ordinary soldiers.
 --------------------------------
 [00000075][none]
-将校だけいいもん
-食ってるなんて
-不公平だろうが
+It's not fair that only officers are eating good food.
 --------------------------------
 [00000076][none]
-それに幻の食材と聞いて
-何もしないなんて
-料理人失格だからな
+And if you hear about the phantom ingredients and don't do anything, you've
+failed as a chef.
 --------------------------------
 [00000077][none]
-幻というだけあって
-実に料理のしがいがある
-食材だった
+As illusory as it is, it was actually a worthwhile ingredient to cook with.
 --------------------------------
 [00000078][none]
-ソテーにサラダ……
-フライもうまかったな
-部隊のみんなに振舞ったよ
+Sauteed and salad... The fries were good, too. I served it to everyone in the
+squad.
 --------------------------------
 [00000079][none]
-それでここに
-送られてきたのか？
-お前バカだろ……
+Is that why you were sent here ?  You're an idiot...
 --------------------------------
 [00000080][none]
-ははっ、そうかもな
-でも後悔はしてないよ
+Haha, maybe so. But I don't regret it.
 --------------------------------
 [00000081][none]
-オレが作った料理を
-食った時の仲間がすげぇ
-いい顔してくれたからな
+My friends looked amazing when they ate the food I made.
 --------------------------------
 [00000082][none]
-……ふん
+...huh
 --------------------------------
 [00000083][none]
-おっと
-つまらない話を
-しちまったな
+Oops I told you a boring story 
 --------------------------------
 [00000084][none]
-そういえば……
-ダルクスの家庭料理に
+Now that I think about it... Darkus' home cooking.
 --------------------------------
 [00000085][none]
-『コハクダケ』を
-使うものがあったよな
+There was something that used ``Kohakudake''.
 --------------------------------
 [00000086][none]
-『コハクダケ』だと……!?
+If it's "Kohakudake"...!?
 --------------------------------
 [00000087][none]
-『コハクダケ』のスープは
-本当にうまかった！
-オレも作ってみたいね
+The ``Kohakudake'' soup was really delicious!  I want to make it too
 --------------------------------
 [00000088][none]
 ……
 --------------------------------
 [00000089][none]
-長話に付き合わせて
-すまなかった！
-じゃあな！
+Sorry to keep you talking so long!  See you then!
 --------------------------------
 [00000090][none]
-あいつ
-どうして『コハクダケ』を
-知っているんだ？
+How does he know about ``Kohakudake''?
 --------------------------------
 [00000091][none]
-あれは、ダルクス人しか
-食わないはず……
+Only the Dalxians would eat that...
 --------------------------------
 [00000092][none]
-どこでそんな知識を
-得たんだ……？
+Where did you get that knowledge...?
 --------------------------------
 [00000093][none]
-これよりネームレスは
-正規軍と合同でゾフ村の
-開放作戦を開始する
+From now on, Nameless will begin a joint operation with the regular army to
+liberate Zoff Village.
 --------------------------------
 [00000094][none]
-ここは帝国との
-国境線が近く
-敵部隊の防衛戦力が多い
+This is close to the border with the Empire. There are a lot of enemy forces
+defending themselves.
 --------------------------------
 [00000095][none]
-正規軍と連携する作戦だが
-油断は禁物だ
-いいな
+It's a strategy to collaborate with the regular army, but don't let your guard
+down. That's good.
 --------------------------------
 [00000096][none]
-よし！
-きっちり勝って
-祝勝会でも開こうぜ
+Okay!  Win exactly Let's have a celebration party.
 --------------------------------
 [00000097][none]
-そうだな
+That's right.
 --------------------------------
 [00000098][none]
-ダルクスの村か……
-もしかしてアレが手に入る
-かもしれないな！
+Darcus Village... Maybe you can get it! 
 --------------------------------
 [00000099][none]
-やってられないぜ
-ダルクス人の村なんて
-どうなったっていいのによ
+I can't do it I don't care what happened to the Dalxian village 
 --------------------------------
 [00000100][none]
-なんで正規軍の俺達が
-こんな任務を
-やらなきゃいけないんだ
+Why do we in the regular army have to do this kind of mission?
 --------------------------------
 [00000101][none]
-ネームレスとかいう
-懲罰部隊が来てるんだろ？
+A punishment squad called Nameless is coming, right?
 --------------------------------
 [00000102][none]
-そいつらにやらせときゃ
-いいのによ
-ったく、冗談じゃねぇよ
+Just let them do it. It's no joke.
 --------------------------------
 [00000103][none]
-正規軍の動きが鈍い
-予想はしていたが
-問題だな
+The regular army's movement is slow I expected it, but it's a problem.
 --------------------------------
 [00000104][none]
-やる気ゼロですよね
-隊長さんは何をして
-いるんでしょうか
+You have zero motivation. What is the captain doing ?
 --------------------------------
 [00000105][none]
-隊長もやる気がないんだろ
-作戦開始時刻なのに
-動く気配さえないぞ
+The captain isn't motivated, either. It's time to start the operation, but
+there's no sign of him moving.
 --------------------------------
 [00000106][none]
-クルト！　こうなったら
-オレ達が先陣を切ろう！
-待ってたら夜になっちまう
+Kurt! If this happens Let's take the lead!  If I wait, it will be night.
 --------------------------------
 [00000107][none]
-どうしたジュリオ？
-戦闘には乗り気じゃないと
-思っていたが……
+What's wrong, Julio?  I thought you weren't keen on fighting but...
 --------------------------------
 [00000108][none]
-たまにはオレだって
-やる気になる時が
-あるんだよ！
+Sometimes even I feel motivated!
 --------------------------------
 [00000109][none]
-正規軍に
-ジュリオさんのやる気を
-分けてあげたいですね
+I would like to share Julio's motivation with the regular army.
 --------------------------------
 [00000110][none]
-料理がらみだろ、どうせ
+It has to do with cooking, anyway.
 --------------------------------
 [00000111][none]
-理由は何でもいいだろ！
-クルト、始めようぜ！
+Any reason is fine!  Kurt, let's get started!
 --------------------------------
 [00000112][none]
-確かに、このままでは
-らちが明かない
-作戦開始だ！
+Indeed, if things continue like this, it won't be clear the operation has begun!
 --------------------------------
 [00000113][none]
-ジュリオがポテンシャル@fcFF008800「料理人の鑑」@fciに
-目覚めました。
+Julio has awakened to the potential @fcFF008800 ``Cook's Guide'' @fci.
 --------------------------------
 [00000114][none]
-やれやれ
-やっと終わったな
+Well, it's finally over.
 --------------------------------
 [00000115][none]
-わざわざ正規軍が
-助けに来てやったんだ
-感謝しろよダルクス人ども！
+The regular army went out of its way to come to our rescue. Thank you, Darxians!
 --------------------------------
 [00000116][none]
-あの人達、ほとんど何も
-しなかったのに……
+Those people did almost nothing...
 --------------------------------
 [00000117][none]
-まったくだ……
+Not at all...
 --------------------------------
 [00000118][none]
-ありがとうございます
-こんな遠くまで
-来ていただいて
+Thank you for coming this far 
 --------------------------------
 [00000119][none]
-ささやかですが
-おもてなしを
-させてください
+Please allow me to offer you some small hospitality.
 --------------------------------
 [00000120][none]
-もてなし？
-はっ、冗談じゃない
+Hospitality?  Ha, I'm not kidding.
 --------------------------------
 [00000121][none]
-腹減ってたって
-ダルクス人の料理なんか
-食いたくないね
+Even if I'm hungry, I don't want to eat Dalxian food 
 --------------------------------
 [00000122][none]
-どうせ得体の知れない物を
-食ってるんだろ！
+I guess you're eating something strange!
 --------------------------------
 [00000123][none]
-ゴミみたいなもんだされて
-もてなされてもなあ？
-はははっ！
+Wouldn't it be nice to be treated like garbage?  Haha!
 --------------------------------
 [00000124][none]
-……おい、お前達
-この女性に謝れ
+...Hey, you guys apologize to this woman.
 --------------------------------
 [00000125][none]
-何だお前は？
-ネームレスのダルクス人が
-でしゃばってくるな！
+What are you?  Don't let the nameless Darxian  get in your way!
 --------------------------------
 [00000126][none]
-よせ、№6
-正規軍に逆らっても
-いいことは何もないぞ
+Come on, No. 6 There's nothing good about going against the regular army 
 --------------------------------
 [00000127][none]
-悪いが黙っていられない
-相手が誰だろうと
-今の発言は許せん！
+I'm sorry, but I can't stay silent No matter who the other person is, I can't
+tolerate what you said just now!
 --------------------------------
 [00000128][none]
-許せなかったら
-なんだってんだ？
-ネームレスふぜいが！
+What's the point if I can't forgive you?  Nameless fuzei!
 --------------------------------
 [00000129][none]
-はいはい！
-ネームレスふぜいにも
-こんなことができるぜ！
+Yes, yes!  Even Nameless Fuzei can do this!
 --------------------------------
 [00000130][none]
-えっ……？
+Huh...?
 --------------------------------
 [00000131][none]
-さあ、メシの時間だ！
-そこの全員
-食堂に集合してくれ！
+Now it's time for food!  Everyone there Please gather at the cafeteria!
 --------------------------------
 [00000132][none]
-何だてめえは!?
+What the hell!?
 --------------------------------
 [00000133][none]
-ジュリオ、悪いが
-今はメシなんか食う
-気分じゃない
+Julio, I'm sorry, but I'm not in the mood for food right now.
 --------------------------------
 [00000134][none]
-何を言ってるんだ
-メシのことで
-もめてたんだろ？
+What are you talking about? You were fighting over food, weren't you?
 --------------------------------
 [00000135][none]
-そっちの正規軍のアンタ達！
-腹は減ってるんだよな
-オレの料理を食ってけよ
+Those regular army guys!  You're hungry. Eat my cooking.
 --------------------------------
 [00000136][none]
-なんで俺達がお前の料理を
-食わなきゃいけねえんだ！
+Why do we have to eat your cooking?
 --------------------------------
 [00000137][none]
-味は保証するぜ
-気に入らなかったら土産に
-婆さんの秘蔵酒をやるよ
+I guarantee the taste. If you don't like it, I'll give you my grandmother's
+treasured sake as a souvenir.
 --------------------------------
 [00000138][none]
-こら！
-人のモノを勝手に
-振る舞うんじゃないよ！
+Hey!  Don't take other people's things your way !
 --------------------------------
 [00000139][none]
-ふん、酒が手に入るなら
-行ってやってもいいぞ
+Hmm, if you can get some alcohol, you can go and do it.
 --------------------------------
 [00000140][none]
-さあ、召しあがれ！
+Come on, enjoy!
 --------------------------------
 [00000141][none]
-何だこりゃ!?
-ただのスープじゃねえか！
+What is this!? It's just soup!
 --------------------------------
 [00000142][none]
-いいからスープを
-飲んでみろって！
-話はそれからだ！
+Just try the soup!  That's the story!
 --------------------------------
 [00000143][none]
-こんな質素なスープ……
-ん？
+Such a simple soup... Hmm?
 --------------------------------
 [00000144][none]
-こいつは……
+This guy...
 --------------------------------
 [00000145][none]
-わ、正規軍の人が
-固まっちゃいましたよ!?
+Wow, the regular army guys got stiff!?
 --------------------------------
 [00000146][none]
-さ、みんなも
-熱いうちにどうぞ！
+Well, everyone, enjoy it while it's hot!
 --------------------------------
 [00000147][none]
-わあ、おいしいです！
-今まで味わったことのない
-不思議な味がしますね！
+Wow, it's delicious!  It has a strange taste that I have never tasted before!
 --------------------------------
 [00000148][none]
-そうか……ここは
-『コハクダケ』の
-産地だったんだな
+I see... this place was the production area for ``Kohakudake''.
 --------------------------------
 [00000149][none]
-コハクダケ？
+Kohakudake?
 --------------------------------
 [00000150][none]
-これはダルクス人だけが
-食用に使う珍しい種類の
-キノコでね
+This is a rare type of mushroom used only by the Dalxians for food.
 --------------------------------
 [00000151][none]
-アクと臭みの処理に
-特殊な技法が必要だが
-いい旨みを出すんだ
+Special techniques are required to remove the scum and odor, but it brings out a
+nice flavor.
 --------------------------------
 [00000152][none]
-ダルクス人……？
-これはダルクス人の
-食い物なのか？
+Darcus...?  Is this something the Dalxians are preying on?
 --------------------------------
 [00000153][none]
-ダルクス人は素材の味を
-引き出すのがうまいんだ
+Dalxians are good at bringing out the flavor of the ingredients.
 --------------------------------
 [00000154][none]
-オレもよく参考に
-させてもらってるよ
+I often use it as a reference as well.
 --------------------------------
 [00000155][none]
-取り皿をまわしてくれ
-次はこのスープを使った
-リゾットを出すぞ
+Pass the plates around. Next time, I'll serve you risotto using this soup.
 --------------------------------
 [00000156][none]
-……いい香りだ
-戦場でこんなものが
-食えるとはな
+...It smells so good I never thought you could eat something like this on the
+battlefield 
 --------------------------------
 [00000157][none]
-あの……こちらは
-コハクダケのフライです
-お口に合うといいのですが
+Um... this is fried amber mushroom I hope it suits your taste.
 --------------------------------
 [00000158][none]
-……うむ、悪くない
+...Hmm, not bad.
 --------------------------------
 [00000159][none]
-こんな食い物が
-あったとはな……
+I had no idea there was such food...
 --------------------------------
 [00000160][none]
-どうだ、うまいだろ？
-偏見で視野を狭くすると
-良いものを見逃しちまうぞ
+What do you think? It's good, right?  If you narrow your perspective with
+prejudice, you will miss out on the good things.
 --------------------------------
 [00000161][none]
-……おい
-おかわりはあるか
+...hey Do you have any refills?
 --------------------------------
 [00000162][none]
-……俺もだ
-このフライはうまい
+...me too These fries are good.
 --------------------------------
 [00000163][none]
-は、はい！
-少々お待ちを！
+Yes!  Please wait a moment!
 --------------------------------
 [00000164][none]
-……№32、アンタのこと
-少し見直さないと
-いけないみたいだな
+...No.32, I think I'll have to reevaluate you a little.
 --------------------------------
 [00000165][none]
-ははっ！　
-見直すのはオレじゃなくて
-『コハクダケ』だな
+Haha!  It's not me who's reconsidering It's ``Kohakudake.''
 --------------------------------
 [00000166][none]
-ふう……
-こんなにうまい食事
-いつぶりだったかな
+Whew... I wonder how long it's been since I had such a delicious meal 
 --------------------------------
 [00000167][none]
-ああ、すごい満足感だ
-……ごちそうさん
+Ah, I feel so satisfied ...
 --------------------------------
 [00000168][none]
-感謝は村の人にしてくれ
-素材も調理法もここで
-得たものなんだから
+Please give your thanks to the villagers. The ingredients and cooking methods
+are all obtained here. 
 --------------------------------
 [00000169][none]
-……うまかったよ
-またここに来たら
-食わせてくれ
+...It was delicious If you come here again Please let me eat it.
 --------------------------------
 [00000170][none]
-はい！
-ありがとうございます！
+Yes!  Thank you!
 --------------------------------
 [00000171][none]
-アンタ達、いい顔してるぜ！
-そういう顔が見たくて
-オレは料理をしてるんだ
+You guys look great!  I want to see your face like that I'm cooking.
 --------------------------------
 [00000172][none]
-ふふ、丸くおさまった
-みたいですね
+Hehe, it looks like it's all settled down 
 --------------------------------
 [00000173][none]
-やれやれ……
-どうやらシェフの
-一人勝ちらしいな
+Well... Looks like the chef is the only winner 
 --------------------------------
 [00000174][none]
-……ああ
+...Ah
 --------------------------------
 [00000175][none]
-料理には世界中を
-笑顔にする力があるんだぜ
+Cooking has the power to bring smiles all over the world.
 --------------------------------
 [00000176][none]
-メシは剣より強し！
-なんてな！
+Food is mightier than the sword!  What!
 --------------------------------

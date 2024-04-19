@@ -1,167 +1,140 @@
 [0042]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-不審な動きって、あれのことですか。
-なるほど、おかしな連中がうろついていますね。
+Is that what you mean by suspicious activity?  I see, there are some strange
+people wandering around.
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-でも、今のところ遺跡を荒らす様子もないし
-敵意があるとは限らないんじゃないですか？
-しばらく様子を見た方が……。
+But so far, there's no sign of them destroying the ruins, so it doesn't
+necessarily mean they're hostile, right?  It would be better to wait and see
+what happens...
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-まさか……伯爵!?
+No way... an earl!?
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-えっ？
-今、何か言いましたか？
+Huh?  Did you say something just now?
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-あいつらは危険よ！
-今すぐ倒さないと、とんでもないことになるわ！
+Those guys are dangerous!  If we don't defeat it now, something terrible will
+happen!
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-え、えっ？
-サクヤさん、それって一体……。
+Huh?  Sakuya-san, what exactly is that...?
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-話は後！
-とにかく、今は一刻も早く
-あの連中を倒しましょう！
+Talk later!  Anyway, for now, let's defeat those guys as soon as possible!
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-わ、わかりましたっ!!
+Oh, I understand!!
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-これで終わりか。
-サクヤさん、片づきましたよ！
+Is this the end?  Sakuya-san, I've cleaned up!
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-サクヤさん？　
-どこを見て……あ、あれは？
+Sakuya-san?  Where did you look... Oh, what's that?
 --------------------------------
 [00000012][アイザック,,伯爵]
-やれやれ。
-苦労して目覚めさせた古代兵器を
-また眠らせてしまうとはね。
+Oh my gosh.  I can't believe that the ancient weapon that I took such pains to
+awaken  will be put to sleep again.
 --------------------------------
 [00000013][サクヤ,マキシマ,サクヤ]
-伯爵……！
+Earl...!
 --------------------------------
 [00000014][アイザック,,伯爵]
-まあ、それでもかまわないさ。
-これはほんの手始め、テストケースに過ぎない。
+Well, that's fine.  This is just the beginning, a test case.
 --------------------------------
 [00000015][アイザック,,伯爵]
-この世界を再構築するための道具は、
-整備次第でまだ充分に機能させることができる。
-それがわかっただけでも上出来だ。
+The tools used to rebuild this world can still be fully functional if they are
+properly maintained.  Just knowing that is a good thing.
 --------------------------------
 [00000016][サクヤ,マキシマ,サクヤ]
-伯爵！
-あなた、いったいなにを……!?
+Earl!  What on earth are you doing...!?
 --------------------------------
 [00000017][アイザック,,伯爵]
-「なにを」……だと？　サクヤ、
-私の言わんとするところは、
-君にも充分わかっているはずだが。
+“What”…? Sakuya, I'm sure you know exactly what I'm trying to say.
 --------------------------------
 [00000018][アイザック,,伯爵]
-……だが今日のところはいいだろう。
-いずれ、近いうちにまた会うことになるはずだ。
-その時にでもじっくり話をしよう。それでは……。
+...but for today it's fine.  I'm sure we'll meet again soon.  Let's talk at
+length even then. Well then....
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-なっ!?　お、おい待て!!
+What!? Oh, wait!!
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-……行っちまった。
-なんなんだ、あいつは？
+...I'm gone.  What is that?
 --------------------------------
 [00000021][サクヤ,マキシマ,サクヤ]
-……どうやら遅かったみたいね。
+...It seems like you're late.
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-な……!?
-あの古代兵器が、また暴れている！
+What...!? That ancient weapon is rampaging again!
 --------------------------------
 [00000023][サクヤ,マキシマ,サクヤ]
-傷ついた市民が逃げまどっているわ。
-レイジ、深刻な被害が出る前に
-古代兵器を……はっ!?
+Injured citizens are running away.  Rage, use the ancient weapon before serious
+damage is done... ha!?
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-え、サクヤさん……？
+Eh, Sakuya-san...?
 --------------------------------
 [00000025][アイザック,,伯爵]
-見下げたものだな、サクヤ。
-何故我々の邪魔をするのかね。
+That's disrespectful, Sakuya.  Why are you getting in our way?
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-な……伯爵!?
+What...Earl!?
 --------------------------------
 [00000027][アイザック,,伯爵]
-はるか昔よりこの地で続いてきた、
-壮大にして崇高な実験を妨害する権利など
-君にあるはずもなかろう……？
+You have no right to interfere with this grand and noble experiment that has
+been going on here since time immemorial...?
 --------------------------------
 [00000028][アイザック,,伯爵]
-その程度のこと、今さら言うまでもないと
-思っていたのだがな。
+I thought there was no need to say anything like that now.
 --------------------------------
 [00000029][サクヤ,マキシマ,サクヤ]
-くっ……。
+Damn...
 --------------------------------
 [00000030][レイジ,レイジ,レイジ]
-あの野郎、ふざけやがって……。
+That bastard was kidding me...
 --------------------------------
 [00000031][サクヤ,マキシマ,サクヤ]
-レイジ。
-ひとまず古代兵器をどうにかしましょう。
-伯爵は後回しよ。
+Rage.  Let's do something about the ancient weapon for now.  I'll leave the Earl
+behind.
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-……はい、サクヤさん！
+...Yes, Sakuya-san!
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-よし、これで全部片づいたぞ！
-あいつは……伯爵は？
+Okay, now that's all taken care of!  Who is that... Count?
 --------------------------------
 [00000034][アイザック,,伯爵]
-まったく困ったものだ。
-またもや邪魔をしてくれたな、サクヤ。
+That's totally confusing.  Thank you for interrupting me again, Sakuya.
 --------------------------------
 [00000035][サクヤ,マキシマ,サクヤ]
-伯爵……！
+Earl...!
 --------------------------------
 [00000036][アイザック,,伯爵]
-たかが実験体の虫けらを救うために
-私の偉大な計画を台無しにするとは。
-あきれて物が言えんよ。
+I can't believe you're ruining my grand plan just to save a test subject.  I'm
+so stunned that I can't say anything.
 --------------------------------
 [00000037][サクヤ,マキシマ,サクヤ]
-黙りなさい！
-この世界の人を虫けら呼ばわりするなんて
-許さないわ！
+Shut up!  I won't allow you to call people in this world  insects!
 --------------------------------
 [00000038][アイザック,,伯爵]
-今回はおとなしく引き下がるとしよう。
-だが……次はないぞ、サクヤ。
-覚えておきたまえ。
+Let's just back off quietly this time.  But... there's no next time, Sakuya. 
+Please remember that.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-待て伯爵！　逃げるな！
+Wait, Count! Do not run away!
 --------------------------------
 [00000040][サクヤ,マキシマ,サクヤ]
-……追っても無駄よ、レイジ。
-もう行ってしまったわ。
+...There's no point in pursuing you, Rage.  I'm already gone.
 --------------------------------
 [00000041][レイジ,レイジ,レイジ]
-くそっ、逃がしたか……。
+Shit, you let me escape...
 --------------------------------

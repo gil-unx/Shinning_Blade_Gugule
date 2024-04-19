@@ -1,720 +1,533 @@
 [0174]
 *****************
 [00000000][none]
-イルマリがポテンシャル@fcFF008800「情熱のメロディー」@fciに
-目覚めました。
+Ilmari has awakened to the potential @fcFF008800 "Melody of Passion" @fci.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　アントホルト近郊
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seiryoku 1935, near Antholt
 --------------------------------
 [00000002][none]
-今度の任務も
-ひどいらしいな
+Looks like the next mission is going to be terrible.
 --------------------------------
 [00000003][none]
-正規軍のために
-おとりになって
-帝国軍に追われる役ですね
+The role is to become a decoy for the regular army and be chased by the imperial
+army.
 --------------------------------
 [00000004][none]
-帝国軍に追いつかれたら
-どうなるんだよ……
+What will happen if the Imperial Army catches up with us...
 --------------------------------
 [00000005][none]
-隊長さんは
-追いつかれなければいいと
-言ってましたけど？
+The captain said that it would be better if we weren't caught up ?
 --------------------------------
 [00000006][none]
-死ぬのが恐くないのか
-あいつは……
+Aren't you afraid of dying That guy...
 --------------------------------
 [00000007][none]
-別に死にゃあしないって
-気楽にやろうぜ……
+It's not like I'm going to die, so let's take it easy...
 --------------------------------
 [00000008][none]
-どうしてそう言い切れる？
+How can you say that?
 --------------------------------
 [00000009][none]
-ヤバくなりそうだったら
-さっさと逃げりゃいいのよ
+If things look like they're going to get dangerous, just run away.
 --------------------------------
 [00000010][none]
-俺はお国のために
-死ぬのはお断りだ
+I refuse to die for my country.
 --------------------------------
 [00000011][none]
-脱走は銃殺ですよ……
+If you desert, you will be shot...
 --------------------------------
 [00000012][none]
-それにお前
-好きな時にホイホイ
-逃げられるわけないだろ
+Besides, there's no way you can run away whenever you want.
 --------------------------------
 [00000013][none]
-どうにかなるだろ
-適当にやれば
+It'll work out If you do it properly
 --------------------------------
 [00000014][none]
-その適当なアンタが
-なんでネームレスに
-来たんだよ？
+Why did that random person come to Nameless?
 --------------------------------
 [00000015][none]
-気づいたらここにいたのよ
-理由は知らねえ
+I found myself here I don't know why.
 --------------------------------
 [00000016][none]
-理由は何かあるはずですよ
-あたしだって捕まって
-ここに来たんですから
+There must be a reason I was arrested and came here.
 --------------------------------
 [00000017][none]
-前はどの部隊にいたんです？
-それぐらいは
-分かるでしょう？
+Which unit were you in before?  You understand that much , right?
 --------------------------------
 [00000018][none]
-部隊なんて知らねえな
-俺はずっと家にいたんだ
+I don't know about any troops. I was always at home.
 --------------------------------
 [00000019][none]
-家ってお前……
+Home is you...
 --------------------------------
 [00000020][none]
-徴兵拒否か……
+Refuse to be drafted...
 --------------------------------
 [00000021][none]
-家で何かやってたんですか？
+Were you doing anything at home?
 --------------------------------
 [00000022][none]
-だから、何もねえって
+So there's nothing
 --------------------------------
 [00000023][none]
-趣味で音楽をかじってた
-程度だな
+I was just playing music as a hobby 
 --------------------------------
 [00000024][none]
-楽器か
+Instrument?
 --------------------------------
 [00000025][none]
-いや、すぐ辞めちまった
-面倒だったんでな
+No, I quit right away It was a hassle.
 --------------------------------
 [00000026][none]
-ああ、早くここから
-オサラバして
-だらだら暮らしてえな……
+Ah, I hope you get out of here quickly and live a leisurely life...
 --------------------------------
 [00000027][none]
-アンタ、いい歳して
-すげえ野郎だな……
-まるで昔の貴族だぜ
+You're old and you're such a bastard... You're like an old aristocrat.
 --------------------------------
 [00000028][none]
-でもな、オレはアンタを
-見ていると妙に
-親近感を覚えるんだよ
+But, when I look at you, I feel a strange sense of kinship.
 --------------------------------
 [00000029][none]
-秘めた情熱が
-くすぶっているってのかな？
-そういうのをさ
+Is there some hidden passion smoldering?  That kind of thing
 --------------------------------
 [00000030][none]
-ちなみにうまい
-メシは好きか？
+By the way, do you like delicious food?
 --------------------------------
 [00000031][none]
-まあ、嫌いじゃねえけど
+Well, I don't dislike it.
 --------------------------------
 [00000032][none]
-それなら今度
-オレの特製料理を
-振る舞ってやろうか？
+In that case, why don't you serve my special dish next time?
 --------------------------------
 [00000033][none]
-ああ、でも
-昼寝中はダメだぞ
-絶対起きないからな
+Yeah, but Don't take a nap You'll never wake up.
 --------------------------------
 [00000034][none]
-こいつは大物だ
-……悪い意味で
+This guy is big ...in a bad way.
 --------------------------------
 [00000035][none]
-ぐぅ……ぐぉ
-……ぐぅ
+Guuu...guu ...guuu
 --------------------------------
 [00000036][none]
-イルマリ！
-おい、起きろよ！
-オレの手料理だぞ！
+Ilmari!  Hey, wake up!  It's my home cooking!
 --------------------------------
 [00000037][none]
-ん……？
+Hmm...?
 --------------------------------
 [00000038][none]
-料理と言っても
-お菓子だけどな
+Even though it's called cooking it's just sweets.
 --------------------------------
 [00000039][none]
-さあ、食ってくれ！
+Come on, eat!
 --------------------------------
 [00000040][none]
-昼寝中はダメだって
-言っただろ……
+I told you not to take a nap...
 --------------------------------
 [00000041][none]
-寝るなって！
-最高の直火焼きマフィンが
-できたんだよ！
+Don't sleep!  The best fire-baked muffins were made!
 --------------------------------
 [00000042][none]
-あとでいいだろ……
-どうせ今食っても
-味なんか分からねえよ……
+You can do it later... Even if you eat it now, you won't be able to taste it...
 --------------------------------
 [00000043][none]
-何だよ、せっかく
-自信作ができたのに
+What's the point? I was able to create something I'm proud of.
 --------------------------------
 [00000044][none]
-わ！
-おいしそう！
-もらってもいい？
+Wow!  Looks delicious!  Can I have it?
 --------------------------------
 [00000045][none]
-お？
+Oh?
 --------------------------------
 [00000046][none]
-これ、ジュリオの手作り？
-すごいのね！
+Is this Julio's handmade?  That's amazing!
 --------------------------------
 [00000047][none]
-リ、リエラちゃん……!?
+R-Riera-chan...!?
 --------------------------------
 [00000048][none]
-ん……おいしいっ!!
-きゃー！
-あまーい！
+Hmm... it's delicious!! Wow!  So sweet!
 --------------------------------
 [00000049][none]
-はは、お口に合ったようで
-何よりだよ……
+Haha, it seems to suit your taste I'm glad...
 --------------------------------
 [00000050][none]
-焼きたてだと
-香りとふわふわ感が
-全然違うわ！
+When it's freshly baked, the aroma and fluffiness are completely different!
 --------------------------------
 [00000051][none]
-もうひとつもらっていい？
-クルトにあげてくる！
+Can I have another one?  I'll give it to Kurt!
 --------------------------------
 [00000052][none]
-リエラちゃんが
-大絶賛だと？
+Riera-chan highly praised it?
 --------------------------------
 [00000053][none]
-イルマリ……？
-昼寝中は
-絶対起きないんじゃ……
+Ilmari...?  During your nap You'll never wake up...
 --------------------------------
 [00000054][none]
-うおお……う、羨ましい！
-悔しい……！
+Oooh... I'm so jealous!  It's frustrating...!
 --------------------------------
 [00000055][none]
-待て、なんか謎の感想が
-混じってるんだが？
+Wait, there are some mysterious impressions mixed in?
 --------------------------------
 [00000056][none]
-けしからん！
-こんな食い物で
-リエラちゃんを喜ばせて！
+It's outrageous!  With food like this Please make Riera-chan happy!
 --------------------------------
 [00000057][none]
-ええ!?
-アンタまさか
-あの死神ちゃんに恋を？
+Yeah!? Did you really fall in love with that Grim Reaper?
 --------------------------------
 [00000058][none]
-だったら何だってんだ？
-文句あんのか？
+Then what?  Are you complaining?
 --------------------------------
 [00000059][none]
-別に文句はないが……
-恐くないのか？
+I have nothing to complain about... Aren't you scared?
 --------------------------------
 [00000060][none]
-あんなかわいい子の
-どこが恐いってんだ！
+What's scary about such a cute girl?
 --------------------------------
 [00000061][none]
-そ、そうか……
-念のため聞いておくが
-彼女のどこがいいんだ？
+I-I see... Just to be sure, what do you like about her?
 --------------------------------
 [00000062][none]
-どこって、ほ、ほ……
+Where, ho, ho...
 --------------------------------
 [00000063][none]
-ほ……？
+Huh...?
 --------------------------------
 [00000064][none]
-ほっぺたが
-柔らかそうなところだ！
+Your cheeks look so soft!
 --------------------------------
 [00000065][none]
-はあ!?
+Huh!?
 --------------------------------
 [00000066][none]
-ちくしょう！
-オレもリエラちゃんを
-喜ばせてやる！
+Damn it!  I'll make Riera-chan happy too!
 --------------------------------
 [00000067][none]
-どこ行くんだ、おい！
-しかし、ほっぺたが
-柔らかそうって……
+Where are you going, hey!  However, her cheeks seem  soft...
 --------------------------------
 [00000068][none]
-はあ、はあ、はあ……
+Haa, haa, haa...
 --------------------------------
 [00000069][none]
-お、帰ってきたか
+Oh, you're back?
 --------------------------------
 [00000070][none]
-それ、トランペットか？
-そういえばアンタ
-音楽をやってたんだよな
+Is that a trumpet?  Now that I think about it, you were playing music.
 --------------------------------
 [00000071][none]
-一曲聴かせてくれよ
+Let me listen to one song.
 --------------------------------
 [00000072][none]
-リエラちゃんは!?
+What about Riela-chan!?
 --------------------------------
 [00000073][none]
-まだクルトの
-とこじゃないのか？
+Isn't it still Kurt's place?
 --------------------------------
 [00000074][none]
-何だよ……
-やめだやめだ！
+What... Stop it, stop it!
 --------------------------------
 [00000075][none]
-寝る
+sleep
 --------------------------------
 [00000076][none]
-これは一途って
-いうのか……？
-ううむ、分からん……
+Is this what you call single-mindedness...?  Hmm, I don't know...
 --------------------------------
 [00000077][none]
-もうすぐ
-作戦開始か……
+The operation will start soon...
 --------------------------------
 [00000078][none]
-下手したら二度と料理が
-作れなくなっちまうからな
-気合い入れていかないと
+If you're not good at it, you'll never be able to cook again. You have to put in
+the effort.
 --------------------------------
 [00000079][none]
-敵襲だ！
-今すぐ戦闘準備に入れ！
+Enemy attack!  Get ready for battle now!
 --------------------------------
 [00000080][none]
-ちょっと待ってくれよ!?
-おとり作戦なのに
-なんで動く前に敵が!?
+Wait a minute!? Even though it's a decoy operation, Why did the enemy appear
+before I could move!?
 --------------------------------
 [00000081][none]
-敵の警戒範囲が
-予想以上に広く
-こちらを察知したらしい
+The enemy's warning range is wider than expected It seems they have detected us.
 --------------------------------
 [00000082][none]
-何だって!?
+What!?
 --------------------------------
 [00000083][none]
-こちらに狙いを
-定めてきた時点で
-おとり作戦は成功だが
+As soon as I set my sights on you, the decoy operation was a success.
 --------------------------------
 [00000084][none]
-食いつきが早すぎて
-正規軍の攻撃が
-間に合わない
+The bite is too fast The regular army's attack can not be done in time.
 --------------------------------
 [00000085][none]
-しばらく敵部隊の
-足を止めるぞ
+It will stop the enemy troops for a while.
 --------------------------------
 [00000086][none]
-あれ？
-なあクルト
-イルマリを知らないか？
+Huh?  Hey Kurt Don't you know Ilmari?
 --------------------------------
 [00000087][none]
-まだここでは
-姿を見ていないが
+I haven't seen you here yet.
 --------------------------------
 [00000088][none]
-どこに行ったんだ
-こんな時に！
-オレ、探してくるぜ！
+Where did you go? At a time like this!  I'll go find it!
 --------------------------------
 [00000089][none]
-こんなところにいたのか！
-探したぞ！
+You were in a place like this!  I looked for it!
 --------------------------------
 [00000090][none]
-ちょっと待て、もう少しで
-思い出せそうなんだ
-昔の感覚を
+Wait a minute, I think I'm about to remember the old feeling.
 --------------------------------
 [00000091][none]
-何だ、トランペットの
-練習をしてるのか……？
+What, are you practicing the trumpet...?
 --------------------------------
 [00000092][none]
-そうだ
+Yes
 --------------------------------
 [00000093][none]
-そうだ、って……
-敵がもう来てるんだよ！
-呑気に練習してる場合かよ！
+That's right... The enemy is already here!  Maybe if you practice casually!
 --------------------------------
 [00000094][none]
-だから待てって!!
+So wait!!
 --------------------------------
 [00000095][none]
-イルマリ……？
+Ilmari...?
 --------------------------------
 [00000096][none]
-ちっ！　やっぱりダメだ！
-ブランクのせいで
-全然ダメだ!!
+Tsk! It's still no good!  Because it's blank No good at all!!
 --------------------------------
 [00000097][none]
-音の出し方は
-思い出してきたが
-音色が気に食わない！
+I've remembered how to make the sound, but I don't like the tone!
 --------------------------------
 [00000098][none]
-まったく思い通りに
-演奏できやしねえ……！
+I can't play it exactly the way I want...!
 --------------------------------
 [00000099][none]
-イルマリ……
-そんな必死な顔も
-できるんだな
+Ilmari... You can make such a desperate face 
 --------------------------------
 [00000100][none]
-顔なんかどうでもいいだろ
-音だ、音！
-音がダメなんだ！
+I don't care about your face It's the sound, the sound!  The sound is bad!
 --------------------------------
 [00000101][none]
-やっぱりアンタ
-ちゃんと情熱を
-持ってたんだな
+I guess you had the passion after all.
 --------------------------------
 [00000102][none]
-この前の件で
-音楽への情熱が
-戻ってきたのか？
+Has your passion for music returned because of what happened the other day?
 --------------------------------
 [00000103][none]
-情熱？
-何のことだ
+Passion?  What do you mean?
 --------------------------------
 [00000104][none]
-違うのか？
+No?
 --------------------------------
 [00000105][none]
-音楽なんか
-どうでもいいんだよ
+I don't care about the music.
 --------------------------------
 [00000106][none]
-リエラちゃんが
-喜ぶかどうかだ！
-これじゃ全然ダメだ！
+It depends on whether Riela-chan is happy or not!  This is no good at all!
 --------------------------------
 [00000107][none]
-なるほど、そういうことか
+I see, that's what it means.
 --------------------------------
 [00000108][none]
-もういい……
-やっぱりトランペットは
-ダメだ
+Enough... The trumpet is no good after all. 
 --------------------------------
 [00000109][none]
-もうどうでもいいや
-戦場でも何でも
-行けばいいんだろ、行けば
+I don't care anymore I can go on the battlefield or whatever I can just go, just
+go.
 --------------------------------
 [00000110][none]
-とんでもないムラっ気だな
-天才によくいる
-タイプではあるが……
+He's incredibly horny. He's the type often found among geniuses, but...
 --------------------------------
 [00000111][none]
-くそっ、何かないのか！
-リエラちゃんを
-喜ばせる何かが……！
+Shit, there's nothing!  Something that will make Riera-chan happy...!
 --------------------------------
 [00000112][none]
-敵が撤退していきますよ！
-どういうことでしょうか？
+The enemy is retreating!  What do you mean?
 --------------------------------
 [00000113][none]
-理由はどうだっていい
-敵さんが帰るんなら
-オレ達も帰ろうぜ
+I don't care what the reason is If the enemy is going home Let's go home too.
 --------------------------------
 [00000114][none]
-いや、おとりがばれたな
-撤退ではなくあれは
-正規軍を攻めに行ったんだ
+No, the decoy was discovered. Instead of retreating, they went to attack the
+regular army.
 --------------------------------
 [00000115][none]
-でもあの数なら
-正規軍でも
-どうにかなるでしょう
+But with that number, even the regular army would be fine.
 --------------------------------
 [00000116][none]
-隊長！
-帝国軍の一個中隊が
-援軍として合流中よ！
+Captain!  A company of the Imperial Army is joining us as reinforcements!
 --------------------------------
 [00000117][none]
-援軍だって!?
-合流されたら
-正規軍は数で負けるぞ！
+Reinforcements!? If they join us, the regular army will be outnumbered!
 --------------------------------
 [00000118][none]
-別にいいだろ
-正規軍がやられたって
-知るかそんなもん
+I don't really care. You know the regular army was attacked. It's like that.
 --------------------------------
 [00000119][none]
-せめて合流を阻止しないと
-おとりの役目を果たした
-ことにならないな……
+If we don't at least prevent them from merging, we'll be acting as a decoy...
 --------------------------------
 [00000120][none]
-やめとけってそんな……
+Don't do that...
 --------------------------------
 [00000121][none]
-私が行く！
+I'm going!
 --------------------------------
 [00000122][none]
-えっ？
+Huh?
 --------------------------------
 [00000123][none]
-私が１人で
-おとりになって
-援軍を遠ざけるわ！
+I'll act as a decoy and keep the reinforcements away!
 --------------------------------
 [00000124][none]
-リエラちゃん……!?
+Riela-chan...!?
 --------------------------------
 [00000125][none]
-リエラ、単独行動は
-許可できない
-やるなら小隊全員で行く
+Riera, solo action is not allowed If you're going to do it, go with the whole
+platoon.
 --------------------------------
 [00000126][none]
-注意を引きつけるだけなら
-１人で充分よ
-私が行けばいい
+Just to get attention One person is enough I can go.
 --------------------------------
 [00000127][none]
-却下だ
+Rejected
 --------------------------------
 [00000128][none]
-そうだ、却下だ！
+Yes, rejected!
 --------------------------------
 [00000129][none]
-おい、イルマリ!?
+Hey, Ilmari!?
 --------------------------------
 [00000130][none]
-リエラちゃんを
-行かせるわけにはいかん
-ここはオレの出番だ
+I can't let Riera-chan go. It's my turn here.
 --------------------------------
 [00000131][none]
-どういうつもりだ？
-君が代わりに
-おとりをやるのは却下だぞ
+What do you mean?  I refuse to act as a decoy for you in my place.
 --------------------------------
 [00000132][none]
-いやオレがおとりをやる！
-これは決定だ！
+No, I'll take the bait!  This is decided!
 --------------------------------
 [00000133][none]
-命令違反は銃殺ですよ!?
+Violating orders means being shot!?
 --------------------------------
 [00000134][none]
-銃殺か……
-だったら俺の命を
-有意義に使えよ
+Shoot me... In that case, use my life in a meaningful way.
 --------------------------------
 [00000135][none]
-なに？
+What?
 --------------------------------
 [00000136][none]
-ここで殺して無駄にするか
-おとりを命じて役立てるか
-どっちだって聞いてんだ！
+I'm asking you if you want to kill me here and waste it Order a decoy and make
+it useful 
 --------------------------------
 [00000137][none]
-言っとくがオレは本気だぞ
-国のために死ぬのは
-御免だが
+I'm serious, I'm sorry to die for my country 
 --------------------------------
 [00000138][none]
-好きなもののためなら
-いくらでも死んでやる！
+I'll die for what I love!
 --------------------------------
 [00000139][none]
-こんな時に冗談はよせ
+Don't joke at times like this
 --------------------------------
 [00000140][none]
-冗談じゃねえさ！
-行ってくるぜ！
-おらああああああああ!!
+No kidding!  Let's go!  Oraaaaaaaaaa!!
 --------------------------------
 [00000141][none]
-イルマリ！
+Ilmari!
 --------------------------------
 [00000142][none]
-イルマリ！
+Ilmari!
 --------------------------------
 [00000143][none]
-待ってくれクルト！
-イルマリは本気だ
-行かせてやってくれないか
+Wait, Kurt!  Ilmari is serious Will you let me go?
 --------------------------------
 [00000144][none]
-アイツはあの性格だ
-できないことは
-絶対にやらない
+That's his personality He never does anything he can't do.
 --------------------------------
 [00000145][none]
-きっと何か策があって
-おとりに志願したはずだ
-信じてやってくれ！
+I'm sure they had a plan and volunteered to act as a decoy. Trust me, I'll do
+it!
 --------------------------------
 [00000146][none]
-ジュリオ……
+Julio...
 --------------------------------
 [00000147][none]
-よし、ここだ！
-ここならいい！
+Okay, here it is!  It's fine here!
 --------------------------------
 [00000148][none]
-風向きよし、方向よし！
+The wind is right, the direction is right!
 --------------------------------
 [00000149][none]
-届けよっ!!
+Deliver it!!
 --------------------------------
 [00000150][none]
-アイツ……
-まだ帰ってこないけど
-大丈夫か……
+He... He hasn't come back yet Are you okay...
 --------------------------------
 [00000151][none]
 ……
 --------------------------------
 [00000152][none]
-無事だと信じたいけど……
+I want to believe that you're safe, but...
 --------------------------------
 [00000153][none]
-おう、終わったぞ
+Hey, it's over.
 --------------------------------
 [00000154][none]
-イルマリ！
-無事だったか！
+Ilmari!  Were you okay?
 --------------------------------
 [00000155][none]
-結果報告を、イルマリ
+Report results to Ilmari
 --------------------------------
 [00000156][none]
-ガリア軍の
-進軍ラッパを吹いてきた
-それだけだ
+The Gallic army's marching trumpet has been blown. That's all.
 --------------------------------
 [00000157][none]
-それだけ!?
+That's it!?
 --------------------------------
 [00000158][none]
-オレのトランペットは
-風上からだと
-銃より遠くまで届く
+My trumpet can reach further than a gun from upwind.
 --------------------------------
 [00000159][none]
-一発吹いてやったら
-見えないガリア軍に驚いて
-敵さんが大あわてさ
+When I fired one shot, the enemy was surprised by the invisible Gallic army and
+panicked.
 --------------------------------
 [00000160][none]
-なるほど、トランペットか
+I see, it's a trumpet.
 --------------------------------
 [00000161][none]
-腕前は本物だったんだな
+His skill was real.
 --------------------------------
 [00000162][none]
-へへへ……
+Hehehe...
 --------------------------------
 [00000163][none]
-ありがとう、イルマリ
+Thank you, Ilmari
 --------------------------------
 [00000164][none]
-リエラちゃん……
-その笑顔が見られただけで
-オレは満足だ！
+Riela-chan... Just seeing that smile makes me happy!
 --------------------------------
 [00000165][none]
-だけどさ……
-リエラちゃんはクルトが
-好きなんじゃないか？
+But... Doesn't Riera-chan like Kurt ?
 --------------------------------
 [00000166][none]
-振り向いてもらえなくても
-泣くなよ？
+Don't cry even if you don't look back at me, okay?
 --------------------------------
 [00000167][none]
-バカにするな！
-オレはそんな事は
-望んでねえよ
+Don't make fun of me!  I don't want that 
 --------------------------------
 [00000168][none]
-彼女の笑顔があれば
-それで満足だ！
+As long as I see her smile, I'm satisfied!
 --------------------------------
 [00000169][none]
-そうなのか!?
+Is that so!?
 --------------------------------
 [00000170][none]
-見ろ、あの柔らかそうな
-ほっぺたを！
-ああ、リエラちゃん……
+Look at those soft cheeks!  Oh, Riera-chan...
 --------------------------------
 [00000171][none]
-理解できん……やっぱり
-天才なのか、それとも
-ただの変人なのか……？
+I don't understand... Are you a genius after all, or are you just a weirdo...?
 --------------------------------
 [00000172][none]
-その本気を他のことにも
-使えばいいのにな
+I wish I could use that seriousness for other things.
 --------------------------------
 [00000173][none]
-すてきだ
-リエラちゃん……
+That's wonderful Riera-chan...
 --------------------------------

@@ -4,7 +4,7 @@
 CheckAppearCharacterInfoFlag
 --------------------------------
 [00000001]
-%sが仲間になりました。
+%s has joined your team.
 --------------------------------
 [00000002]
 CheckAppearCharacterInfoFlag

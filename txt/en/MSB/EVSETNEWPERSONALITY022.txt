@@ -7,16 +7,16 @@ CheckPersonalityInfoFlag
 
 --------------------------------
 [00000002]
-%sのパーソナリティに\n@fcFF00FFFF「%s」@fciが追加されました。
+%s has been added to\n @fcFF00FFFF「%s」@fci personality.
 --------------------------------
 [00000003]
 
 --------------------------------
 [00000004]
-%sのパーソナリティ\n@fcFFFF0000「%s」@fciがなくなりました。
+%s's personality\n@fcFFFF0000「%s」@fci is gone.
 --------------------------------
 [00000005]
-%sのパーソナリティ\n@fcFF00FFFF「%s」@fciが@fcFF00FFFF「%s」@fciになりました。
+%s's personality\n@fcFF00FFFF「%s」@fci is now @fcFF00FFFF「%s」@fci.
 --------------------------------
 [00000006]
 CheckPersonalityInfoFlag

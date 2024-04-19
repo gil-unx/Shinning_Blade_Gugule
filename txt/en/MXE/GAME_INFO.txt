@@ -52,1402 +52,1323 @@ VlMxMaterialInfo
 VlMxRequestInfo
 --------------------------------
 [00000017]
-お菓子パンのレシピ
+sweet bread recipe
 --------------------------------
 [00000018]
-きのこ傘
+mushroom umbrella
 --------------------------------
 [00000019]
-さそりパン
+scorpion bread
 --------------------------------
 [00000020]
-さそりパンのレシピ
+Scorpion bread recipe
 --------------------------------
 [00000021]
-しびれるアップルパイ
+Numbing apple pie
 --------------------------------
 [00000022]
-とがった猪牙
+sharp boar tusk
 --------------------------------
 [00000023]
-はやてのメロンパン
+Hayate melon bread
 --------------------------------
 [00000024]
-アタックに毒効果を追加する。
+Adds poison effect to attack.
 --------------------------------
 [00000025]
-アミルの特製パン
+Amil's special bread
 --------------------------------
 [00000026]
-アミルの特製レシピ
+Amil's special recipe
 --------------------------------
 [00000027]
-アースベース１
+earth base 1
 --------------------------------
 [00000028]
-アースベース２
+earth base 2
 --------------------------------
 [00000029]
-アースベース３
+earth base 3
 --------------------------------
 [00000030]
-アースベース４
+earth base 4
 --------------------------------
 [00000031]
-アースベース５
+earth base 5
 --------------------------------
 [00000032]
-イフリート
+Ifrit
 --------------------------------
 [00000033]
-ウィルオウィスプ
+will-o-wisp
 --------------------------------
 [00000034]
-ウィンドベース１
+wind base 1
 --------------------------------
 [00000035]
-ウィンドベース２
+wind base 2
 --------------------------------
 [00000036]
-ウィンドベース３
+wind base 3
 --------------------------------
 [00000037]
-ウィンドベース４
+wind base 4
 --------------------------------
 [00000038]
-ウィンドベース５
+wind base 5
 --------------------------------
 [00000039]
-ウォーターベース１
+water base 1
 --------------------------------
 [00000040]
-ウォーターベース２
+water base 2
 --------------------------------
 [00000041]
-ウォーターベース３
+water base 3
 --------------------------------
 [00000042]
-ウォーターベース４
+water base 4
 --------------------------------
 [00000043]
-ウォーターベース５
+water base 5
 --------------------------------
 [00000044]
-ウルフから取れた
-手触りの良い毛皮。
+
+Nice-touch fur obtained from wolves.
 --------------------------------
 [00000045]
-ウンディーネ
+Undine
 --------------------------------
 [00000046]
-エアリィの特製パン
+Airy's special bread
 --------------------------------
 [00000047]
-エアリィの特製レシピ
+Airy's special recipe
 --------------------------------
 [00000048]
-エメラルド
+emerald
 --------------------------------
 [00000049]
-エールブランの巨大な牙の破片。
+A fragment of Erbrun's giant fang.
 --------------------------------
 [00000050]
-オロチ
+Orochi
 --------------------------------
 [00000051]
-カスタムアイ
+custom eyes
 --------------------------------
 [00000052]
-ガイスト
+geist
 --------------------------------
 [00000053]
-ガリア軍
+Gallic army
 --------------------------------
 [00000054]
-ガンドロイドの体の一部。
-大型弾を撃つための大砲身。
+A part of Gundroid's body. 
+A large gun barrel for firing large bullets.
 --------------------------------
 [00000055]
-ガンドロイドの体の一部。
-射撃用の特殊なゴーグル。
+A part of Gundroid's body. 
+Special goggles for shooting.
 --------------------------------
 [00000056]
-ガーゴイル
+gargoyle
 --------------------------------
 [00000057]
-キマイラ
+chimera
 --------------------------------
 [00000058]
-クイックバーガー
+quick burger
 --------------------------------
 [00000059]
-クモの体液
+spider body fluid
 --------------------------------
 [00000060]
-クモ型モンスターから取れた
-粘りのある体液。
+A sticky body fluid obtained from spider-type monsters.
 --------------------------------
 [00000061]
-クリムゾンスカルの豪華なリング。
+A gorgeous crimson skull ring.
 --------------------------------
 [00000062]
-グリフォン
+gryphon
 --------------------------------
 [00000063]
-グリーンペーストの体から取れた
-プルプルゼリー。
+A jiggly jelly taken from Green Paste's body.
 --------------------------------
 [00000064]
-グレムリン
+gremlin
 --------------------------------
 [00000065]
-グローブのとげ
+thorns in the glove
 --------------------------------
 [00000066]
-ケフィアパン
+kefir bread
 --------------------------------
 [00000067]
-ケフィアパンのレシピ
+kefir bread recipe
 --------------------------------
 [00000068]
-ケルピー
+kelpie
 --------------------------------
 [00000069]
-ケンタウロス型のモンスターから
-取れた黒い蹄鉄。
+A black horseshoe taken from a centaur-type monster.
 --------------------------------
 [00000070]
-ゴブリンの斧
+goblin ax
 --------------------------------
 [00000071]
-ゴブリンの金棒
+goblin gold bar
 --------------------------------
 [00000072]
-ゴブリンの靴
+goblin shoes
 --------------------------------
 [00000073]
-ゴブリン型のモンスターから取れた
-彼らが好んではく靴。
+Shoes taken from goblin-type monsters
+They like to wear shoes.
 --------------------------------
 [00000074]
-ゴーレムの土
+golem soil
 --------------------------------
 [00000075]
-ゴーレム型モンスターから取れた
-体を構成する土。
+The earth that makes up the body taken from a golem type monster.
 --------------------------------
 [00000076]
-サクラあんパン
+Sakura Anpan
 --------------------------------
 [00000077]
-サクラのレシピ
+Sakura recipe
 --------------------------------
 [00000078]
-サソリの尻尾
+scorpion tail
 --------------------------------
 [00000079]
-サソリ型モンスターから取れた
-毒の尻尾。
+A poisonous tail taken from a scorpion-type monster.
 --------------------------------
 [00000080]
-サファイア
+sapphire
 --------------------------------
 [00000081]
-サボテンのとげ
+cactus thorns
 --------------------------------
 [00000082]
-サラマンダー
+salamander
 --------------------------------
 [00000083]
-サンダースパイダーが吐き出す、
-特殊な糸。
+
+Special thread spewed out by Thunder Spider.
 --------------------------------
 [00000084]
-サンドスコーピオンから取れた
-特殊な砂かきバサミ。
+
+Special sand pegs taken from the Sand Scorpion.
 --------------------------------
 [00000085]
-シェイド
+shade
 --------------------------------
 [00000086]
-シェルタートルから取れた
-ゴツゴツした甲羅。
+A rugged shell taken from a Shelter Tor.
 --------------------------------
 [00000087]
-シャドウベース１
+shadow base 1
 --------------------------------
 [00000088]
-シャドウベース２
+shadow base 2
 --------------------------------
 [00000089]
-シャドウベース３
+shadow base 3
 --------------------------------
 [00000090]
-シャドウベース４
+shadow base 4
 --------------------------------
 [00000091]
-シャドウベース５
+shadow base 5
 --------------------------------
 [00000092]
-シュリーカーの体の一部。
+Part of Shrieker's body.
 --------------------------------
 [00000093]
-シルバーペーストの体から取れた
-プニプニゼリー。
+Punipuni jelly taken from Silver Paste's body.
 --------------------------------
 [00000094]
-シルフ
+sylph
 --------------------------------
 [00000095]
-シヴァ
+shiva
 --------------------------------
 [00000096]
-ジェネラルであることを
-示す階級章。
+A rank insignia that indicates being a general.
 --------------------------------
 [00000097]
-ジェネラルの証
+General's proof
 --------------------------------
 [00000098]
-ジャックランタン
+Jack-o'-Lantern
 --------------------------------
 [00000099]
-スウィーツのレシピ
+sweets recipes
 --------------------------------
 [00000100]
-スカル型のモンスターから取れた
-骨の一部。
+A piece of bone taken from a skull-type monster.
 --------------------------------
 [00000101]
-スコーピオンから取れた
-大きなトゲバサミ。
+
+Large thorn shears taken from a scorpion.
 --------------------------------
 [00000102]
-スティンガーから取れた鋭い針。
+A sharp needle taken from a stinger.
 --------------------------------
 [00000103]
-スティールアタック時に
-レアアイテム入手率がアップする。
+
+Rare item acquisition rate increases when performing a steal attack.
 --------------------------------
 [00000104]
-スノーボアから取れた
-ケモノの匂いがする体毛。
+Fur that smells like a beast, taken from a snowboa.
 --------------------------------
 [00000105]
-スパイダーが吐き出す、
-細くて丈夫な糸。
+A thin and durable thread spewed out by spiders.
 --------------------------------
 [00000106]
-スプライト
+sprite
 --------------------------------
 [00000107]
-スマッシャー型のモンスターから
-取れたグローブのとげ。
+A thorn from a glove taken from a Smasher-type monster.
 --------------------------------
 [00000108]
-ソルベエパン
+sorbet bread
 --------------------------------
 [00000109]
-ソルベエパンのレシピ
+sorbet bread recipe
 --------------------------------
 [00000110]
-タートルの卵
+turtle eggs
 --------------------------------
 [00000111]
-タートルの熱甲羅
+turtle thermal shell
 --------------------------------
 [00000112]
-タートルの甲羅
+turtle shell
 --------------------------------
 [00000113]
-ダリアの体のトゲトゲ。
+The thorns on Dahlia's body.
 --------------------------------
 [00000114]
-ダーククリスタルの大きな欠片。
+A large piece of the Dark Crystal.
 --------------------------------
 [00000115]
-ダークスカルのリング。
+Dark skull ring.
 --------------------------------
 [00000116]
-チェリーパイのレシピ
+cherry pie recipe
 --------------------------------
 [00000117]
-チャコルのかわいらしい小さな羽。
+Cute little charcoal feathers.
 --------------------------------
 [00000118]
-ティターン
+titan
 --------------------------------
 [00000119]
-デニッシュのレシピ
+danish recipe
 --------------------------------
 [00000120]
-トゲバサミ
+Thorn scissors
 --------------------------------
 [00000121]
-トーチのかわいらしい短い尻尾。
+Torch's cute short tail.
 --------------------------------
 [00000122]
-ドラゴニア帝国の兵士であることを
-示す紋章。
+A emblem that indicates that you are a soldier of the Dragonian Empire.
 --------------------------------
 [00000123]
-ドラゴン
+dragon
 --------------------------------
 [00000124]
-ドーナツのレシピ
+donut recipes
 --------------------------------
 [00000125]
-ネリスの特製パン
+Nellis' special bread
 --------------------------------
 [00000126]
-ネリスの特製レシピ
+Nellis' special recipe
 --------------------------------
 [00000127]
-ネームレス
+nameless
 --------------------------------
 [00000128]
-ノーム
+gnome
 --------------------------------
 [00000129]
-ハイリザードのかさかさしたトサカ。
+High lizard's bulky crest.
 --------------------------------
 [00000130]
-ハイリザードのトサカ
+High Lizard Crest
 --------------------------------
 [00000131]
-ハチの薄羽
+thin bee wings
 --------------------------------
 [00000132]
-ハチ型モンスターから取れた
-昆虫の薄羽。
+A thin insect feather taken from a bee-type monster.
 --------------------------------
 [00000133]
-ハンバーガーのレシピ
+hamburger recipes
 --------------------------------
 [00000134]
-バシリスク
+basilisk
 --------------------------------
 [00000135]
-バトル中の取得経験値が
-２倍になる。
+Experience points gained during battle will be doubled.
 --------------------------------
 [00000136]
-パンダパン
+panda bread
 --------------------------------
 [00000137]
-パンダパンのレシピ
+panda bread recipe
 --------------------------------
 [00000138]
-パン・ル・クール
+pain le coeur
 --------------------------------
 [00000139]
-パン屋でお菓子パンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase sweet bread at the bakery.
 --------------------------------
 [00000140]
-パン屋でさそりパンが
-購入できるようになります。
+Scorpion bread will now be available for purchase at the bakery.
 --------------------------------
 [00000141]
-パン屋でさそりパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Scorpion Bread at the bakery.
 --------------------------------
 [00000142]
-パン屋でアミルの特製パンが
-購入できるようになります。
+Amil's special bread can now be purchased
+at the bakery.
 --------------------------------
 [00000143]
-パン屋でアミルの特製パンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Amil's special bread at the bakery.
 --------------------------------
 [00000144]
-パン屋でエアリィの特製パンが
-購入できるようになります。
+Airy's special bread will be available for purchase at the bakery.
 --------------------------------
 [00000145]
-パン屋でエアリィの特製パンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Airy's special bread at the bakery.
 --------------------------------
 [00000146]
-パン屋でケフィアパンが
-購入できるようになります。
+Kefir bread will now be available for purchase at the bakery.
 --------------------------------
 [00000147]
-パン屋でケフィアパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase kefir bread at the bakery.
 --------------------------------
 [00000148]
-パン屋でサクラあんパンが
-購入できるようになります。
+Sakura Anpan will be available for purchase at the bakery.
 --------------------------------
 [00000149]
-パン屋でサクラあんパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Sakura Anpan at the bakery.
 --------------------------------
 [00000150]
-パン屋でソルベエパンが
-購入できるようになります。
+Sorbet bread will be available for purchase at the bakery.
 --------------------------------
 [00000151]
-パン屋でソルベエパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase sorbet bread at the bakery.
 --------------------------------
 [00000152]
-パン屋でデニッシュが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Danish at the bakery.
 --------------------------------
 [00000153]
-パン屋でネリスの特製パンが
-購入できるようになります。
+Neris' special bread can now be purchased
+at the bakery.
 --------------------------------
 [00000154]
-パン屋でネリスの特製パンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Neris' special bread at the bakery.
 --------------------------------
 [00000155]
-パン屋でハンバーガーが
-購入できるようになるレシピ。
+A recipe that allows you to buy hamburgers at the bakery.
 --------------------------------
 [00000156]
-パン屋でパンダパンが
-購入できるようになります。
+Panda bread will be available for purchase at the bakery.
 --------------------------------
 [00000157]
-パン屋でパンダパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase panda bread at the bakery.
 --------------------------------
 [00000158]
-パン屋でパン・ル・クールが
-購入できるようになります。
+Pain Le Coeur will now be available for purchase at the bakery.
 --------------------------------
 [00000159]
-パン屋でパン・ル・クールが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Pain Le Coeur at the bakery.
 --------------------------------
 [00000160]
-パン屋でピザが
-購入できるようになるレシピ。
+A recipe that allows you to buy pizza at the bakery.
 --------------------------------
 [00000161]
-パン屋でフランスパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase French bread at a bakery.
 --------------------------------
 [00000162]
-パン屋で一般的なパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase regular bread at a bakery.
 --------------------------------
 [00000163]
-パン屋で中華まんが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Chinese manga at a bakery.
 --------------------------------
 [00000164]
-パン屋で中身の入ったパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase filled bread at the bakery.
 --------------------------------
 [00000165]
-パン屋で乙女のローズマフィンが
-購入できるようになります。
+Maiden's Rose Muffins will be available for purchase at the bakery.
 --------------------------------
 [00000166]
-パン屋で乙女のローズマフィンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Maiden's Rose Muffins at the bakery.
 --------------------------------
 [00000167]
-パン屋で伝説の海賊バーガーが
-購入できるようになります。
+You can now purchase the legendary pirate burger
+at the bakery.
 --------------------------------
 [00000168]
-パン屋で伝説の海賊バーガーが
-購入できるようになるレシピ。
+A recipe that allows you to purchase the legendary pirate burger at the bakery.
 --------------------------------
 [00000169]
-パン屋で学業成就紅白まん頭が
-購入できるようになります。
+Academic achievement red and white buns will be available for purchase at the bakery.
 --------------------------------
 [00000170]
-パン屋で学業成就紅白まん頭が
-購入できるようになるレシピ。
+A recipe that allows you to purchase academic achievement red and white manto at the bakery.
 --------------------------------
 [00000171]
-パン屋で巻き形状のパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase rolled bread at the bakery.
 --------------------------------
 [00000172]
-パン屋で情報通のドラゴンパンが
-購入できるようになります。
+You will be able to purchase Informed Dragon Bread at the bakery
+.
 --------------------------------
 [00000173]
-パン屋で情報通のドラゴンパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Informed Dragon Bread at the bakery.
 --------------------------------
 [00000174]
-パン屋で攻略班の夜食ピザが
-購入できるようになります。
+You will be able to purchase the strategy team's late night pizza at the bakery
+.
 --------------------------------
 [00000175]
-パン屋で攻略班の夜食ピザが
-購入できるようになるレシピ。
+A recipe that allows you to purchase the strategy team's late night pizza at the bakery.
 --------------------------------
 [00000176]
-パン屋で校舎裏のカレーパンが
-購入できるようになります。
+You will be able to purchase curry bread at the bakery behind the school building
+.
 --------------------------------
 [00000177]
-パン屋で校舎裏のカレーパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase the curry bread behind the school building at the bakery.
 --------------------------------
 [00000178]
-パン屋で海賊風シーフードピザが
-購入できるようになります。
+Pirate Seafood Pizza will now be available for purchase at the bakery.
 --------------------------------
 [00000179]
-パン屋で海賊風シーフードピザが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Pirate Seafood Pizza at the bakery.
 --------------------------------
 [00000180]
-パン屋で男子スウィーツが
-購入できるようになります。
+Men's sweets will be available for purchase at the bakery.
 --------------------------------
 [00000181]
-パン屋で男子スウィーツが
-購入できるようになるレシピ。
+A recipe that allows you to purchase men's sweets at the bakery.
 --------------------------------
 [00000182]
-パン屋で純情チェリーパイが
-購入できるようになります。
+Junjo Cherry Pie can now be purchased
+at the bakery.
 --------------------------------
 [00000183]
-パン屋で純情チェリーパイが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Junjou Cherry Pie at the bakery.
 --------------------------------
 [00000184]
-パン屋で蒸しパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase steamed bread at the bakery.
 --------------------------------
 [00000185]
-パン屋で購買部の焼きそばパンが
-購入できるようになります。
+Yakisoba bread from the Purchasing Department will be available for purchase at the bakery.
 --------------------------------
 [00000186]
-パン屋で購買部の焼きそばパンが
-購入できるようになるレシピ。
+A recipe that allows you to purchase Yakisoba bread from the purchasing department at the bakery.
 --------------------------------
 [00000187]
-パン屋で連撃チョコドーナツが
-購入できるようになります。
+Consecutive chocolate donuts will be available for purchase at the bakery.
 --------------------------------
 [00000188]
-パン屋で連撃チョコドーナツが
-購入できるようになるレシピ。
+A recipe that allows you to purchase consecutive chocolate donuts at the bakery.
 --------------------------------
 [00000189]
-ヒドラ
+hydra
 --------------------------------
 [00000190]
-ビルドアップストーン
+build up stone
 --------------------------------
 [00000191]
-ビルドスマッシャーの体に
-埋め込まれていた能力強化石。
+An ability-enhancing stone embedded in Build Smasher's body.
 --------------------------------
 [00000192]
-ピザのレシピ
+pizza recipes
 --------------------------------
 [00000193]
-ファンロンの巨大な角の破片。
+Fang Long's giant horn fragment.
 --------------------------------
 [00000194]
-フィジカルベース１
+physical base 1
 --------------------------------
 [00000195]
-フィジカルベース２
+physical base 2
 --------------------------------
 [00000196]
-フィジカルベース３
+physical base 3
 --------------------------------
 [00000197]
-フィジカルベース４
+physical base 4
 --------------------------------
 [00000198]
-フィジカルベース５
+physical base 5
 --------------------------------
 [00000199]
-フェアリー
+fairy
 --------------------------------
 [00000200]
-フェニックス
+phoenix
 --------------------------------
 [00000201]
-フォースソングの効果がアップ。
-複数回アタックの攻撃回数を除く。
+Increases the effect of Force Song. 
+Excluding the number of attacks for multiple attacks.
 --------------------------------
 [00000202]
-フランスパンのレシピ
+french bread recipe
 --------------------------------
 [00000203]
-フレイムベース１
+flame base 1
 --------------------------------
 [00000204]
-フレイムベース２
+flame base 2
 --------------------------------
 [00000205]
-フレイムベース３
+flame base 3
 --------------------------------
 [00000206]
-フレイムベース４
+flame base 4
 --------------------------------
 [00000207]
-フレイムベース５
+flame base 5
 --------------------------------
 [00000208]
-ブラストビーから取れた導火線（？）
+A fuse taken from a blast bee (?)
 --------------------------------
 [00000209]
-ブリザードウルフから取れた
-フサフサな尻尾。
+A fluffy tail taken from a blizzard wolf.
 --------------------------------
 [00000210]
-ブリックゴーレムを構成する
-重要なパーツ。
+
+Important parts that make up a brick golem.
 --------------------------------
 [00000211]
-ブルーペーストの体から取れた
-プリプリゼリー。
+
+Preppy jelly taken from Blue Paste's body.
 --------------------------------
 [00000212]
-ブレイバーンの鱗の１枚。
+One of Braeburn's scales.
 --------------------------------
 [00000213]
-ベイルグランの体木に生えていた
-葉の１枚。
+One of the leaves that grew on the tree of Bailgrand.
 --------------------------------
 [00000214]
-ペンゴオル
+pengool
 --------------------------------
 [00000215]
-ペーストの中心にあるコア部分。
+The core part in the center of the paste.
 --------------------------------
 [00000216]
-ペーストコア
+paste core
 --------------------------------
 [00000217]
-ホブゴブリンが使用していた斧。
+An ax used by hobgoblins.
 --------------------------------
 [00000218]
-ホブゴブリンが愛用していた金棒。
+A gold rod favored by the Hobgoblin.
 --------------------------------
 [00000219]
-ボロボロの青い布
+Tattered blue cloth
 --------------------------------
 [00000220]
-ボーンアーチャーの
-まとっていた丈夫な布。
+A durable cloth worn by Bone Archer.
 --------------------------------
 [00000221]
-ボーンエリートの
-まとっていた高価な布。
+An expensive cloth worn by the Bone Elite.
 --------------------------------
 [00000222]
-ボーンファイターの
-まとっていたボロボロの布。
+A tattered cloth worn by the Bone Fighter.
 --------------------------------
 [00000223]
-ボーン型のモンスターから取れた
-丈夫な骨。
+
+Strong bones taken from bone-type monsters.
 --------------------------------
 [00000224]
-マグマゴーレムの肩アーマー。
+Magma golem shoulder armor.
 --------------------------------
 [00000225]
-マジックロールパン
+magic roll bread
 --------------------------------
 [00000226]
-ユキヒメ
+Yukihime
 --------------------------------
 [00000227]
-ライトベース１
+light base 1
 --------------------------------
 [00000228]
-ライトベース２
+light base 2
 --------------------------------
 [00000229]
-ライトベース３
+light base 3
 --------------------------------
 [00000230]
-ライトベース４
+light base 4
 --------------------------------
 [00000231]
-ライトベース５
+light base 5
 --------------------------------
 [00000232]
-リザードのみずみずしいトサカ。
+The fresh crest of a lizard.
 --------------------------------
 [00000233]
-リザードのトサカ
+lizard crest
 --------------------------------
 [00000234]
-リザードの槍
+lizard spear
 --------------------------------
 [00000235]
-リザード型モンスターが
-使用している槍。
+A spear used by lizard type monsters.
 --------------------------------
 [00000236]
-リリス
+lilith
 --------------------------------
 [00000237]
-リンクアタック時に増加する
-好感度がアップする。
+Increases 
+Favorability during link attacks.
 --------------------------------
 [00000238]
-ルナリス
+Lunaris
 --------------------------------
 [00000239]
-ルビー
+Ruby
 --------------------------------
 [00000240]
-ル・クールのレシピ
+le coeur recipe
 --------------------------------
 [00000241]
-レッドペーストの体から取れた
-プヨプヨゼリー。
+
+Puyo Puyo jelly taken from Red Paste's body.
 --------------------------------
 [00000242]
-ワイバーン
+wyvern
 --------------------------------
 [00000243]
-ワーム
+worm
 --------------------------------
 [00000244]
-ヴァルキリー
+valkyrie
 --------------------------------
 [00000245]
-ヴォルカタートルから取れた
-珍しい甲羅。
+A rare shell taken from the Volca Turtle.
 --------------------------------
 [00000246]
-丈夫な糸
+durable thread
 --------------------------------
 [00000247]
-上位魔竜から取れた
-体の中心核。
+The central core of the body taken from a superior demon dragon.
 --------------------------------
 [00000248]
-上質の緑の布
+fine green cloth
 --------------------------------
 [00000249]
-下級魔竜から取れた
-魔力を持つ鱗。
+Scales with magical power taken from a lower demon dragon.
 --------------------------------
 [00000250]
-下級魔竜の鱗
+Lower demon dragon scales
 --------------------------------
 [00000251]
-中華まんのレシピ
+Chinese steamed bun recipe
 --------------------------------
 [00000252]
-中身パンのレシピ
+Recipe for filling bread
 --------------------------------
 [00000253]
-乙女のレシピ
+maiden recipe
 --------------------------------
 [00000254]
-乙女のローズマフィン
+Maiden's Rose Muffin
 --------------------------------
 [00000255]
-亀型モンスターから取れた
-産みたての卵。
+A freshly laid egg taken from a turtle-type monster.
 --------------------------------
 [00000256]
-伝説のレシピ
+legendary recipe
 --------------------------------
 [00000257]
-伝説の海賊バーガー
+legendary pirate burger
 --------------------------------
 [00000258]
-光
+light
 --------------------------------
 [00000259]
-光属性のアーティファクト。
-モードにより特性が変化する。
+Light attribute artifact. 
+Characteristics change depending on the mode.
 --------------------------------
 [00000260]
-光属性のアーティファクト。
-素早さ中心のバランスに優れる。
+Light attribute artifact. 
+Good balance with a focus on quickness.
 --------------------------------
 [00000261]
-光属性のアーティファクト。
-防御全般のバランスに優れる。
+Light attribute artifact. 
+Good balance in overall defense.
 --------------------------------
 [00000262]
-光属性のアーティファクト。
-魔力と防御のバランスに優れる。
+Light attribute artifact. 
+Excellent balance of magic and defense.
 --------------------------------
 [00000263]
-光属性のアーティファクト。
-魔力と魔防のバランスに優れる。
+Light attribute artifact. 
+Excellent balance between magic power and magic defense.
 --------------------------------
 [00000264]
-光属性のアーティファクト。
-魔力に優れる。
+Light attribute artifact. 
+Excellent magical power.
 --------------------------------
 [00000265]
-光属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling optical artifacts
+.
 --------------------------------
 [00000266]
-力のブレッド
+bread of power
 --------------------------------
 [00000267]
-加護のあんまん
+Blessed cunt
 --------------------------------
 [00000268]
-勇気のチョココロネ
+Chocolate Coronet of Courage
 --------------------------------
 [00000269]
-古代のシャフト
+ancient shaft
 --------------------------------
 [00000270]
-古代の歯車
+ancient gears
 --------------------------------
 [00000271]
-古竜の血液
+ancient dragon blood
 --------------------------------
 [00000272]
-古竜種に流れる特殊な血液。
+A special blood that flows through the ancient dragon species.
 --------------------------------
 [00000273]
-回復フォース、アイテム使用時の
-ＨＰ回復量がアップする。
+Recovery force, increases the amount of HP recovered when using items.
 --------------------------------
 [00000274]
-土
+soil
 --------------------------------
 [00000275]
-土属性のアーティファクト。
-防御に優れる。
+An earth attribute artifact. 
+Excellent defense.
 --------------------------------
 [00000276]
-土属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling earth attribute artifacts
+.
 --------------------------------
 [00000277]
-地竜の大葉
+earth dragon large leaf
 --------------------------------
 [00000278]
-基本パンのレシピ
+basic bread recipes
 --------------------------------
 [00000279]
-夜食のレシピ
+midnight snack recipe
 --------------------------------
 [00000280]
-大型の古代兵器から
-取得した大きな部品。
+A large part obtained from a large ancient weapon.
 --------------------------------
 [00000281]
-天使のフランスパン
+angel french bread
 --------------------------------
 [00000282]
-女性キャラクターの
-攻撃力が大きくアップする。
+
+The attack power of female characters is greatly increased.
 --------------------------------
 [00000283]
-女神の蒸しパン
+goddess steamed bread
 --------------------------------
 [00000284]
-妖精のカリコリパン
+fairy crunchy bread
 --------------------------------
 [00000285]
-学業成就のレシピ
+Recipe for academic success
 --------------------------------
 [00000286]
-学業成就紅白まん頭
+Academic achievement red and white bun
 --------------------------------
 [00000287]
-守りのブリオッシュ
+brioche of protection
 --------------------------------
 [00000288]
-守護のクリームパン
+Guardian cream bread
 --------------------------------
 [00000289]
-導火線
+fuse
 --------------------------------
 [00000290]
-小型の古代兵器から
-取得した小さな部品。
+A small part obtained from a small ancient weapon.
 --------------------------------
 [00000291]
-小悪魔の尻尾
+little devil's tail
 --------------------------------
 [00000292]
-小悪魔の目
+devil's eyes
 --------------------------------
 [00000293]
-小悪魔の羽
+devil's wings
 --------------------------------
 [00000294]
-小悪魔型モンスターから取れた
-体の一部。
+A part of the body taken from a small devil type monster.
 --------------------------------
 [00000295]
-属性のないアーティファクトを
-扱う際のベースマテリアル。
+Base material when dealing with unattributed artifacts
+.
 --------------------------------
 [00000296]
-属性の無いアーティファクト。
-全てのバランスに優れる。
+Artifact without attributes. 
+Good balance in everything.
 --------------------------------
 [00000297]
-属性の無いアーティファクト。
-攻撃と命中のバランスに優れる。
+Artifact without attributes. 
+Good balance between attacks and hits.
 --------------------------------
 [00000298]
-属性の無いアーティファクト。
-攻撃と防御のバランスに優れる。
+Artifact without attributes. 
+Good balance between attack and defense.
 --------------------------------
 [00000299]
-属性の無いアーティファクト。
-攻撃力に優れる。
+Artifact without attributes. 
+Excellent attack power.
 --------------------------------
 [00000300]
-属性の無いアーティファクト。
-能力バランスに優れる。
+Artifact without attributes. 
+Excellent ability balance.
 --------------------------------
 [00000301]
-属性の無いアーティファクト。
-防御に優れる。
+Artifact without attributes. 
+Excellent defense.
 --------------------------------
 [00000302]
-巻きパンのレシピ
+bread roll recipe
 --------------------------------
 [00000303]
-帝国軍
+imperial army
 --------------------------------
 [00000304]
-幻惑のマフィン
+Dazzling muffin
 --------------------------------
 [00000305]
-弓、重火器、二挺拳銃キャラクター
-の攻撃力が大きくアップする。
+The attack power of bows, heavy weapons, and dual pistol characters will be greatly increased.
 --------------------------------
 [00000306]
-心をこめて揚げたカレーパン。
-魔力と魔防が少しアップする。
+Curry bread fried with care. 
+Magic power and magic defense increase slightly.
 --------------------------------
 [00000307]
-心をこめて焼かれたあんパン。
-攻撃力と防御が少しアップする。
+Anpan baked with love. 
+Attack power and defense will increase slightly.
 --------------------------------
 [00000308]
-心をこめて焼かれたアップルパイ。
-アタックに麻痺効果を追加する。
+Apple pie baked with love. 
+Adds paralysis effect to attack.
 --------------------------------
 [00000309]
-心をこめて焼かれたカリコリパン。
-混乱、忘却、毒を無効にする。
+Crunchy bread baked with love. 
+Negates confusion, oblivion, and poison.
 --------------------------------
 [00000310]
-心をこめて焼かれたクリームパン。
-防御と魔防が少しアップする。
+Cream bread baked with love. 
+Defense and magic defense will increase slightly.
 --------------------------------
 [00000311]
-心をこめて焼かれたクロワッサン。
-攻撃と命中が少しアップする。
+Croissants baked with care. 
+Attack and accuracy are slightly increased.
 --------------------------------
 [00000312]
-心をこめて焼かれたタイヤキ。
-攻撃力と魔力がアップする。
+Taiyaki grilled with love. 
+Attack power and magic power increase.
 --------------------------------
 [00000313]
-心をこめて焼かれたチョココロネ。
-攻撃力がアップする。
+Chocolate coronet baked with love. 
+Attack power increases.
 --------------------------------
 [00000314]
-心をこめて焼かれたデニッシュ。
-魔力と魔防がアップする。
+Danishes baked with love. 
+Magic power and magic defense increase.
 --------------------------------
 [00000315]
-心をこめて焼かれたハンバーガー。
-素早さと命中率がアップする。
+A hamburger grilled with love. 
+Increases speed and accuracy.
 --------------------------------
 [00000316]
-心をこめて焼かれたピザ。
-ステータス低下を無効にする。
+Pizza baked with love. 
+Disable status reduction.
 --------------------------------
 [00000317]
-心をこめて焼かれたフランスパン。
-麻痺、睡眠を無効にする。
+French bread baked with love. 
+Paralysis, disables sleep.
 --------------------------------
 [00000318]
-心をこめて焼かれたブリオッシュ。
-防御が少しアップする。
+Brioche baked with care. 
+Defense increases slightly.
 --------------------------------
 [00000319]
-心をこめて焼かれたブレッド。
-攻撃力が少しアップする。
+Bread baked with love. 
+Attack power increases slightly.
 --------------------------------
 [00000320]
-心をこめて焼かれたマフィン。
-アタックに混乱効果を追加する。
+Muffins baked with love. 
+Adds confusion effect to attack.
 --------------------------------
 [00000321]
-心をこめて焼かれたメロンパン。
-素早さが少しアップする。
+Melon bread baked with love. 
+Slightly increases speed.
 --------------------------------
 [00000322]
-心をこめて焼かれたロールパン。
-魔力がアップする。
+Rolls baked with love. 
+Magic power increases.
 --------------------------------
 [00000323]
-心をこめて蒸したあんまん。
-魔防がアップする。
+Steamed buns with all our heart. 
+Magic defense increases.
 --------------------------------
 [00000324]
-心をこめて蒸したパン。
-攻撃力と防御がアップする。
+Bread steamed with care. 
+Attack power and defense increase.
 --------------------------------
 [00000325]
-心をこめて蒸した肉まん。
-防御がアップする。
+Meat buns steamed with care. 
+Defense increases.
 --------------------------------
 [00000326]
-情報通のドラゴンパン
+Information Dragon Pan
 --------------------------------
 [00000327]
-情報通のレシピ
+Insider recipes
 --------------------------------
 [00000328]
-戦士の骨
+warrior bones
 --------------------------------
 [00000329]
-攻めのタイヤキ
+Aggressive tire kick
 --------------------------------
 [00000330]
-攻撃の射程がアップする。
+Increases attack range.
 --------------------------------
 [00000331]
-攻撃力と防御が大きくアップし、
-魔力と魔防がダウンする。
+Attack power and defense greatly increase,
+Magic power and magic defense decrease.
 --------------------------------
 [00000332]
-攻撃力と魔力がアップする。
+Increases attack power and magic power.
 --------------------------------
 [00000333]
-攻撃命中率がアップする。
+Increases attack accuracy.
 --------------------------------
 [00000334]
-攻略班の夜食ピザ
+Strategy team's late night pizza
 --------------------------------
 [00000335]
-攻防のあんパン
+Anpan of offense and defense
 --------------------------------
 [00000336]
-敵キャラクターから受ける
-状態異常を無効化する。
+
+Nullify status abnormalities received from enemy characters.
 --------------------------------
 [00000337]
-月のクロワッサン
+moon croissant
 --------------------------------
 [00000338]
-校舎裏のカレーパン
+Curry bread behind the school building
 --------------------------------
 [00000339]
-植物モンスターの体から取れた
-謎の種。
+A mysterious seed taken from the body of a plant monster.
 --------------------------------
 [00000340]
-武骨な砲身
+rugged gun barrel
 --------------------------------
 [00000341]
-水
+water
 --------------------------------
 [00000342]
-水属性のアーティファクト。
-モードにより特性が変化する。
+A water attribute artifact. 
+Characteristics change depending on the mode.
 --------------------------------
 [00000343]
-水属性のアーティファクト。
-攻撃と防御のバランスに優れる。
+A water attribute artifact. 
+Good balance between attack and defense.
 --------------------------------
 [00000344]
-水属性のアーティファクト。
-防御全般のバランスに優れる。
+A water attribute artifact. 
+Good balance in overall defense.
 --------------------------------
 [00000345]
-水属性のアーティファクト。
-魔力と防御のバランスに優れる。
+A water attribute artifact. 
+Excellent balance of magic and defense.
 --------------------------------
 [00000346]
-水属性のアーティファクト。
-魔力と魔防のバランスに優れる。
+A water attribute artifact. 
+Excellent balance between magic power and magic defense.
 --------------------------------
 [00000347]
-水属性のアーティファクト。
-魔力に優れる。
+A water attribute artifact. 
+Excellent magical power.
 --------------------------------
 [00000348]
-水属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling water attribute artifacts
+.
 --------------------------------
 [00000349]
-氷狼の尻尾
+ice wolf tail
 --------------------------------
 [00000350]
-氷竜の大牙
+Ice Dragon's Fang
 --------------------------------
 [00000351]
-浮遊する骨
+floating bones
 --------------------------------
 [00000352]
-海賊のレシピ
+pirate recipes
 --------------------------------
 [00000353]
-海賊風シーフードピザ
+pirate seafood pizza
 --------------------------------
 [00000354]
-淡い思い出のレシピ
+Recipe of faint memories
 --------------------------------
 [00000355]
-溶岩石の肩当
+lava stone shoulder rest
 --------------------------------
 [00000356]
-火
+fire
 --------------------------------
 [00000357]
-火属性のアーティファクト。
-モードにより特性が変化する。
+A fire attribute artifact. Characteristics
+change depending on the mode.
 --------------------------------
 [00000358]
-火属性のアーティファクト。
-攻撃力に優れる。
+A fire attribute artifact.
+Excellent attack power.
 --------------------------------
 [00000359]
-火属性のアーティファクト。
-防御全般のバランスに優れる。
+A fire attribute artifact.
+Good balance in overall defense.
 --------------------------------
 [00000360]
-火属性のアーティファクト。
-魔力と防御のバランスに優れる。
+A fire attribute artifact.
+Excellent balance of magic and defense.
 --------------------------------
 [00000361]
-火属性のアーティファクト。
-魔力と魔防のバランスに優れる。
+A fire attribute artifact. Excellent balance
+between magic power and magic defense.
 --------------------------------
 [00000362]
-火属性のアーティファクト。
-魔力に優れる。
+A fire attribute artifact.
+Excellent magical power.
 --------------------------------
 [00000363]
-火属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling fire-attribute artifacts.
 --------------------------------
 [00000364]
-炎竜の大鱗
+Flame dragon scales
 --------------------------------
 [00000365]
-物理
+Physics
 --------------------------------
 [00000366]
-狼の毛皮
+wolf fur
 --------------------------------
 [00000367]
-狼の牙
+wolf fang
 --------------------------------
 [00000368]
-狼型のモンスターから取れた
-鋭い牙。
+Sharp fangs taken from a wolf-type monster.
 --------------------------------
 [00000369]
-猪型のモンスターから取れた
-とがった牙。
+A sharp fang taken from a boar-shaped monster.
 --------------------------------
 [00000370]
-男子スウィーツ
+men's sweets
 --------------------------------
 [00000371]
-男性キャラクターの
-防御力が大きくアップする。
+
+The defense power of male characters will be greatly increased.
 --------------------------------
 [00000372]
-男性キャラクターの、防御と魔防が
-アップし、攻撃力と魔力がダウン。
+Male characters' defense and magic defense increase
+and attack power and magic power decrease.
 --------------------------------
 [00000373]
-男性キャラクター同士の
-リンクアタック威力がアップする。
+Increases the power of link attacks between male characters.
 --------------------------------
 [00000374]
-砂かきバサミ
+sand shears
 --------------------------------
 [00000375]
-砕けた魔晶のかけら。
+A fragment of a broken magic crystal.
 --------------------------------
 [00000376]
-精霊のピザ
+spirit pizza
 --------------------------------
 [00000377]
-純情チェリーパイ
+pure cherry pie
 --------------------------------
 [00000378]
-緑色のゼリー
+green jelly
 --------------------------------
 [00000379]
-蒸しパンのレシピ
+steamed bread recipe
 --------------------------------
 [00000380]
-複数回アタックの攻撃回数が
-アップする。
+Increases the number of attacks for multiple attacks
+.
 --------------------------------
 [00000381]
-謎の種
+mysterious seed
 --------------------------------
 [00000382]
-賢者のデニッシュ
+wise man danish
 --------------------------------
 [00000383]
-購買部のレシピ
+Purchasing Department Recipe
 --------------------------------
 [00000384]
-購買部の焼きそばパン
+Yakisoba bread from the purchasing department
 --------------------------------
 [00000385]
-赤いスカルリング
+red skull ring
 --------------------------------
 [00000386]
-赤色のゼリー
+red jelly
 --------------------------------
 [00000387]
-連撃チョコドーナツ
+consecutive chocolate donuts
 --------------------------------
 [00000388]
-鉄壁の肉まん
+Ironclad meat bun
 --------------------------------
 [00000389]
-銀色のゼリー
+silver jelly
 --------------------------------
 [00000390]
-鋭い針
+sharp needle
 --------------------------------
 [00000391]
-闇
+darkness
 --------------------------------
 [00000392]
-闇のクリスタル
+dark crystal
 --------------------------------
 [00000393]
-闇属性のアーティファクト。
-防御全般のバランスに優れる。
+A dark attribute artifact. 
+Good balance in overall defense.
 --------------------------------
 [00000394]
-闇属性のアーティファクト。
-魔力と防御のバランスに優れる。
+A dark attribute artifact. 
+Excellent balance between magic power and defense.
 --------------------------------
 [00000395]
-闇属性のアーティファクト。
-魔力と魔防のバランスに優れる。
+A dark attribute artifact. 
+Excellent balance between magic power and magic defense.
 --------------------------------
 [00000396]
-闇属性のアーティファクト。
-魔力に優れる。
+A dark attribute artifact. 
+Excellent magical power.
 --------------------------------
 [00000397]
-闇属性のアーティファクト。
-魔防に優れる。
+A dark attribute artifact. 
+Excellent magic defense.
 --------------------------------
 [00000398]
-闇属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling dark attribute artifacts
+.
 --------------------------------
 [00000399]
-闇属性のダメージを軽減する。
+Reduces dark attribute damage.
 --------------------------------
 [00000400]
-防御が大きくダウンするが、
-敵攻撃の命中率も大きくダウン。
+Defense will be greatly reduced,
+The accuracy of enemy attacks will also be greatly reduced.
 --------------------------------
 [00000401]
-雪猪の体毛
+snow boar hair
 --------------------------------
 [00000402]
-雷竜の大角
+Thunder Dragon's Horn
 --------------------------------
 [00000403]
-電導性のある糸
+conductive thread
 --------------------------------
 [00000404]
-青色のゼリー
+blue jelly
 --------------------------------
 [00000405]
-風
+Wind
 --------------------------------
 [00000406]
-風属性のアーティファクト。
-素早さと命中に優れる。
+Wind attribute artifact. 
+Excellent speed and accuracy.
 --------------------------------
 [00000407]
-風属性のアーティファクトを
-扱う際のベースマテリアル。
+Base material when handling wind attribute artifacts
+.
 --------------------------------
 [00000408]
-高級な赤い布
+luxury red cloth
 --------------------------------
 [00000409]
-魔力が大きくアップし、
-攻撃力がダウンする。
+Magic power increases greatly,
+Attack power decreases.
 --------------------------------
 [00000410]
-魔女のカレーパン
+Witch's curry bread
 --------------------------------
 [00000411]
-魔晶のかけら
+Fragment of magic crystal
 --------------------------------
 [00000412]
-魔晶のエメラルドの大きな欠片。
+A large piece of magical emerald.
 --------------------------------
 [00000413]
-魔晶のサファイアの大きな欠片。
+A large piece of magic sapphire.
 --------------------------------
 [00000414]
-魔晶のルビーの大きな欠片。
+A large piece of magic ruby.
 --------------------------------
 [00000415]
-魔法のレンガ
+magic brick
 --------------------------------
 [00000416]
-魔竜のコア
+Demon Dragon Core
 --------------------------------
 [00000417]
-魔竜の緑牙
+Demon Dragon's Green Fang
 --------------------------------
 [00000418]
-魔竜の赤牙
+Demon Dragon's Red Fang
 --------------------------------
 [00000419]
-魔竜の青牙
+Blue Fang of the Demon Dragon
 --------------------------------
 [00000420]
-魔竜の黄牙
+Demon Dragon's Yellow Fang
 --------------------------------
 [00000421]
-魔竜アースグリムの黄牙。
+The yellow fang of the demon dragon Earthgrim.
 --------------------------------
 [00000422]
-魔竜グレンデルの青牙。
+The blue fang of the demon dragon Grendel.
 --------------------------------
 [00000423]
-魔竜サラマンドルの赤牙。
+The red fang of the demon dragon Salamander.
 --------------------------------
 [00000424]
-魔竜シュツルムの緑牙。
+The green fang of the demon dragon Sturm.
 --------------------------------
 [00000425]
-黒いスカルリング
+black skull ring
 --------------------------------
 [00000426]
-黒い蹄鉄
+black horseshoes
 --------------------------------
 [00000427]
-黒竜の紋章
+black dragon emblem
 --------------------------------
 [00000428]
 

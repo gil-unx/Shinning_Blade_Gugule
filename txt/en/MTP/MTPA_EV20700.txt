@@ -1,699 +1,579 @@
 [0181]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-こんにちは、フェンリルさん。
+Hello, Mr. Fenrir.
 --------------------------------
 [00000001][フェンリル,,フェンリル]
-ん？　レイジか。
-俺に、なにか用でもあるのか？
+Huh? Is it Rage?  Do you need anything from me?
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-いや、特に用ってわけでもないんだけど、
-なにをやっているのかな……って思ったから。
+No, I don't really need it, but I was wondering what you were doing...
 --------------------------------
 [00000003][フェンリル,,フェンリル]
-ふむ、そうか。
-俺はこれから少し出かけるつもりだったんだが……。
+Hmm, I see.  I was planning to go out for a while, but...
 --------------------------------
 [00000004][フェンリル,,フェンリル]
-一緒に来るか？
-お前とは少し、話をしたいと思っていたところだ。
+Do you want to come with me?  I was just thinking of having a little talk with
+you.
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-出かけるって、どこへ？
+Where do you go?
 --------------------------------
 [00000006][フェンリル,,フェンリル]
-なぁに、すぐそこだ。
-そう不安な顔をしなくてもいい。
-危険な場所というわけではないから、安心しろ。
+Hey, it's right there.  You don't have to look so anxious.  Don't worry, it's
+not a dangerous place.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-なっ!?　だ、誰が怖がってんだよ!?
-オレは不安な顔なんてしてねーぞ！
+What!? No, who's scared of you!? I don't look worried!
 --------------------------------
 [00000008][フェンリル,,フェンリル]
-はっはっは。
-その割には、腰が引けているぞ？
+Hahaha.  You're a bit shy, aren't you?
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-まったく……からかわないでくれよ。
+Not at all...don't make fun of me.
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-でも、せっかくだから、
-オレも一緒に行こうかな。
+But since it's such a big deal, I think I'll go with you.
 --------------------------------
 [00000011][フェンリル,,フェンリル]
-そうか、では向かうとしよう。
-ついてこい。
+Well, let's head over.  Follow me.
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-わかった！
+Got it!
 --------------------------------
 [00000013][フェンリル,,フェンリル]
-着いたぞ、ここだ。
+We're here, here.
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-ええっと、ここは……。
-あ！　あんなところにネコがいる。
+Well, here...  Ah! There's a cat over there.
 --------------------------------
 [00000015][フェンリル,,フェンリル]
-そいつらは、俺が保護した子たちだ。
+Those are the children I protected.
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-えっ、フェンリルさんが!?
+Eh, Fenrir!?
 --------------------------------
 [00000017][フェンリル,,フェンリル]
-ああ。
-前の戦いが終わった後、戦場に残されていた。
-恐らく親とはぐれたんだろう。
+Yeah.  It was left on the battlefield after the previous battle ended.  She was
+probably separated from her parents.
 --------------------------------
 [00000018][フェンリル,,フェンリル]
-俺が水やエサを与え、面倒を見てやっている。
-それが、ここに来た理由だ。
+I give them water and food and take care of them.  That's why I came here.
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-そうだったんだ……。
+That's right...
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-なんだか、意外だな。
+That's kind of surprising.
 --------------------------------
 [00000021][フェンリル,,フェンリル]
-……そうか？
+...Really?
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-ああ、フェンリルさんって、
-もっと怖い人だと思ってたよ。
+Ah, I thought Fenrir-san was a scarier person.
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-でも、優しい一面もあるんだな。
+But you also have a kind side.
 --------------------------------
 [00000024][フェンリル,,フェンリル]
-はは……っ。
-そんな風に言われると、なんだか
-こそばゆいな。
+Haha...  When you say things like that, it's kind of embarrassing.
 --------------------------------
 [00000025][フェンリル,,フェンリル]
-……そこまで普段の俺と
-イメージが違うか？
+...Is your image that different from the usual me?
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-全然、違うね。
+Not at all.
 --------------------------------
 [00000027][フェンリル,,フェンリル]
-そうか……。
-であれば、このことは、
-みんなには秘密だ。
+I see...  In that case, this will be a secret from everyone.
 --------------------------------
 [00000028][レイジ,レイジ,レイジ]
-……え！　どうして？
-フェンリルさんが実は優しい人だとわかったら、
-みんなも接しやすくなると思うんだけど……。
+...Eh! Why? 
 --------------------------------
 [00000029][フェンリル,,フェンリル]
-それが、よくないということだ。
+That's not good.
 --------------------------------
 [00000030][フェンリル,,フェンリル]
-俺はずっと、
-兵を率いる立場に立ってきた。
+I've always been in the position of leading an army.
 --------------------------------
 [00000031][フェンリル,,フェンリル]
-怖いというイメージが崩れてしまっては、
-みんなの気も、緩むというものだろう？
+If the image of being scary is destroyed, I think everyone will relax, right?
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-なるほど、確かにそうだね。
+I see, that's true.
 --------------------------------
 [00000033][フェンリル,,フェンリル]
-……だから、こいつらのことは、
-俺とお前だけの秘密だ、いいな。
+...That's why these guys are a secret between you and me, okay?
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-わかった。
+Okay.
 --------------------------------
 [00000035][フェンリル,,フェンリル]
-……と、秘密の共有ついでに、１つ頼みがある。
+...And while we're sharing this secret, I have one request.
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-なんだ？
+What?
 --------------------------------
 [00000037][レイジ,レイジ,レイジ]
-それで大きくなったら、食べるんだよね？
+So when you grow up, you eat it, right?
 --------------------------------
 [00000038][フェンリル,,フェンリル]
-はっはっは、レイジ。
-お前は面白いことを言うな。
+Hahaha, Rage.  Don't say anything funny.
 --------------------------------
 [00000039][フェンリル,,フェンリル]
-この俺は、子ネコを食らうモンスター……。
-そういうイメージか？
+I'm a monster that eats kittens...  Is that the image?
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-あれ……？
-食べたりしないの？
+Huh...?  Aren't you going to eat it?
 --------------------------------
 [00000041][フェンリル,,フェンリル]
-ああ、食わない。
-こんな愛らしい子らを、
-食えるわけがないだろう。
+Oh, I won't eat it.  There's no way we could eat such adorable children.
 --------------------------------
 [00000042][フェンリル,,フェンリル]
-……つまらない冗談は
-よしてもらおうか。
+...I'll spare you some boring jokes.
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-そ、そうだよな……すまない。
+Oh, that's right... I'm sorry.
 --------------------------------
 [00000044][フェンリル,,フェンリル]
-……まあ、俺の見た目や雰囲気では、
-そう捉えられてしまうのも
-仕方のない部分はあるか。
+...Well, with my appearance and atmosphere, I guess it can't be helped that
+people think that way.
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-普段は怖いイメージ……だよな。
+Usually it's a scary image...
 --------------------------------
 [00000046][フェンリル,,フェンリル]
-俺たちは兵を率いる立場だ。
-みんなの気が緩まぬよう、
-わざとそうしている面もある。
+We are in a position to lead the troops.  In order to keep everyone's spirits
+up,  There's a sense that he's doing this on purpose.
 --------------------------------
 [00000047][フェンリル,,フェンリル]
-だから、兵たちのなかにも、畏怖の心から、
-レイジと同じように、俺をモンスターかなにか
-のように思っている者がいるかも知れない。
+So some of the soldiers may be out of awe and think of me as a monster or
+something, just like Rage.
 --------------------------------
 [00000048][フェンリル,,フェンリル]
-隊を引き締めるつもりが、恐怖を植え付けて
-いるだけだとしたら、それは俺の修行不足だろう。
-もっと精進する必要がありそうだ。
+If my intention is to tighten up the squad, but I'm just instilling fear, then
+that's probably due to my lack of training.  I think I need to work harder.
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-……フェンリルさんって、
-ちゃんと考えてるんだな。
+...Fenrir-san seems to be thinking carefully.
 --------------------------------
 [00000050][フェンリル,,フェンリル]
-はっはっは、こう見えても
-苦労しているんだぞ。
+Hahaha, even though it looks like this I'm having a hard time.
 --------------------------------
 [00000051][フェンリル,,フェンリル]
-……ところで、レイジ。
-お前に１つ、頼みがあるんだが……。
+...By the way, Rage.  I have one favor to ask of you...
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-なんだい？
+What?
 --------------------------------
 [00000053][フェンリル,,フェンリル]
-こいつらの愛くるしさに、
-言葉もなし……か。
+There are no words for how adorable these guys are...
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-ははっ、まったくだ……。
-思わず、ぼうっと眺めちまったよ。
+Haha, absolutely...  I couldn't help but stare at it in a daze.
 --------------------------------
 [00000055][フェンリル,,フェンリル]
-そうか。
-レイジ、お前とはこういう面でも気が合いそうだな。
+I see.  Rage, it seems like you and I get along well in this aspect as well.
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-そうかい？　それは嬉しいよ。
-ところで、フェンリルさん。
+Really?　I'm happy about that.  By the way, Fenrir-san.
 --------------------------------
 [00000057][フェンリル,,フェンリル]
-なんだ？
+What?
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-この子たち、たまにのぞきに来てもいいかい？
+Can these kids come take a peek sometimes?
 --------------------------------
 [00000059][フェンリル,,フェンリル]
-ああ、構わない。
-……むしろ、ちょくちょく見に来てやってほしい。
-そのかわり、１つ頼みがある。
+Oh, it doesn't matter.  ...In fact, I would like you to come and see it from
+time to time.  In return, I have one favor to ask of you.
 --------------------------------
 [00000060][フェンリル,,フェンリル]
-我々がここを発つときに、
-こいつらを連れて行くことはできない。
+We can't take these guys with us when we leave here.
 --------------------------------
 [00000061][フェンリル,,フェンリル]
-だが、それまでの間は、
-面倒を見るつもりだ。
+But until then, I'll take care of you.
 --------------------------------
 [00000062][フェンリル,,フェンリル]
-もし仮に、俺が戦いに倒れ、
-エサをやりに来られなくなったとき、
-お前が代わりに、ここへ来てほしいんだ。
+If I fall in battle and can't come to feed you, I want you to come here instead.
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-……ええっ!?　いや、そんな必要はないだろ？
-フェンリルさん、強いし。
-倒れることなんてあり得ないんじゃないか？
+...Eh!? No, there's no need for that, right?  Fenrir-san, you're strong.  Isn't
+it impossible for you to fall down?
 --------------------------------
 [00000064][フェンリル,,フェンリル]
-はっはっは。
-俺だって、簡単にやられるつもりはない。
-だが、万が一も考えて、ということだ。
+Hahaha.  I'm not going to be defeated easily either.  But just in case.
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-うーん……それだったら、いいかな。
-任されることにするよ。
+Hmm...I guess that's fine.  I'll leave it to you.
 --------------------------------
 [00000066][フェンリル,,フェンリル]
-そうか、ありがとう。
+I see, thank you.
 --------------------------------
 [00000067][フェンリル,,フェンリル]
-……さてと。
-レイジ、まだ時間はあるか？
+...Okay.  Rage, do you still have time?
 --------------------------------
 [00000068][レイジ,レイジ,レイジ]
-ええっと、大丈夫だけど……。
+Well, it's okay, but...
 --------------------------------
 [00000069][フェンリル,,フェンリル]
-ならばひとつ、稽古でもしないか？
+In that case, why don't we have a practice?
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-あ、いいね。
-受けて立つよ。
+Ah, nice.  I'll accept it.
 --------------------------------
 [00000071][フェンリル,,フェンリル]
-ふふっ……。
-レイジ、お前は勇者なんだからな、
-俺ごときは軽々と超えてもらわねば、困るぞ！
+Hehe...  Rage, you're a hero, If you can easily surpass someone like me, you'll
+be in trouble!
 --------------------------------
 [00000072][none]
-なんだか、意外だな
+That's kind of surprising.
 --------------------------------
 [00000073][none]
-それで大きくなったら、食べるんだよね？
+So when you grow up, you eat it, right?
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-どうしたんだ？
-ぼうっと、空なんか見上げて……。
+What's wrong?  I looked up at the sky in a daze...
 --------------------------------
 [00000075][フェンリル,,フェンリル]
-……ああ、レイジか。
+...Ah, Rage.
 --------------------------------
 [00000076][フェンリル,,フェンリル]
-実はな、ちょっと昔のことを思い出していたんだ。
+Actually, I was just remembering something from a long time ago.
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-昔のこと？
+A long time ago?
 --------------------------------
 [00000078][フェンリル,,フェンリル]
-ああ、そうだ。
+Oh, yes.
 --------------------------------
 [00000079][フェンリル,,フェンリル]
-ヴァレリア解放戦線に入るよりも、ずっと前の話だ。
+It was long before I joined the Valeria Liberation Front.
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-ここに来る前のフェンリルさん……。
-なんだか興味があるな。
-よかったら、聞かせてくれないか？
+Fenrir-san before he came here...  I'm kind of interested.  If you don't mind,
+could you let me know?
 --------------------------------
 [00000081][フェンリル,,フェンリル]
-……そうだな。
-お前になら、話してもいいだろう。
+...That's right.  I guess I can talk to you.
 --------------------------------
 [00000082][フェンリル,,フェンリル]
-つまらない昔話だが、聞いてくれ。
+It's a boring old story, but hear me out.
 --------------------------------
 [00000083][フェンリル,,フェンリル]
-……レイジ。
-スルトのことは知っているな？
+...Rage.  You know Surt, right?
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-ああ、もちろんだ。
-帝国軍の獣人だよな？
+Oh, of course.  You're a beastman from the imperial army, right?
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-……っ!?
-そういえば、フェンリルさんは昔、
-スルトと一緒に修行してたって……。
+...!? Now that I think about it, Fenrir once trained with Surtur...
 --------------------------------
 [00000086][フェンリル,,フェンリル]
-ああ、その通りだ。
-俺とスルトは、同じ師匠の下で、
-暗殺拳の修行にはげんでいた。
+Ah, that's right.  Me and Surtur were training hard under the same master.
+Assassination Fist.
 --------------------------------
 [00000087][フェンリル,,フェンリル]
-互いに腕を認め、競い合う仲間……。
+Friends who recognize each other's skills and compete with each other...
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-ライバル、だったんだな。
+Rival, I guess.
 --------------------------------
 [00000089][フェンリル,,フェンリル]
-……ふふっ、ライバルか。
-そうだな、その言葉がしっくりとくるかもしれん。
+...Hehe, a rival.  Well, maybe that word fits you.
 --------------------------------
 [00000090][フェンリル,,フェンリル]
-俺たちの師匠は立派な人だった。
-教えるものは暗殺拳であったが、その力は、
-無闇に振るって良いものではない、としていた。
+Our master was a fine man. What he taught was the Assassination Fist, but he
+believed that its power should not be wielded blindly.
 --------------------------------
 [00000091][フェンリル,,フェンリル]
-しかしスルトは、そんな師匠の教えを聞かなくてな。
-人の集まる場所へ行き、腕の立ちそうな
-者を見つけては、戦いをふっかけていた。
+But Surt doesn't want to listen to his master's teachings. He would go to places
+where people gathered, and whenever he found someone who looked good, he would
+pick a fight with them.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-力に……溺れたんだな。
+I guess I was drowning in power...
 --------------------------------
 [00000093][フェンリル,,フェンリル]
-ああ。修行によって得られた強大な力を、
-試してみたくて、仕方がなかったんだろう。
+Yeah. I guess he had no choice but to try out the great power he had gained
+through his training.
 --------------------------------
 [00000094][フェンリル,,フェンリル]
-スルトは強い。
-戦った相手をひとり残らず、
-殺してしまった。
+Surtur is strong. He killed every single person he fought.
 --------------------------------
 [00000095][フェンリル,,フェンリル]
-任務でもないのに、
-無闇に力を振るうスルト……。
+Even though it's not a mission, Surt wields his power blindly...
 --------------------------------
 [00000096][フェンリル,,フェンリル]
-もちろん、そのような行為は許される
-ものではない。俺や師匠が、止めるようにと
-何度も注意したが、聞き入れられなかった。
+Of course, such behavior cannot be tolerated. My master and I warned him many
+times to stop, but he didn't listen.
 --------------------------------
 [00000097][フェンリル,,フェンリル]
-そしてついに、師匠は烈火の如く怒り、
-スルトを破門とした。
+And finally, the Master became furious and excommunicated Surt.
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-ああ。そりゃ当然だよな。
+Yeah. Of course it is.
 --------------------------------
 [00000099][フェンリル,,フェンリル]
-ところが、スルトはそれに逆上して、
-師匠に襲いかかったんだ。
+However, Surt got mad and attacked his master.
 --------------------------------
 [00000100][フェンリル,,フェンリル]
-そのときの奴の強さは、
-俺や師匠を軽く上回っていた。
+At that time, his strength easily exceeded me and my master.
 --------------------------------
 [00000101][フェンリル,,フェンリル]
-止めに入る間もなく、
-スルトは師匠を……殺した。
+Before he could stop it, Surt killed his master...
 --------------------------------
 [00000102][フェンリル,,フェンリル]
-師匠の返り血を浴びたスルトが俺をにらみつけた。
-俺は動けなかった。
+Surtur, bathed in his master's blood, glared at me.  I couldn't move.
 --------------------------------
 [00000103][フェンリル,,フェンリル]
-師匠の仇を取らなければいけないのに、
-奴の……血の味を覚えた目ににらまれた俺は、
-その場を一歩も動くことができなかった。
+I had to avenge my master's death, but I couldn't move an inch, staring at his
+eyes that tasted like blood.
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-フェンリルさん……。
+Mr. Fenrir...
 --------------------------------
 [00000105][フェンリル,,フェンリル]
-そんな俺を鼻で笑い、
-スルトはどこかへと消えてしまった。
+Laughing at me, Surt disappeared somewhere.
 --------------------------------
 [00000106][フェンリル,,フェンリル]
-悔しかった……。
-だから俺は、いつか師匠の仇を取ろうと決意し、
-ひとりで、更なる修行に打ち込んだんだ。
+It was frustrating...  That's why I decided to one day avenge my master, and
+devoted myself to further training by myself.
 --------------------------------
 [00000107][フェンリル,,フェンリル]
-かつては同じところを目指していたのに、
-どうしてこうなってしまったのだろうな……。
+We were once aiming for the same thing, but I wonder why things ended up like
+this...
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-フェンリルさんって意外と臆病なんだな。
+Fenrir-san is surprisingly timid.
 --------------------------------
 [00000109][フェンリル,,フェンリル]
-……っ!?
+...!?
 --------------------------------
 [00000110][レイジ,レイジ,レイジ]
-だって、自分の師匠を殺したスルトを前に、
-足がすくんじまったんだろ？
+I mean, you lost your footing in front of Surt, who killed your master, right?
 --------------------------------
 [00000111][フェンリル,,フェンリル]
-……あ、ああ。そうだな。
-レイジ、お前の言う通り、俺は臆病だ。
+...Ah, ah. That's right.  Rage, as you said, I'm a coward.
 --------------------------------
 [00000112][フェンリル,,フェンリル]
-あのときの俺にもっと勇気があれば、
-すぐにでも師匠の仇を……いや、スルトの凶行自体を
-止められたかもしれん……。
+If I had had more courage back then, I might have been able to avenge my master
+right away... or even stop Surt's brutal act itself...
 --------------------------------
 [00000113][フェンリル,,フェンリル]
-く……っ！
-俺は……俺は……っ！
+Ku...!  I...I...!
 --------------------------------
 [00000114][レイジ,レイジ,レイジ]
-あ……ごめん、フェンリルさん。
-なんかオレ、変なこと、言ったみたいだな……。
+Ah... I'm sorry, Fenrir-san.  It seems like I said something strange...
 --------------------------------
 [00000115][フェンリル,,フェンリル]
-いや、いい。本当のことだからな。
-……話していたら、だいぶ疲れたようだ。
-少し、休ませてもらおう。
+No, it's fine. Because it's true.  ...When I was talking to you, you seemed
+pretty tired.  Let's take a little break.
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-スルトの強さは、本当の強さじゃない。
+Surt's strength is not real strength.
 --------------------------------
 [00000117][フェンリル,,フェンリル]
-レイジもやはり、そう思うか。
+Do you think so too, Rage?
 --------------------------------
 [00000118][フェンリル,,フェンリル]
-見境なく振るわれる力は、
-それがどんなに強かろうが、
-ただの暴力に過ぎない。
+Power wielded indiscriminately, no matter how strong, is nothing more than
+violence.
 --------------------------------
 [00000119][フェンリル,,フェンリル]
-道を究めんとする力、
-あるいは正義のために振るわれる力……。
-これらとは、似ても似つかんものだ。
+The power to master the path, or the power to be wielded for justice...  These
+are nothing alike.
 --------------------------------
 [00000120][レイジ,レイジ,レイジ]
-……力を持つ者は、それを振るうときに、
-気をつけなければいけない。
-そんな話を聞いたことがあるよ、オレ。
+...Those with power must be careful when wielding it.  I've heard stories like
+that before.
 --------------------------------
 [00000121][フェンリル,,フェンリル]
-そうだな。そういうことだ。
+Yes. That's how it is.
 --------------------------------
 [00000122][フェンリル,,フェンリル]
-……しかし、スルトは道を誤った。
-力に、魅せられて……。
+...But Surtur took a wrong turn.  I'm fascinated by power...
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-オレたちも、そうならないように、
-気をつける必要があるな。
+We need to be careful not to let that happen.
 --------------------------------
 [00000124][フェンリル,,フェンリル]
-……それはそうだが、
-俺たちが間違っていないと証明できる者が、
-果たして、どこにいるのやら……。
+...That's true, but I wonder if there's anyone who can prove that we're not
+wrong...
 --------------------------------
 [00000125][フェンリル,,フェンリル]
-もしかしたら、既に俺たちは、
-スルト同様、誤った道を歩いている
-のかも知れないぞ。
+Perhaps we are already on the wrong path, just like Surt.
 --------------------------------
 [00000126][レイジ,レイジ,レイジ]
-フェンリルさん……。
+Mr. Fenrir...
 --------------------------------
 [00000127][フェンリル,,フェンリル]
-すまない。
-やはり退屈な話だったか？
+Sorry.  Was it a boring story after all?
 --------------------------------
 [00000128][レイジ,レイジ,レイジ]
-そんなこと、なかったよ。
-ただ、フェンリルさんの、
-師匠と仲間を同時に失った悲しみ……。
+That didn't happen.  However, Fenrir-san's sadness at losing his master and
+companion at the same time...
 --------------------------------
 [00000129][レイジ,レイジ,レイジ]
-それを考えたら、
-言葉が出なかったんだ……。
+When I thought about that, I was speechless...
 --------------------------------
 [00000130][レイジ,レイジ,レイジ]
-フェンリルさん、
-さぞ辛かっただろうな、って思うと……。
+Fenrir-san, I think it must have been very painful for you...
 --------------------------------
 [00000131][フェンリル,,フェンリル]
-そうか……。お前は優しいな。
+I see... You are so kind.
 --------------------------------
 [00000132][レイジ,レイジ,レイジ]
-そ、そうか？
+Oh, really?
 --------------------------------
 [00000133][フェンリル,,フェンリル]
-ああ。他人の気持ちを慮る……
-少なくとも、俺にはない心だ。
+Yeah. Consider other people's feelings... At least, that's the kind of
+consideration I don't have.
 --------------------------------
 [00000134][フェンリル,,フェンリル]
-……うむ。やはりお前に、この話をできて良かった。
+...Hmm. I'm glad I was able to talk to you about this.
 --------------------------------
 [00000135][フェンリル,,フェンリル]
-ありがとう、レイジ。
-お前と仲間でいられて、オレは嬉しい。
-これからも、よろしく頼むぞ。
+Thank you, Rage.  I'm happy to be friends with you.  I look forward to your
+continued support.
 --------------------------------
 [00000136][レイジ,レイジ,レイジ]
-ああ、もちろんだよ！
+Oh, of course!
 --------------------------------
 [00000137][none]
-フェンリルさんって意外と臆病なんだな
+Fenrir-san is surprisingly timid.
 --------------------------------
 [00000138][none]
-スルトの強さは本当の強さじゃない
+Surtur's strength is not his real strength.
 --------------------------------
 [00000139][フェンリル,,フェンリル]
-レイジ、伝令からの話は聞いているか？
+Rage, have you heard from the messenger?
 --------------------------------
 [00000140][レイジ,レイジ,レイジ]
-伝令から……？
-いや、まったく聞いてないけど。
+From the messenger...?  No, I haven't heard of it at all.
 --------------------------------
 [00000141][フェンリル,,フェンリル]
-……そうか。
-たった今入った情報だが、
-近くの街が敵の襲撃を受けているらしい。
+...I see.  According to information I just received, it appears that a nearby
+town is under attack by the enemy.
 --------------------------------
 [00000142][レイジ,レイジ,レイジ]
-それは大変じゃないか!?
-はやく行かないと……っ！
+Isn't that difficult!? We have to go quickly...!
 --------------------------------
 [00000143][フェンリル,,フェンリル]
-ああ、そうだな……。
+Ah, that's right...
 --------------------------------
 [00000144][レイジ,レイジ,レイジ]
-……あれ。
-どうしたんだ？
-なんだか、あまり気が向かないような表情だけど。
+...That.  What happened?  For some reason, he doesn't seem to like it.
 --------------------------------
 [00000145][フェンリル,,フェンリル]
-そう見えるか……。
-いや、大丈夫だ。問題ない。
+I see...  No, it's okay. no problem.
 --------------------------------
 [00000146][フェンリル,,フェンリル]
-俺は、いつも通りだ。
-準備が整い次第、すぐに発つぞ！
+I'm the same as usual.  We'll leave as soon as we're ready!
 --------------------------------
 [00000147][レイジ,レイジ,レイジ]
-ああ、そうだな！
+Oh yeah!
 --------------------------------
 [00000148][レイジ,レイジ,レイジ]
-どうしたんだ？
-今日はなんだか、様子がおかしいぜ。
+What's wrong?  Something seems strange today.
 --------------------------------
 [00000149][フェンリル,,フェンリル]
-そうかもしれんな……。
+Maybe...
 --------------------------------
 [00000150][レイジ,レイジ,レイジ]
-なにか悩み事でもあるのか？
-オレで良ければ、相談にのるけど……。
+Are you worried about something?  If it's okay with me, I'll consult with you...
 --------------------------------
 [00000151][フェンリル,,フェンリル]
-……そうだな。
-それも悪くはないか。
+...That's right.  Isn't that bad too?
 --------------------------------
 [00000152][フェンリル,,フェンリル]
-……それならレイジ、答えてくれ。
-お前の思った通りに……だ。
+...Then Rage, please answer me.  It's just as you thought...
 --------------------------------
 [00000153][レイジ,レイジ,レイジ]
-ああ。
+Yeah.
 --------------------------------
 [00000154][フェンリル,,フェンリル]
-俺とスルトは、なにが違うんだ？
+What's the difference between me and Surt?
 --------------------------------
 [00000155][レイジ,レイジ,レイジ]
-フェンリルさんと……スルト……。
+Fenrir and... Surtur...
 --------------------------------
 [00000156][フェンリル,,フェンリル]
-俺は奴と同じ力を使い、
-そして奴と同じように、自分の敵を殺している。
+I use the same power as him, and I kill my enemies just like him.
 --------------------------------
 [00000157][フェンリル,,フェンリル]
-俺はスルトと、なにも変わらないんじゃないのか？
+I'm no different from Surtur, am I?
 --------------------------------
 [00000158][フェンリル,,フェンリル]
-これは本当に、力の正しい使い方なのか？
+Is this really the correct use of power?
 --------------------------------
 [00000159][フェンリル,,フェンリル]
-俺だって一歩間違えれば、
-スルトと同じようになっていたのかもしれない……。
+If I made one mistake, I might have ended up just like Surtur...
 --------------------------------
 [00000160][フェンリル,,フェンリル]
-……いや、もしかしたら、もう既に、
-俺は、奴と同じ深淵に飲み込まれてしまっている
-のかもしれない。
+...No, maybe I've already been swallowed up by the same abyss as him.
 --------------------------------
 [00000161][フェンリル,,フェンリル]
-俺は……わからないんだ。
-自分が正しいのか！
-過ちを犯していないのか！
+I...I don't know.  Am I right?  You haven't made a mistake!
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-フェンリルさんは大丈夫だ。
-スルトのようには、ならないと思う。
+Fenrir-san is fine.  I don't think it will be like Surt.
 --------------------------------
 [00000163][フェンリル,,フェンリル]
-……なぜ、そう思う？
+...Why do you think so?
 --------------------------------
 [00000164][レイジ,レイジ,レイジ]
-それは……今、こうやって、悩んでいるからだよ。
+That's because...I'm worried about this right now.
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-他人を傷つけて、そのことについて悩む……。
+Hurt others and worry about it...
 --------------------------------
 [00000166][レイジ,レイジ,レイジ]
-そんな優しい心を持っているフェンリルさんが、
-スルトみたいになってしまうなんて、
-考えられないじゃないか。
+It's unthinkable that Fenrir, who has such a kind heart, would end up like
+Surtur.
 --------------------------------
 [00000167][フェンリル,,フェンリル]
-心……か……。
+Heart...or...
 --------------------------------
 [00000168][レイジ,レイジ,レイジ]
-確かにフェンリルさんは、
-敵の兵士を殺してるけど、
-そうしなければ、別の命が失われていた。
+It's true that Fenrir killed an enemy soldier, but if he hadn't done so, another
+life would have been lost.
 --------------------------------
 [00000169][レイジ,レイジ,レイジ]
-例えば、この街の人たち……。
-フェンリルさんやオレが来なければ、
-恐らくは……。
+For example, the people in this town...  If Fenrir-san and I don't come, 
+Maybe...
 --------------------------------
 [00000170][フェンリル,,フェンリル]
-そうか……そうだな。
-レイジ、ありがとう。
-お前のお陰で、俺の悩みは解決した。
+I see...that's right.  Thank you, Rage.  Thanks to you, my problem was solved.
 --------------------------------
 [00000171][レイジ,レイジ,レイジ]
-……それならよかった。
+...That would be great.
 --------------------------------
 [00000172][フェンリル,,フェンリル]
-ああ、
-俺はすっかり忘れていたようだ。
+Ah, I think I completely forgot.
 --------------------------------
 [00000173][フェンリル,,フェンリル]
-守るべきもの……。
-救うべきものがあるから、
-戦っているのだ、ということをな。
+Something that must be protected...  You are fighting because there is something
+to save.
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-ああ、そうだな。
+Oh, yeah.
 --------------------------------
 [00000175][フェンリル,,フェンリル]
-……よし。
-これからはもう、迷いなどはしない。
+...Okay.  From now on, I won't hesitate anymore.
 --------------------------------
 [00000176][レイジ,レイジ,レイジ]
-ということは、いつものフェンリルさんに
-戻ってくれる、ということかい？
+Does that mean you'll return to the usual Fenrir?
 --------------------------------
 [00000177][フェンリル,,フェンリル]
-ああ、そうなるな。
+Oh, I guess so.
 --------------------------------
 [00000178][レイジ,レイジ,レイジ]
-良かった……。
-それでこその、フェンリルさんだよ。
+Good...  That's exactly what Fenrir is.
 --------------------------------
 [00000179][レイジ,レイジ,レイジ]
-これからも、一緒にがんばっていこう！
+Let's continue to do our best together!
 --------------------------------
 [00000180][フェンリル,,フェンリル]
-もちろんだ！
+Of course!
 --------------------------------

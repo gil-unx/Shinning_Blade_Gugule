@@ -1,4 +1,4 @@
-[0381]
+[0384]
 *****************
 [00000000]
 Ambient
@@ -625,602 +625,602 @@ VlMxPotentialInfo:090_アークバッカニア
 VlMxSpecialPotentialInfo:07_移動速度が偵察兵と同じ
 --------------------------------
 [00000208]
-お姉ちゃん
+older sister
 --------------------------------
 [00000209]
-お宝好き
+I like treasure
 --------------------------------
 [00000210]
-ちゃっかりもの
+Shrewd things
 --------------------------------
 [00000211]
-わがまま
+Self-indulgence
 --------------------------------
 [00000212]
-アタック時に
-与えるダメージがアップする。
+
+Increases damage dealt when attacking.
 --------------------------------
 [00000213]
-アタック時に
-与えるダメージがダウンする。
+
+Damage dealt when attacking is reduced.
 --------------------------------
 [00000214]
-アタック時に
-命中率がアップする。
+
+Increases accuracy when attacking.
 --------------------------------
 [00000215]
-アタック時に
-命中率がダウンする。
+
+Hit rate decreases when attacking.
 --------------------------------
 [00000216]
-アルティナが近くにいると
-攻撃力がアップする。
+When Altina is nearby
+Attack power increases.
 --------------------------------
 [00000217]
-アークバッカニア
+arc buccaneer
 --------------------------------
 [00000218]
-アークバッカニアが近くにいると
-攻撃力、命中率がアップする。
+When Archbuccaneer is nearby
+Attack power and accuracy will increase.
 --------------------------------
 [00000219]
-エルフ以外の味方が近くにいると
-命中率がダウンする。
+If allies other than elves are nearby
+Hit rate will decrease.
 --------------------------------
 [00000220]
-エルフ以外の味方が近くにいると
-素早さ、命中率がアップする。
+When allies other than elves are nearby
+Agility and accuracy increase.
 --------------------------------
 [00000221]
-ギャンブラー
+gambler
 --------------------------------
 [00000222]
-クールな正義
+cool justice
 --------------------------------
 [00000223]
-サクヤが近くにいると
-攻撃力がアップする。
+When Sakuya is nearby
+Attack power increases.
 --------------------------------
 [00000224]
-ドジッ子
+clumsy child
 --------------------------------
 [00000225]
-バトルコマンド実行後に
-お金が増える。
+
+Money increases after executing a battle command.
 --------------------------------
 [00000226]
-バトルコマンド実行後に
-ＨＰが回復する。
+
+HP recovers after executing a battle command.
 --------------------------------
 [00000227]
-バトルコマンド実行後に、ムーヴが
-回復、バトルコマンド再実行可能。
+After executing a battle command, the move will be recovered and the battle command can be executed again.
 --------------------------------
 [00000228]
-バトルフィールドイン時に
-フォースゲージが上昇する。
+
+Force gauge increases when entering the battlefield.
 --------------------------------
 [00000229]
-バトルフィールドイン時に
-全ての能力がアップする。
+When entering the battlefield
+All abilities will be increased.
 --------------------------------
 [00000230]
-バトルフィールドイン時に
-命中率がアップする。
+
+Hit rate increases when entering the battlefield.
 --------------------------------
 [00000231]
-バトルフィールドイン時に
-命中率がダウンする。
+When entering the battlefield
+Hit rate decreases.
 --------------------------------
 [00000232]
-バトルフィールドイン時に
-攻撃力、命中率がアップする。
+When entering the battlefield
+Attack power and accuracy increase.
 --------------------------------
 [00000233]
-バトルフィールドイン時に
-攻撃力がアップする。
+
+Attack power increases when entering the battlefield.
 --------------------------------
 [00000234]
-バトルフィールドイン時に
-状態異常にかからなくなる。
+
+You will no longer be affected by abnormal status when entering the battlefield.
 --------------------------------
 [00000235]
-バトルフィールドイン時に
-素早さがダウンする。
+
+Agility decreases when entering the battlefield.
 --------------------------------
 [00000236]
-バトルフィールドイン時に
-迎撃ダメージが半減する。
+When entering the battlefield
+Interception damage is halved.
 --------------------------------
 [00000237]
-バトルフィールドイン時に
-防御、魔防がアップする。
+When entering the battlefield
+Defense and magic defense increase.
 --------------------------------
 [00000238]
-バトルフィールドイン時に
-防御、魔防がダウンする。
+When entering the battlefield
+Defense and magic defense will be lowered.
 --------------------------------
 [00000239]
-バトルフィールドイン時に
-防御がアップする。
+
+Defense increases when entering the battlefield.
 --------------------------------
 [00000240]
-バトルフィールドイン時に
-魔力、防御がアップする。
+When entering the battlefield
+Magic power and defense increase.
 --------------------------------
 [00000241]
-バトルフィールドイン時に
-魔力、魔防がアップする。
+When entering the battlefield
+Magic power and magic defense increase.
 --------------------------------
 [00000242]
-バトルフィールドイン時に
-魔力がアップする。
+
+Magic power increases when entering the battlefield.
 --------------------------------
 [00000243]
-バトルフィールドイン時に
-魔防がダウンする。
+
+Magic defense goes down when entering the battlefield.
 --------------------------------
 [00000244]
-バトルフィールドイン時に
-ＨＰが回復する。
+
+HP is recovered when entering the battlefield.
 --------------------------------
 [00000245]
-パン屋の夢
+bakery dream
 --------------------------------
 [00000246]
-ポジティブ
+positive
 --------------------------------
 [00000247]
-マイペース
+My pace
 --------------------------------
 [00000248]
-マスター
+master
 --------------------------------
 [00000249]
-ミスティが近くにいると
-防御がアップする。
+When Misty is nearby
+Defense increases.
 --------------------------------
 [00000250]
-ムーヴが半分以下になると
-ムーヴが全回復する。
+When the move is less than half
+The move is fully restored.
 --------------------------------
 [00000251]
-ムーヴが半分以下になると
-攻撃、魔力、素早さがアップする。
+When the move is less than half
+Attack, magic power, and speed increase.
 --------------------------------
 [00000252]
-ムーヴが半分以下になると
-素早さがダウンする。
+When the move is less than half
+Agility decreases.
 --------------------------------
 [00000253]
-ムーヴが半分以下になると
-魔力、魔防がアップする。
+When the move is less than half
+Magic power and magic defense increase.
 --------------------------------
 [00000254]
-ムーヴが半分以下になると
-魔力がアップする。
+When the move is less than half
+Magic power increases.
 --------------------------------
 [00000255]
-リーダーシップ
+leadership
 --------------------------------
 [00000256]
-ルミナスナイツ
+luminous knights
 --------------------------------
 [00000257]
-ルミナスナイツが近くにいると
-魔力、素早さがアップする。
+When Luminous Knights are nearby
+Magic power and speed increase.
 --------------------------------
 [00000258]
-レイジかアインが近くにいると
-攻撃、魔力がアップする。
+If Rage or Ain is nearby
+Attack and magic power will increase.
 --------------------------------
 [00000259]
-レイジかカノンが近くにいると
-魔力がアップする。
+When Rage or Kanon is nearby
+Magic power increases.
 --------------------------------
 [00000260]
-レイジが近くにいると
-攻撃、防御、魔防がアップする。
+When Rage is nearby
+Attack, defense, and magic defense will increase.
 --------------------------------
 [00000261]
-レイジが近くにいると
-攻撃、防御がアップする。
+When Rage is nearby
+Attack and defense increase.
 --------------------------------
 [00000262]
-レイジが近くにいると
-攻撃力、素早さがアップする。
+When Rage is nearby
+Attack power and speed will increase.
 --------------------------------
 [00000263]
-レイジが近くにいると
-防御がダウンする。
+If Rage is nearby
+Defense will be lowered.
 --------------------------------
 [00000264]
-レイジが近くにいると
-魔力、魔防がダウンする。
+If Rage is nearby
+Magic power and magic defense will be lowered.
 --------------------------------
 [00000265]
-レイジが近くにいると
-魔力がダウンする。
+When Rage is nearby
+Magic power decreases.
 --------------------------------
 [00000266]
-レイジが近くにいると
-魔防がアップする。
+When Rage is nearby
+Magic defense increases.
 --------------------------------
 [00000267]
-レイジらしさ
+Rage-likeness
 --------------------------------
 [00000268]
-レイジ嫌い
+I hate Rage
 --------------------------------
 [00000269]
-レイジ慣れ
+Getting used to rage
 --------------------------------
 [00000270]
-ヴァイスリッター
+weissritter
 --------------------------------
 [00000271]
-ヴァイスリッターが近くにいると
-防御、魔防がアップする。
+When Weissritter is nearby
+Defense and magic defense will increase.
 --------------------------------
 [00000272]
-世間知らず
+Naive
 --------------------------------
 [00000273]
-人情家
+humane person
 --------------------------------
 [00000274]
-任侠
+chivalry
 --------------------------------
 [00000275]
-先代の影
+shadow of the predecessor
 --------------------------------
 [00000276]
-冷ややか
+cold
 --------------------------------
 [00000277]
-几帳面
+methodical
 --------------------------------
 [00000278]
-剣匠
+swordsmith
 --------------------------------
 [00000279]
-努力家
+Hard worker
 --------------------------------
 [00000280]
-勇者の誇り
+pride of the brave
 --------------------------------
 [00000281]
-勇者マニア
+brave mania
 --------------------------------
 [00000282]
-単細胞
+single cell
 --------------------------------
 [00000283]
-友情を越える絆
+Bonds that go beyond friendship
 --------------------------------
 [00000284]
-古代の力
+ancient power
 --------------------------------
 [00000285]
-可憐
+Pretty
 --------------------------------
 [00000286]
-味方が近くにいると
-命中率がアップする。
+When allies are nearby
+Hit rate increases.
 --------------------------------
 [00000287]
-味方が近くにいると
-命中率がダウンする。
+If allies are nearby
+Hit rate will decrease.
 --------------------------------
 [00000288]
-味方が近くにいると
-攻撃、素早さがアップする。
+When allies are nearby
+Attack and speed increase.
 --------------------------------
 [00000289]
-味方が近くにいると
-魔防がアップする。
+When an ally is nearby
+Magic defense increases.
 --------------------------------
 [00000290]
-味方が近くにいると、攻撃、
-防御、命中率がアップする。
+Attack, defense, and accuracy increase when allies are nearby.
 --------------------------------
 [00000291]
-味方が近くにいると、防御、
-魔防、素早さがアップする。
+When allies are nearby, defense, magic defense, and speed increase.
 --------------------------------
 [00000292]
-味方が近くに２体以上いると
-攻撃力がアップする。
+Attack power increases when two or more allies are nearby.
+Attack power increases.
 --------------------------------
 [00000293]
-味方が近くに２体以上いると
-魔力がアップする。
+If two or more allies are nearby,
+Magic power increases.
 --------------------------------
 [00000294]
-味方ユニットが近くにいないと
-命中率がダウンする。
+If there are no friendly units nearby
+Hit rate will decrease.
 --------------------------------
 [00000295]
-味方ユニットが近くにいないと
-魔防がダウンする。
+If there are no friendly units nearby
+Magic defense will decrease.
 --------------------------------
 [00000296]
-味方男性が近くにいると
-魔力がアップする。
+When a male ally is nearby,
+Magic power increases.
 --------------------------------
 [00000297]
-味方男性が近くにいると
-魔力がダウンする。
+When a male ally is nearby
+Magic power decreases.
 --------------------------------
 [00000298]
-土または草の地面に乗ると
-魔力、防御がアップする。
+If you ride on dirt or grass, your magic power and defense will increase.
 --------------------------------
 [00000299]
-堅物
+straight-laced
 --------------------------------
 [00000300]
-太公望
+Great public hope
 --------------------------------
 [00000301]
-失いし翼
+lost wings
 --------------------------------
 [00000302]
-奔放な正義
+unbridled justice
 --------------------------------
 [00000303]
-女王様
+Queen
 --------------------------------
 [00000304]
-妹想い
+Thoughts about my sister
 --------------------------------
 [00000305]
-学園のマドンナ
+school madonna
 --------------------------------
 [00000306]
-守護の力
+power of protection
 --------------------------------
 [00000307]
-守護者
+Guardian
 --------------------------------
 [00000308]
-宝箱を開けると
-ムーヴが回復する。
+Opening the treasure chest will restore your movement.
 --------------------------------
 [00000309]
-家族の絆
+family ties
 --------------------------------
 [00000310]
-彼女たちの思い出
+their memories
 --------------------------------
 [00000311]
-心回路
+heart circuit
 --------------------------------
 [00000312]
-忠義
+loyalty
 --------------------------------
 [00000313]
-愛する世界
+loving world
 --------------------------------
 [00000314]
-戦友
+Comrades in arms
 --------------------------------
 [00000315]
-戦闘兵器
+combat weapons
 --------------------------------
 [00000316]
-才色兼備
+Talented and talented
 --------------------------------
 [00000317]
-攻撃と撃破時に
-手に入る経験値が２倍になる。
+The experience points you get when attacking and defeating enemies will be doubled.
 --------------------------------
 [00000318]
-敗北感
+feeling of defeat
 --------------------------------
 [00000319]
-敵から反撃を受けるとき
-反撃ダメージが減少する。
+When receiving a counterattack from an enemy
+Counterattack damage will be reduced.
 --------------------------------
 [00000320]
-敵が近くにいると
-攻撃力がアップする。
+When the enemy is nearby
+Attack power increases.
 --------------------------------
 [00000321]
-敵が近くにいると
-防御がアップする。
+
+Defense increases when enemies are nearby.
 --------------------------------
 [00000322]
-敵が近くにいると
-魔力がダウンする。
+When an enemy is nearby
+Magic power decreases.
 --------------------------------
 [00000323]
-敵が近くにいると
-魔防がダウンする。
+When an enemy is nearby
+Magic defense decreases.
 --------------------------------
 [00000324]
-敵が近くに２体以上いると
-命中率がアップする。
+If there are two or more enemies nearby, the hit rate will increase.
 --------------------------------
 [00000325]
-敵が近くに２体以上いると
-攻撃、防御がアップする。
+If there are two or more enemies nearby
+Attack and defense will increase.
 --------------------------------
 [00000326]
-敵が近くに２体以上いると
-攻撃力がアップする。
+If there are two or more enemies nearby,
+Attack power increases.
 --------------------------------
 [00000327]
-敵が近くに２体以上いると
-攻撃力がダウンする。
+If there are two or more enemies nearby,
+Attack power will decrease.
 --------------------------------
 [00000328]
-敵を倒したとき
-疲労状態にならない。
+When defeating an enemy
+Do not become fatigued.
 --------------------------------
 [00000329]
-敵を倒したとき、ムーヴが回復し
-バトルコマンドが再実行できる。
+When you defeat an enemy, your moves are restored and you can re-execute battle commands.
 --------------------------------
 [00000330]
-敵を倒すと
-フォースゲージが上昇する。
+When you defeat an enemy
+The force gauge increases.
 --------------------------------
 [00000331]
-料理ベタ
+cooking betta
 --------------------------------
 [00000332]
-新たなる決意
+new determination
 --------------------------------
 [00000333]
-歌姫
+Diva
 --------------------------------
 [00000334]
-正しき力
+righteous power
 --------------------------------
 [00000335]
-武人
+warrior
 --------------------------------
 [00000336]
-死神
+grim reaper
 --------------------------------
 [00000337]
-気まぐれ
+capricious
 --------------------------------
 [00000338]
-求道者
+seeker
 --------------------------------
 [00000339]
-清廉潔白
+purity and innocence
 --------------------------------
 [00000340]
-無邪気
+Innocent
 --------------------------------
 [00000341]
-熱血
+hot-blooded
 --------------------------------
 [00000342]
-狩人の血
+hunter's blood
 --------------------------------
 [00000343]
-猫が近くにいると
-命中率がアップする。
+When a cat is nearby
+Hit rate increases.
 --------------------------------
 [00000344]
-猫好き
+I like cats
 --------------------------------
 [00000345]
-王家の血
+royal blood
 --------------------------------
 [00000346]
-生真面目
+Serious
 --------------------------------
 [00000347]
-男性恐怖症
+fear of men
 --------------------------------
 [00000348]
-異種族不信
+distrust of different races
 --------------------------------
 [00000349]
-白竜の戦士
+white dragon warrior
 --------------------------------
 [00000350]
-白竜の神託
+White Dragon's Oracle
 --------------------------------
 [00000351]
-盾の誓い
+oath of shield
 --------------------------------
 [00000352]
-短気
+short temper
 --------------------------------
 [00000353]
-確かな絆
+sure bond
 --------------------------------
 [00000354]
-素直な気持ち
+honest feelings
 --------------------------------
 [00000355]
-索敵
+Search for enemies
 --------------------------------
 [00000356]
-翼の誓い
+oath of wings
 --------------------------------
 [00000357]
-聖女の祈り
+saint's prayer
 --------------------------------
 [00000358]
-背負いし魂
+carrying soul
 --------------------------------
 [00000359]
-自己犠牲
+self-sacrifice
 --------------------------------
 [00000360]
-自責の念
+remorse
 --------------------------------
 [00000361]
-芽生えた理解
+a new understanding
 --------------------------------
 [00000362]
-若者好き
+I like young people
 --------------------------------
 [00000363]
-葛藤
+conflict
 --------------------------------
 [00000364]
-見てられない弟
+The younger brother I can't see
 --------------------------------
 [00000365]
-輝く風の妖精
+shining wind fairy
 --------------------------------
 [00000366]
-迎撃ダメージを受けると
-以降の迎撃ダメージが半減する。
+If you receive interception damage, subsequent interception damage will be halved.
 --------------------------------
 [00000367]
-迎撃ダメージを受けると
-素早さがアップする。
+When you receive interception damage
+Your speed increases.
 --------------------------------
 [00000368]
-迎撃ダメージを受けると
-素早さがダウンする。
+When you receive interception damage
+Your speed decreases.
 --------------------------------
 [00000369]
-迎撃ダメージを受けると
-防御、素早さがダウンする。
+If you receive interception damage
+Defense and speed will decrease.
 --------------------------------
 [00000370]
-迎撃ダメージを受けると
-防御がダウンする。
+If you receive interception damage
+Defense will be lowered.
 --------------------------------
 [00000371]
-過去の所業
+past deeds
 --------------------------------
 [00000372]
-闇に生きる者
+those who live in darkness
 --------------------------------
 [00000373]
-霊刀の巫女
+Shrine Maiden of the Spirit Sword
 --------------------------------
 [00000374]
-魂の導き手
+soul guide
 --------------------------------
 [00000375]
-魂の練成者
+soul trainer
 --------------------------------
 [00000376]
-黒猫の導き
+black cat guidance
 --------------------------------
 [00000377]
-ＨＰが半分以下になると
-素早さがダウンする。
+When HP falls below half
+Agility decreases.
 --------------------------------
 [00000378]
-ＨＰが半分以下になると
-魔力、命中率がアップする。
+When HP falls below half
+Magic power and accuracy increase.
 --------------------------------
 [00000379]
 
 --------------------------------
 [00000380]
+
+--------------------------------
+[00000381]
+
+--------------------------------
+[00000382]
+
+--------------------------------
+[00000383]
 
 --------------------------------

@@ -1,251 +1,327 @@
 [0083]
 *****************
 [00000000]
-記録メディアをチェックしています。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Checking recording media. Do not remove
+the recording media or turn off the power.
 --------------------------------
 [00000001]
-記録メディアがありません。
+There is no recording media.
 --------------------------------
 [00000002]
-記録メディアが抜かれました。
+The recording media has been removed.
 --------------------------------
 [00000003]
-スリープモードへ移行したため、\n処理を中断しました。
+
+Processing has been interrupted
+because it has entered sleep mode.
 --------------------------------
 [00000004]
-記録メディアが抜かれたか、スリープモードへ移行したため\n、処理を中断しました。
+Processing was interrupted because the recording medium
+was removed or the computer entered sleep mode.
 --------------------------------
 [00000005]
-記録メディアが\n書き込み禁止状態になっています。
+The recording medium is write-protected.
 --------------------------------
 [00000006]
-記録メディアのアクセスで\nエラーが発生しました。
+
+An error occurred while accessing the recording media.
 --------------------------------
 [00000007]
-データを削除しますか？
+Do you want to delete your data?
 --------------------------------
 [00000008]
-削除しました。
+It has been deleted.
 --------------------------------
 [00000009]
-1376 KB
+1376KB
 --------------------------------
 [00000010]
-セーブデータがありません。
+There is no save data.
 --------------------------------
 [00000011]
-セーブデータ作成には %s 以上の\n容量が必要になります。\nセーブデータを作成しますか？
+Creating save data requires %s or more capacity.
+Do you want to create save data?
 --------------------------------
 [00000012]
-セーブデータを作成中です。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Creating save data.
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000013]
-セーブデータを作成しました。
+I created save data.
 --------------------------------
 [00000014]
-セーブデータが破損しています。
+Save data is corrupted.
 --------------------------------
 [00000015]
-破損しているデータを削除しますか？
+Do you want to delete corrupted data?
 --------------------------------
 [00000016]
-削除しました。
+It has been deleted.
 --------------------------------
 [00000017]
-記録メディアの空き容量が足りません。\nセーブデータの作成にはあと %s 以上の\n容量が必要になります。
+There is not enough free space on the recording media.
+To create save data, you will need at least %s more space.
 --------------------------------
 [00000018]
-記録メディアの空き容量が足りません。\nセーブデータの作成には %s 以上の\n容量が必要になります。
+There is not enough free space on the recording media.
+Creating save data requires %s or more
+capacity.
 --------------------------------
 [00000019]
-セーブを中止します。\nセーブデータ作成には %s 以上の\n容量が必要になります。
+Cancels saving.
+Creating save data requires %s or more capacity.
 --------------------------------
 [00000020]
-セーブデータ作成には %s 以上の容量が\n必要になります。セーブデータは後でも作れます。\nこのままゲームを進めますか？
+Creating save data requires %s or more capacity.
+You can create save data later.
+Do you want to continue playing the game?
 --------------------------------
 [00000021]
-セーブデータをロード中です。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Loading save data.
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000022]
-セーブデータをロードしました。
+Save data has been loaded.
 --------------------------------
 [00000023]
-オートセーブ中です。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Auto-save in progress.
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000024]
-オートセーブが終了しました。
+Auto save has finished.
 --------------------------------
 [00000025]
-セーブデータをロード中です。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Loading save data.
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000026]
-セーブデータをロードしました。
+Save data has been loaded.
 --------------------------------
 [00000027]
-セーブ中です。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Saving is in progress.
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000028]
-セーブが終了しました。
+The save has finished.
 --------------------------------
 [00000029]
-セーブを中止しますか？
+Do you want to cancel the save?
 --------------------------------
 [00000030]
-ロードを中止しますか？
+Do you want to cancel loading?
 --------------------------------
 [00000031]
-記録メディアに異なるデータがあります。\nこの記録メディアにセーブしますか？
+There are different data on the recording media.
+Do you want to save to this recording medium?
 --------------------------------
 [00000032]
-350 MB
+350MB
 --------------------------------
 [00000033]
-インストールデータの読み込みに失敗しました。\nオプションのインストールデータ使用を\nオフにします。
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000034]
-インストールデータの読み込みに失敗しました。オプションのインストールデータ使用をオフにします。
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000035]
-記録メディアがありません。\nインストールデータの読み込みに失敗しました。\nオプションのインストールデータ使用を\nオフにします。
+There is no recording media. 
+Failed to load installation data. 
+Turn off optional installation data usage.
 --------------------------------
 [00000036]
-記録メディアがありません。インストールデータの読み込みに失敗しました。オプションのインストールデータ使用をオフにします。
+There is no recording media.
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000037]
-記録メディアが抜かれました。\nインストールデータの読み込みに失敗しました。\nオプションのインストールデータ使用を\nオフにします。
+The recording media has been removed. 
+Failed to load installation data. 
+Turn off optional installation data usage.
 --------------------------------
 [00000038]
-記録メディアが抜かれました。インストールデータの読み込みに失敗しました。オプションのインストールデータ使用をオフにします。
+The recording media has been removed.
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000039]
-インストールデータがありません。\nインストールデータの読み込みに失敗しました。\nオプションのインストールデータ使用を\nオフにします。
+There is no installation data. 
+Failed to load installation data. 
+Turn off optional installation data usage.
 --------------------------------
 [00000040]
-インストールデータがありません。インストールデータの読み込みに失敗しました。オプションのインストールデータ使用をオフにします。
+There is no installation data.
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000041]
-インストールデータが破損しています。\nインストールデータの読み込みに失敗しました。\nオプションのインストールデータ使用を\nオフにします。
+Installation data is corrupted. 
+Failed to load installation data. 
+Turn off optional installation data usage.
 --------------------------------
 [00000042]
-インストールデータが破損しています。インストールデータの読み込みに失敗しました。オプションのインストールデータ使用をオフにします。
+Installation data is corrupted.
+Failed to load installation data.
+Turn off optional installation data usage.
 --------------------------------
 [00000043]
-記録メディアにインストールデータを作成します。\nインストールには %s 以上の\n容量が必要になります。\nインストールを始めてもよろしいですか？
+Create installation data on recording media. 
+Installation requires %s or more space. 
+Are you sure you want to start the installation?
 --------------------------------
 [00000044]
-インストールデータの作成が完了しました。\nオプションのインストールデータ使用を\nオンに切り替えます。
+Creation of installation data is complete. 
+Turn on the option 
+Use installation data.
 --------------------------------
 [00000045]
-既にインストールデータが存在しています。
+Installation data already exists.
 --------------------------------
 [00000046]
-インストールデータが破損しています。
+Installation data is corrupted.
 --------------------------------
 [00000047]
-破損しているインストールデータを削除しますか？
+Do you want to remove corrupted installation data?
 --------------------------------
 [00000048]
-インストールデータを削除しました。
+Installation data has been deleted.
 --------------------------------
 [00000049]
-インストールデータの作成を中断しました。
+Creation of installation data has been interrupted.
 --------------------------------
 [00000050]
-インストールデータの作成に失敗しました。
+Creation of installation data failed.
 --------------------------------
 [00000051]
-記録メディアの空き容量が足りません。\nインストールデータを作成するには\nあと %s 以上の容量が必要になります。
+There is not enough free space on the recording media. 
+To create the installation data
+more than %s of space is required.
 --------------------------------
 [00000052]
-記録メディアの空き容量が足りません。\nインストールデータを作成するには\n %s 以上の容量が必要になります。
+There is not enough free space on the recording media. 
+To create installation data
+ %s or more space is required.
 --------------------------------
 [00000053]
-インストールを中止しますか？
+Do you want to cancel the installation?
 --------------------------------
 [00000054]
-インストールデータを削除しますか？
+Do you want to delete installation data?
 --------------------------------
 [00000055]
-インストールデータを削除しました。
+Installation data has been deleted.
 --------------------------------
 [00000056]
-このゲームは記録メディアにゲームデータの\n一部をインストールすることで、ゲーム中の\nデータ読込速度を向上させることができます。
+This game can improve
+data loading speed during the game by installing
+some of the game data on the recording media.
 --------------------------------
 [00000057]
-ただし読込速度は記録メディアの転送速度に\n依存するため、記録メディアによっては読込\n速度の向上が感じられない場合もあります。
+However, the reading speed depends on the transfer speed of
+the recording medium, so depending on the recording medium
+you may not notice an improvement in the reading speed.
 --------------------------------
 [00000058]
-インストールが完了するまでに数分程度\nの時間がかかりますので、十分に充電するか、\nACアダプターの使用をおすすめします。
+It will take several minutes to complete the installation,
+so we recommend charging the battery sufficiently
+or using an AC adapter.
 --------------------------------
 [00000059]
-記録メディアにデータ連動で使用する\nデータをおいてください。
+Please put the data to be used
+in data linkage on the recording medium.
 --------------------------------
 [00000060]
-データ連動を始めますか？
+Do you want to start data linkage?
 --------------------------------
 [00000061]
-ファンタシースターポータブル２　インフィニティの\nゲームデータが破損しています。
+Phantasy Star Portable 2 Infinity's game data is corrupted.
 --------------------------------
 [00000062]
-データ連動を中止します。
+Cancel data linkage.
 --------------------------------
 [00000063]
-データ連動を中止しますか？
+Do you want to cancel data linkage?
 --------------------------------
 [00000064]
-ファンタシースターポータブル２　インフィニティの\nデータ連動を中止しますか？
+Do you want to cancel data linkage for
+Phantasy Star Portable 2 Infinity?
 --------------------------------
 [00000065]
-セーブデータの作成時と本体が異なるため\nパスワードで開放されたコンテンツを\n無効化します。\n再度コンテンツを開放するには\nパスワード入力をやりなおしてください。
+Since the main unit is different from the one
+when the save data was created, the content released
+with the password will be invalidated. 
+To release the content again
+Please enter your password again.
 --------------------------------
 [00000066]
-追加コンテンツをチェックしています。\n記録メディアを抜いたり\n電源を切ったりしないでください。
+Checking for additional content. 
+Do not remove the recording media or turn off the power.
 --------------------------------
 [00000067]
-本ゲームはオートセーブ機能に対応しています。\nオートセーブ中には\nメモリースティック㌃アクセスランプが\n点滅しますので、その間は記録メディアを\n抜いたり、本体の電源を切ったりしないでください。
+This game supports the autosave function. During auto-save,
+the memory stick access lamp will blink, so do not remove
+the recording media or turn off the power to the device
+during that time.
 --------------------------------
 [00000068]
-ゲーム中に記録メディアを抜き差しすると\nセーブデータや追加コンテンツなど\n保存されているデータが\n正しく実行されない可能性があります。\nご注意ください。
+If you remove or insert the recording media
+during the game saved data, additional content, etc.
+saved data may not be executed correctly. 
+Please be careful.
 --------------------------------
 [00000069]
-追加コンテンツのチェックを中断しますか？
+Do you want to stop checking for additional content?
 --------------------------------
 [00000070]
-追加コンテンツの読み込みに失敗しました。
+Failed to load additional content.
 --------------------------------
 [00000071]
-保存に失敗しました。\n記録メディアの空き容量が\n不足しています。
+Saving failed. 
+There is not enough free space on the recording media.
 --------------------------------
 [00000072]
-撮影可能な枚数の上限を超えました。
+The maximum number of photos
+that can be taken has been exceeded.
 --------------------------------
 [00000073]
-戦場のヴァルキュリアの\nゲームデータが破損しています。
+Valkyria Chronicles
+game data is corrupted.
 --------------------------------
 [00000074]
-戦場のヴァルキュリアの\nデータ連動を中止しますか？
+Would you like to cancel data
+linkage for Valkyria Chronicles?
 --------------------------------
 [00000075]
-戦場のヴァルキュリア２　ガリア王立士官学校の\nゲームデータが破損しています。
+Valkyria Chronicles 2:
+The Royal Military Academy of Gallia's
+game data is corrupted.
 --------------------------------
 [00000076]
-戦場のヴァルキュリア２　ガリア王立士官学校の\nデータ連動を中止しますか？
+Valkyria Chronicles 2 Do you want to cancel
+the data linkage of Gallia Royal Military Academy?
 --------------------------------
 [00000077]
-戦場のヴァルキュリア３　体験版の\nゲームデータが破損しています。
+The game data of the trial version of
+Valkyria Chronicles 3 is corrupted.
 --------------------------------
 [00000078]
-戦場のヴァルキュリア３　体験版の\nデータ連動を中止しますか？
+Do you want to cancel the data linkage of
+the trial version of Valkyria Chronicles 3?
 --------------------------------
 [00000079]
-撮影に失敗しました
+Shooting failed
 --------------------------------
 [00000080]
-追加コンテンツのデータが読み込めませんでした。\n記録メディアを入れてください。
+The additional content data could not be loaded. 
+Please insert the recording media.
 --------------------------------
 [00000081]
-追加コンテンツデータの異常が確認されました。\n追加コンテンツを再ダウンロードして下さい。\n装備していた場合は別の装備に持ち替えます。
+An error in additional content data has been confirmed. 
+Please re-download the additional content. 
+If it is equipped, switch to another equipment.
 --------------------------------
 [00000082]
-バッテリー残量が不足しています。\nバッテリーを充電して下さい。
+The battery is low. 
+Please charge the battery.
 --------------------------------

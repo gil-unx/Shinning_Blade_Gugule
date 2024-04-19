@@ -1,1066 +1,796 @@
 [0256]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年 ファウゼン東部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt11935 Eastern Fausen
 --------------------------------
 [00000001][none]
-……こいつで射撃訓練の
-仕上げといくか
+...with this one I guess this is the finishing touch to target practice.
 --------------------------------
 [00000002][none]
-ふふん
-我ながら見事な射撃だ
-ほれぼれするね
+Hmm That's a great shot for me. I'm in love with it.
 --------------------------------
 [00000003][none]
-練習熱心なのはいいが
-そろそろ交代してくれよ
-俺もやりたいんだ
+It's good that you're practicing hard. It's time for you to take over. I want to
+do it too.
 --------------------------------
 [00000004][none]
-いいとも、交代しようか
-あんたのような凡人には
-練習が必要だろうからね
+Okay, let's switch places. An average person like you will need some practice.
 --------------------------------
 [00000005][none]
-お前、腕はいいみたいだが
-口の悪さも
-ちょっとしたもんだな！
+You seem to have good skills, but your mouth is also a bit off!
 --------------------------------
 [00000006][none]
-喋りは独学さ
-……射撃の方もだけどね
-それじゃ、お先に
+I taught myself how to speak ...and how to shoot, too. Okay, let's go first.
 --------------------------------
 [00000007][none]
-おい、どこ見てんだ
+Hey, where are you looking?
 --------------------------------
 [00000008][none]
-失礼！
-ぼんやりしてた
+Excuse me!  I was absentminded.
 --------------------------------
 [00000009][none]
-チャラチャラしやがって
+It's so funny
 --------------------------------
 [00000010][none]
-それは性分なんでね
-治せないんだ
+It's just your nature You can't cure it.
 --------------------------------
 [00000011][none]
-やれやれ
-何だかみんな
-ピリピリしてるねえ
+Oh my gosh Somehow everyone is feeling tingly.
 --------------------------------
 [00000012][none]
-当たり前よ、聞いてないの？
-帝国軍の大規模な侵攻が
-始まりそうだって話
+Of course, haven't you heard?  It seems that a large-scale invasion by the
+Imperial Army is about to begin 
 --------------------------------
 [00000013][none]
-ああ、その話か
+Oh, that's what you're talking about.
 --------------------------------
 [00000014][none]
-またネームレスには
-死ぬほど危険な任務が
-押しつけられるわけだ
+Also, Nameless is given a mission that is dangerous to the point of death.
 --------------------------------
 [00000015][none]
-そういうことよ
+That's what it is.
 --------------------------------
 [00000016][none]
-いつも通りの捨て駒だろ？
-ならいつも通りで
-いいじゃねぇか
+Isn't it just a discarded piece as usual?  Then it's fine as usual 
 --------------------------------
 [00000017][none]
-セドリックさん
-あなた恐くないの？
+Mr. Cedric Aren't you scared?
 --------------------------------
 [00000018][none]
-別に？
-戦場はシャバより
-シンプルでいいじゃない
+Nothing?  The battlefield is simpler than Shaba, isn't it?
 --------------------------------
 [00000019][none]
-人を殺したって
-逃げも隠れも
-しなくていいんだから
+Even if you kill someone, you don't have to run or hide.
 --------------------------------
 [00000020][none]
-……殺し放題だよ
+...you can kill as much as you want
 --------------------------------
 [00000021][none]
-私達はあなたとは違う
-とてもじゃないけど
-同じ考え方はできないの
+We are different from you Not very, but we can't think the same way.
 --------------------------------
 [00000022][none]
-あんたも
-前科持ちじゃないか
+You also have a criminal record, don't you?
 --------------------------------
 [00000023][none]
-私はランドグリーズ家に
-ケンカを売っただけの
-政治犯よ
+I'm a political prisoner who just picked a fight with the Landgris family.
 --------------------------------
 [00000024][none]
-あなたみたいな
-本物とは全然違う
+It's completely different from the real thing like you.
 --------------------------------
 [00000025][none]
-俺のこと
-よく知ってるようだね
+You seem to know well about me.
 --------------------------------
 [00000026][none]
-当然よ、有名だもの
+Of course, it's famous.
 --------------------------------
 [00000027][none]
-だが、残念ながら
-俺とあんたは
-同じだよヴァレリー
+But unfortunately you and I are the same, Valerie.
 --------------------------------
 [00000028][none]
-法律、習慣、タブー……
-世界には色んな
-しがらみというものがある
+Laws, customs, taboos... There are various types of constraints in the world 
 --------------------------------
 [00000029][none]
-だが人間は二種類いる
-しがらみの中で生きる者と
-それを飛び越える者がね
+But there are two types of humans Those who live within the constraints and
+Those who jump beyond them.
 --------------------------------
 [00000030][none]
-セドリックさん、あなたは
-飛び越えてしまったのね
+Mr. Cedric, you are  You jumped over it.
 --------------------------------
 [00000031][none]
-あんたもだよ、ヴァレリー
-だから俺達は
-同じ側の人間だ
+You too, Valerie So we are on the same side.
 --------------------------------
 [00000032][none]
-私があなたと同じ側？
+Am I on the same side as you?
 --------------------------------
 [00000033][none]
-そう、一度飛び越えたら
-元には戻れない
+Yes, once you jump, you can't go back.
 --------------------------------
 [00000034][none]
-ネームレスは
-飛び越えちまった者の
-集まりってわけ
+Nameless is a collection of people who have jumped over the top.
 --------------------------------
 [00000035][none]
-ガリアの犯罪史に
-名を残す大悪党の
-同類にされたくないわ
+I don't want to be considered one of the great villains in Gallic criminal
+history.
 --------------------------------
 [00000036][none]
-犯罪王セドリック……
-窃盗から殺人まで
-あらゆる罪を重ね
+Crime King Cedric... He commits all sorts of crimes, from theft to murder.
 --------------------------------
 [00000037][none]
-逮捕されたら処刑台直行が
-約束されている
-完全無欠の犯罪者
+A perfect criminal who is guaranteed to go straight to the execution stand if
+caught.
 --------------------------------
 [00000038][none]
-完全無欠は言いすぎだ
-まだやってないことも
-あるからね
+Perfection is an exaggeration. There are things we haven't done yet. 
 --------------------------------
 [00000039][none]
-あなた、なぜ
-ネームレスに来たの？
+Why did you come to Nameless?
 --------------------------------
 [00000040][none]
-ここで大人しく働けば
-減刑してもらえるんだろ？
+If you work quietly here, you'll get your sentence reduced, right?
 --------------------------------
 [00000041][none]
-あなたが無罪になるには
-帝国兵を１万人殺しても
-足りないでしょうね
+Killing 10,000 Imperial soldiers wouldn't be enough for you to be innocent.
 --------------------------------
 [00000042][none]
-そう、そこなんだ
-俺がここに来たのは
-そこに興味があるからさ
+Yes, that's what I came here because I'm interested in that.
 --------------------------------
 [00000043][none]
-街で１人殺せば殺人犯
-だが戦場で１００人殺せば
-英雄になるんだ
+If you kill one person on the street, you're a murderer But if you kill 100
+people on the battlefield, you're a hero.
 --------------------------------
 [00000044][none]
-よく使われる言葉ね
-それがどうしたの？
+That's a commonly used word. What's up with that?
 --------------------------------
 [00000045][none]
-俺は何人殺せば
-英雄になれるのか、と
-考えたんだよ
+I thought, how many people do I have to kill to become a hero?
 --------------------------------
 [00000046][none]
-英雄になろうというの？
-犯罪王のあなたが？
+Are you trying to become a hero?  Are you the crime lord?
 --------------------------------
 [00000047][none]
-面白いだろう？
-世界一の罪人が
-世界一の英雄になったらさ
+Isn't it interesting?  What if the world's greatest sinner became the world's
+greatest hero?
 --------------------------------
 [00000048][none]
-まともな考えじゃないわね
+That's not a sensible idea.
 --------------------------------
 [00000049][none]
-英雄になれば
-罪が許されちゃうかもな？
+If you become a hero, maybe your sins will be forgiven?
 --------------------------------
 [00000050][none]
-悪い冗談だわ
+It's a bad joke
 --------------------------------
 [00000051][none]
-まあ見てなって
-俺が来たからには
-面白くなるぜ？
+Well, now that I'm here, it's going to be interesting, right?
 --------------------------------
 [00000052][none]
-ようグロリア
-眠れないのか？
+Gloria, can't you sleep?
 --------------------------------
 [00000053][none]
-それとも、早起きかい？
+Or are you an early riser?
 --------------------------------
 [00000054][none]
-アンタに会いに来たんだよ
-セドリック
+I came to see you Cedric
 --------------------------------
 [00000055][none]
-俺をご指名とは光栄だね
+I'm honored that you nominated me.
 --------------------------------
 [00000056][none]
-アタシは『自称犯罪王』や
-『犯罪王の片腕』を名乗る
-小悪党を何人も見てきたよ
+I've seen many small-time villains who claim to be the ``self-proclaimed crime
+lord'' or ``the crime lord's right-hand man.''
 --------------------------------
 [00000057][none]
-奇遇だね
-俺もそうさ
+What a coincidence So am I.
 --------------------------------
 [00000058][none]
-まさかここで本物の
-『犯罪王セドリック』と
-出会えるなんてね
+I never thought I'd be able to meet the real ``Crime King Cedric'' here.
 --------------------------------
 [00000059][none]
-本物を見抜く目は
-あるってわけだ
+It means you have an eye to see through the real thing.
 --------------------------------
 [00000060][none]
-その本物が
-何を企んでいるんだい
+What is that real thing planning?
 --------------------------------
 [00000061][none]
-俺が愛国心に目覚めたら
-いけないのかい？
+Is it wrong if I become patriotic?
 --------------------------------
 [00000062][none]
-誰が信じるんだい
-そんな戯言
+Who will believe that nonsense?
 --------------------------------
 [00000063][none]
-あながち嘘でも
-ないんだけどな
+You're not lying though.
 --------------------------------
 [00000064][none]
-帝国の兵隊を思いっきり
-殺してみたくなったって
-いうのはホントだぜ？
+Is it true that you feel like killing all the Imperial soldiers?
 --------------------------------
 [00000065][none]
-ふん、どうせ
-シャバにいられなくなった
-だけだろ？
+Hmm, I guess it's just that I can't stay in Shabbat anymore.
 --------------------------------
 [00000066][none]
-面倒くさいことに
-なってるのは確かだな
+It's definitely becoming a hassle 
 --------------------------------
 [00000067][none]
-警察、金持ち連中、政治家
-俺を処刑台に送りたい奴は
-ゴロゴロいる
+Police, rich people, politicians There are a lot of people who want to send me
+to the gallows.
 --------------------------------
 [00000068][none]
-アンタが捕まったらきっと
-公開処刑だね
-盛り上がりそうじゃないか
+If you get caught, I'm sure there will be a public execution. I think it'll be
+exciting.
 --------------------------------
 [00000069][none]
-最高のイベントだな
-最後まで見物できないのが
-難点だが
+It's the best event The problem is that I can't watch it until the end.
 --------------------------------
 [00000070][none]
-ま、最大の目的は恩赦だよ
-俺もそろそろキレイな
-身体になろうと思ってさ
+Well, the main purpose is to get amnesty. I also want to get a beautiful body.
 --------------------------------
 [00000071][none]
-アンタに限っては
-恩赦はありえないね
+As far as you are concerned, there is no pardon for you.
 --------------------------------
 [00000072][none]
-司法取引が成立したのは
-アンタが戦場で死ねば
+The plea deal was made if you died on the battlefield.
 --------------------------------
 [00000073][none]
-山のような裁判の手間が
-はぶけていいからだろうよ
+I guess it's because it will save you a lot of trouble in court.
 --------------------------------
 [00000074][none]
-俺が死ぬわけないさ
+There's no way I'm going to die
 --------------------------------
 [00000075][none]
-その気になれば
-軍のお偉方をちょいと
-脅かして恩赦を出させりゃ
+If you feel like it, you can try to scare the military leaders a little to get
+them to issue a pardon.
 --------------------------------
 [00000076][none]
-いつでもネームレスを
-抜けられるぜ？
+You can leave Nameless anytime, right?
 --------------------------------
 [00000077][none]
-よく言うよ……
-と言いたいところだけど
-アンタならやるだろうね
+I say it all the time... I'd like to say, I think you would do it.
 --------------------------------
 [00000078][none]
-ま、悪党だろうが
-何だろうが
-使える兵士は大歓迎さ
+Well, no matter if they're villains or whatnot, any soldiers who can be used are
+welcome.
 --------------------------------
 [00000079][none]
-そんなわけで
-しばらく働かせてもらうよ
-飽きるまではな
+That's why I'll let you work for a while until you get bored.
 --------------------------------
 [00000080][none]
-ついに帝国軍の大部隊が
-動いたみたいですね！
+It looks like a large force of the Imperial Army has finally moved!
 --------------------------------
 [00000081][none]
-さらば平穏な日々……
-ってわけね
+Goodbye peaceful days... That's why
 --------------------------------
 [00000082][none]
-すぐ、ネームレスにも
-作戦指示が来るわ
+Nameless will receive strategy instructions soon.
 --------------------------------
 [00000083][none]
-出来の悪かったテストが
-戻ってくるような
-気分ですよ……
+It feels like a bad test coming back ...
 --------------------------------
 [00000084][none]
-……おい、そこのお前ら
+...Hey, you guys over there.
 --------------------------------
 [00000085][none]
-はい？
+Yes?
 --------------------------------
 [00000086][none]
-セドリックはどこだ？
+Where's Cedric?
 --------------------------------
 [00000087][none]
-セドリックさんですか？
-あの人はいつも
-フラフラしていますけど
+Are you Cedric?  That person is always disoriented.
 --------------------------------
 [00000088][none]
-何をやっているのか
-よく分からない人ですよね
+You don't really know what you're doing 
 --------------------------------
 [00000089][none]
-隠すとためにならんぞ
+It won't help if you hide it.
 --------------------------------
 [00000090][none]
-ちょっと!?
-何で銃を向けるんですか!?
+Wait!? Why are you pointing a gun at me!?
 --------------------------------
 [00000091][none]
-あたし達は味方ですよ!?
+We are on your side!?
 --------------------------------
 [00000092][none]
-知るか
-セドリックの居場所を
-隠す奴は信用できん
+Do you know I can't trust anyone who hides Cedric's location 
 --------------------------------
 [00000093][none]
-あなた、セドリックさんと
-どういう関係？
+What kind of relationship do you have with Cedric?
 --------------------------------
 [00000094][none]
-そっちのお前は
-セドリックを
-知っているようだな
+You seem to know Cedric.
 --------------------------------
 [00000095][none]
-あの人は普段
-キャンプの中にはいない
+That person is not usually in the camp.
 --------------------------------
 [00000096][none]
-外に行けば向こうから
-あなたを見つけてくれると
-思うわ
+If you go outside, I think they'll find you from the other side.
 --------------------------------
 [00000097][none]
-そうか
+I see
 --------------------------------
 [00000098][none]
-何なんですかあの人？
+What is that?
 --------------------------------
 [00000099][none]
-新しく来た方ですよね
+You're a new arrival, right?
 --------------------------------
 [00000100][none]
-また厄介そうなのが
-来ちゃったわね……
+Something troublesome has arrived again...
 --------------------------------
 [00000101][none]
-どこだ！
-セドリック！
-いるのは分かっている！
+Where is it?  Cedric!  I know you're there!
 --------------------------------
 [00000102][none]
-おや……？
-俺は夢でも見てるのかな
+Oh...?  Maybe I'm dreaming
 --------------------------------
 [00000103][none]
-その声、セドリックだな！
+That voice is Cedric!
 --------------------------------
 [00000104][none]
-久しぶりだね
-エイダちゃん
-ネームレスへようこそ
+It's been a while Ada-chan Welcome to Nameless
 --------------------------------
 [00000105][none]
-会いたかったぞ
-セドリック
+I missed you Cedric
 --------------------------------
 [00000106][none]
-その軍服を着たってことは
-エイダちゃんはもう
-刑事じゃないんだろう？
+If you wear that military uniform, then Ada-chan is no longer a detective,
+right?
 --------------------------------
 [00000107][none]
-逃げなくていいってのは
-楽でいいねえ
+It's nice not having to run away 
 --------------------------------
 [00000108][none]
-私の魂は今でも刑事だ
-甘く見るな
+My soul is still a detective Don't underestimate me
 --------------------------------
 [00000109][none]
-魂だけじゃあ
-逮捕はできないよ？
+You can't arrest someone just with a soul, right?
 --------------------------------
 [00000110][none]
-私はお前を見張るために
-ここに来た
+I came here to keep an eye on you.
 --------------------------------
 [00000111][none]
-お前はこれからずっと
-私の監視下で
-生活することになる
+You will be living under my watch for the rest of your life.
 --------------------------------
 [00000112][none]
-監視ねえ？
-意外な趣味だな
+Monitor, right?  It's a surprising hobby.
 --------------------------------
 [00000113][none]
-趣味ではない
-仕事だ
+It's not a hobby It's a job.
 --------------------------------
 [00000114][none]
-ところでさっき
-エイミーとアニカに
-銃を向けていただろう
+By the way, you probably pointed the gun at Amy and Annika earlier.
 --------------------------------
 [00000115][none]
-見てたんだぜ？
-ダメじゃないか
-仲間にあんなことしたら
+Were you watching?  Wouldn't it be no good if you did that to your friends?
 --------------------------------
 [00000116][none]
-お前が言うな
+You say so.
 --------------------------------
 [00000117][none]
-おお、怖い怖い
+Oh, scary, scary
 --------------------------------
 [00000118][none]
-セドリック
-お前は必ず私が捕まえて
-処刑台に送り込んでやる
+Cedric I will definitely catch you and send you to the execution stand.
 --------------------------------
 [00000119][none]
-全ての罪を吐き出して
-大勢の観衆の侮蔑の視線を
-受けながら逝け
+Spit out all your sins and die while receiving the scornful stares of a large
+audience.
 --------------------------------
 [00000120][none]
-それが唯一お前に許された
-死に様だ！
+That's the only way you're allowed to die!
 --------------------------------
 [00000121][none]
-変わらないね
-そういうとこ
+There's no change. That's the thing.
 --------------------------------
 [00000122][none]
-言いたい事はそれだけだ
-よく覚えておけ
+That's all I want to say Remember that.
 --------------------------------
 [00000123][none]
-エイダ、アンタ刑事だろ
-何しにネームレスに
-来たんだい
+Ada, you're a detective, right? Why did you come to Nameless ?
 --------------------------------
 [00000124][none]
-元・刑事だ
+Former detective
 --------------------------------
 [00000125][none]
-潜入捜査ってのかい？
-よく知らないけど……
+Is this an undercover investigation?  I don't know much about it...
 --------------------------------
 [00000126][none]
-戦場ってのはアンタが
-考えてるより
-よっぽど危険だよ
+The battlefield is much more dangerous than you think.
 --------------------------------
 [00000127][none]
-仲間に撃たれることも
-珍しくないし
-訓練中の事故だってある
+It's not uncommon to be shot by your teammates, and accidents occur during
+training.
 --------------------------------
 [00000128][none]
-私を脅すつもりか？
+Are you trying to threaten me?
 --------------------------------
 [00000129][none]
-このネームレスには
-法権力は及ばない
+This nameless person has no legal power.
 --------------------------------
 [00000130][none]
-だからアタシも
-ここにいるんだがね
+That's why I'm here too.
 --------------------------------
 [00000131][none]
-安心しろ
-私は雑魚に興味はない
+Don't worry, I'm not interested in small fry.
 --------------------------------
 [00000132][none]
-ほう、アタシを
-雑魚呼ばわりするとはね
+Well, I don't think you're calling me a small fry.
 --------------------------------
 [00000133][none]
-武器の横流し、贈賄
-禁制品の密輸、闇賭博
-脅迫、傷害……
+Diversion of weapons, bribery smuggling of contraband, underground gambling
+blackmail, injury...
 --------------------------------
 [00000134][none]
-アタシの仕事が
-どうしたってのさ？
+What's wrong with my job?
 --------------------------------
 [00000135][none]
-あんたじゃない
-私がやってきた事だ
+It's not you It's what I did.
 --------------------------------
 [00000136][none]
-セドリックの情報を
-得るために犯罪組織との
-取引に応じ
+Accepting a deal with a criminal organization to get information on Cedric.
 --------------------------------
 [00000137][none]
-上司の弱みを握って
-それを握り潰し
-ひたすら奴を追ってきた
+I grasped my boss's weakness, crushed it, and pursued him relentlessly.
 --------------------------------
 [00000138][none]
-あらゆる手を尽くして
-奴を追い詰めた
+We did everything we could to corner him.
 --------------------------------
 [00000139][none]
-しかし奴は警察上層部と
-裏取引をして
-この部隊に潜り込んだ！
+But he infiltrated this unit by making a backroom deal with the police higher
+ups!
 --------------------------------
 [00000140][none]
-そいつは残念だったね
+That was a shame.
 --------------------------------
 [00000141][none]
-手段は選ばん
-私はセドリックを
-追い続ける
+I will continue pursuing Cedric by any means necessary.
 --------------------------------
 [00000142][none]
-犯罪王を逮捕するためなら
-誰がどうなろうと
-知ったことではない
+In order to arrest the crime lord I don't care what happens to anyone 
 --------------------------------
 [00000143][none]
-奴を野放しにしておくこと
-それこそが最大の悪なのだ
+Leaving him alone is the greatest evil.
 --------------------------------
 [00000144][none]
-そこまで執着しておいて
-逮捕できないとは
-どういうことかねえ？
+What do you mean you can't get arrested if you're so obsessed?
 --------------------------------
 [00000145][none]
-お前は分かっていない
-セドリックの
-本当の恐ろしさがな
+You don't understand Cedric's true horror.
 --------------------------------
 [00000146][none]
-アンタは知ってるのかい？
+Do you know?
 --------------------------------
 [00000147][none]
-知っているから
-ここにいる
+I'm here because I know 
 --------------------------------
 [00000148][none]
-隠しておいた罪を
-少しバラしたら
-すぐに片道切符をくれたさ
+As soon as I revealed some of my hidden sins, she immediately gave me a one-way
+ticket.
 --------------------------------
 [00000149][none]
-ふん、セドリックは
-兵士として使える男だが
-アンタはどうなんだい？
+Hmm, Cedric is a man who can be used as a soldier, what about you?
 --------------------------------
 [00000150][none]
 ……
 --------------------------------
 [00000151][none]
-セドリックの尻を
-追い回すだけの
-役立たずだったら
+If it's just a useless chase after Cedric's ass.
 --------------------------------
 [00000152][none]
-アンタの居場所は
-無いと思いな
+I don't think there's a place for you 
 --------------------------------
 [00000153][none]
-必要なことなら
-何だってやってやるさ
+I'll do whatever it takes. I'll do whatever it takes.
 --------------------------------
 [00000154][none]
-これまでそうしてきた
-これからも同じだ
+That's what we've always done That's what we'll continue to do.
 --------------------------------
 [00000155][none]
-セドリックを逮捕するまで
-私は何だってやる
-それだけだ
+I'll do whatever it takes until I arrest Cedric. That's it.
 --------------------------------
 [00000156][none]
-いつでも、どこへでも
-ついてくるんだね
-エイダちゃんは
+Ada-chan follows anytime, anywhere 
 --------------------------------
 [00000157][none]
-言っただろう
-常にお前を監視すると
+I told you I'll always keep an eye on you.
 --------------------------------
 [00000158][none]
-ちょっとヤバめの
-偵察任務で
-明日は早いんだ
+It's a bit of a crazy reconnaissance mission. I have an early day tomorrow.
 --------------------------------
 [00000159][none]
-早く寝ておいた方が
-いいんじゃないの？
+Isn't it better to go to bed early?
 --------------------------------
 [00000160][none]
-帝国軍など後回しだ
-私はお前から
-目を離すわけにはいかん
+The Imperial Army is on the backburner. I can't take my eyes off you 
 --------------------------------
 [00000161][none]
-はいはい
-人気者はつらいよっと
+Yes, yes It's hard to be popular.
 --------------------------------
 [00000162][none]
-待て！
+Wait!
 --------------------------------
 [00000163][none]
-セドリック、どこだ！
+Cedric, where are you!
 --------------------------------
 [00000164][none]
-よっ
+Okay
 --------------------------------
 [00000165][none]
-そこか
+There?
 --------------------------------
 [00000166][none]
-コーヒー飲む？
-エイダちゃんの分もあるよ
+Do you want to drink coffee?  There's also a portion for Ada-chan.
 --------------------------------
 [00000167][none]
-……バカにするな
+...don't make fun of me
 --------------------------------
 [00000168][none]
-コーヒー好きだった
-じゃない
+I didn't like coffee 
 --------------------------------
 [00000169][none]
-お前の毒入りコーヒーなど
-誰が口にするか
+Who will taste your poisoned coffee?
 --------------------------------
 [00000170][none]
-大丈夫だよ、ほら
+It's okay, come on.
 --------------------------------
 [00000171][none]
-うん、おいしい
+Yes, it's delicious.
 --------------------------------
 [00000172][none]
-ふざけやがって……
+Just kidding...
 --------------------------------
 [00000173][none]
-そんな顔するなって
-いい夜じゃないか
+Don't make that face Isn't it a nice night?
 --------------------------------
 [00000174][none]
-こんな生ぬるい夜は
-あの日を思い出すだろ？
+A lukewarm night like this reminds you of that day, right?
 --------------------------------
 [00000175][none]
 ……
 --------------------------------
 [00000176][none]
-覚えてないの？
-ショックだな
+Don't you remember?  That's a shock.
 --------------------------------
 [00000177][none]
-俺達が出会った
-記念すべき夜だったのに
+It was a memorable night when we met.
 --------------------------------
 [00000178][none]
-私にとっては
-刑事の名誉と誇りを
-失った夜だ
+For me, it was the night I lost my honor and pride as a detective.
 --------------------------------
 [00000179][none]
-ああ、傑作だったよ
+Oh, that was a masterpiece.
 --------------------------------
 [00000180][none]
-こんな夜は傷が痛む
+My wounds hurt on nights like this
 --------------------------------
 [00000181][none]
-お前が隠し持っていた
-ナイフに刺された傷がな
+There's a stab wound from the knife you were hiding.
 --------------------------------
 [00000182][none]
-俺にあれを使わせたのは
-エイダちゃんが
-初めてだったよ
+Ada was the first person to let me use that.
 --------------------------------
 [00000183][none]
-ちょっとなめてたとはいえ
-あんなに追い込まれたのは
-あれっきりだ
+Even though it was a bit of a bummer, I've never been pushed that far.
 --------------------------------
 [00000184][none]
-おまけに
-殺したつもりだったのに
-生きてるしねえ？
+What's more, I thought I'd killed you, but you're still alive, aren't you?
 --------------------------------
 [00000185][none]
-お前を逃したことと
-長い入院生活のせいで
-私は閑職に追いやられた
+Because of missing you and my long stay in the hospital, I was relegated to a
+quiet job.
 --------------------------------
 [00000186][none]
-お前のせいで
-私の人生は滅茶苦茶だ
+Because of you, my life is a mess.
 --------------------------------
 [00000187][none]
-人の人生を壊すってのは
-最高の気分だよ
-殺す以上にね
+Ruining someone's life is the best feeling even than killing someone.
 --------------------------------
 [00000188][none]
-それが
-エイダちゃんみたいな
-イイ女なら尚更だ
+Especially if it's a good girl like Ada.
 --------------------------------
 [00000189][none]
-お前というヤツは
-……史上最悪の人間だな
+You are ...the worst human being ever.
 --------------------------------
 [00000190][none]
-そう呼ばれるのは
-少し飽きてきたんだよね
+I guess I'm getting a little tired of being called that.
 --------------------------------
 [00000191][none]
-ま、いいや
-俺はそろそろ寝るけど
-一緒に寝る？
+Well, no. I'm going to bed soon. Would you like to sleep with me?
 --------------------------------
 [00000192][none]
 ……
 --------------------------------
 [00000193][none]
-半分は冗談だよ
-じゃ、おやすみ
+I'm only half kidding Good night then.
 --------------------------------
 [00000194][none]
-そう言ってられるのも
-今の内だぞ……
-セドリック
+You can say that for now... Cedric.
 --------------------------------
 [00000195][none]
-帝国軍の部隊規模は
-予想以上のものだと
-判明した
+It turns out that the size of the Imperial Army is larger than expected.
 --------------------------------
 [00000196][none]
-こちらの偵察活動も
-帝国軍に察知されたらしい
+It seems that our reconnaissance activities were also detected by the Imperial
+Army.
 --------------------------------
 [00000197][none]
-帝国の部隊は我々を
-包囲するように動いている
+Imperial forces are moving to surround us.
 --------------------------------
 [00000198][none]
-偵察情報は充分に得られた
-あとは生きて帰るだけだ
+We have obtained enough reconnaissance information Now we just have to make it
+home alive.
 --------------------------------
 [00000199][none]
-それが一番
-難しいんだけどな
+That's the most difficult thing.
 --------------------------------
 [00000200][none]
-いいじゃない
-生きるための戦いってのが
-人間は一番必死になるんだ
+That's okay The fight for survival Humans are the most desperate.
 --------------------------------
 [00000201][none]
-まるで他人事だな
+It's like someone else's problem.
 --------------------------------
 [00000202][none]
-元・刑事の前で
-撃ちまくるってのも
-面白そうだね
+It would be interesting to shoot in front of a former detective 
 --------------------------------
 [00000203][none]
-何人撃っても
-いいどころか
-一緒に撃つなんてな！
+It doesn't matter how many people you shoot and you shouldn't shoot them all
+together!
 --------------------------------
 [00000204][none]
-笑っていられるのも
-今の内だ
+You can smile for now.
 --------------------------------
 [00000205][none]
-後ろから撃つのは
-ナシだぜ？
+There's no need to shoot from behind, right?
 --------------------------------
 [00000206][none]
-こんな場所で
-死なせるつもりはない
-お前の死に場所は処刑台だ
+I'm not going to let you die in a place like this The place you're going to die
+is on the execution stand.
 --------------------------------
 [00000207][none]
-それに私も今は
-ネームレスの一員だ
-与えられた役割は果たす
+And I'm now a member of Nameless I'll do my part.
 --------------------------------
 [00000208][none]
-そいつは頼もしいね
+That's reliable.
 --------------------------------
 [00000209][none]
-なれ合うつもりは無いぞ
+I have no intention of getting to know each other.
 --------------------------------
 [00000210][none]
-嬉しいよ
-エイダちゃんと
-一緒に戦えるなんてさ
+I'm so happy to be able to fight with Ada-chan 
 --------------------------------
 [00000211][none]
-何が嬉しい？
+What makes you happy?
 --------------------------------
 [00000212][none]
-人生をぶち壊した俺と
-一緒に戦うなんて
-まともじゃできないよな？
+You wouldn't be able to fight with me who destroyed your life, right?
 --------------------------------
 [00000213][none]
-私をまともで
-いられなくしたのは
-お前だ！
+You are the one who made me unable to be sane!
 --------------------------------
 [00000214][none]
-その通り
-俺はあんたにこちら側へ
-来て欲しかったのかもな
+That's right Maybe I wanted you to come to my side 
 --------------------------------
 [00000215][none]
-飛び越えた者の側にさ
+On the side of the person who jumped over
 --------------------------------
 [00000216][none]
-お前の言っていることは
-全く理解できない
+I don't understand what you're saying at all.
 --------------------------------
 [00000217][none]
-なあ、俺と一緒に
-英雄への道を歩まないか？
+Hey, would you like to walk the path to becoming a hero with me?
 --------------------------------
 [00000218][none]
-お前が歩くのは
-処刑台への道だ
+You walk the road to the execution stand.
 --------------------------------
 [00000219][none]
-どっちに続いているのか
-ここを突破してから
-確かめようぜ
+Which way does it lead? Let's break through here and see 
 --------------------------------
 [00000220][none]
-セドリックとエイダが
-ポテンシャル@fcFF008800「腐れ縁」@fciに
-目覚めました。
+Cedric and Ada have awakened
+to the potential @fcFF008800 "Rotten Edge" @fci.
 --------------------------------
 [00000221][none]
-エイダちゃん
-どこにいるんだい？
+Ada-chan Where are you?
 --------------------------------
 [00000222][none]
-ここだ
+here
 --------------------------------
 [00000223][none]
-お、さすがに
-しぶといね
+Oh, as expected You're stubborn.
 --------------------------------
 [00000224][none]
-お前が処刑されるのを
-見るまでは死なん
+I won't die until I see you executed 
 --------------------------------
 [00000225][none]
-そいつは
-長生きできそうだね
+Looks like he's going to live a long time.
 --------------------------------
 [00000226][none]
-セドリック
-お前が無事でよかった
+Cedric I'm glad you're safe.
 --------------------------------
 [00000227][none]
-心配してくれたのかい？
+Are you worried?
 --------------------------------
 [00000228][none]
-お前は戦場で
-国のために死ぬ
-資格がない
+You don't deserve to die for your country on the battlefield.
 --------------------------------
 [00000229][none]
-こんな所で
-死なせはせん
+I won't let you die in a place like this.
 --------------------------------
 [00000230][none]
-どうしても俺を
-処刑台送りにしたいわけね
+You really want to send me to the execution stand.
 --------------------------------
 [00000231][none]
-まっとうな死に方が
-許されると思うな
+I think a normal way to die is acceptable.
 --------------------------------
 [00000232][none]
-死に方なんて
-どうでもいいんじゃない？
+It doesn't matter how you die, right?
 --------------------------------
 [00000233][none]
-くっ、くたばれ！
+Damn it!
 --------------------------------
 [00000234][none]
-……ちっ、死に損ないか！
+...Tch, I'm afraid I'll die!
 --------------------------------
 [00000235][none]
-どけ！
+Get out of the way!
 --------------------------------
 [00000236][none]
-うっ！
+Ugh!
 --------------------------------
 [00000237][none]
-野郎！
+Bastard!
 --------------------------------
 [00000238][none]
-ぐあっ!!
+Guah!!
 --------------------------------
 [00000239][none]
-エイダ！
-どこを撃たれた!?
+Ada!  Where were you shot?
 --------------------------------
 [00000240][none]
-かすり傷だ……くっ
+It's just a scratch... Damn.
 --------------------------------
 [00000241][none]
-肩か……
-銃弾は抜けてるな
-止血するぞ
+Shoulder... The bullet's gone. I'll stop the bleeding.
 --------------------------------
 [00000242][none]
-触るな！
-この程度で私は死なん
+Don't touch!  I won't die at this level.
 --------------------------------
 [00000243][none]
-しぶといのは知ってるよ
-だがこの傷は
-気に入らないんでね
+I know you're stubborn, but I don't like this scar. 
 --------------------------------
 [00000244][none]
-……よし、血は止めた
-あとはしぶとさで
-頑張ってもらおうかな
+...Okay, I've stopped the bleeding. Now I'll just have to be patient. I guess
+I'll have to do my best.
 --------------------------------
 [00000245][none]
-似合わないことを……！
+Something that doesn't suit me...!
 --------------------------------
 [00000246][none]
-それはこっちの台詞だ
-俺を守るなんて
-どういうこったい？
+That's your line. What do you mean by protecting me?
 --------------------------------
 [00000247][none]
-言っただろう
-こんな所では死なせんと
+I told you I won't die in a place like this.
 --------------------------------
 [00000248][none]
-お前は罪を白日の下に晒し
-人の敵、国の敵として
-死ぬんだ
+You will expose your sins to the light of day and die as an enemy of man and
+enemy of the nation.
 --------------------------------
 [00000249][none]
-その日が来るといいな
+I hope that day comes
 --------------------------------
 [00000250][none]
-お前が言うな！
+You say it!
 --------------------------------
 [00000251][none]
-ま、未来のことは
-さておきだ
-とりあえず生き延びようぜ
+Well, let's put aside the future for now, let's survive.
 --------------------------------
 [00000252][none]
-肩、痛むだろ？
-寄りかかっていいぞ
+Your shoulder hurts, right?  You can lean on me.
 --------------------------------
 [00000253][none]
-お断りだ
+No
 --------------------------------
 [00000254][none]
-言うこと聞かないと
-お姫様だっこするぞ？
+If you don't listen to me, I'll play you like a princess, right?
 --------------------------------
 [00000255][none]
-……お前はやっぱり
-史上最悪の人間だ
+...You're definitely the worst person ever.
 --------------------------------

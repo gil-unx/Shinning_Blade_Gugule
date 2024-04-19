@@ -1,231 +1,185 @@
 [0052]
 *****************
 [00000000][none]
-@lt1@fcFF00FFFFアイテム屋について
+@lt1@fcFF00FFFF　About the item shop　
 --------------------------------
 [00000001][none]
-アイテム屋では、アイテムやアクセサリ、
-また、アーティファクトの作成に必要な
-マテリアルを買うことができます。
+In the item shop, you can buy items, accessories, and materials needed to create
+artifacts.
 --------------------------------
 [00000002][none]
-また、掘り出し物メニューには
-珍しいアイテムが並んでいることがあります。
+Also, rare items may be listed in the Bargain Menu.
 --------------------------------
 [00000003][none]
-掘り出し物は
-それぞれ１個しか購入することができません。
-さらに、しばらくすると店頭から消えてしまいます。
+Only one of each bargain item can be purchased.  Furthermore, it will disappear
+from store shelves after a while.
 --------------------------------
 [00000004][none]
-欲しい商品があったら、
-時機を逃さないうちに購入するように
-注意しましょう。
+If you see something you want, be sure to buy it while you can.
 --------------------------------
 [00000005][none]
-@lt1@fcFF00FFFFクエスト屋とフリークエストについて
+@lt1@fcFF00FFFF　About the quest shop and free quests　
 --------------------------------
 [00000006][none]
-クエスト屋には
-街人からのクエスト依頼が集められています。
+The quest shop collects quest requests from townspeople.
 --------------------------------
 [00000007][none]
-これらのクエストは
-フリークエストと呼ばれ、
-何度でも受注することが可能です。
+These quests are called free quests and can be accepted as many times as you
+like.
 --------------------------------
 [00000008][none]
-受注時には受注金を支払う必要がありますが、
-クエストをクリアすることによって
-報酬金としてお金を回収することが出来ます。
+You need to pay the order fee when you accept the order, but you can collect the
+money as a reward by clearing the quest.
 --------------------------------
 [00000009][none]
-キャンセルした場合、
-お金は返ってきませんので注意しましょう。
+Please note that if you cancel, you will not get your money back.
 --------------------------------
 [00000010][none]
-また、各フリークエストには
-アイテム報酬が設定されています。
+Also, each free quest has item rewards set.
 --------------------------------
 [00000011][none]
-基本的に報酬はクリアするたびに受け取れますが、
-一部の貴重なものについては
-一回しか受け取れない場合があります。
+Basically, you can receive rewards every time you clear a mission, but some
+valuable items may only be received once.
 --------------------------------
 [00000012][none]
-また、フリークエストのレベルは
-ゲームの進行に関係なく一定のため、
-成長の遅れているメンバーの育成にも利用可能です。
+In addition, the level of free quests is constant regardless of the progress of
+the game, so it can be used to train members who are slow in growth.
 --------------------------------
 [00000013][none]
-アイテム入手、メンバーの育成、ソウル稼ぎなど
-効果的にフリークエストを活用していきましょう。
+Use free quests effectively to obtain items, train members, earn souls, etc.
 --------------------------------
 [00000014][none]
-@lt1@fcFF00FFFFパン屋について
+@lt1@fcFF00FFFF　About the bakery　
 --------------------------------
 [00000015][none]
-パン屋で販売されているパンには
-ステータスアップなどの
-様々な効果が設定されています。
+The bread sold at the bakery has various effects, such as increasing your
+status.
 --------------------------------
 [00000016][none]
-パンを購入すると
-次のクエストが終了するまで
-効果が発揮された状態となります。
+If you purchase bread, its effect will remain active until the next quest ends.
 --------------------------------
 [00000017][none]
-一度に複数のパンを食べることはできません。
-また、次のクエストが終了するまでは
-他のパンを食べることもできません。
+You cannot eat more than one piece of bread at a time.  You will also not be
+able to eat any other bread until the next quest is completed.
 --------------------------------
 [00000018][none]
-また、リターンや敗北によっても
-パンの効果は消滅してしまいますので、
-注意するようにしましょう。
+Also, the effect of bread will disappear even if you return or lose, so be
+careful.
 --------------------------------
 [00000019][none]
-パンの種類は
-レシピを入手することによって増えていきます。
+The types of bread will increase by obtaining recipes.
 --------------------------------
 [00000020][none]
-レシピはフリークエストや、
-街人から受けられるクエストによって
-入手することが可能です。
+Recipes can be obtained through free quests or quests from townspeople.
 --------------------------------
 [00000021][none]
-さらに、タイトル画面から
-パスワードを入力することによって
-入手できるレシピも存在します。
+Additionally, there are some recipes that can be obtained by entering the
+password from the title screen.
 --------------------------------
 [00000022][none]
-クエストに応じて
-最適なパンを食べるようにすれば、
-戦いをぐっと有利に進めることができるでしょう。
+If you eat the bread that is most appropriate for the quest, you will have a
+much better advantage in the battle.
 --------------------------------
 [00000023][none]
-@lt1@fcFF00FFFFスタンプについて
+@lt1@fcFF00FFFF　About the stamp　
 --------------------------------
 [00000024][none]
-パンを食べるごとに
-スタンプカードにスタンプが溜まっていきます。
+Every time you eat bread, stamps will accumulate on your stamp card.
 --------------------------------
 [00000025][none]
-スタンプカードが一杯になると、
-パン屋から素敵なプレゼントを
-もらうことが出来ます。
+When your stamp card is full, you can receive a wonderful gift from the bakery.
 --------------------------------
 [00000026][none]
-プレゼントは
-スタンプカードが溜まっていくたびに
-豪華になっていきます。
+The gifts will become more luxurious as you accumulate stamp cards.
 --------------------------------
 [00000027][none]
-思いがけないレアなアイテムを
-入手できるかもしれませんので、
-パン屋は積極的に利用することをおすすめします。
+You may be able to obtain unexpected rare items, so we recommend that you
+actively use the bakery.
 --------------------------------
 [00000028][none]
-@lt1@fcFF00FFFF練成工房について
+@lt1@fcFF00FFFF　About the training workshop　
 --------------------------------
 [00000029][none]
-サクヤは街の鍛冶施設を使って、
-アーティファクトの作成／強化、および
-フォースの強化を行ってくれます。
+Sakuya will use the town's blacksmith facility to create/strengthen artifacts
+and strengthen the Force.
 --------------------------------
 [00000030][none]
-メンバーの強化に不可欠な施設となりますので、
-各メニュー選択後に
-それぞれの詳細を説明していきます。
+This facility is essential for strengthening the members, so after selecting
+each menu we will explain the details of each item.
 --------------------------------
 [00000031][none]
-@lt1@fcFF00FFFFアーティファクト作成について
+@lt1@fcFF00FFFF　About artifact creation　
 --------------------------------
 [00000032][none]
-アーティファクトは装備することによって
-武器の特性を変化させることのできる
-特殊なアイテムです。
+Artifacts are special items that can change the characteristics of a weapon when
+equipped.
 --------------------------------
 [00000033][none]
-サクヤは、ソウルを媒介として
-複数のマテリアルを合成することにより、
-新たなアーティファクトを生み出すことができます。
+Sakuya can create new artifacts by synthesizing multiple materials using Soul as
+a medium.
 --------------------------------
 [00000034][none]
-キャラクターを選択すると
-作成できるアーティファクトの一覧と
-必要な材料が表示されます。
+When you select a character, a list of artifacts that can be created and
+required materials will be displayed.
 --------------------------------
 [00000035][none]
-作成したアーティファクトは
-対象キャラクターの専用のものとなり、
-他のキャラクターには装備できません。
+The created artifact is exclusive to the target character and cannot be equipped
+to other characters.
 --------------------------------
 [00000036][none]
-また、装備するアーティファクトの種類によって
-ステータスに付与されるパラメータも変化します。
+Also, the parameters given to the status will change depending on the type of
+artifact you equip.
 --------------------------------
 [00000037][none]
-クエストによって
-有効なアーティファクトは異なるため、
-なるべく多くの種類を揃えておくと良いでしょう。
+Effective artifacts vary depending on the quest, so it's a good idea to have as
+many types as possible.
 --------------------------------
 [00000038][none]
-@lt1@fcFF00FFFFアーティファクト強化について
+@lt1@fcFF00FFFF　About artifact enhancement　
 --------------------------------
 [00000039][none]
-所持しているアーティファクトは
-ソウルとマテリアルを使うことで、
-能力を強化することが可能です。
+The abilities of the artifacts you own can be strengthened by using souls and
+materials.
 --------------------------------
 [00000040][none]
-キャラクターを選択すると
-所持しているアーティファクトと
-その強化に必要なマテリアルが表示されます。
+When you select a character, the artifacts you have and the materials needed to
+enhance them will be displayed.
 --------------------------------
 [00000041][none]
-必要なマテリアルの中には
-ショップでは売られていないものもあります。
+Some of the required materials are not sold in the shop.
 --------------------------------
 [00000042][none]
-そのようなマテリアルは、
-フリークエストやフリーバトルで入手可能です。
+Such materials can be obtained through free quests and free battles.
 --------------------------------
 [00000043][none]
-積極的にクエストをこなし、
-さまざまなマテリアルを探してみましょう。
+Actively complete quests and look for various materials.
 --------------------------------
 [00000044][none]
-@lt1@fcFF00FFFFフォース強化について
+@lt1@fcFF00FFFF　About force enhancement　
 --------------------------------
 [00000045][none]
-各キャラクターのフォースは
-ソウルを使用することによって
-強化することが可能です。
+Each character's Force can be strengthened by using souls.
 --------------------------------
 [00000046][none]
-キャラクターを選ぶと
-使用できるフォースと
-その現在レベルが表示されます。
+When you select a character, the available forces and its current level will be
+displayed.
 --------------------------------
 [00000047][none]
-方向キーの左右でフォースのレベルを
-変化させることができ、
-○ボタンで決定することで強化が実行されます。
+You can change the level of the force using the left and right arrow keys, the
+reinforcement is executed by pressing the ○ button.
 --------------------------------
 [00000048][none]
-戦闘を有利に進められるように、
-こまめなフォース強化を心がけると良いでしょう。
+It's a good idea to frequently strengthen your force so that you can advance in
+battle at an advantage.
 --------------------------------
 [00000049][none]
-@lt1@fcFF00FFFFリンリンチュートリアルについて
+@lt1@fcFF00FFFF　About Rinrin Tutorial　
 --------------------------------
 [00000050][none]
-リンリンに話しかけると
-今までに発生したチュートリアルを
-もう一度確認することができます。
+If you talk to Rinrin, you can re-check the tutorials that have occurred so far
+.
 --------------------------------
 [00000051][none]
-再確認したい内容などがある場合は
-彼女に教えてもらいに来ると良いでしょう。
+If there is anything you would like to double-check, it would be a good idea to
+come and ask her to tell you.
 --------------------------------

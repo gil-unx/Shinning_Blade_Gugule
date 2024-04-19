@@ -1,1204 +1,1020 @@
 [0306]
 *****************
 [00000000][サクヤ,マキシマ,サクヤ]
-レイジ、こっちの世界に来てからも、
-ちゃんと剣術の練習はしてる？
+Rage, have you been practicing swordsmanship since you came to this world?
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-ええ。毎日欠かさずやってます
+Yeah. I do it every day without fail.
 --------------------------------
 [00000002][サクヤ,マキシマ,サクヤ]
-実戦の方が忙しくて……
+I'm busier with the actual battle...
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-あ……忘れてました
+Ah...I forgot.
 --------------------------------
 [00000004][サクヤ,マキシマ,サクヤ]
-そう。さすがね。その調子でしっかりやりなさい。
-きっと、あなたの役に立つはずだから。
+Yes. As expected. Do it well and keep it that way.  I'm sure it will be useful
+to you.
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-あらあら。ダメよ。
-おかしな癖がつかないように、
-常に基本を確認しておかないと。
+Oh my. No. 
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-こらっ！　まったくもう……。
-あなたときたら……。
+Come on!　Not at all...  When it comes to you...
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-どうしたの？
-答えに詰まるようなことじゃないでしょう？
+What happened?  It's not like you're at a loss for an answer, is it?
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-……さては、サボってるのね？
-ダメよ？
+...Well then, are you slacking off?  No?
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-まだまだ問題は山積みのようね。
-なんとかして態勢を立て直さなきゃ。
+It seems like there are still a lot of problems.  We have to do something to
+recover.
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-古代兵器か……。
-厄介な相手が出てきたわね。
-対応策を考えなきゃ。
+An ancient weapon...?  A troublesome opponent has appeared.  We have to think of
+a countermeasure.
 --------------------------------
 [00000011][サクヤ,マキシマ,サクヤ]
-帝国軍が攻勢を強めているわ。
-なんとかして、この勢いを止めないと。
+The imperial army is intensifying its offensive.  We have to do something to
+stop this momentum.
 --------------------------------
 [00000012][サクヤ,マキシマ,サクヤ]
-これからの作戦行動のために、
-エルフ族との連携を強化しておかないと。
+For future operations, we need to strengthen our cooperation with the elves.
 --------------------------------
 [00000013][サクヤ,マキシマ,サクヤ]
-帝国の攻勢を防ぐには、
-ベスティア軍の協力が必要よ、
-うまく連携が取れるようにしないと。
+In order to prevent the Empire's offensive, we need the cooperation of the
+Bestia army, we need to coordinate well.
 --------------------------------
 [00000014][リック,エルウッド,リック]
-誤解が解けたとたんに、
-みんな手のひらを返したように
-愛想よく声をかけてくる……。
+As soon as the misunderstanding was resolved, everyone turned their heads and
+started calling out to me in a friendly manner...
 --------------------------------
 [00000015][リック,エルウッド,リック]
-まったく勝手なもんだな。
+It's completely arbitrary.
 --------------------------------
 [00000016][リック,エルウッド,リック]
-そうかもな。でも、それでいいんじゃないか？
+Maybe. But isn't that okay?
 --------------------------------
 [00000017][リック,エルウッド,リック]
-あんまり気にすんなよ
+I don't really care.
 --------------------------------
 [00000018][リック,エルウッド,リック]
-勝手なもんだな
+It's a selfish thing.
 --------------------------------
 [00000019][リック,エルウッド,リック]
-なにを言っている。
-悪いとは……一言も言ってないぞ。
+What are you talking about?  I didn't say anything about it being bad...
 --------------------------------
 [00000020][リック,エルウッド,リック]
-……気にしてなどいない。
-それに……い、嫌だとも……言ってない。
+...I don't care.  Besides...I-I didn't say I didn't like it.
 --------------------------------
 [00000021][リック,エルウッド,リック]
-……ああ。
-……だがまあ……いい。
+...Ah.  ...But oh well...it's fine.
 --------------------------------
 [00000022][リック,エルウッド,リック]
-……俺がいいと言っているからいいんだ。
-なにか文句でもあるか？
+...It's okay because I said it was okay.  Do you have anything to complain
+about?
 --------------------------------
 [00000023][リック,エルウッド,リック]
-し、しかし……まあ、よしとしておこう。
+B-but...well, let's leave it at that.
 --------------------------------
 [00000024][リック,エルウッド,リック]
-エルフ族の部隊編成は独特だな……。
-指揮系統を飲み込むのも一苦労だ。
+The elf tribe's troop composition is unique...  It's also difficult to
+understand the chain of command.
 --------------------------------
 [00000025][アルティナ,メル・シルフィス,アルティナ]
-リーベリアからの援軍が来たおかげで
-砦の住人もだいぶ大人数になったわね。
+Thanks to the arrival of reinforcements from Liberia, the number of residents in
+the fort has increased considerably.
 --------------------------------
 [00000026][アルティナ,メル・シルフィス,アルティナ]
-他の国の人たちとも、
-うまくやっていけるといいんだけど。
+I hope I can get along well with people from other countries.
 --------------------------------
 [00000027][アルティナ,メル・シルフィス,アルティナ]
-アルティナならできるさ
+Altina can do it.
 --------------------------------
 [00000028][アルティナ,メル・シルフィス,アルティナ]
-お互いに歩み寄っていかないとな
+We need to move closer together.
 --------------------------------
 [00000029][アルティナ,メル・シルフィス,アルティナ]
-なんとかなるだろ
+It'll work out somehow.
 --------------------------------
 [00000030][アルティナ,メル・シルフィス,アルティナ]
-そ、そう？　そういってもらえると……。
-まあ……わ、悪い気はしないわ。
+Oh, really? If you say so...  Well...I-I don't feel bad.
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-考えてみれば、森を出てから、
-ずっと他種族とうまくやってきたんだものね。
-できないはずがないわよね。
+Come to think of it, ever since we left the forest, we've been getting along
+well with other races.  There's no way it can't be done.
 --------------------------------
 [00000032][アルティナ,メル・シルフィス,アルティナ]
-そうよね。でも、リーベリアから来た人たちや
-ベスティアの人たち。みんな目的は同じだから、
-きっとそこでわかり合えるわよね。
+That's right. But there are people from Liberia and people from Bestia. Since we
+all have the same goal, I'm sure we can understand each other there.
 --------------------------------
 [00000033][アルティナ,メル・シルフィス,アルティナ]
-ちょっと！　なによ、その投げやりな答え！
-あなた、ちゃんと考えてものを言ってる？
+Hey!　What a sudden answer!  Are you thinking about what you say?
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-援軍と、隊のみんなとの間を取り持つのは、
-あなたの仕事でもあるのよ！
+It's your job to mediate between the reinforcements and the rest of the squad!
 --------------------------------
 [00000035][アルティナ,メル・シルフィス,アルティナ]
-どうしたの？　先行きが心配？
-もう！　しっかりしなさい！
+What's wrong? Are you worried about the future?  Already!　Stay strong!
 --------------------------------
 [00000036][アルティナ,メル・シルフィス,アルティナ]
-エルフ族の戦士たちが、
-他の種族の兵士たちと
-協力して戦っている……。
+Elf warriors fight together with soldiers from other races...
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-こんなことが実際にあり得るなんて、
-夢にも思わなかったわ。
+I never dreamed that something like this could actually happen.
 --------------------------------
 [00000038][アルティナ,メル・シルフィス,アルティナ]
-エルフ族との間で、
-なにか問題があったら私に言うのよ。
+If you have any problems with the elves, please let me know.
 --------------------------------
 [00000039][アルティナ,メル・シルフィス,アルティナ]
-連携がうまくいくように、
-できるだけのことはするから。
+I'll do everything I can to make sure the cooperation goes well.
 --------------------------------
 [00000040][アルティナ,メル・シルフィス,アルティナ]
-行くわよ、レイジ！
-姉さんたちが作ってくれたチャンスを生かさなきゃ！
+Let's go, Rage!  I have to take advantage of the opportunities my sisters have
+given me!
 --------------------------------
 [00000041][エルミナ,ローデリア,エルミナ]
-だいぶ慣れたつもりではいましたが……。
-やはり知らない方がたくさん入ってこられると、
-少し緊張してしまいます……。
+I thought I was used to it, but...  As expected, when so many people I don't
+know come in, I get a little nervous...
 --------------------------------
 [00000042][エルミナ,ローデリア,エルミナ]
-援軍に来ていただけたのは、
-たいへんありがたいとは思うのですが……。
+I'm very grateful that you came as reinforcements, but...
 --------------------------------
 [00000043][エルミナ,ローデリア,エルミナ]
-クララ姫にでも相談してみようか？
+Shall we talk to Princess Clalaclan?
 --------------------------------
 [00000044][エルミナ,ローデリア,エルミナ]
-みんな味方だし、大丈夫だよ
+We're all on your side, it's okay.
 --------------------------------
 [00000045][エルミナ,ローデリア,エルミナ]
-怖そうなおじさんが大勢いたな
+There were a lot of scary-looking old men.
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-い、いえ！　私１人のために、
-そのようなことは……。
+No, no! For me alone, I don't want to do something like that...
 --------------------------------
 [00000047][エルミナ,ローデリア,エルミナ]
-で、ですけど、その……。
-お気づかいいただいて、
-ありがとうございます……。
+But...  Thank you for your attention. Thank you...
 --------------------------------
 [00000048][エルミナ,ローデリア,エルミナ]
-そ、そうですね。それはわかっています……。
-でも……。
+Oh, that's right. I know that....  But...
 --------------------------------
 [00000049][エルミナ,ローデリア,エルミナ]
-い、いえ……。私、がんばってみます……。
+No... I'll try my best....
 --------------------------------
 [00000050][エルミナ,ローデリア,エルミナ]
-ひっ！　あ、あの、あの、あの……。
-わ、私……ちょっとアイラ様のところへ……。
-し、失礼しますっ！
+Hey! Ah, um, um, um...  I... I'm going to visit Isla-sama for a moment... 
+Sorry!
 --------------------------------
 [00000051][エルミナ,ローデリア,エルミナ]
-ご、ごめんなさい……。なんでもないです……。
-失礼します……。
+I-I'm sorry... It's nothing……. 
 --------------------------------
 [00000052][エルミナ,ローデリア,エルミナ]
-だんだん、敵が強くなってきている
-ような気がします……。
+It seems like the enemies are getting stronger...
 --------------------------------
 [00000053][エルミナ,ローデリア,エルミナ]
-わ、私、このままで
-大丈夫なのでしょうか……。
+I-I wonder if I'll be okay just like this...
 --------------------------------
 [00000054][ミストラル,ネレイス,ミスティ]
-なにやら街の中が騒がしいのう。
-いったいなにをあわてておるのやら。
+There's some noise in town.  What on earth are you in such a hurry?
 --------------------------------
 [00000055][ミストラル,ネレイス,ミスティ]
-おい、レイジ。わらわは空腹じゃ。
-おやつを持ってこい。
+Hey, Rage. I'm hungry.  Bring me a snack.
 --------------------------------
 [00000056][ミストラル,ネレイス,ミスティ]
-後で持ってくるから待ってくれ
+Wait, I'll bring it to you later.
 --------------------------------
 [00000057][ミストラル,ネレイス,ミスティ]
-悪ぃ！　後で！
+Bad! later!
 --------------------------------
 [00000058][ミストラル,ネレイス,ミスティ]
-それどころじゃねえ！
+Not even that!
 --------------------------------
 [00000059][ミストラル,ネレイス,ミスティ]
-なんじゃ、お前もあわてておるのか。
-しかたないのう。まあいい、わらわは
-心が広く気も長いからな。
+So, are you in a panic too?  I have no choice. Well, it's okay, Warawa has a big
+heart and a long mind.
 --------------------------------
 [00000060][ミストラル,ネレイス,ミスティ]
-必ず後でおやつを持ってくるのじゃぞ。
+Be sure to bring a snack later.
 --------------------------------
 [00000061][ミストラル,ネレイス,ミスティ]
-なんじゃなんじゃ、その態度は。
-まったく仕方がないのう。
+What's with that attitude?  It can't be helped at all.
 --------------------------------
 [00000062][ミストラル,ネレイス,ミスティ]
-まあいい、待ってやるから、
-必ず持ってくるのじゃぞ！
-忘れたらひどい目にあわせるからのう！
+Well, I'll wait, so make sure to bring it!  If you forget, you'll be in trouble!
 --------------------------------
 [00000063][ミストラル,ネレイス,ミスティ]
-なんじゃと!?　こらレイジ！
-その態度はなんじゃ！　待たんかレイジ！
-こらーっ！
+What!? This is Rage!  What's with that attitude? Wait, Rage!  Here it is!
 --------------------------------
 [00000064][ミストラル,ネレイス,ミスティ]
-あ！　こら！　レイジ！
-返事ぐらいせい！　レイジっ！
+Ah! Hey!  Just reply! Rage!
 --------------------------------
 [00000065][ミストラル,ネレイス,ミスティ]
-……なに？　攻勢？　ふむそうか。
-まあ、わらわには関わりないことじゃ。
-おぬしらで好きにやるがよい。
+...What? Offensive? Hmm, I see.  Well, it's nothing to do with that.  You can do
+whatever you like.
 --------------------------------
 [00000066][エルウィン,ラナ・シルフィス,ラナ]
-あ！　レイジ！　こんちは！
-それじゃ忙しいから、さよなら！
+Ah! Rage! Hi! 
 --------------------------------
 [00000067][エルウィン,ラナ・シルフィス,ラナ]
-ずいぶん忙しそうだな
+Looks like you've been pretty busy.
 --------------------------------
 [00000068][エルウィン,ラナ・シルフィス,ラナ]
-あ、ああ。さよなら……
+Oh, oh. good bye……
 --------------------------------
 [00000069][エルウィン,ラナ・シルフィス,ラナ]
-ははは。なに忙しいふりしてんだ
+Haha. Why are you pretending to be busy?
 --------------------------------
 [00000070][エルウィン,ラナ・シルフィス,ラナ]
-うん！　これからサクヤとの打ち合わせと、
-訓練の視察と、それから議長と会議で……。
-あー！　忙しい忙しい！
+Yes! I'm going to have a meeting with Sakuya, observe the training, and then
+have a meeting with the chairman...  Ah! busy busy!
 --------------------------------
 [00000071][エルウィン,ラナ・シルフィス,ラナ]
-また後でー！
-って言っても、いつになるかわかんないけどー！
+See you later!  Even though I say that, I don't know when it will happen!
 --------------------------------
 [00000072][エルウィン,ラナ・シルフィス,ラナ]
-ホントに忙しいのよ！
-あたし、女王なんだから！
-あー！　忙しい忙しい！
+I'm really busy!  I'm the queen!  Ah! busy busy!
 --------------------------------
 [00000073][エルウィン,ラナ・シルフィス,ラナ]
-あー！　忙しい忙しい！
+Ah! busy busy!
 --------------------------------
 [00000074][エルウィン,ラナ・シルフィス,ラナ]
-あー！　ごめん！　話は後！
-あたしこれから友軍と会議！
-あー忙しい忙しい！
+Ah! sorry! I'm about to have a meeting with allied forces!  Ah, busy, busy!
 --------------------------------
 [00000075][アイラ,ブランネージュ・ガルディニアス,アイラ]
-連合軍の編成案をまとめておいた。
-サクヤとフェンリルに渡してあるから、
-おまえも目を通しておいてくれ。
+I have put together a plan for the formation of the allied forces.  I have given
+it to Sakuya and Fenrir, so please take a look at it too.
 --------------------------------
 [00000076][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ここでうまく軍勢をまとめ上げなければ、
-今後予想される大規模な会戦に
-勝利を収めることはできんだろうからな。
+If we don't gather our forces well here, we won't be able to win the large-scale
+battles that are expected to come.
 --------------------------------
 [00000077][アイラ,ブランネージュ・ガルディニアス,アイラ]
-わかった、ありがとう
+Okay, thank you.
 --------------------------------
 [00000078][アイラ,ブランネージュ・ガルディニアス,アイラ]
-後で見てみるよ
+I'll look at it later.
 --------------------------------
 [00000079][アイラ,ブランネージュ・ガルディニアス,アイラ]
-読んでもわかんねえかも……
+I might not understand even if I read it...
 --------------------------------
 [00000080][アイラ,ブランネージュ・ガルディニアス,アイラ]
-なに。私にできることをしたまでだ。
-感謝されるほどたいしたことではない。
+What? I did what I could.  It's not a big deal to be appreciated.
 --------------------------------
 [00000081][アイラ,ブランネージュ・ガルディニアス,アイラ]
-だが、それはそれとして、
-お礼を言われるのは悪い気分ではないかな。
-ふふふっ。
+But that being said, don't you feel bad about being thanked?  Hehehe.
 --------------------------------
 [00000082][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ああ、そうしておいてくれ。
-……いや、待て。
+Oh, leave it like that.  ...No, wait.
 --------------------------------
 [00000083][アイラ,ブランネージュ・ガルディニアス,アイラ]
-疑うわけではないが、
-ちゃんと読むんだろうな？
-いや、疑うわけではないんだが。
+I don't doubt it, but I'm sure you'll read it carefully.  No, I don't doubt it.
 --------------------------------
 [00000084][アイラ,ブランネージュ・ガルディニアス,アイラ]
-情けないことを言うな！
-わからない部分があればサクヤにでも聞いて
-概要はつかんでおけ！　いいな！
+Don't be pathetic!  If there's anything you don't understand, just ask Sakuya.
+Get an overview! Nice!
 --------------------------------
 [00000085][アイラ,ブランネージュ・ガルディニアス,アイラ]
-言っておくが、ちゃんと読めよ。
-後で試験をするからな。
+I'm telling you, read it carefully.  I'll take the test later.
 --------------------------------
 [00000086][アイラ,ブランネージュ・ガルディニアス,アイラ]
-敵もどうやら本気で我々を
-潰しにかかっているらしいな。
+Looks like the enemy is really trying to destroy us.
 --------------------------------
 [00000087][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……面白いじゃないか。
-奴らに「返り討ち」という言葉の実例を見せてやる。
+...Isn't it interesting?  I'll show them an example of the word ``gaibai''.
 --------------------------------
 [00000088][龍那,,龍那]
-帝国軍といえども一枚岩ではありません。
-いくつかの勢力が、共通の目的のために
-手を結んでいるのです。
+Even though the Imperial Army is not a monolith.  Several factions are joining
+forces for a common purpose.
 --------------------------------
 [00000089][龍那,,龍那]
-当然、中では権力争いなどもあるでしょう。
+Of course, there will be a power struggle inside.
 --------------------------------
 [00000090][龍那,,龍那]
-それじゃ、仲間割れもありうるのか？
+Then, is it possible that there will be a breakup?
 --------------------------------
 [00000091][龍那,,龍那]
-将軍同士は仲が悪いのかな？
+Are the generals on bad terms?
 --------------------------------
 [00000092][龍那,,龍那]
-それで、オレとなにか関係あるのか？
+So, does it have something to do with me?
 --------------------------------
 [00000093][龍那,,龍那]
-そこに目をつけるとは、さすがですね！
+It's amazing that you paid attention to that!
 --------------------------------
 [00000094][龍那,,龍那]
-ただ、現実的にはどうでしょうね……。
-今、彼らにはダークドラゴン復活という
-共通の目的がありますので……。
+However, I wonder how it would be realistically...  Right now, they have a
+common goal of reviving the Dark Dragon...
 --------------------------------
 [00000095][龍那,,龍那]
-おそらく、そこまでは期待できないと思います。
+I don't think we can expect that much.
 --------------------------------
 [00000096][龍那,,龍那]
-残念ながら、そこまではわかりません。
-おそらく、仲が良いわけではないと
-思うのですが……。
+Unfortunately, I don't know that much.  I think we probably aren't on good
+terms. But...
 --------------------------------
 [00000097][龍那,,龍那]
-ただ、私たちという共通の敵がいますので、
-仲間割れまでは起こさないと思います。
+However, since we have a common enemy, I don't think it will cause any division
+among the members.
 --------------------------------
 [00000098][龍那,,龍那]
-だからどうだということもないのですが、
-いちおう、参考情報ということです。
-必要なければ、忘れてください。
+That's why I don't think it's a big deal, but it's just for reference.  If you
+don't need it, forget it.
 --------------------------------
 [00000099][龍那,,龍那]
-つまり、敵にも敵なりの
-事情があるということですね。
+In other words, the enemy has their own circumstances.
 --------------------------------
 [00000100][龍那,,龍那]
-帝国の実権を握っているのは、
-ダークドラゴンをあがめる黒竜教団。
-そして、その指導者であるバルドルです。
+The real power of the empire is the Black Dragon Cult, which worships the Dark
+Dragon.  And Balder is their leader.
 --------------------------------
 [00000101][龍那,,龍那]
-ダークドラゴン復活は、
-彼が中心となって進めているのでしょう。
-絶対に阻止しなければ。
+He's probably the one taking the lead in bringing back the Dark Dragon.  We have
+to stop it at all costs.
 --------------------------------
 [00000102][クララクラン,クララクラン,クララクラン]
-わたくしたちリーベリアの民も、
-帝国の暴挙には
-深い憂慮を抱いております。
+We, the people of Liberia, are deeply concerned by the Empire's outrages.
 --------------------------------
 [00000103][クララクラン,クララクラン,クララクラン]
-これ以上、闇の勢力の拡大を許せば、
-大陸全体が危機に見舞われることに
-なりかねませんから。
+If we allow the dark forces to expand any further, the entire continent could be
+in danger .
 --------------------------------
 [00000104][クララクラン,クララクラン,クララクラン]
-レイジ殿、これからよろしくお願いいたします。
-勇者様と共に戦えるのは、
-わたくしにとってもこの上ない名誉ですわ。
+Mr. Rage, thank you for your continued support.  It is the greatest honor for me
+to be able to fight alongside the hero. 
 --------------------------------
 [00000105][クララクラン,クララクラン,クララクラン]
-お、オレなんかそんな……
+Oh, I'm like that...
 --------------------------------
 [00000106][クララクラン,クララクラン,クララクラン]
-お姫様の方が勇者よりすごいよ
+Princesses are better than heroes.
 --------------------------------
 [00000107][クララクラン,クララクラン,クララクラン]
-勇者って言われてもなぁ
+Even if you call me a hero.
 --------------------------------
 [00000108][クララクラン,クララクラン,クララクラン]
-そうご謙遜なさらず。あなたは、この世界を
-救うためにやってこられた勇者様なのですから。
+Don't be so modest. You are the hero who came to save this world.
 --------------------------------
 [00000109][クララクラン,クララクラン,クララクラン]
-ああ……勇者様。
-なんと素敵な響きでしょう。
+Ah... Hero-sama.  What a wonderful sound!
 --------------------------------
 [00000110][クララクラン,クララクラン,クララクラン]
-いえいえ。そんなことはありませんわ！
-だって、勇者様ですよ？
-世界を救うのですよ？
+No, no. That's not true!  After all, you are the hero, right?  You're going to
+save the world, right?
 --------------------------------
 [00000111][クララクラン,クララクラン,クララクラン]
-やはり勇者様……すばらしいですわ。
+As expected, Hero-sama... that's wonderful.
 --------------------------------
 [00000112][クララクラン,クララクラン,クララクラン]
-なにを言っているのです。あなたは、
-立派な勇者様ですわ。
+What are you talking about? You are a splendid hero.
 --------------------------------
 [00000113][クララクラン,クララクラン,クララクラン]
-なにしろ、予言された上に
-召喚されているのですから。
+After all, it was prophesied and summoned.
 --------------------------------
 [00000114][クララクラン,クララクラン,クララクラン]
-もう少し、自信をお持ちください。
+Please have a little more confidence.
 --------------------------------
 [00000115][クララクラン,クララクラン,クララクラン]
-どうされました？　わたくし、なにか
-おかしなことを言いましたでしょうか……？
+What happened? Did I say something strange...?
 --------------------------------
 [00000116][クララクラン,クララクラン,クララクラン]
-驚きました……。帝国軍の力が、
-まさかこれほどのものとは……。
-どうやら相手を侮っていたようですね。
+I was surprised... I never expected the power of the Imperial Army to be this
+great...  It looks like you were belittling your opponent.
 --------------------------------
 [00000117][クララクラン,クララクラン,クララクラン]
-レイジ殿、参りましょう！
-敵を撃退するのです！
+Rage-dono, let's go!  Repel the enemy!
 --------------------------------
 [00000118][フェンリル,,フェンリル]
-大陸中から、多くの人がシルディアに
-集まってきている。
+Many people from all over the continent are gathering in Syldia.
 --------------------------------
 [00000119][フェンリル,,フェンリル]
-もう、この砦は俺たちだけのものじゃないな。
+This fortress isn't just for us anymore.
 --------------------------------
 [00000120][フェンリル,,フェンリル]
-帝国と戦うすべての人たちにとって、
-象徴的な場所なんだ。
+It's a symbolic place for all those fighting the Empire.
 --------------------------------
 [00000121][フェンリル,,フェンリル]
-やはり急造の連合軍はまだまだ
-連携に難があるな。
+As expected, the hastily constructed allied forces are still having trouble
+coordinating.
 --------------------------------
 [00000122][フェンリル,,フェンリル]
-レイジ、こまめに同盟軍の陣地に行って、
-彼らの意見や要望を聞いておいてくれよ。
+Rage, please visit the allied forces' positions frequently and listen to their
+opinions and requests.
 --------------------------------
 [00000123][フェンリル,,フェンリル]
-わかった。これから行ってくる
+Understood. I'm about to go
 --------------------------------
 [00000124][フェンリル,,フェンリル]
-わかった。次に行った時に聞いてくるよ
+Understood. I'll ask you next time I go.
 --------------------------------
 [00000125][フェンリル,,フェンリル]
-面倒だな……
+That's troublesome...
 --------------------------------
 [00000126][フェンリル,,フェンリル]
-今から行ってくれるのか？
-それは助かる。どこの拠点でも
-なぜかお前のファンが大勢いるからな。
+Are you going now?  That's helpful. For some reason, you have a lot of fans no
+matter where you are based.
 --------------------------------
 [00000127][フェンリル,,フェンリル]
-お前が言ってくれれば、
-話も通りやすくなるだろう。
+If you tell me, thing will be easier.
 --------------------------------
 [00000128][フェンリル,,フェンリル]
-ああ。頼むぞ。
-ここでうまく連携が取れなければ、
-後々まずいことになるからな。
+Yeah. I'll ask you.  If we can't coordinate well here, things will go wrong
+later on.
 --------------------------------
 [00000129][フェンリル,,フェンリル]
-しっかりと各勢力の意見を
-取りまとめておかなければならん、
+We must compile the opinions of each faction.
 --------------------------------
 [00000130][フェンリル,,フェンリル]
-こら！　なにを言っているんだお前は！
-しっかり仕事をしろ！
+Hey! What are you talking about!  Do your job well!
 --------------------------------
 [00000131][フェンリル,,フェンリル]
-どうして黙り込む？　俺は別に難しいことは
-頼んでいないはずなんだが。
+Why are you silent? I'm sure I didn't ask you to do anything particularly
+difficult.
 --------------------------------
 [00000132][フェンリル,,フェンリル]
-包囲網はガチガチに見えても、
-必ずどこかに弱点があるものだ。
-とにかくそいつを見つけ出そう！
+Even if a siege network looks strong, there is always a weakness somewhere. 
+Let's just find him!
 --------------------------------
 [00000133][フェンリル,,フェンリル]
-おい、なにをボサっとしている。
-砦が包囲される前に、スルトの隊を止めるんだ！
+Hey, what are you messing about?  Stop Surt's army before the fortress is
+surrounded!
 --------------------------------
 [00000134][ガデム,,ガデム]
-ミスティ様はこちらに来てから、
-なにやら毎日が楽しそうだ。
+Misty-sama seems to be having fun every day since she came here.
 --------------------------------
 [00000135][ガデム,,ガデム]
-おぬしたちと手を組んだのが
-よかったのかもしれんな。
+Maybe it was a good idea to join forces with you guys.
 --------------------------------
 [00000136][ガデム,,ガデム]
-ガデムさんも嬉しそうだね
+Mr. Gadem looks happy too.
 --------------------------------
 [00000137][ガデム,,ガデム]
-アジトにいた時から楽しそうだったぜ
+It looked like you were having fun ever since you were at the hideout.
 --------------------------------
 [00000138][ガデム,,ガデム]
-そうかな？　オレにはわかんないけど
+I guess so? I don't know though
 --------------------------------
 [00000139][ガデム,,ガデム]
-うむ。ミスティ様が楽しんでおられるのなら
-拙者も嬉しい。悲しんだり怒ったりしておられれば
-拙者が暴れる。そういうことだな。
+Hmm. If Misty-sama is having fun, I'm happy too. If you are sad or angry, I will
+become violent. That's what it is.
 --------------------------------
 [00000140][ガデム,,ガデム]
-微妙な違いではあるが、
-こちらに来てからの方が楽しそうだ。
-拙者にはわかる。
+It's a subtle difference, but it seems like it's more fun since I came here.  I
+understand.
 --------------------------------
 [00000141][ガデム,,ガデム]
-……そうか。おぬしにはわからぬか。
-まあ、仕方のないことかもしれんがな。
+...I see. Do you not understand?  Well, maybe it can't be helped.
 --------------------------------
 [00000142][ガデム,,ガデム]
-どうした？　なにをポカンとしている？
-もしかして、おぬしには違いがわからぬか？
+What happened? What are you upset about?  Maybe you don't know the difference?
 --------------------------------
 [00000143][ガデム,,ガデム]
-ミスティ様は、あの神秘的で
-超然とした振る舞いがいいのだ。
-あれがたまらぬ。
+I like Misty-sama's mysterious and detached behavior.  That's irresistible.
 --------------------------------
 [00000144][ディラン,ローエン,ディラン]
-まじぃなぁ……。
-リーベリアから来た援軍の中に、
-フィリアス海軍の士官がいるよ……。
+Seriously...  Among the reinforcements that have come from Liberia, there is an
+officer from the Filias Navy...
 --------------------------------
 [00000145][ディラン,ローエン,ディラン]
-あいつとは以前やりあったことがあってなぁ……。
+I've worked with him before...
 --------------------------------
 [00000146][ディラン,ローエン,ディラン]
-オレが話をつけておくよ
+I'll handle the story.
 --------------------------------
 [00000147][ディラン,ローエン,ディラン]
-どうしてやりあうことになったんだ？
+How did we end up fighting each other?
 --------------------------------
 [00000148][ディラン,ローエン,ディラン]
-……謝ってきたら？
+...Why don't you apologize?
 --------------------------------
 [00000149][ディラン,ローエン,ディラン]
-そうか？　悪いな。助かるぜ。
-こんな時に古い話を持ち出されて
-もめるのもイヤだからな。
+Really? sorry.  I don't want people bringing up old stories at a time like this.
+I don't want to get into a fight.
 --------------------------------
 [00000150][ディラン,ローエン,ディラン]
-いや、あいつがな？　輸送船団の護衛……。
-ま、まあ、いいじゃねえか！
-そんな話は！　な！
+No, that one? Escort of the transport convoy...  Well, that's fine!  That's not
+true! What!
 --------------------------------
 [00000151][ディラン,ローエン,ディラン]
-バカだな！　そんなことしたら、
-かえってもめごとの種を作るだけだろ！
+That's stupid! If you do that, you'll only create trouble!
 --------------------------------
 [00000152][ディラン,ローエン,ディラン]
-しょうがねえ。できるだけ顔を合わせねえように
-気を付けるか。
+It can't be helped. Should I be careful to avoid seeing each other as much as
+possible?
 --------------------------------
 [00000153][ディラン,ローエン,ディラン]
-できるだけ顔を合わせねえように
-するしかねえか。
+We just have to try not to see each other as much as possible.
 --------------------------------
 [00000154][ディラン,ローエン,ディラン]
-お前らのおかげで、
-いい船が手に入った。礼代わりに、
-どんなことでも手を貸してやるぜ。
+Thanks to you guys, I got a nice ship. In return, I'll help you with anything.
 --------------------------------
 [00000155][剛龍鬼,,剛龍鬼]
-戦いの規模は、これまで以上に
-大きくなっていくようだな。
+The scale of the battle seems to be getting bigger than ever.
 --------------------------------
 [00000156][剛龍鬼,,剛龍鬼]
-ならば、これまで以上に本腰を入れて
-龍那や仲間を守らなければ。
+In that case, we have to protect Ryuna and his friends even more seriously than
+before.
 --------------------------------
 [00000157][剛龍鬼,,剛龍鬼]
-剛龍鬼がいてくれて助かるよ
+It helps that Gouryuki ??is here.
 --------------------------------
 [00000158][剛龍鬼,,剛龍鬼]
-がんばれよ
+Good luck!
 --------------------------------
 [00000159][剛龍鬼,,剛龍鬼]
-龍那ばっかり気にしてちゃダメだぜ
+Don't just worry about Ryuna.
 --------------------------------
 [00000160][剛龍鬼,,剛龍鬼]
-そうか？　仲間たちの役に立てるのなら、
-俺も嬉しい。どんな相手からでも、
-お前たちを守り抜くぞ。
+Really? If I can help my friends, I'll be happy too. No matter what kind of
+opponent you are, I will protect you.
 --------------------------------
 [00000161][剛龍鬼,,剛龍鬼]
-ああ。がんばる。これまで以上にな。
+Yeah. Work hard. 
 --------------------------------
 [00000162][剛龍鬼,,剛龍鬼]
-なにを言っている。
-いつ俺が、そんなことをした？
-俺はいつも、仲間たち全員の身を守っている。
+What are you talking about?  When did I do that?  I always protect all my
+friends.
 --------------------------------
 [00000163][剛龍鬼,,剛龍鬼]
-では、俺はこれから訓練を始める。
-じゃあな。
+Well then, I'll start training now.  See you then.
 --------------------------------
 [00000164][剛龍鬼,,剛龍鬼]
-どんなに敵が強かろうと、
-どれほどの大軍だろうと、
-俺は決してひるまない。
+No matter how strong the enemy is, no matter how large the army, I will never
+flinch.
 --------------------------------
 [00000165][刃九郎,,刃九郎]
-新生ベスティア軍は、
-以前のように精鋭ぞろいとはいかんが
-士気の方は期待してもらってもいい。
+The new Bestia army may not be as elite as before, but you can expect good
+morale.
 --------------------------------
 [00000166][刃九郎,,刃九郎]
-皆、帝国を倒して元の暮らしを
-取り戻したいという一心で
-志願してきたのだからな……。
+Everyone volunteered with the single-minded desire to defeat the Empire and
+return to their normal lives...
 --------------------------------
 [00000167][刃九郎,,刃九郎]
-オレたち、責任重大だな
+We have a big responsibility.
 --------------------------------
 [00000168][刃九郎,,刃九郎]
-その気持ち、無駄にはできないな
+I can't waste that feeling.
 --------------------------------
 [00000169][刃九郎,,刃九郎]
-訓練にも手間がかかりそうだな
+It seems like training will take a lot of time.
 --------------------------------
 [00000170][刃九郎,,刃九郎]
-そうだな。帝国を倒すのはもちろんだが、
-できるだけ彼らにも被害が出ないように
-してやりたい……。
+That's right. Of course I want to defeat the Empire, but I also want to prevent
+them from being harmed as much as possible...
 --------------------------------
 [00000171][刃九郎,,刃九郎]
-考えるべきことは多そうだ。
+Looks like there's a lot to think about.
 --------------------------------
 [00000172][刃九郎,,刃九郎]
-もちろん、無駄にする気はない。
-だが、彼らを必要以上に
-危険にさらしたくもないな……。
+Of course, I don't want to waste it.  But I don't want to put them in any more
+danger than necessary...
 --------------------------------
 [00000173][刃九郎,,刃九郎]
-それは確かなのだがな。
-だが、彼らの気持ちを無下にもできまい。
+That's for sure.  But I can't ignore their feelings.
 --------------------------------
 [00000174][刃九郎,,刃九郎]
-彼らのためにも、帝国を倒さねばな。
+For their sake, we must defeat the Empire.
 --------------------------------
 [00000175][刃九郎,,刃九郎]
-帝国軍の攻勢はかなり大規模だ。
-その動きを注意して見極めねば。
+The Imperial Army's offensive is quite large-scale.  You have to watch its
+movements carefully.
 --------------------------------
 [00000176][イサリ,ジェラード,イサリ]
-最近……忙しい。
-魚……釣りに行けない。
-困ったな……。
+Lately...I've been busy.  Fish...I can't go fishing.  I'm in trouble...
 --------------------------------
 [00000177][イサリ,ジェラード,イサリ]
-戦いが終わったら釣りに行こうな
+Let's go fishing after the battle is over.
 --------------------------------
 [00000178][イサリ,ジェラード,イサリ]
-もうすぐ行けるようになるって
+I'll be able to go soon.
 --------------------------------
 [00000179][イサリ,ジェラード,イサリ]
-釣りどころじゃないだろ
+It's not even about fishing.
 --------------------------------
 [00000180][イサリ,ジェラード,イサリ]
-ああ……いいね。
-すごくいいね……。
+Ah... nice.  It's really nice...
 --------------------------------
 [00000181][イサリ,ジェラード,イサリ]
-もうすぐ……？　いつ……？
-いつなんだ……？
+Almost...? when……? 
 --------------------------------
 [00000182][イサリ,ジェラード,イサリ]
-釣り……したい……！
+I want to fish...!
 --------------------------------
 [00000183][イサリ,ジェラード,イサリ]
-敵がみんな、魚ならいいのに……。
+I wish all my enemies were fish...
 --------------------------------
 [00000184][イサリ,ジェラード,イサリ]
-0642160通常会話
+0642160Normal conversation
 --------------------------------
 [00000185][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-援軍を味方勢力として登録しました。
-以後、共同作戦での支援行動が可能です。
+Reinforcements have been registered as allies.  After that, support actions in
+joint operations are possible.
 --------------------------------
 [00000186][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-頼りにしてるぜ
+I'm counting on you.
 --------------------------------
 [00000187][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-わかった。よろしくな
+Okay. nice to meet you
 --------------------------------
 [00000188][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-共同作戦……できるのかな
+Joint operation... I wonder if it's possible?
 --------------------------------
 [00000189][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解しました。いつでも作戦の指示を。
+Understood. Give operational instructions at any time.
 --------------------------------
 [00000190][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-了解しました。
+Understood.
 --------------------------------
 [00000191][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-指示がなければ実行はしませんが……？
+I won't do it without instructions...?
 --------------------------------
 [00000192][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-必要があれば、いつでも指示を。
+Give me instructions whenever you need me.
 --------------------------------
 [00000193][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-0642260通常会話
+0642260Normal conversation
 --------------------------------
 [00000194][ユキヒメ,ユキヒメ,ユキヒメ]
-こちらもだいぶ大所帯になってきたようだな。
-だが、敵もこのまま黙ってはおるまい。
-戦いはさらに激しさを増すだろう。
+It seems like this is also becoming a fairly large household.  However, the
+enemy will not remain silent.  The battle will become even more intense.
 --------------------------------
 [00000195][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ、心の準備はいいな？
+Rage, are you ready?
 --------------------------------
 [00000196][ユキヒメ,ユキヒメ,ユキヒメ]
-当たり前だろ！
+Of course!
 --------------------------------
 [00000197][ユキヒメ,ユキヒメ,ユキヒメ]
-対策を考えてはいるよ
+I'm thinking of countermeasures.
 --------------------------------
 [00000198][ユキヒメ,ユキヒメ,ユキヒメ]
-そんなに心配すんなって
+Don't worry so much.
 --------------------------------
 [00000199][ユキヒメ,ユキヒメ,ユキヒメ]
-ほう、そうか。きちんとできているか。
-いいだろう。それでこそ勇者というものだ。
-お前も少しは成長しているようだな。
+Oh, I see. Is it done properly?  That's fine. That's what makes a hero.  It
+looks like you've grown a little too.
 --------------------------------
 [00000200][ユキヒメ,ユキヒメ,ユキヒメ]
-私も毎日のように、お前に先代の
-偉大な足跡を伝え続けてきた
-かいがあったというものだ……。
+I too have continued to pass on the great footsteps of my predecessors to you
+every day...
 --------------------------------
 [00000201][ユキヒメ,ユキヒメ,ユキヒメ]
-そうか。しっかり考えておけ。
-またまだ状況は予断を許さないのだからな。
+I see. Think carefully.  The situation is still unpredictable.
 --------------------------------
 [00000202][ユキヒメ,ユキヒメ,ユキヒメ]
-先代はこのような時、決して油断することなく
-食事の間や風呂に入っている時でも、
-常に策を考え続けてきた。お前もそうしろ。
+At times like this, my predecessor never let his guard down, even when he was
+eating or taking a bath, he was always thinking of a plan. You should do the
+same.
 --------------------------------
 [00000203][ユキヒメ,ユキヒメ,ユキヒメ]
-バカモノ！　常に最悪の事態を想定し、
-対応策を用意しておく。
-それが戦の常道というものだ。
+Stupid! Always assume the worst case scenario and prepare countermeasures. 
+That's the normal way of war.
 --------------------------------
 [00000204][ユキヒメ,ユキヒメ,ユキヒメ]
-先代であれば、昼寝をしながらでも
-敵の意図を察知し、目が覚めるまでには
-５０通りもの対応策を考えていたものだぞ！
+In my previous generation, I would have been able to sense the enemy's
+intentions even while taking a nap, and had thought of 50 different
+countermeasures by the time I woke up!
 --------------------------------
 [00000205][ユキヒメ,ユキヒメ,ユキヒメ]
-おい、急に黙り込んでどうした。
+Hey, why did you suddenly go silent?
 --------------------------------
 [00000206][ユキヒメ,ユキヒメ,ユキヒメ]
-……まさか、敵がどう出るか、
-今までなにも考えていなかった、
-などというのではあるまいな。
+...It's not like I haven't thought about how the enemies will appear until now.
 --------------------------------
 [00000207][ユキヒメ,ユキヒメ,ユキヒメ]
-どうやら敵は思った以上に強大な戦力を
-有しているようだ。
-いいか、決して油断するな！
+It seems that the enemy has a much stronger force than I expected.  Listen,
+never let your guard down!
 --------------------------------
 [00000208][ユキヒメ,ユキヒメ,ユキヒメ]
-確かに苦しい状況だが、
-決してあきらめるなよ、レイジ。
+It's certainly a difficult situation, but don't give up, Rage.
 --------------------------------
 [00000209][ユキヒメ,ユキヒメ,ユキヒメ]
-先代ならばこの程度の難局、
-鼻歌交じりで乗り切ったはずだぞ！
+The previous generation would have been able to overcome this level of
+difficulty with a hum of laughter!
 --------------------------------
 [00000210][リン,シャオメイ,リンリン]
-味方の戦力も充実してきたし、
-そろそろ帝国との全面対決かしらね。
-レイジ、勝てる自信はある？
+The military strength of our allies has increased, so I guess it's about time
+for a full-scale confrontation with the Empire.  Rage, are you confident that
+you can win?
 --------------------------------
 [00000211][リン,シャオメイ,リンリン]
-まかせとけって！
+Leave it to me!
 --------------------------------
 [00000212][リン,シャオメイ,リンリン]
-なんとかなるさ
+It'll work out somehow.
 --------------------------------
 [00000213][リン,シャオメイ,リンリン]
-なんでオレに聞くんだ？
+Why are you asking me?
 --------------------------------
 [00000214][リン,シャオメイ,リンリン]
-サクヤも私も、あなたを当てにしてるわよ。
-がんばってね！
+Sakuya and I are counting on you.  Good luck!
 --------------------------------
 [00000215][リン,シャオメイ,リンリン]
-なんとか「なるさ」じゃなくて、
-なんとか「する」のよ。がんばりなさいね。
+It's not ``become'' somehow, it's ``somehow''. Good luck!
 --------------------------------
 [00000216][リン,シャオメイ,リンリン]
-あなた以外の誰に聞くのよ。
-しっかりしなさいね？
+Who else should I ask but you?  Be strong, okay?
 --------------------------------
 [00000217][リン,シャオメイ,リンリン]
-……まあ、今はいいわ。
-でも、もう少し自信をつけられるように
-がんばってね。
+...Well, it's fine for now.  But please try your best to gain a little more
+confidence .
 --------------------------------
 [00000218][リン,シャオメイ,リンリン]
-帝国の奴ら、ずいぶん調子に
-乗ってるみたいだけど……。
-これ以上は許さないわよ！
+It seems like the guys from the Empire are getting really carried away...  I
+won't tolerate this anymore!
 --------------------------------
 [00000219][村人,村人,ウェーバー]
-帝国軍の動きが活発になってるせいか、
-依頼が山ほど来てる。
-まあ、ちょっと見てみてくれよ。
+Maybe it's because the Imperial Army is becoming more active, so I'm getting a
+lot of requests.  Well, just take a look.
 --------------------------------
 [00000220][村人,村人,ロアン]
-これから戦いが激しくなるらしいね。
-手に入るうちに、うちの品物を
-買っておいたほうがいいよ！
+Looks like the battle will get more intense from now on.  You should buy our
+items while you can !
 --------------------------------
 [00000221][村人,村人,ジュリア]
-うちのパンを食べていれば、
-どんな相手とでも戦えますよ！
-がんばってくださいね。
+As long as you eat my bread, you can fight anyone!  Please do your best.
 --------------------------------
 [00000222][村人,村人,ダリオ]
-今はちょっとばかり苦しいかもしれん。
-だが、その苦境が
-永遠に続くってことはないじゃろう。
+It might be a little tough right now.  However, this predicament won't last
+forever.
 --------------------------------
 [00000223][村人,村人,ダリオ]
-いつかは、勝機ってやつが
-巡ってくるもんじゃよ。
-それも、思いがけないときにのぅ。
+Someday, you'll get a chance to win.  That happens when you least expect it.
 --------------------------------
 [00000224][村人,村人,ダリオ]
-おい！　モンスターじゃ！
-砦のそばにモンスターが現れたぞ！
+Hey! It's a monster!  A monster has appeared near the fort!
 --------------------------------
 [00000225][村人,村人,ダリオ]
-おのれモンスターめ、こんなところまで
-現れるとは大胆不敵！
-このわしがズンバラリンと剣の錆に……。
+You monster, you're so fearless that you'd show up to a place like this!  I'm
+Zumbararin and my sword is rusty...
 --------------------------------
 [00000226][村人,村人,ダリオ]
-なにをする！　止めるでない！
-それともお前たちが行くというのか？
+What are you doing? Don't stop!  Or are you guys going?
 --------------------------------
 [00000227][村人,村人,ダリオ]
-こりゃ、例のモンスターはどうした？
-まだ片付かんのか？
-なんなら、わしが退治に行くぞ？
+So, what happened to that monster?  Are you still not done?  In that case, I'll
+go get rid of it.
 --------------------------------
 [00000228][村人,村人,ダリオ]
-ほお、モンスターを倒したというのか。
-最近の若い連中もやるもんじゃのう。
+Oh, you killed a monster?  Even young people these days are doing it.
 --------------------------------
 [00000229][村人,村人,クロード]
-せっかくリーベリアからも援軍が
-来てくれたんですから
-協力し合ってがんばってくださいね？
+Reinforcements have come from Liberia, so please work together and do your best,
+okay?
 --------------------------------
 [00000230][村人,村人,クロード]
-手始めに、リーベリアの皆さんに、
-いい道具屋を紹介してあげるとか。
+For starters, I'd like to introduce a good tool shop to everyone in Liberia.
 --------------------------------
 [00000231][村人,村人,フリント]
-精霊力が戻っても、なかなか暖かくはなりませんね。
-私は寒いのが苦手なのですよ……。
+Even if the spirit power returns, it won't get warmer.  I don't like the cold...
 --------------------------------
 [00000232][村人,村人,フリント]
-いつもならこの街も、
-ここまで寒くなることはありませんし。
+This town doesn't usually get this cold.
 --------------------------------
 [00000233][村人,村人,フリント]
-この近辺にモンスターが出没し、
-住民をおびやかしているようです。
-なんとか退治してはいただけませんか？
+It seems that monsters have appeared in this area and are threatening the
+residents.  Would you be able to get rid of it somehow?
 --------------------------------
 [00000234][村人,村人,フリント]
-モンスターの方はどうでしょう？
-教会に来られる皆さんも、
-だいぶ不安に思っておられます……。
+What about monsters?  Everyone who comes to church is also feeling quite
+anxious... 
 --------------------------------
 [00000235][村人,村人,フリント]
-モンスターを退治していただけたのですか。
-ありがとうございます。
+Were you able to exterminate the monsters?  Thank you.
 --------------------------------
 [00000236][村人,村人,フリント]
-あなたがたに、光の神々の祝福がありますように。
+May the gods of light bless you.
 --------------------------------
 [00000237][村人,村人,カタリーナ]
-さあ、しっかり食べて
-帝国軍の奴らをやっつけてください！
-絶対負けちゃダメですよ！
+Now, eat well and defeat the Imperials!  You must never lose!
 --------------------------------
 [00000238][村人,村人,セドリック]
-シルディアの方は大変そうじゃが、
-大丈夫なのかのぉ。
+Syldia seems to be in trouble, but is she okay?
 --------------------------------
 [00000239][村人,村人,テルムッド]
-大軍同士のぶつかり合いも戦なら、
-細かい依頼を地道にこなすのも、
-また戦の一部。
+If large armies collide with each other, it's part of war, and completing small
+requests steadily is also part of war.
 --------------------------------
 [00000240][村人,村人,テルムッド]
-どうか、街の皆を
-助けてやっていただきたい。
+Please help everyone in the town.
 --------------------------------
 [00000241][村人,村人,レストック]
-軍勢が急に大掛かりになった影響で、
-しばらくの間は、混乱が続きそうだな……。
+Due to the sudden increase in the size of the army, it looks like chaos will
+continue for a while...
 --------------------------------
 [00000242][村人,村人,レストック]
-その隙をついて敵が暴れているんだが、
-なんとかしてもらえないだろうか？
+The enemy is taking advantage of this opportunity to go on a rampage, can you do
+something about it?
 --------------------------------
 [00000243][村人,村人,エヴァンス]
-味方というのも、急に増えすぎると
-なんだか落ち着かないもんだな……。
-道具はいくらあっても困らないが。
+It's kind of unsettling when the number of allies suddenly increases...  It
+doesn't matter how many tools you have.
 --------------------------------
 [00000244][村人,村人,ファレイン]
-帝国の奴ら、どうして急に攻勢に……。
-てっきり、もうすぐ戦は
-終わると思ってたのに。
+Why did the Empire suddenly go on the offensive...?  I thought for sure that the
+war would  end soon.
 --------------------------------
 [00000245][村人,村人,メルフィス]
-急に援軍が増えて、
-食料は足りていますか？
-少しパンを買っていかれては？
+With the sudden increase in reinforcements, do you have enough food?  Would you
+like to buy some bread?
 --------------------------------
 [00000246][村人,村人,ルティーナ]
-私たちエルフ族は、森のあちこちに
-小さな集落を作って暮らしていたの。
+We elves lived in small villages scattered throughout the forest.
 --------------------------------
 [00000247][村人,村人,ルティーナ]
-でも、その集落が次々と
-帝国に操られたケンタウロスに
-襲われて……。
+But one after another, these villages were attacked by centaurs controlled by
+the Empire...
 --------------------------------
 [00000248][村人,村人,ルティーナ]
-どうにかこの、隠れ里まで
-逃げてきたのよ……。
+Somehow they managed to escape to this hidden village...
 --------------------------------
 [00000249][村人,村人,アルフェウス]
-レイジ殿……。戦況はいかがであろう。
-我が軍は、敵の攻撃を
-はね返せるのだろうか？
+Rage-dono... I wonder how the war is going.  Will our army be able to repel the
+enemy's attack?
 --------------------------------
 [00000250][村人,村人,アルフェウス]
-この近辺に、おそらく帝国が放ったと思われる
-モンスターが徘徊しておってな……。
+There are monsters roaming around here, probably released by the Empire...
 --------------------------------
 [00000251][村人,村人,アルフェウス]
-住民たちが不安がっておる。
-レイジ殿、このモンスターを退治していただけぬか？
+The residents are worried.  Rage-dono, could you please exterminate this
+monster?
 --------------------------------
 [00000252][村人,村人,アルフェウス]
-レイジ殿、モンスターの件はいかがかな？
-早く皆を安心させてやりたいのだが。
+Rage-dono, how about monsters?  I would like to reassure everyone as soon as
+possible.
 --------------------------------
 [00000253][村人,村人,アルフェウス]
-モンスターを退治してくださったか。
-住民を代表して、皆さんに感謝いたしますぞ。
+Did you kill the monsters?  On behalf of the residents, I would like to thank
+you all.
 --------------------------------
 [00000254][村人,村人,シーン]
-ねえ……。これから、大きな戦いが
-始まるってホント？　
-私たち、どうなっちゃうの……？
+Hey... Is it true that a big battle is about to begin?  What will happen to
+us...?
 --------------------------------
 [00000255][村人,村人,ジュウゾウ]
-小さなトラブルをきちんと
-解決しておくことが、大きな勝利に
-つながるかも知れないぞ。
+Solving small problems properly may lead to big victories.
 --------------------------------
 [00000256][村人,村人,ジュウゾウ]
-今来てる依頼はこんな感じだ。
+The request I'm receiving now is like this.
 --------------------------------
 [00000257][村人,村人,ジュウゾウ]
-店とは関係なく、個人的に
-頼みたいことがあるんだが、いいか？
+There's something I'd like to ask you personally, unrelated to the store, is
+that okay?
 --------------------------------
 [00000258][村人,村人,ジュウゾウ]
-実は俺、副業として街の外に
-小さな畑を持ってるんだが、
-その近くにモンスターが出るんだ。
+Actually, I have a small farm outside of town as a side job, but monsters appear
+near it.
 --------------------------------
 [00000259][村人,村人,ジュウゾウ]
-そいつを退治して、畑を守ってくれないか。
+Could you kill that thing and save the fields?
 --------------------------------
 [00000260][村人,村人,ジュウゾウ]
-モンスター退治はどうした？
-早めに頼むぜ。
+What happened to killing monsters?  Please ask early.
 --------------------------------
 [00000261][村人,村人,ジュウゾウ]
-ありがとう。依頼達成だな。
-もちろん、きちんと報酬は払うぜ。
+Thank you. The request has been accomplished.  Of course, I will pay you
+properly.
 --------------------------------
 [00000262][村人,村人,ヤスベイ]
-これから戦いが激しくなるんだろ？
-必要なものは早めに
-買っておいたほうがいいよ。
+The battle is going to get fierce from now on, right?  It's better to buy what
+you need early .
 --------------------------------
 [00000263][村人,村人,モップ]
-大きな戦いの前には、
-ちゃんと腹ごしらえしてくださいね？
+Make sure you eat well before the big battle, okay?
 --------------------------------
 [00000264][村人,村人,ライガ]
-なんでも、敵はあっちこっちの戦場で
-えらく強い兵器を使ってるらしいぜ。
+Apparently the enemy is using very powerful weapons on the battlefield.
 --------------------------------
 [00000265][村人,村人,ライガ]
-そいつが出てくるとどうやっても
-太刀打ちできなくて、
-もう逃げるしかないんだそうだ。
+It seems that no matter what you do, you won't be able to fight against that
+guy, so you'll have no choice but to run away.
 --------------------------------
 [00000266][村人,村人,アウラ]
-帝国軍の侵攻ときたら、
-そりゃあもう、ひどいものだったよ。
+When it came to the Imperial invasion, it was pretty bad.
 --------------------------------
 [00000267][村人,村人,アウラ]
-あっという間にあちこちの村や町を
-征服してしまったのさ。
+They quickly conquered villages and towns.
 --------------------------------
 [00000268][村人,村人,アウラ]
-獣王十二将たちもその戦いで、
-全員が行方不明という有り様でねえ……。
+It seems like all of the 12 Beast King Generals went missing in that battle...
 --------------------------------
 [00000269][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000270][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000271][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000272][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000273][none]
-ヴァレリア解放戦線を名指しした依頼が増えている。
-活躍の噂が広がっているようだ。
+Requests naming the Valeria Liberation Front are increasing.  It seems that
+rumors of his success are spreading.
 --------------------------------
 [00000274][none]
-店主は出かけているようだ。
-……よく見ると書置きがある。
+It seems the shopkeeper is out.  ...If you look closely, there is a note.
 --------------------------------
 [00000275][none]
-『客が来ないので酒場で飲んでます。』
+``There are no customers, so I'm drinking at a bar. ”
 --------------------------------
 [00000276][none]
-通路の奥から声が聞こえる。
-どうやらパン屋の職人のようだ。
+A voice can be heard from the back of the aisle.  It looks like he's a bakery
+worker.
 --------------------------------
 [00000277][none]
-「パン焼きのメロディーにどれを選ぶか……。
-　それが重要だ。」
+"Which one to choose as the melody for baking... That's what's important."
 --------------------------------
 [00000278][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000279][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000280][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000281][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000282][none]
-酒場は賑わっているようだ。
-中から声が聞こえてくる。
+The bar seems to be busy.  A voice can be heard from inside.
 --------------------------------
 [00000283][none]
-「白竜の巫女様も、美しさじゃ負けてないぜ。
-　ただ、あの御付きの竜人がなぁ……。」
+"The White Dragon Shrine Maiden is second to none in terms of beauty. However,
+the dragon person who attends her..."
 --------------------------------
 [00000284][none]
-ショーウィンドウの向こうに
-見たことのないパンが陳列されている。
+Behind the shop window there is bread that I have never seen before.
 --------------------------------
 [00000285][none]
-『タイムセール！　白竜パン半額！』
+“Time sale! Hakuryu bread half price! ”
 --------------------------------
 [00000286][none]
-木の下にメモが落ちている。
+A note has fallen under the tree.
 --------------------------------
 [00000287][none]
-『この木の伝説は嘘だった。もう誰も信じない。』
+``The legend of this tree was a lie. I don't believe anyone anymore. ”
 --------------------------------
 [00000288][none]
-箱の上に何か乗っている。
+Something is on top of the box.
 --------------------------------
 [00000289][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000290][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000291][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000292][none]
-アイテム屋の棚だ。
-見たことの無いアイテムが並んでいる。
+It's an item store shelf.  There are items lined up that I have never seen
+before.
 --------------------------------
 [00000293][none]
-『お出かけの際の必需品。耳用アクセサリー。』
+``A must-have item when going out. ear accessories. ”
 --------------------------------
 [00000294][none]
-集会場の中から声が聞こえてくる。
+A voice can be heard from inside the gathering hall.
 --------------------------------
 [00000295][none]
-「人間の男に声かけてみたの。
-　そうしたら思ったよりも普通に話せて、
-　なんだか今まで怖がってたのが馬鹿みたい。」
+"I tried talking to a human man. After doing that, I was able to talk to him
+more normally than I expected, I feel like I'm an idiot for being scared of him
+all this time."
 --------------------------------
 [00000296][none]
-古びた石柱だ。
-厄除けの効果でもあるのだろうか。
+An old stone pillar.  I wonder if it also has the effect of warding off evil
+spirits.
 --------------------------------
 [00000297][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000298][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000299][none]
-樽の中で何か光っている。
+Something is glowing inside the barrel.
 --------------------------------
 [00000300][none]
-もう何も無いようだ。
+Looks like there's nothing left.
 --------------------------------
 [00000301][none]
-泉のそばに張り紙がしてある。
+There is a poster next to the fountain.
 --------------------------------
 [00000302][none]
-『遊泳禁止。』
+``No swimming allowed. ”
 --------------------------------
 [00000303][none]
-集会場の中から話し声が聞こえてくる。
+Voices can be heard coming from inside the meeting hall.
 --------------------------------
 [00000304][none]
-「あのフェンリルって奴、ありゃあ只者じゃないな。
-　きっと過去に何かやってたに違いねぇ。」
+"That Fenrir guy is no ordinary person. I'm sure he did something in the past."
 --------------------------------
 [00000305][none]
-どうやらお店のようだが、
-既に廃業しているようだ。
+It looks like it's a shop, but it seems to have gone out of business.
 --------------------------------

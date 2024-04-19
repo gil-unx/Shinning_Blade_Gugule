@@ -1,539 +1,400 @@
 [0129]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　リーンブルフ東部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt11935 Eastern Lienburg
 --------------------------------
 [00000001][none]
-今回の任務は
-ブルーな気分だ
-ため息が出るよ
+This mission I feel blue I can't help but sigh.
 --------------------------------
 [00000002][none]
-今、ぼく達が向かっている
-村には帝国軍の残党が
-たてこもっている
+The remnants of the Imperial Army are holed up in the village we are heading to
+now.
 --------------------------------
 [00000003][none]
-これを何とかするのが
-ネームレスの任務だ
+It's Nameless's job to do something about this.
 --------------------------------
 [00000004][none]
-まあ……
-帝国兵はどうでもいい
+Well... I don't care about imperial soldiers.
 --------------------------------
 [00000005][none]
-ぼくがブルーなのは
-行き先の村にあんまり
-いい思い出がないからだ
+The reason I'm blue is because I don't have many good memories of the village
+I'm going to.
 --------------------------------
 [00000006][none]
-任務のことはさておき
-ぼくの話をしよう
+Putting the mission aside Let's talk about myself.
 --------------------------------
 [00000007][none]
-ぼくがネームレスに
-送られた理由
+The reason I was sent to Nameless 
 --------------------------------
 [00000008][none]
-それは一言で言えば
-モテない男のひがみだ
+In a nutshell, that's the secret of an unpopular man.
 --------------------------------
 [00000009][none]
-ぼくは子どもの頃から
-大抵の女の子と
-仲良くなれた
+I've been friends with most girls since I was a child.
 --------------------------------
 [00000010][none]
-けど、大抵の男の子からは
-嫌われた
+But most boys hated me.
 --------------------------------
 [00000011][none]
-だから人事権を持っている
-上官が男だった場合
-こういうことになるわけだ
+So this is what happens when the superior who has the right to personnel affairs
+is a man.
 --------------------------------
 [00000012][none]
-ネームレスは噂通り
-最低の場所だったけど
-どんな場所にも救いはある
+As rumored, Nameless was the worst place, but there is salvation in any place.
 --------------------------------
 [00000013][none]
-ここにも女の子がいて
-ぼくは女の子と
-仲良くなるのが大好きだ
+There are girls here too I love getting to know them 
 --------------------------------
 [00000014][none]
-女の子だったら
-『死神』だって口説いて
-見せるよ
+If it's a girl, I'll woo her and show her that she's a ``shinigami.''
 --------------------------------
 [00000015][none]
-仲良くしようね！
-あ、私クルトのところに
-行かなきゃ！
+Let's get along!  Oh, I have to go to Kurt!
 --------------------------------
 [00000016][none]
-うん、ぼくが手も足も
-出ない相手っていうのも
-たまにはいる
+Yeah, sometimes there are people I can't help with.
 --------------------------------
 [00000017][none]
-彼女はぼくが
-口説いたことすら
-覚えていないだろうね
+I don't think she even remembers that I wooed her.
 --------------------------------
 [00000018][none]
-さすがは『死神』
-手強かったよ
+As expected, the Grim Reaper was tough.
 --------------------------------
 [00000019][none]
-無い
+none
 --------------------------------
 [00000020][none]
-彼女の断りの文句は
-たった一言
+Her only complaint was 
 --------------------------------
 [00000021][none]
-ぼくの人生の中でも
-最短記録だったね
+It was the shortest time in my life.
 --------------------------------
 [00000022][none]
-たぶん、この記録は
-塗り替えられないと思うよ
+I don't think this record will ever be broken.
 --------------------------------
 [00000023][none]
-世界の男は平等なの
+All men in the world are equal
 --------------------------------
 [00000024][none]
-１人だけ特別扱いなんて
-ずうずうしいわ
+It's shameful to give special treatment to just one person.
 --------------------------------
 [00000025][none]
-話にならなかった
+It didn't matter.
 --------------------------------
 [00000026][none]
-世界一の金持ちや色男でも
-彼女にとっては
-ただの従僕なんだろうね
+Even if he is the richest man in the world, to her he is just a servant.
 --------------------------------
 [00000027][none]
-付き合う？
-日の出前の朝練に毎日
-付き合ってくれるんですか？
+Do you want to date?  Will you accompany me every day for morning practice
+before sunrise ?
 --------------------------------
 [00000028][none]
-無理しなくていいですよ
+You don't have to force yourself.
 --------------------------------
 [00000029][none]
-彼女とぼくは
-見ているものが
-違いすぎたってとこかな
+I guess what she and I see are too different.
 --------------------------------
 [00000030][none]
-歴史とはつまり
-人間を知ることなの
-そもそも人類の発祥は……
+History means to know about humans The origin of humanity...
 --------------------------------
 [00000031][none]
-なぜだか知らないけど
-歴史の講義が
-始まってしまった
+I don't know why The history lecture has started 
 --------------------------------
 [00000032][none]
-彼女には悪いけど
-さすがのぼくも途中で
-エスケープせざるを得ない
+I feel bad for her, but I had no choice but to escape along the way.
 --------------------------------
 [00000033][none]
-アタシは
-自分より金持ちとしか
-付き合わないんだよ
+I only date people who are richer than me.
 --------------------------------
 [00000034][none]
-グロリアまで
-口説いたのかって？
+Did you even try to woo Gloria?
 --------------------------------
 [00000035][none]
-婆さん、ああ見えて
-なかなか可愛らしい
-ところもあるんだぜ
+Grandma, you look very cute in some ways.
 --------------------------------
 [00000036][none]
-結局、口説いてないのは
-エイミーだけ
-つまり、成功率はゼロ
+In the end, Amy is the only one who hasn't wooed In other words, the success
+rate is zero.
 --------------------------------
 [00000037][none]
-でもここがネームレスって
-特殊な部隊だってことを
-思い出してほしいね
+But I want you to remember that this is a special unit called Nameless.
 --------------------------------
 [00000038][none]
-ここの女の子が
-普通じゃないだけなのさ
+The girls here are just not normal.
 --------------------------------
 [00000039][none]
-こんにちは
-エリオットさん
+Hello Mr. Elliott
 --------------------------------
 [00000040][none]
-やあ、どうしたんだい
-おチビちゃん
+Hey, what's up, little guy?
 --------------------------------
 [00000041][none]
-その言い方
-やめてください！
+Please stop saying that!
 --------------------------------
 [00000042][none]
-ごめんごめん
-きみがとても
-かわいいからいけないんだ
+I'm sorry I can't because you're so cute 
 --------------------------------
 [00000043][none]
 ……
 --------------------------------
 [00000044][none]
-怒っているのかい？
+Are you angry?
 --------------------------------
 [00000045][none]
 ……
 --------------------------------
 [00000046][none]
-そんな顔は
-似合わないよ
+That face doesn't suit you.
 --------------------------------
 [00000047][none]
-みんなが
-エリオットさんには
-近づくなって言ってます
+Everyone is telling to stay away from Elliott.
 --------------------------------
 [00000048][none]
-モテる男はつらいね
-みんなはぼくとエイミーが
-仲良くするのが悔しいのさ
+It's hard being a popular guy Everyone feels bad that Amy and I get along 
 --------------------------------
 [00000049][none]
-エリオットさんは
-結婚詐欺師だから
-騙されるなって
+Mr. Elliot is a marriage fraudster so don't be fooled.
 --------------------------------
 [00000050][none]
-ふふっ……
-あははは！
+Hehe... Ahahaha!
 --------------------------------
 [00000051][none]
-何がおかしいんですか
+What's wrong?
 --------------------------------
 [00000052][none]
-まだエイミーには
-プロポーズできないよ
+I can't propose to Amy yet.
 --------------------------------
 [00000053][none]
-子ども扱い
-しないでください！
+Don't treat me like a child!
 --------------------------------
 [00000054][none]
-あと５年経ったら
-迎えに行くよ
+I'll come and pick you up in five more years.
 --------------------------------
 [00000055][none]
-なんで結婚詐欺なんか
-するんですか
+Why would you commit marriage fraud?
 --------------------------------
 [00000056][none]
-詐欺というのは誤解だよ
+Fraud is a misunderstanding
 --------------------------------
 [00000057][none]
-そうだったんですか!?
+Is that so!?
 --------------------------------
 [00000058][none]
-とは言え、結婚詐欺の罪で
-ネームレスに送られたのは
-本当さ
+However, it is true that I was sent to Nameless for marriage fraud.
 --------------------------------
 [00000059][none]
-やっぱり
-嘘つきじゃないですか！
+You're a liar after all!
 --------------------------------
 [00000060][none]
-違うんだ
-ぼくは真剣な
-恋愛をしただけさ
+No, I'm just in a serious relationship.
 --------------------------------
 [00000061][none]
-ただ、結婚となると
-逃げ出したくなってしまう
-恐くなってしまってね
+However, when it comes to marriage, I feel like running away. I get scared.
 --------------------------------
 [00000062][none]
-そういうの
-わたしには
-よく分からないです
+I don't really understand that.
 --------------------------------
 [00000063][none]
-複雑な問題なんだ
-でもぼくは女性を
-口説くのをやめられない
+It's a complicated issue  But I can't stop wooing women 
 --------------------------------
 [00000064][none]
-本気で結婚しようと思った
-人はいなかったんですか？
+Didn't anyone seriously think about getting married?
 --------------------------------
 [00000065][none]
-うーん、忘れたな
+Hmm, I forgot.
 --------------------------------
 [00000066][none]
-本当に？
+Really?
 --------------------------------
 [00000067][none]
-本当に本当さ
+really true
 --------------------------------
 [00000068][none]
-帝国軍の残党は依然
-村内にたてこもっている
+The remnants of the imperial army are still holed up in the village.
 --------------------------------
 [00000069][none]
-若い女性が
-人質になっていて
-手出しできない
+A young woman is held hostage and cannot be touched.
 --------------------------------
 [00000070][none]
-女の子を
-人質にするなんて最低だな
+Taking a girl hostage is the worst.
 --------------------------------
 [00000071][none]
-立てこもり開始から
-二日が経過し
-人質の体力も限界だ
+Two days have passed since the barricade began The hostages' physical strength
+is at its limit.
 --------------------------------
 [00000072][none]
-一刻も早く人質を
-救出しなければならない
+We must rescue the hostages as soon as possible.
 --------------------------------
 [00000073][none]
-だが、救出に失敗した場合
-責任は我々が
-負うことになる
+But if the rescue fails, we will be responsible for it.
 --------------------------------
 [00000074][none]
-住民の怒りは
-我々に向けられるだろう
+The anger of the people will be directed at us.
 --------------------------------
 [00000075][none]
-人質交渉は
-できないのか？
+Can't we negotiate hostage ?
 --------------------------------
 [00000076][none]
-人質交渉は
-するなと命じられている
+We have been ordered not to engage in hostage negotiations.
 --------------------------------
 [00000077][none]
-あと数日待てば
-人質は死亡し
-気兼ねなく制圧できる
+If you wait a few more days the hostages will die and you can take control
+without hesitation.
 --------------------------------
 [00000078][none]
-住民の感情も
-帝国への憎悪に向かうと
-司令部は考えているようだ
+The command seems to think that the people's feelings will also turn towards
+hatred towards the Empire.
 --------------------------------
 [00000079][none]
-見殺しにする方が
-得だと言いたいのか！
+Are you saying that it's better to let them die?
 --------------------------------
 [00000080][none]
-作戦指示からは
-その意図が読み取れるな
+I can understand the intention from the mission instructions.
 --------------------------------
 [00000081][none]
-何かいい手はないの？
+Is there anything I can do?
 --------------------------------
 [00000082][none]
-何とかしたいが
-人質がいる以上
-手の打ちようがないな
+I'd like to do something, but there's nothing I can do as long as there are
+hostages.
 --------------------------------
 [00000083][none]
-ぼくが突入する
-人質さえ救出できれば
-問題ないんだろ？
+As long as I rush in and rescue the hostages, there's no problem, right?
 --------------------------------
 [00000084][none]
-その通りだが
-君が志願とは珍しいな
+That's right, but it's unusual for you to volunteer.
 --------------------------------
 [00000085][none]
-女性の敵は
-ぼくの敵、だからさ
+The enemy of women is my enemy.
 --------------------------------
 [00000086][none]
-……そんな理由ならば
-突入の許可はできない
+...If that's the reason, I can't give you permission to enter.
 --------------------------------
 [00000087][none]
-ははっ、冗談だよ
-実はこの村にはちょいと
-縁があってね
+Haha, just kidding Actually, I have some connections with this village 
 --------------------------------
 [00000088][none]
-建物の位置や中の間取りは
-あらかた頭に入ってるんだ
+I have the building's location and interior layout in mind.
 --------------------------------
 [00000089][none]
-どういうこと？
+What do you mean?
 --------------------------------
 [00000090][none]
-そうだな……
-思い出の地とでも言えば
-いいのかな？
+That's right... Is it okay to call it a place of memories ?
 --------------------------------
 [00000091][none]
-とにかく
-隊員の中でぼくが一番
-この村に詳しいのは確かだ
+Anyway Of all the members, I am certainly the most knowledgeable about this
+village.
 --------------------------------
 [00000092][none]
-クルトくん
-任せてくれないか？
+Kurt-kun Will you leave it to me?
 --------------------------------
 [00000093][none]
-やれる自信があるんだな？
+Are you confident that you can do it?
 --------------------------------
 [00000094][none]
-ぼくはやるときは
-やる男なんだ
-それを証明してみせるよ
+I'm a doer when it's time for me to do it.I'll prove it to you.
 --------------------------------
 [00000095][none]
-……いいだろう
-任せたぞ、エリオット
+...Okay I'll leave it to you, Elliot.
 --------------------------------
 [00000096][none]
-エリオットが突入
-他の隊員はエリオットを
-全力でバックアップする
+Elliot rushes in Other members back up Elliot with all their might 
 --------------------------------
 [00000097][none]
-人質救出作戦開始だ！
+The hostage rescue operation has begun!
 --------------------------------
 [00000098][none]
-エリオットがポテンシャル@fcFF008800「淡い思い出」@fciに
-目覚めました。
+Elliot has awakened to the potential @fcFF008800 "Pale Memories" @fci.
 --------------------------------
 [00000099][none]
-言ったろ
-ぼくはやる時は
-やる男だってね
+I told you I'm the guy who does it when it's time to do it.
 --------------------------------
 [00000100][none]
-みなさん
-ありがとうございました！
+Thank you everyone !
 --------------------------------
 [00000101][none]
-エリオットさんの
-お手柄です
-かっこよかったですよ
+Elliott's credit It was cool.
 --------------------------------
 [00000102][none]
-なあに
-女性を助けるのは
-ぼくにとっては生き甲斐さ
+Why? Helping women is the purpose of life for me.
 --------------------------------
 [00000103][none]
-あなたのおかげで
-助かりました
-ありがとうございます！
+Thanks to you I was saved Thank you!
 --------------------------------
 [00000104][none]
-身に余る光栄
-あなたのような……
+I'm so honored to be like you...
 --------------------------------
 [00000105][none]
-あ……
+Ah...
 --------------------------------
 [00000106][none]
-どうかされました？
+What happened?
 --------------------------------
 [00000107][none]
-いやあ、あなたの
-あまりの美しさに声を
-失ってしまいました
+Well, you're so beautiful that I lost my voice.
 --------------------------------
 [00000108][none]
-お上手ですね
+You're good at it.
 --------------------------------
 [00000109][none]
-……無事で、何よりです
+...I'm glad you're safe.
 --------------------------------
 [00000110][none]
-ママ！
+Mom!
 --------------------------------
 [00000111][none]
-よしよし
-もう、大丈夫だからね
+Okay, okay It's okay now.
 --------------------------------
 [00000112][none]
-お子さんが……？
-よかったねお嬢ちゃん
-ママが戻ってきて
+Your child...?  Good for you, little girl Mom is back.
 --------------------------------
 [00000113][none]
-うん！
-ありがとうおじさん！
+Yes!  Thank you uncle!
 --------------------------------
 [00000114][none]
-あの、せめてお名前を……
+Um, at least tell me your name...
 --------------------------------
 [00000115][none]
-名乗るほどの者では
-ありませんよ
+I'm not worth mentioning 
 --------------------------------
 [00000116][none]
-どうしてあの人を
-口説かなかったんですか？
+Why didn't you try to woo that person?
 --------------------------------
 [00000117][none]
-ひどいなエイミー
+That's terrible, Amy.
 --------------------------------
 [00000118][none]
-子どもの前でお母さんを
-口説くような男だと
-思っていたのかい？
+Did you really think I was the kind of guy who would seduce a mother in front of
+her children?
 --------------------------------
 [00000119][none]
-違うんですか？
+No?
 --------------------------------
 [00000120][none]
-あはは
-まいったね
+Ahaha I see.
 --------------------------------
 [00000121][none]
-彼女はぼくの顔を
-忘れていたけど
+She forgot my face though
 --------------------------------
 [00000122][none]
-一度本気で
-口説いたことがあるんだよ
+I seriously tried to seduce you once.
 --------------------------------
 [00000123][none]
-本気でって
-もしかして……
+Are you serious Maybe...
 --------------------------------
 [00000124][none]
-そういうことさ
-エイミーはかしこいね
+That's the thing Amy is smart.
 --------------------------------
 [00000125][none]
-……ごめんなさい
+...I'm sorry
 --------------------------------
 [00000126][none]
-あやまる必要はないよ
+There's no need to apologize
 --------------------------------
 [00000127][none]
-彼女が幸せそうで良かった
+I'm glad she looks happy
 --------------------------------
 [00000128][none]
-ぼくはいつも女の子の
-幸せを第一に考えるんだ
-本当に本当だぜ？
+I always put a girl's happiness first Isn't it true?
 --------------------------------

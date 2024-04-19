@@ -1,75 +1,61 @@
 [0018]
 *****************
 [00000000][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-…………。
+………….
 --------------------------------
 [00000001][レイジ,レイジ,レイジ]
-はぁ……。ったく、黙ってずんずん歩いてくから、
-どこに行くのかと思えば……なんでこんなところに？
+Huh... I was walking slowly and silently, and I was wondering where I was
+going...why here?
 --------------------------------
 [00000002][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-わからない……。
-わからないけど、誰かが呼んでるの。
+I don't know...  I don't know, but someone is calling.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-って、誰に呼ばれてんのかもわかんねーのかよ！
-ったく、しょーがねえヤツだなぁ。
+So, you don't even know who's calling you!  He's a really bad guy.
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-おっと……。
-おまけにモンスターまで出てきやがった。
-面倒なことになったぜ。
+Oops...  On top of that, monsters even appeared.  It's become a hassle.
 --------------------------------
 [00000005][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-呼んでるの……向こう……。
-行かなきゃ……。
+I'm calling... over there...  I have to go...
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-お、おい、ケルベロス！
-だからそっちはモンスターが……って
-聞いちゃいねえ。
+Hey, hey, Kerberos!  So there are monsters over there... Don't ask.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-仕方ねえ！　ケルベロス！
-モンスターをやっつけて、先に進むぞ！
+I can't help it! Kerberos!  Defeat the monsters and move on!
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-よっしゃ！　モンスターを倒したぜ！
-……あ、あれ、ケルベロスはどこ行った？
+Alright! I defeated the monster!  ...Ah, where did Kerberos go?
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-あ、いたいた。こんなところにいたのかよ。
-って、ケルベロス？　なにをきょろきょろしてんだ？
+Oh, it was. Were you in a place like this?  Do you mean Kerberos? What are you
+looking around at?
 --------------------------------
 [00000010][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-んー…………。あ！　あったー！
-レイジ！　見て！　これ見てー！
-見つけたー！　見つけたよー！
+Hmm………. a!  Rage! look!  I found it! I found it!
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-それは……ディスクか？
-なんか、文字が書いてあるな……。
+Is that...a disk?  There are some words written on it...
 --------------------------------
 [00000012][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-んとね、「Project Loreley」って、
-書いてあるよ？
+Well, it says "Project Loreley" right?
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-なんだ？　そりゃ。よくわからないな……。
-呼んでたっていうのは、そのディスクか？
+What? That's right. I don't really understand...  Is that the disc you were
+calling?
 --------------------------------
 [00000014][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-んー……。たぶん、そうだと思う。
+Hmm... I think that's probably true.
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-なんでディスクが呼んだりするんだ……？
-まあいいや、街に帰って調べてみるか。
-ほら、ケルベロス。帰るぞ。
+Why does the disc call me...?  Well, I guess I'll go back to town and
+investigate.  Look, Kerberos. I'm going home.
 --------------------------------
 [00000016][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-うん！　おうち帰る！
+Yes! I'm going home!
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-……元気に明るく答えてくれちゃってまぁ。
-誰のせいでここまで来るハメになったんだか。
+...You answered cheerfully and cheerfully.  I wonder who caused you to come this
+far.
 --------------------------------

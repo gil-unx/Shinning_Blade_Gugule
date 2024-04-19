@@ -4,37 +4,37 @@
 CheckOpenSongInfoFlag
 --------------------------------
 [00000001]
-%sのフォースソング\n@fcFFCC99FF「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFCC99FF「%s」@fci is now available.
 --------------------------------
 [00000002]
-%sのフォースソング\n@fcFFFFCC00「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFFFCC00「%s」@fci is now available.
 --------------------------------
 [00000003]
-%sのフォースソング\n@fcFF00FF00「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFF00FF00「%s」@fci is now available.
 --------------------------------
 [00000004]
-%sのフォースソング\n@fcFFFF6600「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFFF6600「%s」@fci is now available.
 --------------------------------
 [00000005]
-%sのフォースソング\n@fcFF1633FF「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFF1633FF「%s」@fci is now available.
 --------------------------------
 [00000006]
-%sのフォースソング\n@fcFFCC6600「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFCC6600「%s」@fci is now available.
 --------------------------------
 [00000007]
-%sのフォースソング\n@fcFFFF0000「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFFF0000「%s」@fci is now available.
 --------------------------------
 [00000008]
-%sのフォースソング\n@fcFF00FFFF「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFF00FFFF「%s」@fci is now available.
 --------------------------------
 [00000009]
-%sのフォースソング\n@fcFFEE7744「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFFEE7744「%s」@fci is now available.
 --------------------------------
 [00000010]
-%sのフォースソング\n@fcFF999999「%s」@fciが使用可能になりました。
+%s Force Song\n@fcFF999999「%s」@fci is now available.
 --------------------------------
 [00000011]
-%sのフォースソング\n@fcFF000000@dt2@db1@dcFF888888「%s」@fci@dcが使用可能になりました。
+%s Force Song\n@fcFF000000@dt2@db1@dcFF888888「%s」@fci@dc is now available.
 --------------------------------
 [00000012]
 CheckOpenSongInfoFlag

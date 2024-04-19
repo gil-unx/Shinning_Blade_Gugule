@@ -1,2434 +1,1807 @@
 [0598]
 *****************
 [00000000][none]
-こんな戦い方ではダメだ……
-戦術も判断も甘すぎる……！
+You can't fight like this... Your tactics and judgment are too lenient...!
 --------------------------------
 [00000001][none]
-こんな戦い方ではダメだ……
-戦術も判断も甘すぎる……！
+You can't fight like this... Your tactics and judgment are too lenient...!
 --------------------------------
 [00000002][none]
-みんなの役に
-立ちたいのに……
-動けない……
+I want to be helpful to everyone... I can't move...
 --------------------------------
 [00000003][none]
-みんなの役に立ちたいのに……
-動けない……
+I want to help everyone... I can't move...
 --------------------------------
 [00000004][none]
-みんなの役に立ちたいのに……
-動けない……
+I want to help everyone... I can't move...
 --------------------------------
 [00000005][none]
-みんなの役に立ちたいのに……
-動けない……
+I want to help everyone... I can't move...
 --------------------------------
 [00000006][none]
-くっ、体が……
-動かない……
+Damn, my body... I can't move...
 --------------------------------
 [00000007][none]
-くっ、体が……
-動かない……
+Damn, my body... I can't move...
 --------------------------------
 [00000008][none]
-俺としたことが……
-迷惑をかけてすまない
+What I did... I'm sorry for causing you trouble.
 --------------------------------
 [00000009][none]
-俺としたことが……
-迷惑をかけてすまない
+What I did... I'm sorry for causing you trouble.
 --------------------------------
 [00000010][none]
-オレがいないと……
-あいつらマズイメシしか
-食えないじゃねぇか……
+Without me... They'll only have bad food ...
 --------------------------------
 [00000011][none]
-ちくしょう……
-守るって……
-決めたのに……！
+Damn it... I decided to protect it... But...!
 --------------------------------
 [00000012][none]
-すまない……
-ガリアの隼は
-少しだけ羽を休めるぜ……
+Sorry... Galian Falcon can rest for a while...
 --------------------------------
 [00000013][none]
-くそっ……
-いつだってダルクス人は
-こんなんばっかだ……
+Damn... Darksians are always like this...
 --------------------------------
 [00000014][none]
-ベッドの上で
-死にたくない……
+I don't want to die on the bed...
 --------------------------------
 [00000015][none]
-ごめんなさい……
-わたしもう
-ダメみたいです……
+I'm sorry... I don't think I can do it anymore...
 --------------------------------
 [00000016][none]
-教育が甘かったかしら……
-私としたことが……
+I wonder if my education was poor... What happened to me...
 --------------------------------
 [00000017][none]
-修行が足りませんでした
-……ニンジン食べて
-出直します……
+I didn't have enough training ...I'll eat a carrot and start over again...
 --------------------------------
 [00000018][none]
-このアタシがまさか……
-やっちまたみたいだね……
+I can't believe this is me... It looks like I'll be seeing you again...
 --------------------------------
 [00000019][none]
-まだやりたいことが……
-たくさんあるの……
-こんな終わりは、嫌……
+There are still so many things I want to do... I don't want it to end like
+this...
 --------------------------------
 [00000020][none]
-死んでたまるか……
-ワシは祖国を……
-フィラルドを……
+I can't wait to die... My homeland... Filard...
 --------------------------------
 [00000021][none]
-是非も無し……
+Absolutely none...
 --------------------------------
 [00000022][none]
-俺がドジ踏むとは……
-まいったね……
-こんなこともあるんだな
+I didn't think I'd be so clumsy... That's crazy... This kind of thing happens
+sometimes.
 --------------------------------
 [00000023][none]
-こんなはずじゃ……
-いや……
-認めたくない……
+It's not supposed to be this way... No... I don't want to admit it...
 --------------------------------
 [00000024][none]
-私が倒れたら
-ダメなのに……
-ごめんなさい……
+It would be no good if I fell down... I'm sorry...
 --------------------------------
 [00000025][none]
-衛生兵の子……
-口説いておけば……
-よかったか……な
+The medic's child... I wish I had talked her into it... I guess it would have
+been nice...
 --------------------------------
 [00000026][none]
-しばらく寝てるか……
-別に戦いたくもねえし
+I guess I'll sleep for a while... I don't even want to fight.
 --------------------------------
 [00000027][none]
-ヤツを……処刑台に
-送るまで……
-死んで……たまるか
+Until I send him... to the execution stand... I can't bear to die...
 --------------------------------
 [00000028][none]
-血の赤は嫌いです……
-もっときれいな
-赤が、見たい……
+I don't like blood red... I want to see a prettier red...
 --------------------------------
 [00000029][none]
-やだ、もう……
-優しくしてくれなきゃ
-イヤ……
+No, no... I don't want you to be kind to me...
 --------------------------------
 [00000030][none]
-治療代は保険で
-まかなうけど……
-慰謝料請求しますね……
+The treatment fee will be covered by insurance, but... I will ask for
+compensation...
 --------------------------------
 [00000031][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-すまない……みんな
-悔しいが…ここまでだ……
+Sorry... I'm sorry everyone, but... that's all...
 --------------------------------
 [00000032][none]
-すまない……みんな
-悔しいが…ここまでだ……
+I'm sorry... everyone I'm sorry, but... that's all...
 --------------------------------
 [00000033][ボーン,ボーン,ボーンファイター]
-ごめんね……
-みんな……
-……役に立てなくて
+I'm sorry... Everyone... ...I can't help you.
 --------------------------------
 [00000034][none]
-ごめんね……
-みんな……
-……役に立てなくて
+I'm sorry... Everyone... ...I can't be of any help.
 --------------------------------
 [00000035][none]
-ごめんなさい……
-兄さんを頼みます
-みなさん……
+I'm sorry... I'm asking for your help Everyone...
 --------------------------------
 [00000036][none]
-おれとしたことが……
-みっともねえぜ……
+What happened to me... It's disgusting...
 --------------------------------
 [00000037][none]
-くっ……
-なさけない……
-あとは任せたよ……
+Damn... I'm sorry... I'll leave the rest to you...
 --------------------------------
 [00000038][none]
-アイドルは不滅ですわ……
-華麗に……再デビューを
-果たして……みせ……
+Idols are immortal... They'll make a brilliant re-debut... Let's see...
 --------------------------------
 [00000039][none]
-ああ……ぼくに死が……
-永久の休息が……
-訪れるのかな……
+Ah...I wonder if death... eternal rest... will come to me...
 --------------------------------
 [00000040][none]
-争いは……嫌いです……
-殺すのも……殺されるのも
-……もうたくさん……
+I don't like fighting... Killing...being killed...I've had enough...
 --------------------------------
 [00000041][none]
-ああん
-アタシもうだめみたい……
-ごめんなさいラルゴ様……
+Ah, I feel like I'm no good... I'm sorry, Mr. Largo...
 --------------------------------
 [00000042][none]
-どうということはない……
-孤独も……闇も……
-わたしには……日常だ……
+It doesn't matter... Loneliness...darkness... To me...it's everyday life...
 --------------------------------
 [00000043][none]
-ああ……カロス……
-愛しています……
-いつまでも……
+Ah... Kalos... I love you... Forever...
 --------------------------------
 [00000044][none]
-すまないわね……
-役に立てなかったわ……
+I'm sorry... I couldn't help...
 --------------------------------
 [00000045][none]
-く……情けない
-アバンに合わせる
-顔がないな……
+That's pathetic. He doesn't have a face. He doesn't have a face...
 --------------------------------
 [00000046][none]
-不覚……！
-これではガッセナールの
-名が泣く……！
+Unconscious...!  This makes Gassenard 's name cry...!
 --------------------------------
 [00000047][none]
-すみません……
-これではお兄様に
-顔向けできない……
+I'm sorry... I can't face my brother like this...
 --------------------------------
 [00000048][none]
-すみません……
-これではお兄様に
-顔向けできない……
+I'm sorry... I can't face my brother like this...
 --------------------------------
 [00000049][none]
-こんなところで
-倒れるとは……
-情けないことです……
+To collapse in a place like this... It's pathetic...
 --------------------------------
 [00000050][none]
-こんなところで
-倒れるとは……
-情けないことです……
+To collapse in a place like this... It's pathetic...
 --------------------------------
 [00000051][none]
-くっ、悔しい……
-まだ私は……
-やれるのに……
+Damn, I'm so frustrated... I can still do it... I can do it...
 --------------------------------
 [00000052][none]
-くっ、悔しい……
-まだ私は……
-やれるのに……
+Damn, I'm so frustrated... I can still do it... I can do it...
 --------------------------------
 [00000053][none]
-みんな、ごめん……
-ここまでみたいだ……
+Sorry, everyone... Looks like this is all...
 --------------------------------
 [00000054][サクヤ,マキシマ,サクヤ]
-情けない……
-俺はもっと
-強くならなければ……！
+It's pathetic... I have to become stronger...!
 --------------------------------
 [00000055][none]
-痛いよ……
-お父さん、お母さん……
-もう、頑張れないよ……
+It hurts... Dad, mom... I can't try anymore...
 --------------------------------
 [00000056][none]
-余がこのような
-憂き目を見るとは……
-信じられぬ……
+I can't believe I'm seeing such sad eyes... I can't believe it...
 --------------------------------
 [00000057][none]
-申し訳ありません
-殿下……
+I'm sorry Your Highness...
 --------------------------------
 [00000058][none]
-申し訳ありません
-殿下……
+I'm sorry Your Highness...
 --------------------------------
 [00000059][none]
-申し訳ありません
-殿下……
+I'm sorry Your Highness...
 --------------------------------
 [00000060][none]
-祖国再興のために
-俺はまだ……
-倒れるわけにはいかん……！
+For the sake of reviving my homeland, I still have to... I can't afford to
+collapse...!
 --------------------------------
 [00000061][none]
-祖国再興のために
-俺はまだ……
-倒れるわけにはいかん……！
+For the sake of reviving my homeland, I still have to... I can't afford to
+collapse...!
 --------------------------------
 [00000062][アルティナ,メル・シルフィス,アルティナ]
-いたい……いたいよぉ……
-もう、やだぁ……
-学校に帰るぅ……
+I want to stay... I don't want to go anymore... I'm going back to school...
 --------------------------------
 [00000063][none]
-いたい……いたいよぉ……
-もう、やだぁ……
-学校に帰るぅ……
+I want to stay... I don't want to... I'm going back to school...
 --------------------------------
 [00000064][none]
-死ぬわけにはいかん……
-何としても……
-再び起ち上がってみせる！
+I can't die... Whatever it takes... I'll rise again!
 --------------------------------
 [00000065][none]
-死ぬわけにはいかん……
-何としても……
-再び起ち上がってみせる！
+I can't die... Whatever it takes... I'll rise again!
 --------------------------------
 [00000066][none]
-仮。撤退時のつぶやき
+Temporary. Tweets at the time of withdrawal
 --------------------------------
 [00000067][none]
-このザマじゃ
-出世なんて無理ね……
-最低だわ……
+It's impossible to get promoted with this shit... It's the worst...
 --------------------------------
 [00000068][none]
-このザマじゃ
-出世なんて無理ね……
-最低だわ……
+It's impossible to get promoted with this shit... It's the worst...
 --------------------------------
 [00000069][none]
-すみません、ダハウ様
-こんなところで
-負けてしまって……
+I'm sorry, Mr. Dahau I lost at a point like this...
 --------------------------------
 [00000070][none]
-すみません、ダハウ様
-こんなところで
-負けてしまって……
+I'm sorry, Mr. Dahau I lost at a point like this...
 --------------------------------
 [00000071][none]
-へへ……悪いな、アイカ
-おれの冒険は……
-ここまでのようだ……
+Hehe... I'm sorry, Aika My adventure... Looks like it's up to this point...
 --------------------------------
 [00000072][none]
-ごめんなさい……
-やられてしまいました
+I'm sorry... I got hurt.
 --------------------------------
 [00000073][none]
-やだよ、ヴァイス……
-あたしオバケになっちゃう
-……の……かな……
+No, Weiss... I'm turning into a ghost ...I wonder...
 --------------------------------
 [00000074][none]
-仮。コラボキャラ撤退
+Temporary. Collaboration character withdrawal
 --------------------------------
 [00000075][none]
-一旦引くだけで……
-負けなんかじゃ……
-ありませんわ……
+Just draw once... You won't lose... There's no way...
 --------------------------------
 [00000076][none]
-準備は整ったな
-それでは出撃する
+All preparations are complete Then let's sortie.
 --------------------------------
 [00000077][none]
-警戒を厳にしてくれ
-油断するなよ
+Be on high alert Don't let your guard down.
 --------------------------------
 [00000078][none]
-準備は整ったな
-それでは出撃する
+All preparations are complete Then let's sortie.
 --------------------------------
 [00000079][none]
-警戒を厳にしてくれ
-油断するなよ
+Be on high alert Don't let your guard down.
 --------------------------------
 [00000080][none]
-勝とうね！　絶対！
+Let's win! absolute!
 --------------------------------
 [00000081][none]
-頑張ろうね、みんな！
+Let's do our best, everyone!
 --------------------------------
 [00000082][none]
-勝とうね！　絶対！
+Let's win! absolute!
 --------------------------------
 [00000083][none]
-頑張ろうね、みんな！
+Let's do our best, everyone!
 --------------------------------
 [00000084][none]
-絶対に、負けない！
+Never lose!
 --------------------------------
 [00000085][none]
-勝たねばならない
+must win
 --------------------------------
 [00000086][none]
-絶対に勝とう
-みんな、たのんだぞ！
+Let's definitely win Everyone asked!
 --------------------------------
 [00000087][none]
-やるしかないな
-行くぞ！
+I have no choice but to do it Let's go!
 --------------------------------
 [00000088][none]
-おし！
-ちゃちゃっと
-料理してやろうぜ！
+Oshi!  Let's do some cooking! Let's do some cooking!
 --------------------------------
 [00000089][none]
-やるっきゃねえな
-よろしくたのんだぞ！
+I have to do it Thank you for your help!
 --------------------------------
 [00000090][none]
-みんな、たのんだぞ！
-絶対勝とうぜ！
+Everyone asked!  Let's definitely win!
 --------------------------------
 [00000091][none]
-この戦いでは誰も
-死なせないからな！
+No one will die in this battle!
 --------------------------------
 [00000092][none]
-ガリアの隼アルフォンス
-戦場という名の大空に
-いま羽ばたく！
+Alfonse the Falcon of Gaul In the sky called the battlefield Now flap your
+wings!
 --------------------------------
 [00000093][none]
-勝利をきみたちに
-プレゼントするよ！
+I present victory to you all!
 --------------------------------
 [00000094][none]
-俺に命あずけていいのか？
-フン、勇気あるな
+Can you entrust your life to me?  Hmph, you're brave.
 --------------------------------
 [00000095][none]
-期待してもムダだぜ
-運が悪かったな
+There's no point in hoping. You're out of luck.
 --------------------------------
 [00000096][none]
-みなさんの奮戦に
-期待します
+I look forward to your hard work 
 --------------------------------
 [00000097][none]
-戦いましょう！
-僕に続いてください
+Let's fight!  Please follow me
 --------------------------------
 [00000098][none]
-頑張りましょうみなさん！
-戦闘開始です！
+Let's do our best, everyone!  The battle has begun!
 --------------------------------
 [00000099][none]
-みなさんと一緒なら……
-この戦い、勝てるはずです！
+Together with everyone... We should be able to win this battle!
 --------------------------------
 [00000100][none]
-みんな私についてきなさい！
-さあ、いくわよ！
+Everyone follow me!  Come on, let's go!
 --------------------------------
 [00000101][none]
-ダメな子は教育よ？
-しっかりやりなさい！
+Education for bad children?  Do it well!
 --------------------------------
 [00000102][none]
-みなぎってきました！
-あたしがんばります！
+It's all overflowing!  I'll do my best!
 --------------------------------
 [00000103][none]
-みなさん！
-張り切っていきましょう！
+Everyone!  Let's do our best!
 --------------------------------
 [00000104][none]
-ったく仕方ないね
-ついてきな
+It can't be helped Come with me.
 --------------------------------
 [00000105][none]
-甘ったれはきらいだよ
-気合いれな！
+I don't like being spoiled. Get fired up!
 --------------------------------
 [00000106][none]
-上手に片付けましょう
-そうすればすぐ終わるわ
+Let's clean it up properly It will be over soon.
 --------------------------------
 [00000107][none]
-計画通りにいけば
-問題ないわ
+If everything goes according to plan no problem.
 --------------------------------
 [00000108][none]
-ワシらの……ヒック
-力を思い知らせてやる！
+I'll show you Hiccup's power!
 --------------------------------
 [00000109][none]
-いくぞ、皆の衆！
-さっさと勝って酒盛りだ！
+Let's go, everyone!  Let's win quickly and have a good time drinking!
 --------------------------------
 [00000110][none]
-我が命は勝利のために！
-覚悟！
+My life is for victory!  Be prepared!
 --------------------------------
 [00000111][none]
-信ずる道を往くのみ！
-参る！
+Just follow the path you believe in!  Here we go!
 --------------------------------
 [00000112][none]
-気負うことはない
-楽しもうか！
+Don't worry Let's have fun!
 --------------------------------
 [00000113][none]
-撃って、壊して
-暴れまくろうぜ！
+Shoot, destroy, and go wild!
 --------------------------------
 [00000114][none]
-私の指示通りに
-行動してください
+Please follow my instructions.
 --------------------------------
 [00000115][none]
-これが本来の私の立場です
-いきますよ！
+This is my original position Let's go!
 --------------------------------
 [00000116][none]
-みなさん、力を合わせて
-頑張りましょう！
+Everyone, let's work together and do our best!
 --------------------------------
 [00000117][none]
-みんな無事に
-戦いを終えたいですね
+I hope everyone finishes the battle safely 
 --------------------------------
 [00000118][none]
-ぼくだってやる時はやるさ！
-さあ行こうか！
+I'll do it when it's time to do it!  Let's go!
 --------------------------------
 [00000119][none]
-準備はいいかい？
-カッコよく決めてみよう！
+Are you ready?  Let's decide coolly!
 --------------------------------
 [00000120][none]
-めんどくせぇけど……
-やるか
+It's a pain, but... I'll do it.
 --------------------------------
 [00000121][none]
-適当にやろうぜ
-ま、なんとかなるって
+Let's do whatever we want Well, it'll work out somehow.
 --------------------------------
 [00000122][none]
-勝てばいい
-それだけだ
+Just win That's all.
 --------------------------------
 [00000123][none]
-任務はこなす
-それでいいだろ
+I'll do my job That's fine.
 --------------------------------
 [00000124][none]
-行きましょう
+let's go
 --------------------------------
 [00000125][none]
-やってみます
+I'll try it
 --------------------------------
 [00000126][none]
-自由にやらせてもらうわね
-じゃあ出撃～
+I'll be free to do whatever I want Then let's go~
 --------------------------------
 [00000127][none]
-勝てばいいんでしょ？
-ま、やってみるわ
+All you have to do is win, right?  Well, I'll try it.
 --------------------------------
 [00000128][none]
-みなさん、時は金なりですよ
-さっさと終わらせましょう
+Guys, time is money Let's get this over with quickly.
 --------------------------------
 [00000129][none]
-がんばって儲けましょうね
-えいえいおー！
+Let's do our best and make some money Hey!
 --------------------------------
 [00000130][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-作戦開始だ！
-みんな頼むぞ！
+Operation begins!  Everyone please!
 --------------------------------
 [00000131][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-さあ、一気に終わらせよう！
+Come on, let's finish this all at once!
 --------------------------------
 [00000132][ボーン,ボーン,ボーンファイター]
-みんな、お願い！
-あたしに力を貸して！
+Everyone, please!  Please lend me your strength!
 --------------------------------
 [00000133][ボーン,ボーン,ボーンファイター]
-さあ、みんな
-がんばろう！
+Come on, everyone let's do our best!
 --------------------------------
 [00000134][none]
-頑張りましょう
-みなさん
+Let's do our best Everyone
 --------------------------------
 [00000135][none]
-作戦開始です
-よろしくお願いします
+The operation has begun. Thank you in advance.
 --------------------------------
 [00000136][none]
-よおし、やってやる！
-みんな、たのんだぜ！
+Okay, I'll do it!  Everyone asked!
 --------------------------------
 [00000137][none]
-油断するなよ、お前ら！
-出撃するぞ！
+Don't let your guard down, you guys!  Let's go!
 --------------------------------
 [00000138][none]
-準備はバッチリかい？
-それじゃあ、いくよ！
+Are you fully prepared?  Okay, let's go!
 --------------------------------
 [00000139][none]
-アンタたち！
-負けるんじゃないよ！
+You guys!  Don't lose!
 --------------------------------
 [00000140][none]
-みなさん！
-はりきっていきますわよ！
+Everyone!  I'm going to get excited!
 --------------------------------
 [00000141][none]
-わたくしの指示通りに
-戦えば楽勝ですわ！
+If you fight according to my instructions, you'll have an easy victory!
 --------------------------------
 [00000142][none]
-ふふ……
-死と絶望と快楽の待つ
-戦いのはじまりだよ
+Hehe... Death, despair, and pleasure await The battle has begun.
 --------------------------------
 [00000143][none]
-さあ、みんなで
-気持ちよくなろう……
+Come on, let's all feel good...
 --------------------------------
 [00000144][none]
-みなさん、元気に仲良く
-頑張りましょう
+Everyone, let's stay healthy and get along Let's do our best
 --------------------------------
 [00000145][none]
-よろしくお願いします
-みなさん
+Thank you very much Everyone
 --------------------------------
 [00000146][none]
-アタシ、こうみえて
-やるときはやるんだから
-みんな、ついてきてねん
+This is how I look When I do something, I do it Everyone please follow me.
 --------------------------------
 [00000147][none]
-やるわよ！
-しっかりね、みんな！
+Let's do it!  Stay strong, everyone!
 --------------------------------
 [00000148][none]
-戦闘開始だ……
+The battle has begun...
 --------------------------------
 [00000149][none]
-戦うしかない……
+We have no choice but to fight...
 --------------------------------
 [00000150][none]
-さあ、みなさん
-がんばりましょう！
+Come on, everyone Let's do our best!
 --------------------------------
 [00000151][none]
-愛しい人の事を思えば
-きっと強くなれます
+If you think about your loved one, I'm sure you'll become stronger.
 --------------------------------
 [00000152][none]
-準備はいいわね
-それでは出撃します
+I'm ready. Then let's go.
 --------------------------------
 [00000153][none]
-落ち着いていけば
-問題ないはずよ
+As long as you calm down there shouldn't be any problems.
 --------------------------------
 [00000154][none]
-よし！　攻撃開始だ！　
+Okay! The attack has begun!　
 --------------------------------
 [00000155][none]
-俺についてこい！
+Follow me!
 --------------------------------
 [00000156][none]
-私に続け！
-完膚無きまでに叩き潰すぞ！
+Follow me!  I'll crush you completely!
 --------------------------------
 [00000157][none]
-いいか貴様ら！
-ガリアの力を見せるのだ！
+Listen, you guys!  We'll show you the power of Gallia!
 --------------------------------
 [00000158][none]
-これより作戦行動を
-開始します！
+We will now begin the operation !
 --------------------------------
 [00000159][none]
-冷静でさえあれば
-勝てる戦いです
+It's a battle you can win as long as you stay calm.
 --------------------------------
 [00000160][none]
-これより作戦行動を
-開始します！
+We will now begin the operation !
 --------------------------------
 [00000161][none]
-冷静でさえあれば
-勝てる戦いです
+It's a battle you can win as long as you stay calm.
 --------------------------------
 [00000162][none]
-戦場はいいものですね
-それでは出撃します
+The battlefield is nice. Then let's go.
 --------------------------------
 [00000163][none]
-準備は整いましたか？
-行きますよ、みなさん
+Are you ready?  Let's go, everyone.
 --------------------------------
 [00000164][none]
-よし！
-攻撃開始だ！　
+Okay!  The attack has begun!　
 --------------------------------
 [00000165][none]
-私についてこい！
-そうすれば勝てる！
+Follow me!  If you do that, you can win!
 --------------------------------
 [00000166][none]
-よし、勝つぞ！
-みんな！
+Okay, I'll win!  Everyone!
 --------------------------------
 [00000167][none]
-みんな、オレのあとに
-ついて来てくれ！
+Everyone, follow me!
 --------------------------------
 [00000168][サクヤ,マキシマ,サクヤ]
-何としても
-勝たなければ！
+We have to win no matter what!
 --------------------------------
 [00000169][サクヤ,マキシマ,サクヤ]
-やるしかない！
-絶対に勝つぞ！
+We have no choice but to do it!  I'll definitely win!
 --------------------------------
 [00000170][none]
-お父さん……お母さん……
-わたしに力を貸して……
+Father...Mom... Please lend me your strength...
 --------------------------------
 [00000171][none]
-負けられないですよね！
-絶対勝ちましょう！
+You can't lose!  Let's definitely win!
 --------------------------------
 [00000172][none]
-蹴散らせ！
-分かったな？
+Kick it out!  You understand?
 --------------------------------
 [00000173][none]
-完全なる勝利を
-我が手に！
+Complete victory is in our hands!
 --------------------------------
 [00000174][none]
-準備は整ったな？
-攻撃開始！　
+Are you ready?  Attack begins!　
 --------------------------------
 [00000175][none]
-殿下に
-勝利を捧げるのだ！
+Dedicate your victory to His Highness!
 --------------------------------
 [00000176][none]
-戦闘開始だ！
-ぬかるなよ！
+The battle has begun!  Don't get muddy!
 --------------------------------
 [00000177][none]
-準備はいいな？
-攻撃を開始する！
+Are you ready?  Start the attack!
 --------------------------------
 [00000178][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘開始演出用
-（主人公、リーダー時）１
+Temporary. For battle start effect (main character, leader) 1
 --------------------------------
 [00000179][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘開始演出用
-（主人公、リーダー時）２
+Temporary. For battle start effect (for main character, leader) 2
 --------------------------------
 [00000180][none]
-行こう！
-目指すは勝利のみだ！
+Let's go!  Our only goal is victory!
 --------------------------------
 [00000181][none]
-安心しろ
-負ける戦いなどしない！
+Don't worry I won't fight a losing battle!
 --------------------------------
 [00000182][none]
-この戦い
-ちょっとだけマジよ！
+This battle is a bit serious!
 --------------------------------
 [00000183][none]
-いいわね、潰すわよ！
+Okay, I'll destroy it!
 --------------------------------
 [00000184][none]
-オレ達の力を見せてやる！
+We'll show you our power!
 --------------------------------
 [00000185][none]
-逃げた方がいいぞ！
-手加減はしないからな！
+You better run!  I won't go easy on you!
 --------------------------------
 [00000186][none]
-負けねえぞ！
+I won't lose!
 --------------------------------
 [00000187][none]
-楽勝だ！
-かるーく
-もんでやろうぜ！
+Easy win!  Let's play Karuku Let's do it!
 --------------------------------
 [00000188][none]
-戦いましょう！
+Let's fight!
 --------------------------------
 [00000189][none]
-負けるわけには
-いきません！
+We can't afford to lose!
 --------------------------------
 [00000190][none]
-よーしみんな！
-頑張ろうね！
+Alright everyone!  Let's do our best!
 --------------------------------
 [00000191][none]
-ガンガンやっつけて
-早いとこ終わらせよう
+Beat the hell out of them Let's finish them off as soon as possible.
 --------------------------------
 [00000192][none]
-仮。戦闘開始演出用
-（主人公、リーダー時）１
+Temporary. For battle start effect (main character, leader) 1
 --------------------------------
 [00000193][none]
-仮。戦闘開始演出用
-（主人公、リーダー時）２
+Temporary. For battle start effect (for main character, leader) 2
 --------------------------------
 [00000194][none]
-みなさん、行きますわよ！
+Everyone, let's go!
 --------------------------------
 [00000195][none]
-わたくしのショーが
-始まりますわ！
+My show is about to begin!
 --------------------------------
 [00000196][none]
-反省点もあるが
-納得できる戦いだった
+There are things to reflect on, but it was a convincing battle.
 --------------------------------
 [00000197][none]
-勝ったな……
-みんな、ご苦労だった
+We won... Everyone worked hard.
 --------------------------------
 [00000198][none]
-反省点もあるが
-納得できる戦いだった
+There are things to reflect on, but it was a convincing battle.
 --------------------------------
 [00000199][none]
-勝ったな……
-みんな、ご苦労だった
+We won... Everyone worked hard.
 --------------------------------
 [00000200][none]
-勝った！　ありがとう！
-みんなのお陰よ！
+I won! thank you! 
 --------------------------------
 [00000201][none]
-私達の勝ちね！
-みんなありがとう！
+We win!  Thank you everyone!
 --------------------------------
 [00000202][none]
-勝った！　ありがとう！
-みんなのお陰よ！
+I won! thank you! 
 --------------------------------
 [00000203][none]
-私達の勝ちね！
-みんなありがとう！
+We win!  Thank you everyone!
 --------------------------------
 [00000204][none]
-この程度の戦い
-負けるはずがない
+A battle of this magnitude There's no way I'll lose
 --------------------------------
 [00000205][none]
-勝利……
-当然の結果でしかない
+Victory... It's only a natural result.
 --------------------------------
 [00000206][none]
-悪いが
-負けられないんでね
+Sorry, I can't lose.
 --------------------------------
 [00000207][none]
-勝てたか……
-一安心ってとこだな
+We won... I'm relieved.
 --------------------------------
 [00000208][none]
-オレ達の勝ちだ！
-みんな、ごくろうさん！
+We win!  Everyone, Gokuro-san!
 --------------------------------
 [00000209][none]
-よーし、今日はウマイメシ
-作ってやる！
+Okay, today I'll make some delicious food!
 --------------------------------
 [00000210][none]
-よし、勝ったぜ！
-俺たち最強だな！
+Okay, we won!  We are the strongest!
 --------------------------------
 [00000211][none]
-勝ったぞ！
-みんな、ありがとな！
+You won!  Thank you everyone!
 --------------------------------
 [00000212][none]
-ファンタスティックな
-戦いだったろう？
+It was a fantastic battle, wasn't it?
 --------------------------------
 [00000213][none]
-勝利という名の美酒を
-存分に味わってくれ！
+Enjoy the delicious sake called victory to the fullest!
 --------------------------------
 [00000214][none]
-勝った……のか？
-はは、ウソみたいだな
+I won...?  Haha, that sounds like a lie.
 --------------------------------
 [00000215][none]
-勝っちまった……
-こんなこともあるんだな
+I won... I guess things like this happen too.
 --------------------------------
 [00000216][none]
-次の戦いが
-待ち遠しいですね
+I can't wait for the next battle 
 --------------------------------
 [00000217][none]
-戦いに勝ちました
-みなさんのお陰です
+We won the battle Thanks to you all.
 --------------------------------
 [00000218][none]
-やりました！
-みなさんのお陰です！
+I did it!  Thanks to everyone!
 --------------------------------
 [00000219][none]
-勝ててよかった……！
-ありがとうございます！
+I'm glad I won...!  Thank you!
 --------------------------------
 [00000220][none]
-当然の結果ね
-ひざまづいて感謝なさい
+It's a natural result. Get on your knees and be grateful.
 --------------------------------
 [00000221][none]
-私の教育のたまものね
-これからも従属なさい
+It's a gift of my education Please continue to follow me.
 --------------------------------
 [00000222][none]
-勝ちましたよ！
-いやったぁぁぁ！
+You won!  Yay!
 --------------------------------
 [00000223][none]
-この勝利
-素直に嬉しいです！
+I'm honestly happy with this win!
 --------------------------------
 [00000224][none]
-勝ったか
-まあ、こんなものかね
+Did you win Well, something like this
 --------------------------------
 [00000225][none]
-これぐらい朝飯前さ
-ババアをなめんじゃないよ
+It's such a small meal Don't insult the old woman.
 --------------------------------
 [00000226][none]
-やったわ！
-私達の勝ちよ！
+I did it!  We win!
 --------------------------------
 [00000227][none]
-この勝利も
-歴史の一部なのね
+This victory is also part of history.
 --------------------------------
 [00000228][none]
-勝利は酒と共に
-味わうものよ！
+Victory is something to be enjoyed with alcohol!
 --------------------------------
 [00000229][none]
-今日は美味い酒が
-呑めそうだ！
+Looks like I'll be able to drink some delicious sake today!
 --------------------------------
 [00000230][none]
-敵撃破……
-祝着至極に候
+Destroy the enemy... Congratulations!
 --------------------------------
 [00000231][none]
-この勝利
-主君に捧げ奉り候
+I dedicate this victory to my master.
 --------------------------------
 [00000232][none]
-これだけやれば
-上出来かな？
+Is it possible to do well if I just do this?
 --------------------------------
 [00000233][none]
-どうだい、みんな
-楽しめただろ？
+Hey, everyone enjoyed it, right?
 --------------------------------
 [00000234][none]
-完勝ですね
-当然の結果でしょう？
+It's a complete victory Isn't it a natural result?
 --------------------------------
 [00000235][none]
-私の指示は間違って
-いなかったってことですね
+So my instructions weren't wrong.
 --------------------------------
 [00000236][none]
-お疲れ様でした
-ケガはありませんか？
+Thank you for your hard work Are you hurt?
 --------------------------------
 [00000237][none]
-よかった……
-みなさん無事ですね
+I'm glad... Everyone is safe.
 --------------------------------
 [00000238][none]
-素晴らしい勇姿だったよ！
-もちろん男性諸君もね
+That was a great bravery!  Of course, men too.
 --------------------------------
 [00000239][none]
-見事な勝利だね
-惚れ惚れするよ
+What a great victory I'm in love with it.
 --------------------------------
 [00000240][none]
-あれ？
-いつの間に勝ったんだ？
+Huh?  When did you win?
 --------------------------------
 [00000241][none]
-勝ったか
-意外と楽ちんだったな
+Did you win? It was surprisingly easy.
 --------------------------------
 [00000242][none]
-セドリックはどこだ？
-死んでないだろうな
+Where's Cedric?  I guess he's not dead.
 --------------------------------
 [00000243][none]
-勝ったか
-任務完了だな
+Did you win Mission completed?
 --------------------------------
 [00000244][none]
-勝ったんですか？
+Did you win?
 --------------------------------
 [00000245][none]
-良かったと思います
+I think it was good
 --------------------------------
 [00000246][none]
-うふふ
-上手くいったみたい
+Hehehe It looks like it went well.
 --------------------------------
 [00000247][none]
-楽しかったわよ？
-ご苦労さま
+Was it fun?  Thank you for your hard work
 --------------------------------
 [00000248][none]
-報酬ははずんで
-もらいたいですね
+I would like to receive the reward as expected.
 --------------------------------
 [00000249][none]
-勝ちました
-さーていくらになるかな
+I won How much will it cost?
 --------------------------------
 [00000250][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-よし！
-うまくいったぞ！
+Okay!  It worked!
 --------------------------------
 [00000251][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-やったぞ！
-みんなのお陰だ！
+Got it!  Thanks to everyone!
 --------------------------------
 [00000252][ボーン,ボーン,ボーンファイター]
-勝ったよ！
-みんな、ありがとう！
+I won!  Thank you everyone!
 --------------------------------
 [00000253][ボーン,ボーン,ボーンファイター]
-作戦成功！
-うまくいって良かった！
+Operation successful!  I'm glad it went well!
 --------------------------------
 [00000254][none]
-やりました！
-私達の勝利です！
+I did it!  It's our victory!
 --------------------------------
 [00000255][none]
-勝ったのですね……
-よかった
+You won... I'm glad.
 --------------------------------
 [00000256][none]
-ざまあ見やがれ！
-これが、俺達の実力だ！
+Take a look!  This is our strength!
 --------------------------------
 [00000257][none]
-どんなもんだ！
-おととい来やがれ！
+What is it?  Come yesterday!
 --------------------------------
 [00000258][none]
-勝利の凱歌でも
-歌いたい気分だね！
+I feel like singing the triumphant song of victory!
 --------------------------------
 [00000259][none]
-みんなよくやったよ！
-お陰で大勝利さ！
+Well done everyone!  Thanks to you, it's a big victory!
 --------------------------------
 [00000260][none]
-アイドルには
-勝利しか似合いませんわ！
+Only victory suits an idol!
 --------------------------------
 [00000261][none]
-また一つわたくしの伝説が
-生まれてしまいましたわね！
+Another legend of mine has been born!
 --------------------------------
 [00000262][none]
-あれ？
-まさかぼくらが
-勝ったのかい
+Huh?  Did we actually win?
 --------------------------------
 [00000263][none]
-ありがとう……
-みんなのおかげで
-とても気持ちよかったよ
+Thank you... Thanks to everyone It felt so good
 --------------------------------
 [00000264][none]
-みなさんのおかげで
-勝利できました
+Thanks to everyone, I was able to win.
 --------------------------------
 [00000265][none]
-みなさんと戦えて
-よかったです
+I'm glad I could fight with you all.
 --------------------------------
 [00000266][none]
-うふ！　勝利よ勝利！
-それじゃご褒美の
-筋肉タイム始めましょ！
+Wow! Victory, victory!  Then let's start the reward muscle time!
 --------------------------------
 [00000267][none]
-やった！　やったわ！
-みんなの筋肉のおかげで
-ビクトリーよ！
+Yay! I did it!  Thanks to everyone's muscles Victory!
 --------------------------------
 [00000268][none]
-……勝った
+... won
 --------------------------------
 [00000269][none]
-みんな……礼を言う
+Everyone...thank you.
 --------------------------------
 [00000270][none]
-この勝利を……
-あなたに……
+This victory... to you...
 --------------------------------
 [00000271][none]
-みなさんの力で
-勝利することができました
+With everyone's help, we were able to win.
 --------------------------------
 [00000272][none]
-うん
-こんなものかしら
+Yeah I wonder if it's something like this
 --------------------------------
 [00000273][none]
-勝ったわ
-みんな御苦労さま
+I won Thank you everyone for your hard work.
 --------------------------------
 [00000274][none]
-いい戦いができたな！
+It was a good fight!
 --------------------------------
 [00000275][none]
-志高き者は
-絶対に負けん！
+A person with high aspirations never loses!
 --------------------------------
 [00000276][none]
-当然だ
-我が部隊に敵なし！
+Of course Our troops have no enemies!
 --------------------------------
 [00000277][none]
-ふっ、これが
-ガッセナール家の力だ！
+Huh, this is the power of the Gassenard family!
 --------------------------------
 [00000278][none]
-作戦は
-成功したようですね
+Looks like the operation was a success.
 --------------------------------
 [00000279][none]
-この勝利を
-ヴァルキュリアに
-捧げます……
+I dedicate this victory to Valkyria...
 --------------------------------
 [00000280][none]
-作戦は
-成功したようですね
+Looks like the operation was a success.
 --------------------------------
 [00000281][none]
-この勝利を
-ヴァルキュリアに
-捧げます……
+I dedicate this victory to Valkyria...
 --------------------------------
 [00000282][none]
-この結果には
-満足していますよ
+I'm satisfied with this result 
 --------------------------------
 [00000283][none]
-完勝ですね
-よい戦いでした
+Complete victory. It was a good fight.
 --------------------------------
 [00000284][none]
-勝って当然！
-これが私の実力だ！
+Of course you win!  This is my ability!
 --------------------------------
 [00000285][none]
-勝利、だな
-簡単なものだ
+Victory, It's easy.
 --------------------------------
 [00000286][none]
-おっしゃ！
-オレ達の勝ちだぜ！
+Hey!  We win!
 --------------------------------
 [00000287][none]
-やったぞ！
-みんなのお陰で勝てた！
+I did it!  Thanks to everyone, we won!
 --------------------------------
 [00000288][サクヤ,マキシマ,サクヤ]
-やった！
-勝ったぞ！
+Yay!  You won!
 --------------------------------
 [00000289][サクヤ,マキシマ,サクヤ]
-よかった……
-俺達勝ったんだな
+Good... I guess we won.
 --------------------------------
 [00000290][none]
-よかった……
-みなさんのお陰です！
+Good... Thanks to everyone!
 --------------------------------
 [00000291][none]
-やったあ！
-勝ちましたよ！
+Yay!  You won!
 --------------------------------
 [00000292][none]
-余が負けるわけが
-なかろう？
+There's no way I could lose, right?
 --------------------------------
 [00000293][none]
-負けるはずのない
-戦いなどつまらぬ……
+A battle you can't lose is boring...
 --------------------------------
 [00000294][none]
-ふん、他愛もない
+Hmm, nothing else.
 --------------------------------
 [00000295][none]
-勝って当然だ
-喜ぶほどのことではない
+I deserved to win It's not something I should be happy about.
 --------------------------------
 [00000296][none]
-ざっとこんなもんだ
-俺が負けるわけないだろ？
+It's basically like this There's no way I can lose, right?
 --------------------------------
 [00000297][none]
-実力はちゃんと
-示しておかないとな！
+I have to show my true ability!
 --------------------------------
 [00000298][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘勝利メッセージ
-(主人公、リーダー時)１
+Temporary. Battle Victory Message (Protagonist, Leader) 1
 --------------------------------
 [00000299][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘勝利メッセージ
-(主人公、リーダー時)２
+Temporary. Battle victory message (main character, leader) 2
 --------------------------------
 [00000300][none]
-勝つべくして勝った
-それだけのことだ
+I won because I wanted to win That's all.
 --------------------------------
 [00000301][none]
-勝利というものは
-重ねるたびに
-味わいが違うものだな
+Victory tastes different each time.
 --------------------------------
 [00000302][none]
-アタシ達に勝とうなんて
-図々しいんじゃない？
+Isn't it brazen to try to beat us?
 --------------------------------
 [00000303][none]
-命乞いでもしてみる？
-許してあげないけど
+Would you like to beg for your life?  I won't forgive you though
 --------------------------------
 [00000304][none]
-その程度でオレたちに
-勝てるとでも思ったか？
+Did you think you could beat us at that level?
 --------------------------------
 [00000305][none]
-理想もないような奴らに
-オレは倒せん！
+I can't defeat these guys who have no ideals!
 --------------------------------
 [00000306][none]
-おれたちの勝ちだ！
-みんな！　ありがとよ！
+We win!  Everyone! Thank you!
 --------------------------------
 [00000307][none]
-よっしゃ！
-こうでなくっちゃな！
+Alright!  It has to be like this!
 --------------------------------
 [00000308][none]
-ありがとう　この勝利は
-みなさんで勝ち取った
-勝利です
+Thank you, this victory was won by all of you.
 --------------------------------
 [00000309][none]
-戦いは終わりました
-みなさん、ありがとう
+The battle is over Thank you everyone.
 --------------------------------
 [00000310][none]
-やったね！
-みんなサンキュー！
+You did it!  Thank you everyone!
 --------------------------------
 [00000311][none]
-よーっし
-あたし達の勝ちだよ
-ばんざーい！
+Alright We win Hurray!
 --------------------------------
 [00000312][none]
-仮。戦闘勝利メッセージ
-(主人公、リーダー時)１
+Temporary. Battle Victory Message (Protagonist, Leader) 1
 --------------------------------
 [00000313][none]
-仮。戦闘勝利メッセージ
-(主人公、リーダー時)２
+Temporary. Battle victory message (main character, leader) 2
 --------------------------------
 [00000314][none]
-やりましたわ！
+I did it!
 --------------------------------
 [00000315][none]
-アイドルは
-遊びじゃありませんのよ！
+Being an idol isn't just for fun!
 --------------------------------
 [00000316][none]
-まだまだ
-お姉様には及びませんわ……
+I'm still not as good as your sister...
 --------------------------------
 [00000317][none]
-一応
-反省はしてますのよ……
+Just in case I've reflected on it...
 --------------------------------
 [00000318][none]
-くそっ……
-何が足りなかったんだ！
+Damn it... What was I missing?
 --------------------------------
 [00000319][none]
-俺の力不足だ……
-みんな、すまない
+I'm not strong enough... I'm sorry, everyone.
 --------------------------------
 [00000320][none]
-くそっ……
-何が足りなかったんだ！
+Damn it... What was I missing?
 --------------------------------
 [00000321][none]
-俺の力不足だ……
-みんな、すまない
+I'm not strong enough... I'm sorry, everyone.
 --------------------------------
 [00000322][none]
-みんな、ごめんね……
-私のせいで
-負けちゃった……
+Everyone, I'm sorry... It's my fault that you lost...
 --------------------------------
 [00000323][none]
-もっとしっかりしなきゃ……
-なさけないね、私
+I have to be better... I have to be better.
 --------------------------------
 [00000324][none]
-みんな、ごめんね……
-私のせいで
-負けちゃった……
+Everyone, I'm sorry... It's my fault that you lost...
 --------------------------------
 [00000325][none]
-もっとしっかりしなきゃ……
-なさけないね、私
+I have to be better... I have to be better.
 --------------------------------
 [00000326][none]
-バカな……ありえない
+Stupid...impossible
 --------------------------------
 [00000327][none]
-敗北など……
-認めたくない……！
+Defeat... I don't want to admit it...!
 --------------------------------
 [00000328][none]
-負けか……！
-すまない！
+Lose...!  Sorry!
 --------------------------------
 [00000329][none]
-くそっ
-勝てなかったか！
+Damn it I didn't win!
 --------------------------------
 [00000330][none]
-くっ……
-負けちまった……
+Damn... I lost...
 --------------------------------
 [00000331][none]
-悪い……
-勝てなかった……
+Too bad... I couldn't win...
 --------------------------------
 [00000332][none]
-みんな……すまない
-俺の力不足だ……
+Everyone...I'm sorry I'm not good enough...
 --------------------------------
 [00000333][none]
-そんな……
-俺達が負けるなんて……
+That's it... I can't believe we're going to lose...
 --------------------------------
 [00000334][none]
-敗者の美学ってやつを
-学ぶことになるとはな……
+I never thought I'd learn about the loser's aesthetics...
 --------------------------------
 [00000335][none]
-おれが負けるとは……
-明日は台風がくるぜ
+I don't think I'll lose... There's a typhoon coming tomorrow.
 --------------------------------
 [00000336][none]
-こうなると
-思ったんだよな……
+I thought this would happen ...
 --------------------------------
 [00000337][none]
-負け続きの俺には
-ふさわしいよ
+It's appropriate for me, who keeps losing.
 --------------------------------
 [00000338][none]
-ここが……
-僕の死に場所か……
+This is... The place where I will die...
 --------------------------------
 [00000339][none]
-僕が終わるのはいい……
-でもみんなは……！
+It's fine for me to end... But for everyone...!
 --------------------------------
 [00000340][none]
-皆さん……私のせいで
-ごめんなさい……
+Everyone...I'm sorry it's my fault...
 --------------------------------
 [00000341][none]
-こんな……ことって……
-お父さん……
-どうすればいいの？
+This kind of thing... Dad... What should I do?
 --------------------------------
 [00000342][none]
-くっ……
-こんなの認めないわ……
+Damn... I won't accept this...
 --------------------------------
 [00000343][none]
-教育が
-足りなかったみたいね……
+Looks like your education wasn't enough...
 --------------------------------
 [00000344][none]
-あたしの力不足です
-すみません……
+I'm not good enough I'm sorry...
 --------------------------------
 [00000345][none]
-もっともっと
-修行しなくちゃ……
+I have to train more and more...
 --------------------------------
 [00000346][none]
-負けちまったか……
-アタシももう歳かねえ
+I guess I lost... I'm already old.
 --------------------------------
 [00000347][none]
-やれやれ……
-少し勘が鈍ったかねえ
+Oh my... I guess I'm a little unintuitive.
 --------------------------------
 [00000348][none]
-そんな……こんなところで
-負けるなんて……
+That's... I can't believe I'm losing at a place like this...
 --------------------------------
 [00000349][none]
-私達はこうして……
-歴史から消えるのね
+This is how we... disappear from history.
 --------------------------------
 [00000350][none]
-くそぉ……
-腕がなまったか……？
+Damn... My arms are dull...?
 --------------------------------
 [00000351][none]
-酒……
-酔いが足りん……
+Alcohol... I'm not drunk enough...
 --------------------------------
 [00000352][none]
-全て、自分の責任だ……
+Everything is my responsibility...
 --------------------------------
 [00000353][none]
-敗戦の将
-兵を語らず……
+Don't talk about the defeated generals...
 --------------------------------
 [00000354][none]
-俺の足引っ張ったのは
-誰だ？
+Who was holding me back?
 --------------------------------
 [00000355][none]
-つまんねえ！
-もっと面白くやれるだろ！
+It's boring!  You can make it more fun!
 --------------------------------
 [00000356][none]
-こ、これは何かの
-間違いです……
+This is some kind of mistake...
 --------------------------------
 [00000357][none]
-どうして……？
-私では勝てないの……？
+Why...?  I can't win...?
 --------------------------------
 [00000358][none]
-ああ……
-そんな……
+Ah... That's it...
 --------------------------------
 [00000359][none]
-ごめんなさい！
-こんなことになるなんて……
+Sorry!  I can't believe this happened...
 --------------------------------
 [00000360][none]
-残念……
-ついてなかったな
+Too bad... It wasn't there.
 --------------------------------
 [00000361][none]
-そう簡単にはいかないか
-面目ない
+It's not that easy It's embarrassing.
 --------------------------------
 [00000362][none]
-あ、負けた？
-そいつは困ったな
+Oh, you lost?  That's a problem.
 --------------------------------
 [00000363][none]
-よしさっさと
-帰ろうぜ
+Okay, let's go home quickly 
 --------------------------------
 [00000364][none]
-そんな……バカな
-何がいけなかったんだ……
+That's...stupid What's wrong...
 --------------------------------
 [00000365][none]
-くっ……
-こんなはずでは！
+Damn... It's not supposed to be like this!
 --------------------------------
 [00000366][none]
-負けちゃいましたか……
+Did you lose...?
 --------------------------------
 [00000367][none]
-もっと燃やさないと……
+I need to burn more...
 --------------------------------
 [00000368][none]
-あん
-ダメだったのね……
+Well, it wasn't good...
 --------------------------------
 [00000369][none]
-思ったより
-難しかったわね……
+It was more difficult than I expected...
 --------------------------------
 [00000370][none]
-大赤字です……
+It's a big deficit...
 --------------------------------
 [00000371][none]
-勘定が合いません
+Account does not match
 --------------------------------
 [00000372][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-くっ……
-作戦……失敗だ……
+Damn...  The plan... failed...
 --------------------------------
 [00000373][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-すまないみんな……
-敗北だ……！
+Sorry, everyone... You're defeated...!
 --------------------------------
 [00000374][ボーン,ボーン,ボーンファイター]
-ごめん……
-負けちゃった……
+Sorry... I lost...
 --------------------------------
 [00000375][ボーン,ボーン,ボーンファイター]
-あたしのせいだ……
-もっとしっかりしなきゃ
+It's my fault... You have to be better.
 --------------------------------
 [00000376][none]
-負けてしまいました……
-ごめんなさい……
+I lost... I'm sorry...
 --------------------------------
 [00000377][none]
-……すみません
-私の責任です
+...I'm sorry It's my responsibility.
 --------------------------------
 [00000378][none]
-くそっ
-負けちまったか……！
+Damn it I lost...!
 --------------------------------
 [00000379][none]
-なんてこった……
-こんなはずじゃ……
+Oh my god... It's not supposed to be like this...
 --------------------------------
 [00000380][none]
-はんっ
-なんてザマだよ……
+Hmm What a waste...
 --------------------------------
 [00000381][none]
-やれやれ……
-負けちまったのか
+Oh my... Did I lose?
 --------------------------------
 [00000382][none]
-これは何かの
-間違いですわーっ！
+This is some kind of mistake!
 --------------------------------
 [00000383][none]
-や、やり直しを
-要求しますわ！
+No, I'll ask you to redo it!
 --------------------------------
 [00000384][none]
-ああ……やっぱり
-こうなるんだよな……
-うふふ……
+Ah... This is how it will turn out after all... Hehe...
 --------------------------------
 [00000385][none]
-こういうのも……
-悪くないよね……
+Something like this... It's not bad...
 --------------------------------
 [00000386][none]
-なぜ
-負けてしまったのでしょう？
+Why did you lose?
 --------------------------------
 [00000387][none]
-負けてしまいましたね……
-ごめんなさい……
+I lost... I'm sorry...
 --------------------------------
 [00000388][none]
-ああ……なんてこと
-筋肉が足りなかったの
-かしら……
+Oh... my god Maybe I didn't have enough muscles ...
 --------------------------------
 [00000389][none]
-みんな……ごめんなさい
-海より深く反省します
+Everyone...I'm sorry I regret it more deeply than the sea.
 --------------------------------
 [00000390][none]
-……終わり……か
+...the end...?
 --------------------------------
 [00000391][none]
-……すまない
+...I'm sorry.
 --------------------------------
 [00000392][none]
-そんな……
-負けるなんて
+That's it... I can't believe I'm losing
 --------------------------------
 [00000393][none]
-わたしのせいで……
-ごめんなさい……
+It's my fault... I'm sorry...
 --------------------------------
 [00000394][none]
-私のミスね
-なさけないわ……
+It was my mistake I'm sorry...
 --------------------------------
 [00000395][none]
-作戦失敗
-悔しいわね……
+The mission failed It's frustrating...
 --------------------------------
 [00000396][none]
-しまった……
-作戦……失敗だ……
+It's gone... The strategy...has failed...
 --------------------------------
 [00000397][none]
-みんな、すまない……
-全て俺の責任だ……
+Everyone, I'm sorry... It's all my fault...
 --------------------------------
 [00000398][none]
-私が負けるだと……？
+What if I lose...?
 --------------------------------
 [00000399][none]
-そんな馬鹿な……！
+You're such an idiot...!
 --------------------------------
 [00000400][none]
-どこにミスが
-あったというの……？
+Where was the mistake...?
 --------------------------------
 [00000401][none]
-この私が
-負けるなんて……！
+I can't believe I'm going to lose...!
 --------------------------------
 [00000402][none]
-どこにミスが
-あったというの……？
+Where was the mistake...?
 --------------------------------
 [00000403][none]
-この私が
-負けるなんて……！
+I can't believe I'm going to lose...!
 --------------------------------
 [00000404][none]
-少し腕が
-鈍っていたようですね……
+Looks like your arm was a little slow...
 --------------------------------
 [00000405][none]
-蒼い死神……
-名前負けですね……
+Blue Shinigami... The name is too good...
 --------------------------------
 [00000406][none]
-こ、この私が
-負けただと!?
+I-I lost!?
 --------------------------------
 [00000407][none]
-な、なぜだ……？
-負けるなんて……
+W-why...?  I can't believe I'm losing...
 --------------------------------
 [00000408][none]
-くそっ……
-作戦……失敗だ……
+Damn... The strategy...failed...
 --------------------------------
 [00000409][none]
-ちくしょう……
-みんな、ごめん……
+Damn... Sorry, everyone...
 --------------------------------
 [00000410][サクヤ,マキシマ,サクヤ]
-くっ……
-負けたのか……！
+Damn... I lost...!
 --------------------------------
 [00000411][サクヤ,マキシマ,サクヤ]
-くそっ！
-どうして勝てない……！
+Damn it!  Why can't I win...!
 --------------------------------
 [00000412][none]
-負けちゃいましたね……
+I lost...
 --------------------------------
 [00000413][none]
-残念です……
+Too bad...
 --------------------------------
 [00000414][none]
-こんなことが
-許されると思うか？
+Do you think this is forgivable?
 --------------------------------
 [00000415][none]
-くっ……
-無様な戦いだ……！
+Damn... What a miserable battle...!
 --------------------------------
 [00000416][none]
-作戦失敗だと……!?
+If the strategy fails...!?
 --------------------------------
 [00000417][none]
-なぜ私が負けるのだ……!?
+Why do I lose...!?
 --------------------------------
 [00000418][none]
-負けた……か
-情けない
+I lost...or It's pathetic.
 --------------------------------
 [00000419][none]
-向こうが一枚
-上手だったってことか……
+Does that mean they were better at one piece...?
 --------------------------------
 [00000420][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘敗北メッセージ
-(主人公、リーダー時)１
+Temporary. Battle defeat message (main character, leader)1
 --------------------------------
 [00000421][アルティナ,メル・シルフィス,アルティナ]
-仮。戦闘敗北メッセージ
-(主人公、リーダー時)２
+Temporary. Battle defeat message (main character, leader) 2
 --------------------------------
 [00000422][none]
-こんな戦いで
-負けたというのか……!?
+You lost in a battle like this...!?
 --------------------------------
 [00000423][none]
-敗北の味とは
-苦いものだな……
+The taste of defeat is bitter...
 --------------------------------
 [00000424][none]
-やだ、なにこれ!?
+Oh no, what is this!?
 --------------------------------
 [00000425][none]
-最低の負け方ね……
+That's the worst way to lose...
 --------------------------------
 [00000426][none]
-くっ…どうして
-オレたちが
-負けるんだ…？
+Damn... why do we lose...?
 --------------------------------
 [00000427][none]
-くそっ…
-こんなはずじゃ
-なかったのに…！
+Damn it... It wasn't supposed to happen this way...!
 --------------------------------
 [00000428][none]
-こんなところで
-負けてられねぇのに……
+I can't afford to lose at a place like this...
 --------------------------------
 [00000429][none]
-ちくしょう！
-おれが負けるなんて
-ありえねぇ！
+Damn it!  It's impossible for me to lose!
 --------------------------------
 [00000430][none]
-そんな……
-わたしたち
-がんばったのに……
+That's so... We tried so hard...
 --------------------------------
 [00000431][none]
-負けてしまったのですか……
+Did you lose...?
 --------------------------------
 [00000432][none]
-えー！
-これって
-負けちゃったってことお？
+Eh!  Does this mean I lost?
 --------------------------------
 [00000433][none]
-グスン……
-負けちゃったよお……
+Gusun... I lost...
 --------------------------------
 [00000434][none]
-仮。戦闘敗北メッセージ
-(主人公、リーダー時)１
+Temporary. Battle defeat message (main character, leader)1
 --------------------------------
 [00000435][none]
-仮。戦闘敗北メッセージ
-(主人公、リーダー時)２
+Temporary. Battle defeat message (main character, leader) 2
 --------------------------------
 [00000436][none]
-恐れることはない
-この戦いは必ず勝てる
+Don't be afraid You can definitely win this battle.
 --------------------------------
 [00000437][none]
-奇襲は成功している！
-一気に行くぞ！
+The surprise attack was a success!  Let's go all at once!
 --------------------------------
 [00000438][none]
-くっ……
-何とかしなくては……！
+Damn... I have to do something...!
 --------------------------------
 [00000439][none]
-リエラを援護して
-包囲網を突破する！
+Support Riela and break through the siege!
 --------------------------------
 [00000440][none]
-カラミティ……
-なぜここが分かったんだ？
+Calamity... How did you know this?
 --------------------------------
 [00000441][none]
-この戦況でよく
-俺達を見つける……
-グスルグなのか……？
+In this war situation they often find us... Is it Gusurg...?
 --------------------------------
 [00000442][none]
-負けるわけにはいかない！
-これが俺達の戦いだ！
-いくぞ！
+We can't afford to lose!  This is our battle!  Let's go!
 --------------------------------
 [00000443][none]
-イムカ、君ひとりが
-戦っているんじゃない
-俺達も一緒だ……！
+Imka, you're not fighting alone. We're all fighting together...!
 --------------------------------
 [00000444][none]
-俺は君を止める……
-必ずだ！
+I will stop you... For sure!
 --------------------------------
 [00000445][none]
-行こうリエラ
-これが最後の戦いだ！
+Let's go, Riera This is the final battle!
 --------------------------------
 [00000446][none]
-この戦い……
-生き延びるぞ
-イムカ！
+This battle... We'll survive Imka!
 --------------------------------
 [00000447][none]
-必要なのは速さだ！
-奇襲を成功させるぞ！
+All you need is speed!  We'll make the surprise attack a success!
 --------------------------------
 [00000448][none]
-攻撃開始！
-一気に勝負を決めて
-敵部隊を撤退させる
+Attack begins!  Decide the battle at once Retreat the enemy troops
 --------------------------------
 [00000449][none]
-あ、あの……
-私がんばりますから！
+Oh, uh... I'll do my best!
 --------------------------------
 [00000450][none]
-あわてた分は
-取り戻さなきゃ！
+I have to make up for the panic!
 --------------------------------
 [00000451][none]
-絶対に負けないんだから！
+I will never lose!
 --------------------------------
 [00000452][none]
-負けはしない……！
+I won't lose...!
 --------------------------------
 [00000453][none]
-勝負か……くだらない
+Victory or victory...it's worthless
 --------------------------------
 [00000454][none]
-体調は悪くない！
+I'm not feeling well!
 --------------------------------
 [00000455][none]
-これだけの戦力で
-どこまでやれる……？
+How far can you go with this much strength...?
 --------------------------------
 [00000456][none]
-絶対に守ってみせる！
-よし、いくぞ！
+I will definitely protect you!  Alright, let's go!
 --------------------------------
 [00000457][none]
-料理も戦いも
-スピードが大切だ！
-早く終わらせようぜ！
+Speed ??is important in both cooking and fighting!  Let's finish it quickly!
 --------------------------------
 [00000458][none]
-俺がみんなを守る！
-何があってもだ！
+I will protect everyone!  No matter what!
 --------------------------------
 [00000459][none]
-予想通りの展開だな
-ちゃっちゃと片付けて
-しまおう
+It's going as expected Let's just clean it up 
 --------------------------------
 [00000460][none]
-妹に会うまで……
-簡単には死ねない！
+Until I meet my sister... I won't die easily!
 --------------------------------
 [00000461][none]
-隊長、申し訳ありません
-でも僕は見つけたんです
-自分の死に場所を……
+Captain, I'm sorry. But I found the place to die. 
 --------------------------------
 [00000462][none]
-平和な世の中にするために
-精一杯戦うのよ！
+Fight as hard as you can to make the world a peaceful place!
 --------------------------------
 [00000463][none]
-あたしはもっと……
-強くならなきゃ！
+I have to become stronger... I need to become stronger!
 --------------------------------
 [00000464][none]
-フン！
-とっとと済ませちまうよ！
+Hmph!  I'll finish it in no time!
 --------------------------------
 [00000465][none]
-帝国軍が何を調べていたか
-突き止めなくては！
+We must find out what the Imperial Army was investigating!
 --------------------------------
 [00000466][none]
-帝国軍のクソガキ共が！
-軍人の何たるかを
-骨の髄に叩き込んでやる！
+Those damn Imperial Army brats!  I'll drill into your bones what it means to be
+a soldier!
 --------------------------------
 [00000467][none]
-生死は問わぬ
-ただ勝つのみ！
+Life or death doesn't matter Just win!
 --------------------------------
 [00000468][none]
-さーて、俺達の道はどこに
-続いているんだろうな？
+Well, where does our path lead?
 --------------------------------
 [00000469][none]
-この戦い
-絶対に勝ってみせます……！
+I will definitely win this battle ...!
 --------------------------------
 [00000470][none]
-私が必ずみなさんを
-助けます！
+I will definitely help you all!
 --------------------------------
 [00000471][none]
-女性を助けるのは
-女性を愛するぼくの使命だ
+Helping women is my mission as a lover of women.
 --------------------------------
 [00000472][none]
-リエラちゃんを
-喜ばせる方法は……うーむ
+How to make Riera-chan happy... Hmm...
 --------------------------------
 [00000473][none]
-火薬の香りがする……
+It smells like gunpowder...
 --------------------------------
 [00000474][none]
-どうなるかしら……
-ふふ、楽しみね
+I wonder what will happen... Hehe, I'm looking forward to it.
 --------------------------------
 [00000475][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-ダルクス人の部隊か
-珍しいな……
+It's a Darcusian unit It's rare...
 --------------------------------
 [00000476][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-攻撃を開始する！
-敵拠点を制圧するぞ！
+Launch the attack!  We'll conquer the enemy base!
 --------------------------------
 [00000477][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-歩兵同士の戦いだ！
-慎重に行動してくれ！
+It's a battle between infantry!  Please act carefully!
 --------------------------------
 [00000478][none]
-さあ、
-戦術的撤退開始ですわ！
+Now, the tactical retreat begins!
 --------------------------------
 [00000479][none]
-指揮は任せた
-期待しているぞ！
+I've left the command to you I'm looking forward to it!
 --------------------------------
 [00000480][none]
-反撃開始だ！
-行くぞ！
+Start counterattack!  Let's go!
 --------------------------------
 [00000481][none]
-祖国のために
-恥じぬ戦いを！
-出撃する！
+Fight unashamedly for your country!  Sortie!
 --------------------------------
 [00000482][none]
-帝国軍め、許さんぞ！
-必ず勝つ！
+Forgive me, Imperial Army!  We will definitely win!
 --------------------------------
 [00000483][none]
-そんなデカブツ
-恐くねえぞ！
+Don't be scared of those big guys!
 --------------------------------
 [00000484][none]
-メルフェア市は
-絶対にオレ達が守る！
+We will definitely protect Melfair City!
 --------------------------------
 [00000485][サクヤ,マキシマ,サクヤ]
-帝国軍め！
-ここから出て行け！
+Imperial forces!  Get out of here!
 --------------------------------
 [00000486][none]
-わたしもみなさんと
-いっしょに戦います！
+I will fight together with you all!
 --------------------------------
 [00000487][none]
-殿下のために
-この力を
-役立てて見せよう！
+Let's put this power to good use for His Highness!
 --------------------------------
 [00000488][none]
-さーて、一仕事だな
-やってやるか
+Well, it's just a job I'll do it.
 --------------------------------
 [00000489][none]
-友軍には申し訳ないが
-死んでもらう！
+I'm sorry for the friendly forces, but I'll have you die!
 --------------------------------
 [00000490][none]
-安心してくれ
-指示通り戦えば
-確実に勝てる
+Don't worry. If you follow my instructions, I'm sure you'll win.
 --------------------------------
 [00000491][none]
 
 --------------------------------
 [00000492][none]
-グスルグ……
-君に何があったんだ……
+Gusrug... What happened to you...
 --------------------------------
 [00000493][none]
-勝った……
-いや、リエラが
-勝たせてくれたんだ……
+I won... No, Riela made me win...
 --------------------------------
 [00000494][none]
-見事な奇襲だった
-少数でなかったら
-危なかったな……
+It was a splendid surprise attack. If it wasn't for the small number of people,
+it would have been dangerous...
 --------------------------------
 [00000495][none]
 
 --------------------------------
 [00000496][none]
-リエラ、ありがとう
-この勝利を俺は決して
-忘れない……！
+Thank you, Riela. I will never forget this victory...!
 --------------------------------
 [00000497][none]
-イムカはまだ戦っている！
-俺達も粘るぞ！
+Imka is still fighting!  We will persevere too!
 --------------------------------
 [00000498][none]
-グスルグ……
-俺たちの勝ちだ
+Gusrug... We win.
 --------------------------------
 [00000499][none]
-やったぞリエラ！
-俺達の勝利だ！
+Well done Riera!  It's our victory!
 --------------------------------
 [00000500][none]
-勝ったぞ、イムカ！
-俺達の勝利だ！
+You won, Imka!  It's our victory!
 --------------------------------
 [00000501][none]
-戦闘終了
-この勝利は部隊にとって
-大きな経験になるだろう
+The battle is over. This victory will be a great experience for the troops.
 --------------------------------
 [00000502][none]
-うまくいった
-我々の勝利だ
+It worked We won.
 --------------------------------
 [00000503][none]
-勝ったの……？
-普通に、勝った……！
+Did you win...?  As usual, I won...!
 --------------------------------
 [00000504][none]
-よかった……負けなくて
+I'm glad...I didn't lose
 --------------------------------
 [00000505][none]
-やった！
-えへへ、これでクルトに
-お願いをきいてもらえる！
+Yay!  Hehehe, now Kurt can  ask me a favor!
 --------------------------------
 [00000506][none]
-つまらん戦いで
-死ぬわけにはいかない
+I can't die in a boring battle 
 --------------------------------
 [00000507][none]
-くだらん勝負だが……
-負けはしない
+It's a stupid battle, but... I won't lose.
 --------------------------------
 [00000508][none]
-もう、雪は見たくない
+I don't want to see snow anymore
 --------------------------------
 [00000509][none]
-たった４人で
-本当に勝つなんて…
-信じられないな！
+I can't believe that only 4 people could really win... I can't believe it!
 --------------------------------
 [00000510][none]
-よし、勝ったぞ！
-良かった……
+Okay, you won!  Good...
 --------------------------------
 [00000511][none]
-よし、勝ったぞ！
-ん、あれは……！
+Okay, you won!  Hmm, that's...!
 --------------------------------
 [00000512][none]
-勝ったぞ！
-みんな無事か！？
+You won!  Is everyone safe? ?
 --------------------------------
 [00000513][none]
-敵撃破！
-さーて本番はこれからだぜ？
+Destroy the enemy!  Well, the real thing is about to start, right?
 --------------------------------
 [00000514][none]
-なんとか生き残れたか……
-だが……
+I wonder if I managed to survive... But...
 --------------------------------
 [00000515][none]
-勝った……
-まだ戦えということなのか？
+We won... Does that mean we can still fight?
 --------------------------------
 [00000516][none]
-私が
-負けるわけないじゃない
+There's no way I'll lose.
 --------------------------------
 [00000517][none]
-本当の強さ……
-力ってなんなんだろう
+True strength... What is power?
 --------------------------------
 [00000518][none]
-当然だね
-騒ぐほどのことじゃないさ
+Of course It's not worth making a fuss about.
 --------------------------------
 [00000519][none]
-勝ったわ
-よしこれで調査できる！
+I won Okay, now I can investigate!
 --------------------------------
 [00000520][none]
-誇りなき帝国軍など
-敵ではないわ！
+The prideless Imperial Army is not our enemy!
 --------------------------------
 [00000521][none]
-負けはせぬ！
-祖国のために！
+I won't lose!  For the sake of the motherland!
 --------------------------------
 [00000522][none]
-どう考えても
-負けるわきゃねえってな！
+No matter how you think about it I can't afford to lose!
 --------------------------------
 [00000523][none]
-私……勝ったのね
-自分の作戦で……！
+I... I won with my strategy...!
 --------------------------------
 [00000524][none]
-勝ったんですね……
-よかった……
+You won... I'm glad...
 --------------------------------
 [00000525][none]
-少しはぼくのこと
-認めてもらえるかな？
+Could you please acknowledge me a little bit?
 --------------------------------
 [00000526][none]
-勝ち？
-そんな事より
-リエラちゃんを……
+Win?  More than that, Riera-chan...
 --------------------------------
 [00000527][none]
-匂いが、強くなった……
+The smell has gotten stronger...
 --------------------------------
 [00000528][none]
-快勝じゃない
-私もまだまだ現役ね
+It's not an easy victory I'm still active.
 --------------------------------
 [00000529][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-戦闘終了だ
-４２２部隊も
-無事のようだな
+The battle is over It looks like Unit 422 is safe. 
 --------------------------------
 [00000530][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-よし、敵拠点を制圧したぞ！
-みんな、よくやってくれた！
+Alright, we've captured the enemy base!  Well done everyone!
 --------------------------------
 [00000531][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-手強い敵だったが
-なんとか撃退できたな
+It was a tough enemy, but I managed to defeat it.
 --------------------------------
 [00000532][none]
-アイドルは逃げ足だって
-一級品ですの！
+Idols are top quality even if they're just running away!
 --------------------------------
 [00000533][none]
-俺達の勝ちだ！
-やったな！
+We win!  You did it!
 --------------------------------
 [00000534][none]
-勝ったぞ！
-よく戦った！
+You won!  Good fight!
 --------------------------------
 [00000535][none]
-この勝負
-我らの勝ちだ！
+This battle We win!
 --------------------------------
 [00000536][none]
-私がいる限り
-負けはせん！
+As long as I'm here, I won't lose!
 --------------------------------
 [00000537][none]
-どんな敵だって
-気合いで負けなきゃ
-勝てるんだ！
+No matter what enemy you are you can win if you don't lose with your spirit !
 --------------------------------
 [00000538][none]
-悪党なんかに負けるかよ！
-正義は勝つんだ！
+I'll lose to some villain!  Justice will prevail!
 --------------------------------
 [00000539][サクヤ,マキシマ,サクヤ]
-勝ったか……
-良かった……
+I won... Good...
 --------------------------------
 [00000540][none]
-やりましたね！
-帝国軍に勝ちましたよ！
+You did it!  We won against the imperial army!
 --------------------------------
 [00000541][none]
-ここはもう終わりだ
-次の戦線へ向かう
+This is the end. Head to the next front.
 --------------------------------
 [00000542][none]
-これぐらいは
-やってみせるさ！
+I'll try at least this !
 --------------------------------
 [00000543][none]
-悪く思うな
-これも独立のためだ
+Don't feel bad This is also for independence.
 --------------------------------
 [00000544][none]
-くっ……！
-だが、言い訳はできない
+Damn...!  But I can't make excuses.
 --------------------------------
 [00000545][none]
 
 --------------------------------
 [00000546][none]
-グスルグ、どうして……
-いや、この結果は
-俺の責任だ……
+Gusrug, why... No, this outcome is my responsibility...
 --------------------------------
 [00000547][none]
-何をやっているんだ俺は!
-リエラ、すまない……
+What am I doing! Riera, I'm sorry...
 --------------------------------
 [00000548][none]
-カラミティめ……！
-こんなところで
-終わるなんて……！
+Calamity...!  I can't believe it ends like this...!
 --------------------------------
 [00000549][none]
 
 --------------------------------
 [00000550][none]
-俺はまた……
-助けられなかったのか！
+I... I couldn't help you again!
 --------------------------------
 [00000551][none]
-イムカ……
-すまない！
+Imuka... Sorry!
 --------------------------------
 [00000552][none]
-ランドグリーズを……！
-守れなかった……！
+Landgrease...!  I couldn't protect you...!
 --------------------------------
 [00000553][none]
-すまないリエラ……
-幸せにできなかった……
+I'm sorry Riera... I couldn't make you happy...
 --------------------------------
 [00000554][none]
-すまないイムカ……
-俺が君を地獄へ道連れに
-してしまった……
+I'm sorry, Imuka... I took you to hell with me...
 --------------------------------
 [00000555][none]
-俺の作戦は
-間違っていないはず……
-なぜ勝てないんだ……！
+My strategy must be right... Why can't I win...!
 --------------------------------
 [00000556][none]
-負ける戦いではないはずだ！
-何が悪かったんだ!?
+It's not a fight you'll lose!  What was wrong?
 --------------------------------
 [00000557][none]
-やっぱり、私は……
+As expected, I...
 --------------------------------
 [00000558][none]
-私のせいだわ……
-ごめんなさい！
+It's my fault... I'm sorry!
 --------------------------------
 [00000559][none]
-負けたらいけない
-戦いだったのに……！
+It was a battle I shouldn't have lost...!
 --------------------------------
 [00000560][none]
-無い
+none
 --------------------------------
 [00000561][none]
-情けない
+pathetic
 --------------------------------
 [00000562][none]
-寒さで……力が出ない
+Because of the cold...I don't have any strength.
 --------------------------------
 [00000563][none]
-くっ……
-やはり無理か……
+Ugh... I guess it's impossible after all...
 --------------------------------
 [00000564][none]
-この戦いだけは
-負けられなかったのに！
+This was the only battle I couldn't lose!
 --------------------------------
 [00000565][none]
-くそっ……
-こんなところで……！
+Damn... In a place like this...!
 --------------------------------
 [00000566][none]
-ちくしょう！
-また俺は……
-守れなかったのか！
+Damn it!  I... I couldn't protect you!
 --------------------------------
 [00000567][none]
-くっ……
-予定が狂っちまったな……
+Damn... My plans went crazy...
 --------------------------------
 [00000568][none]
-やっぱり俺は……
-駄目な兄貴だな……
+After all, I'm... I'm a useless big brother...
 --------------------------------
 [00000569][none]
-これで終わり……
-なぜ、悲しいんだろう……
+This is the end... I wonder why I'm sad...
 --------------------------------
 [00000570][none]
-こんなバカなことが
-おこるなんて……
+I can't believe such a stupid thing would happen...
 --------------------------------
 [00000571][none]
-くっ……
-力が足りませんでした……
+Damn... I didn't have enough power...
 --------------------------------
 [00000572][none]
-情けない……
-負けちゃ元も子もないよ
+It's pathetic... If I lose, I won't have any children.
 --------------------------------
 [00000573][none]
-ここで負けるなんて……
-くやしいわ
+Losing here... It's a shame.
 --------------------------------
 [00000574][none]
-祖国復興どころか……
-帝国軍さえ止められんのか
+Let alone the restoration of the homeland... Can't even the Imperial Army be
+stopped?
 --------------------------------
 [00000575][none]
-この敗北
-万死に値する……
+This defeat deserves to die...
 --------------------------------
 [00000576][none]
-エイダちゃんの前で
-恥かいちまったな……
+I was so embarrassed in front of Ada-chan...
 --------------------------------
 [00000577][none]
-こんなこと……
-信じたくない……
+I don't want to believe this... I don't want to believe this...
 --------------------------------
 [00000578][none]
-ごめんなさい……
-助けられませんでした……
+I'm sorry... I couldn't help you...
 --------------------------------
 [00000579][none]
-ここで決められないとは
-情けないね……
+It's pathetic that we can't decide here...
 --------------------------------
 [00000580][none]
-いつの間に
-負けちまったんだ……？
+When did I lose...?
 --------------------------------
 [00000581][none]
-負け……
+Lose...
 --------------------------------
 [00000582][none]
-せっかく情報を
-提供したのに……
+Even though I provided the information...
 --------------------------------
 [00000583][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-いけると思ったんだが……
-４２２部隊との連係が
-うまくいかなかったか……
+I thought we could make it... Perhaps the coordination with Unit 422 didn't go
+well...
 --------------------------------
 [00000584][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-攻めきれなかった……
-作戦失敗だ……
+I couldn't attack... The operation failed...
 --------------------------------
 [00000585][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-強い……
-エーデルワイス号が
-使えていれば……
+Strong... If Edelweiss could be used...
 --------------------------------
 [00000586][none]
-これではわたくし
-ただのおマヌケさんじゃ
-ありませんの？
+Doesn't this mean I'm just an idiot?
 --------------------------------
 [00000587][none]
-くっ……
-負けたか！
+Damn... You lost!
 --------------------------------
 [00000588][none]
-ユリアナ、すまない
-俺の責任だ……
+Juliana, I'm sorry It's my fault...
 --------------------------------
 [00000589][none]
-な、何と言う事だ……
+What can I say...
 --------------------------------
 [00000590][none]
-なぜ勝てない……？
-理由がわからん！
+Why can't I win...?  I don't know why!
 --------------------------------
 [00000591][none]
-勝てないのか……
-ちくしょう！
+I can't win... Damn it!
 --------------------------------
 [00000592][none]
-ごめん……
-負けちまった
+Sorry... I lost.
 --------------------------------
 [00000593][サクヤ,マキシマ,サクヤ]
-ダメか……
-ちくしょう！
+No... Damn it!
 --------------------------------
 [00000594][none]
-ユエル市は
-解放されないんですね……
+Yuel City will not be liberated...
 --------------------------------
 [00000595][none]
-バカな……!?
+Stupid...!?
 --------------------------------
 [00000596][none]
-くっ……
-やっちまったか……
+Damn... I think I did it...
 --------------------------------
 [00000597][none]
-ここで負けるようでは
-独立など夢のまた夢だ
+If we lose here Independence will be a pipe dream.
 --------------------------------

@@ -1,697 +1,506 @@
 [0165]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　ナジアル西部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Conquest 1935 Western Nazir
 --------------------------------
 [00000001][none]
-ちっ……
-今度は最前線で
-突撃隊になれってのか
+Tsk... Now you want to be on the front lines as a shock troop?
 --------------------------------
 [00000002][none]
-死んでも替えがきくって
-本気で思ってるんだろうな
+I guess you really think you can be replaced even if you die.
 --------------------------------
 [00000003][none]
-でも、頑張りましょうよ
-逃げられないんですから
+But let's do our best We can't run away.
 --------------------------------
 [00000004][none]
-一生懸命やれば
-いつかわたし達のことを
-認めてくれるはずですよ
+If we try hard, I'm sure he'll recognize us someday.
 --------------------------------
 [00000005][none]
-エイミーは
-いいことを言う
+Amy says nice things.
 --------------------------------
 [00000006][none]
-嘆くよりは
-希望に向かって進む方が
-気分がいいからね
+It feels better to move toward hope than to mourn 
 --------------------------------
 [00000007][none]
-とはいえ、文句を言いたい
-気持ちも分かる
+However, I understand the feeling of wanting to complain.
 --------------------------------
 [00000008][none]
-おれだって、こういう
-スマートじゃない
-戦いは嫌いなんでね
+I don't like this kind of unsmart fight either.
 --------------------------------
 [00000009][none]
-なにが嫌いなんでね、よ！
-ナイトを自称しておいて
-軟弱極まりないわ！
+What do you dislike?  You call yourself a knight You're extremely weak!
 --------------------------------
 [00000010][none]
-どこの世界にえり好みする
-ナイトがいるのよ！
-このインチキナイト！
+In what world is there a picky night?  You fake knight!
 --------------------------------
 [00000011][none]
-私が立派なナイト様に
-再教育して
-あ・げ・る・わ!!
+I will  re-educate you into a fine knight !
 --------------------------------
 [00000012][none]
-おぅ！
-いつも以上のキレ味！
-何かに目覚めちまいそうだ！
+Oh!  It tastes sharper than usual!  I feel like I'm about to wake up to
+something!
 --------------------------------
 [00000013][none]
-目が覚めたら
-顔を洗ってさっさと
-特攻しなさい！
+When you wake up Wash your face and quickly Go on a special attack!
 --------------------------------
 [00000014][none]
-そんな怖い顔をしてると
-美人がもったいないぜ
-マドモアゼル……
+It's a waste of a beautiful woman to look so scary. Mademoiselle...
 --------------------------------
 [00000015][none]
-ぎゃふ!?
+Gyafu!?
 --------------------------------
 [00000016][none]
-ナイトは黙って
-偉大なる我が女王のために！
-と宣言して出撃よ！
+Knight be silent For the sake of my great Queen!  Declare and set out!
 --------------------------------
 [00000017][none]
-黙ってたら
-宣言はできないよね……
+If you remain silent you won't be able to make a declaration...
 --------------------------------
 [00000018][none]
-ぐあはっ!!
+Guahah!!
 --------------------------------
 [00000019][none]
-私、地獄耳なのよ
+I have hell ears
 --------------------------------
 [00000020][none]
-さすがだ……
+As expected...
 --------------------------------
 [00000021][none]
-すっごく痛そう……
+It looks really painful...
 --------------------------------
 [00000022][none]
-アルフォンスがまた
-いい音するんだよな
-これが……
+Alphonse sounds good again. This...
 --------------------------------
 [00000023][none]
-愛情と非情が
-一撃の中に溶け合う
-絶妙なこの味わい……
+Love and heartlessness blend into one blow. This exquisite taste...
 --------------------------------
 [00000024][none]
-やはり女王となるべくして
-生まれたのだね、レイラは
+After all, Layla was born to become a queen.
 --------------------------------
 [00000025][none]
-その通り
-私のムチはこの世界で一番
-ダメ男に効くのよ
+That's right. My whip is the most effective in this world  against bad men.
 --------------------------------
 [00000026][none]
-いったい
-こんな超技術をどこで
-マスターしたんだ……？
+Where on earth did you master this super technique...?
 --------------------------------
 [00000027][none]
-よろしい
-特別に教えてあげましょう
+OK Let me tell you something special.
 --------------------------------
 [00000028][none]
-私はある男を
-教育するためにこの技……
-いいえ能力を手に入れたの
+I acquired this ability to educate a certain man...
 --------------------------------
 [00000029][none]
-彼は
-とても教育し甲斐のある
-どうしようもない子だった
+He was a helpless child who was very worth educating.
 --------------------------------
 [00000030][none]
-ホーマーと言ってね
-私の弟なんだけど
+Please call me Homer He's my younger brother.
 --------------------------------
 [00000031][none]
-自分の弟を
-このムチで……!?
+My younger brother with this whip...!?
 --------------------------------
 [00000032][none]
-勘違いしないでね
-私は何も酷いことなんか
-してないわよ？
+Don't get me wrong, I haven't done anything terrible.
 --------------------------------
 [00000033][none]
-ホーマーはとても喜んで
-教育を受けてくれたわ
+Homer was very happy to be educated.
 --------------------------------
 [00000034][none]
-ある意味、育てられたのは
-私の方だったのかもね
-……うふっ
+In a sense, Maybe I was the one who was raised. ...Uhuh.
 --------------------------------
 [00000035][none]
-何という姉弟……!!
+What a brother and sister...!!
 --------------------------------
 [00000036][none]
-これも姉弟愛の
-形のひとつなのか……
+Is this also a form of sister-brother love...?
 --------------------------------
 [00000037][none]
-どこかに
-教育が必要な男は
-いないかしら？
+Is there a man out there who needs an education?
 --------------------------------
 [00000038][none]
-うっ……レイラちゃんだ！
+Ugh... it's Layla!
 --------------------------------
 [00000039][none]
-あれは獲物を狙う
-荒鷲の目だ
-目を合わせるなよ……！
+Those are the eyes of a wild eagle aiming at its prey. Don't make eye
+contact...!
 --------------------------------
 [00000040][none]
-おやおや
-レイラ、こんなところで
-優雅にお散歩かい？
+Oh,  Layla, are you taking a graceful walk in a place like this ?
 --------------------------------
 [00000041][none]
-口元がたるんでるわよ
-これは教育が必要ね……
+Your mouth is sagging You need to be educated on this...
 --------------------------------
 [00000042][none]
-あのバカ……やっちまった
+That idiot... he did it.
 --------------------------------
 [00000043][none]
-だらしないわよ！
-アルフォンス！
+It's sloppy!  Alphonse!
 --------------------------------
 [00000044][none]
-ぶは!?
-おれのふくよかな頬が
-燃える朝日のようだぜ……
+Ha!? My plump cheeks look like the blazing morning sun...
 --------------------------------
 [00000045][none]
-強烈だな……
+It's intense...
 --------------------------------
 [00000046][none]
-顔が油断してるのよ顔が！
+Your face is careless, your face!
 --------------------------------
 [00000047][none]
-気合いを入れてあげるから
-こっちへ来なさい
-このフナムシ!!
+I'll cheer you up Come here, you funushi!!
 --------------------------------
 [00000048][none]
-ふふふ……
-美女に鼓舞してもらえて
-光栄だよ
+Hehehe... I'm honored to be inspired by such a beautiful woman. 
 --------------------------------
 [00000049][none]
-あいつ、マジで
-何かに目覚めてないか？
+Isn't he really awake to something?
 --------------------------------
 [00000050][none]
-しかし、彼女のおかげで
-妙に隊の男連中の
-風紀がよくなったよな
+However, thanks to her, the morale of the men in the squad has improved
+strangely.
 --------------------------------
 [00000051][none]
-この部隊には
-いわゆる鬼軍曹ってやつが
-いないからな
+There is no so-called demon sergeant in this unit.
 --------------------------------
 [00000052][none]
-美女がその役を
-やってるんだから
-俺達は幸せなのかもしれん
+Maybe we're happy because a beautiful woman is playing that role.
 --------------------------------
 [00000053][none]
-……はっ!?
-ここはどこだ？
+...Huh!? Where is this?
 --------------------------------
 [00000054][none]
-あらお目覚め？
+Oh, are you awake?
 --------------------------------
 [00000055][none]
-記憶が飛んでるんだが
-何があったんだ？
+My memory is flying. What happened?
 --------------------------------
 [00000056][none]
-ああ、あのね
-１０発目の当たり所が
-悪くて、のびちゃったのよ
+Oh, you know The 10th shot was a bad sight and I got carried away.
 --------------------------------
 [00000057][none]
-７発目あたりから
-記憶がないんだが……
-まあいいか
+I don't remember anything after the 7th shot... I guess it's okay.
 --------------------------------
 [00000058][none]
-きみのくれたキスが
-それだけ甘かったって事さ
+That's how sweet the kiss you gave me
 --------------------------------
 [00000059][none]
-あら、まだそんな
-冗談を言う余裕があったの
+Oh, I still had time to make a joke like that.
 --------------------------------
 [00000060][none]
-それならもっと
-キスを
-与えてあげましょうか？
+In that case, should I give you more kisses?
 --------------------------------
 [00000061][none]
-……いや
-目覚めのキスは
-大事に取っておくよ
+...No, I'll save your wake-up kiss with care.
 --------------------------------
 [00000062][none]
-それよりもレイラ
-きみは独特の
-気高さを持っているね
+More than that, Layla You have a unique nobility.
 --------------------------------
 [00000063][none]
-それはどこで
-培われたものなんだい？
+Where was that cultivated?
 --------------------------------
 [00000064][none]
-生まれつきよ
+Born with it.
 --------------------------------
 [00000065][none]
-私はガリアの
-いえ、世界の頂点に立つ
-人間ですもの
+I'm not from Gaul, I'm a human being who stands on top of the world.
 --------------------------------
 [00000066][none]
-それがなぜゆえ
-このネームレスへ？
+Why this Nameless?
 --------------------------------
 [00000067][none]
-生意気な男をちょっと
-教育してやっただけよ
+I just educated the cocky guy a little bit.
 --------------------------------
 [00000068][none]
-生意気な男ってのは……
+A cocky man is...
 --------------------------------
 [00000069][none]
-義勇軍の中隊長よ
-あのゾウリムシは
-少佐だったかしら？
+Company commander of the volunteer army. Was that paramecium a major?
 --------------------------------
 [00000070][none]
-中隊長!?　少佐!?
+Company commander!? Major!?
 --------------------------------
 [00000071][none]
-本当にどうしようもない
-男だったのよ
+He really was a helpless man.
 --------------------------------
 [00000072][none]
-二言目には
-上官の命令は絶対だ
-なんて部下を恫喝してさ
+The second thing you said was that the commands of superiors are absolute and
+you intimidate your subordinates.
 --------------------------------
 [00000073][none]
-義勇兵の女の子を脅して
-今夜俺の部屋に来いなんて
-命令しようとしてたから
+I was trying to threaten a volunteer girl and order her to come to my room
+tonight.
 --------------------------------
 [00000074][none]
-思いっきり
-入れてやったのよ！
+I put it in as hard as I could !
 --------------------------------
 [00000075][none]
-よくネームレス送りで
-済んだな……
+I was able to get away with sending it without a name...
 --------------------------------
 [00000076][none]
-記憶が飛んでたみたいね
-でもなぜか私の姿を見ると
-顔が真っ青になるわけ
+It seems like your memory has skipped a beat. But for some reason, when you see
+me, your face turns pale.
 --------------------------------
 [00000077][none]
-で、私はめでたく
-ネームレス行き決定よ
+So, I'm happy to go nameless.
 --------------------------------
 [00000078][none]
-すごいな……
+That's amazing...
 --------------------------------
 [00000079][none]
-その規格外の度胸
-見た目通りの気高さ……
+That unconventional courage As noble as it seems...
 --------------------------------
 [00000080][none]
-誰にも媚びない
-その生き方は
-とても美しく思えるな
+That way of life that doesn't please anyone I think it's very beautiful.
 --------------------------------
 [00000081][none]
-これより戦闘を開始する
+Start the battle now
 --------------------------------
 [00000082][none]
-俺たちは前線部隊として
-絶対に負けられない
+As a frontline unit, we can never lose.
 --------------------------------
 [00000083][none]
-最後まで戦い抜くぞ
+I will fight till the end
 --------------------------------
 [00000084][none]
-もう逃げ場もねえからな
-やるしかないぜ
+There's no escape now We have no choice but to do it.
 --------------------------------
 [00000085][none]
-勝つのよ！
-それがこの私がいる部隊の
-義務だからね
+You win!  That's the duty of the unit I'm in.
 --------------------------------
 [00000086][none]
-レイラ、調子はどうだい
+Layla, how are you doing?
 --------------------------------
 [00000087][none]
-話しかけないで
-集中しているの
+Don't talk to me I'm concentrating.
 --------------------------------
 [00000088][none]
-そう言うなよ
-おれときみの仲じゃな……
+Don't say that You and I aren't close...
 --------------------------------
 [00000089][none]
-……いか!?
+...squid!?
 --------------------------------
 [00000090][none]
-無駄話をする前に
-もっと勝つ事に
-真剣になりなさい
+Before you talk nonsense, be more serious about winning 
 --------------------------------
 [00000091][none]
-おれにとってはこの一発が
-集中力の源になるのさ
+For me, this one shot is the source of my concentration.
 --------------------------------
 [00000092][none]
-へえ……分かってきたのね
-教育のされ方が
+Huh... now you understand the way education is done.
 --------------------------------
 [00000093][none]
-しかし珍しいね
-きみがこれほど
-集中しているなんて
+But it's unusual to see you so concentrated.
 --------------------------------
 [00000094][none]
-別に珍しくないわ
+It's not that unusual.
 --------------------------------
 [00000095][none]
-今日の戦闘が
-重要だということを
-理解しているだけよ
+I just understand that today's battle is important.
 --------------------------------
 [00000096][none]
-へえ……マジなんだな
+Wow...seriously?
 --------------------------------
 [00000097][none]
-私は平和な世の中を
-早く実現したいのよ
+I want to realize a peaceful world as soon as possible.
 --------------------------------
 [00000098][none]
-平和？
-また意外な言葉が
-飛び出したもんだな
+Peace?  Another unexpected word popped out 
 --------------------------------
 [00000099][none]
-私は大真面目よ
+I'm very serious
 --------------------------------
 [00000100][none]
-平和で戦争のない世界
-それって素晴らしい事だと
-思わない？
+A world of peace and no war Don't you think that would be wonderful ?
 --------------------------------
 [00000101][none]
-レイラ……
+Layla...
 --------------------------------
 [00000102][none]
-今、きみの目は
-とてもキレイだよ
+Your eyes are so beautiful right now.
 --------------------------------
 [00000103][none]
-何よ、いつもは
-キレイじゃないっていうの？
+What, are you saying you're not always pretty?
 --------------------------------
 [00000104][none]
-そうじゃない
-おれが今ようやく
-その美しさに気付いたんだ
+No, I've finally realized its beauty.
 --------------------------------
 [00000105][none]
-今ごろ気付くなんて
-やはりあなたには
-教育が必要だったようね
+It seems like you needed some education to realize this by now.
 --------------------------------
 [00000106][none]
-まったく、男どもは
-見る目がないんだから
-どいつもこいつも……
+Seriously, men don't have the eyes to see. Who is this guy...
 --------------------------------
 [00000107][none]
-彼女はただのなんちゃって
-女王様とは違うようだな
+She just doesn't seem like a queen.
 --------------------------------
 [00000108][none]
-身分はともかく
-魂の高潔さは本物だ
+Regardless of social status The integrity of the soul is real.
 --------------------------------
 [00000109][none]
-さすが
-おれの見る目に
-間違いはないぜ
+As expected There's nothing wrong with my eyes 
 --------------------------------
 [00000110][none]
-レイラがポテンシャル@fcFF008800「世界の支配者」@fciに
-目覚めました。
+Leila has awakened to her potential @fcFF008800 "Ruler of the World" @fci.
 --------------------------------
 [00000111][none]
-敵陣は崩しましたが
-まだ戦う気のようですね
+The enemy's base has been destroyed, but it looks like they still want to fight.
 --------------------------------
 [00000112][none]
-守りの固い部隊だね
-すぐに体勢を
-立て直しちまったよ
+This is a well-defended unit. They quickly regained their stance. 
 --------------------------------
 [00000113][none]
-何か向こうの足並みを
-乱す方法があれば
-いいんですが……
+I wish there was some way to disrupt the other party's pace...
 --------------------------------
 [00000114][none]
-ああ……もう!!
-じれったいわね!!
+Ah... already!! I'm so irritated!!
 --------------------------------
 [00000115][none]
-レイラ？
+Layla?
 --------------------------------
 [00000116][none]
-まだるっこしい！
-私が何とかしてくるわ!!
+Still sluggish!  I'll do something about it!!
 --------------------------------
 [00000117][none]
-レイラ!!
-飛び出したら危ないぞ！
+Layla!! It's dangerous if you jump out!
 --------------------------------
 [00000118][none]
-な、何だ!?
-女がひとりで
-こっちに来るぞ!?
+W-what!? A woman is coming here by herself!?
 --------------------------------
 [00000119][none]
-何か罠かもしれん！
-様子を見るんだ！
+It might be some kind of trap!  Let's see what happens!
 --------------------------------
 [00000120][none]
 ……
 --------------------------------
 [00000121][none]
-帝国軍の全兵士に告ぐ！
-武器を捨てて
-私に投降しなさい!!
+Notice to all soldiers of the Imperial Army!  Drop your weapons surrender to
+me!!
 --------------------------------
 [00000122][none]
-投降しろだと!?
+Surrender!?
 --------------------------------
 [00000123][none]
-バカな！
-戦いは
-これからではないか！
+Stupid!  The battle is about to begin !
 --------------------------------
 [00000124][none]
-だいたい何なのよ！
-カメみたいに手足を
-引っ込めて、みっともない！
+What is it?  Retract your limbs like a turtle. It's so ugly!
 --------------------------------
 [00000125][none]
-そういうダメ男を見てると
-イライラするのよ！
+I get irritated when I see such useless men!
 --------------------------------
 [00000126][none]
-何を言ってるんだ!?
+What are you talking about!?
 --------------------------------
 [00000127][none]
-出てきなさい!!
-私がこのムチで兵士の
-何たるかを教えてあげるわ！
+Come out!! I'll use this whip to show you what a soldier is!
 --------------------------------
 [00000128][none]
-あの女……
-言いたい放題だな……
+That woman... You can say whatever you want...
 --------------------------------
 [00000129][none]
-相手にするな！
-ここを守っていれば
-どうせ何もできん
+Don't deal with me!  If we keep here There's nothing we can do anyway.
 --------------------------------
 [00000130][none]
-あくまで引っ込んでる気？
-帝国軍にはノロマと
-臆病者しかいないってわけ？
+Are you just withdrawing?  Does that mean there are only Noroma and cowards in
+the Imperial Army?
 --------------------------------
 [00000131][none]
-そう、じゃあここで
-ハッキリさせようじゃない！
+Well, let's be clear here!
 --------------------------------
 [00000132][none]
-カッコつけの
-マクシミリアンと
-このレイラ様と！
+The cool Maximilian and Layla-sama!
 --------------------------------
 [00000133][none]
-どっちに仕えたいか
-答えなさい！
+Which one do you want to serve Answer!
 --------------------------------
 [00000134][none]
-な、な……!?
+What...!?
 --------------------------------
 [00000135][none]
-あんな戦争バカに
-ついていったら
-死ぬまで戦争三昧よ！
+If you follow such a war idiot, you'll be absorbed in war until you die!
 --------------------------------
 [00000136][none]
-私についてきなさい！
+Follow me!
 --------------------------------
 [00000137][none]
-私があんた達のために
-戦争のない世界を
-作ってあげるわ!!
+I will create a world without war for you all!!
 --------------------------------
 [00000138][none]
-正気なのか、あの女!?
+Is that woman insane?
 --------------------------------
 [00000139][none]
-なんならここに
-マクシミリアンを
-連れてきなさい
+Please bring Maximilian here.
 --------------------------------
 [00000140][none]
-あの戦争バカを
-平和バカに
-再教育してやるわ！
+I'll re-educate that war idiot to be a peace idiot!
 --------------------------------
 [00000141][none]
-許せん……殿下を
-ここまで侮辱するとは！
+I can't forgive you... for insulting His Highness this much!
 --------------------------------
 [00000142][none]
-待て、これは挑発だ！
-持ち場を離れるな！
+Wait, this is a provocation!  Don't leave your post!
 --------------------------------
 [00000143][none]
-しまった!?
+It's gone!?
 --------------------------------
 [00000144][none]
-にらみ合いは隙を見せたら
-負けなんだよ！
-もう一発喰らいな！
+In a standoff, if you show an opening, you lose!  Don't take another shot!
 --------------------------------
 [00000145][none]
-うわあ!!
+Wow!!
 --------------------------------
 [00000146][none]
-バカな、こんなバカな！
+Stupid, stupid!
 --------------------------------
 [00000147][none]
-突撃だ！
-敵陣を崩すぞ！
+Charge!  We'll destroy the enemy's formation!
 --------------------------------
 [00000148][none]
-ちょっと何よ！
-まだ向こうの
-返事を聞いてないのに！
+Wait, what?!  I haven't heard their reply yet!
 --------------------------------
 [00000149][none]
-見れば分かるだろ？
-敵さんは全員
-レイラに降参さ
+You know it when you see it, right?  All enemies surrender to Layla.
 --------------------------------
 [00000150][none]
-少し無茶だったけど
-レイラ、きみのお手柄だ
+It was a bit unreasonable, but Layla, it's your fault.
 --------------------------------
 [00000151][none]
-何がお手柄よ
-ぶち壊しじゃない
+What's your credit? I didn't destroy it.
 --------------------------------
 [00000152][none]
-せっかく
-私の従僕が増えるところ
-だったのに！
+I was about to increase the number of my servants !
 --------------------------------
 [00000153][none]
-まさかさっきのは
-挑発じゃなく……？
+By any chance, what you just said wasn't a provocation...?
 --------------------------------
 [00000154][none]
-本気に決まってるじゃない
+I'm sure you're serious.
 --------------------------------
 [00000155][none]
-……マジで？
+...Seriously?
 --------------------------------
 [00000156][none]
-世界平和に一歩
-近づくはずだったのよ
-邪魔しないでよね！
+We were supposed to be one step closer to world peace. Don't get in the way!
 --------------------------------
 [00000157][none]
-従僕が増えると
-世界が平和って
-どういう意味だ……？
+What does it mean that the world becomes peaceful when the number of servants
+increases...?
 --------------------------------
 [00000158][none]
-世界中の男を
-教育して
-私に仕えさせるのよ
+Educate men all over the world to serve me.
 --------------------------------
 [00000159][none]
-そうすれば
-私の理想とする
-平和な世界が生まれる
+If I do that, my ideal peaceful world will be born.
 --------------------------------
 [00000160][none]
-私の、私による
-従僕達のための
-絶対女王制
+mine, by me for my servants absolute queenship
 --------------------------------
 [00000161][none]
-これが私の構想よ！
+This is my idea!
 --------------------------------
 [00000162][none]
-それ、本気で
-言っているのか……？
+Are you seriously saying that...?
 --------------------------------
 [00000163][none]
-当たり前じゃない
+not obvious
 --------------------------------
 [00000164][none]
-さすがは
-おれが見込んだ女王だ
-スケールがデカいぜ……
+As expected She's the queen I expected The scale is huge...
 --------------------------------

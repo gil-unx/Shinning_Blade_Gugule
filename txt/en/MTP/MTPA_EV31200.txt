@@ -1,176 +1,138 @@
 [0190]
 *****************
 [00000000][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年 クローデン南部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seiryoku 1935 South of Kloden
 --------------------------------
 [00000001][none]
-今度の任務は
-補給地の防衛か
+The next mission is to defend the supply area.
 --------------------------------
 [00000002][none]
-えへへ、わたし達の
-任務にしては何だか
-まともな内容ですね
+Ehehe, for our mission, that's pretty decent.
 --------------------------------
 [00000003][none]
-喜べるものじゃないぞ
+It's not something to be happy about.
 --------------------------------
 [00000004][none]
-この補給地は帝国軍と
-争奪戦が続いている
-激戦区だ
+This supply area is a hotly contested area where there is an ongoing battle with
+the Imperial Army.
 --------------------------------
 [00000005][none]
-正規軍が守りたがらず
-俺達が選ばれた……
-そんなところだろうよ
+The regular army didn't want to protect us We were chosen... That's probably
+what happened.
 --------------------------------
 [00000006][none]
-そう言わずに
-頑張りましょうよ
+Don't say that Let's do our best.
 --------------------------------
 [00000007][none]
-ほら、あの人みたいに
+Look, like that person.
 --------------------------------
 [00000008][none]
-ん……？
+Hmm...?
 --------------------------------
 [00000009][none]
 …………
 --------------------------------
 [00000010][none]
-ああ、№58か
+Ah, №58?
 --------------------------------
 [00000011][none]
-確かシンさん、でしたっけ
-ずっと黙って
-荷物を運び続けていますよ
+If I remember correctly, it was Shin-san. He kept silently carrying the luggage.
 --------------------------------
 [00000012][none]
-無口なんだろ
+I guess he's quiet.
 --------------------------------
 [00000013][none]
-お疲れ様です、シンさん！
-一息入れませんか？
+Thank you for your hard work, Mr. Shin!  Would you like to take a break?
 --------------------------------
 [00000014][none]
 ……
 --------------------------------
 [00000015][none]
-心遣い、痛み入る
+consideration, pain
 --------------------------------
 [00000016][none]
-だが自分はまだ与えられた
-役目を終えていない
+But I haven't finished my assigned role yet.
 --------------------------------
 [00000017][none]
-作業に集中するため
-話しかけないでいただこう
+Please don't talk to me so I can concentrate on my work.
 --------------------------------
 [00000018][none]
-す、すみません……
+I-I'm sorry...
 --------------------------------
 [00000019][none]
-おやおや、もったいない
-エイミーのお誘いを
-断るなんて
+Oh, what a waste to turn down Amy's invitation 
 --------------------------------
 [00000020][none]
-彼はネームレスが誇る
-最高の憩いのひとときを
-逃してしまったね
+He missed out on Nameless's greatest moment of relaxation.
 --------------------------------
 [00000021][none]
-いえ、いいんですよ
-一生懸命な時に
-声をかけてしまったから
+No, it's fine. I called out to you when I was trying my hardest. 
 --------------------------------
 [00000022][none]
-働き者なのは
-評価できるけど
-ユーモアが足りない男ね
+I appreciate that he's a hard worker, but he doesn't have a sense of humor.
 --------------------------------
 [00000023][none]
-ああいうのを教育して
-変えていくのも
-楽しいかもしれないわ
+It might be fun to educate and change things like that.
 --------------------------------
 [00000024][none]
-あれは手強いだろうな
+That must be tough.
 --------------------------------
 [00000025][none]
-いいじゃない
-燃えるわ……うふふ！
+That's okay It's burning... Ufufu!
 --------------------------------
 [00000026][none]
-……終わりだ
+...It's over.
 --------------------------------
 [00000027][none]
-お疲れ様！
-お茶、いかがですか？
+Thank you for your hard work!  Would you like some tea?
 --------------------------------
 [00000028][none]
-かたじけない
-だが自分はすぐ歩哨に立つ
-水分は控えたい
+I can't stand it. But I'll be on sentry soon. I want to refrain from drinking
+water.
 --------------------------------
 [00000029][none]
-そうですか……
+I see...
 --------------------------------
 [00000030][none]
-待ちなよ
-そこは一杯ぐらい飲むのが
-礼儀というものだぜ？
+Wait. It's polite to have at least one drink over there, right?
 --------------------------------
 [00000031][none]
-礼儀と任務では
-どちらが重い？
-答えるまでもなかろう
+Which is more important: courtesy or duty?  I don't need to answer.
 --------------------------------
 [00000032][none]
-では、御免
+Okay, excuse me.
 --------------------------------
 [00000033][none]
-ほう、こいつはまた
-おれにも予想できなかった
-反応だ……
+Well, this guy has another reaction that even I couldn't predict...
 --------------------------------
 [00000034][none]
-もしかしたら
-お国の文化なのかも
-しれませんね
+Maybe it's your country's culture.
 --------------------------------
 [00000035][none]
-お国って？
+What is your country?
 --------------------------------
 [00000036][none]
-シンさん、ずっと
-お母さんの母国に
-住んでいたらしいんですよ
+Shin-san, it seems you've been living in your mother's home country for a long
+time.
 --------------------------------
 [00000037][none]
-母国って、どこだ？
+Where is your home country?
 --------------------------------
 [00000038][none]
-大陸のずっと東の
-島国だと言ってました
-帝国より向こうだそうです
+It was said to be an island nation far east of the continent. It was said to be
+beyond the Empire.
 --------------------------------
 [00000039][none]
-あのでかい帝国より
-遠いですって？
+Farther than that big empire?
 --------------------------------
 [00000040][none]
-そりゃ文化も違うだろうな
+I guess the culture is different too.
 --------------------------------
 [00000041][none]
-歩哨に任ぜられた
-シン・ヒューガと申す
-よろしく頼む
+I was appointed as a sentry. My name is Shin Huga. Please take care of me.
 --------------------------------
 [00000042][none]
-セルジュ・リーベルトです
-よろしく
+I'm Serge Liebert. Nice to meet you.
 --------------------------------
 [00000043][none]
 ……
@@ -182,91 +144,71 @@
 ……
 --------------------------------
 [00000046][none]
-あの、シンさん
+Um, Shin-san.
 --------------------------------
 [00000047][none]
-敵か？
+Enemy?
 --------------------------------
 [00000048][none]
-いえ、歩哨は集中して
-警戒をするものですが
+No, sentries concentrate on guard.
 --------------------------------
 [00000049][none]
-そこまで集中しすぎると
-後半に集中力が
-切れてしまいますよ？
+If you concentrate too much, you'll lose concentration in the second half,
+right?
 --------------------------------
 [00000050][none]
-心配無用だ
-私は命じられれば
-一昼夜でも集中を切らさん
+Don't worry. If ordered, I'll stay focused all day and night.
 --------------------------------
 [00000051][none]
-それは、すごいですね
+That's amazing
 --------------------------------
 [00000052][none]
-『ゼン』を学んだ者ならば
-できることだ
+Anyone who has studied Zen can do it.
 --------------------------------
 [00000053][none]
-『ゼン』とは
-シンさんの
-住んでいた国の？
+What is ``Zen'' the country where Mr. Shin lived ?
 --------------------------------
 [00000054][none]
-精神を鍛えるものだ
-武人のたしなみでもある
+It is something that trains the mind It is also the practice of a warrior.
 --------------------------------
 [00000055][none]
-不思議な文化が
-あるんですね
+There is a mysterious culture 
 --------------------------------
 [00000056][none]
-……自分にとっては
-この部隊の者達の
-考え方が不思議でならん
+...For me, it's strange how the people in this unit think.
 --------------------------------
 [00000057][none]
-国のため、主君のために
-戦う兵士でありながら
+Even though I am a soldier fighting for my country and my master.
 --------------------------------
 [00000058][none]
-主より与えられた役目より
-朋友への礼儀が大切と……
-自分には理解できない
+Being polite to your friends is more important than the role given to you by
+your master... I don't understand it.
 --------------------------------
 [00000059][none]
-シンさんの国では
-みんなそう
-考えているんですか？
+Does everyone in Shin-san's country think that way?
 --------------------------------
 [00000060][none]
-少なくとも軍人は
-主君のために命をかける
+At least soldiers risk their lives for their masters.
 --------------------------------
 [00000061][none]
-主が死を命じれば
-謹んで命を捧げるものだ
-そう教えられてきた
+I have been taught that if the Lord commands death, one should humbly sacrifice
+one's life.
 --------------------------------
 [00000062][none]
-それは……凄い
+That's... amazing
 --------------------------------
 [00000063][none]
-この国では
-自分の文化、思考が
-通じぬようだ
+It seems that my culture and way of thinking cannot be understood in this
+country.
 --------------------------------
 [00000064][none]
-ゆえに難しい
-ううむ……
+That's why it's difficult Hmm...
 --------------------------------
 [00000065][none]
-あなたとは
-よく組むことになりますね
+I'll be working with you a lot.
 --------------------------------
 [00000066][none]
-うむ
+Hmm
 --------------------------------
 [00000067][none]
 ……
@@ -275,495 +217,376 @@
 ……
 --------------------------------
 [00000069][none]
-……君は
-あまり話しかけてこない
+...you don't talk to me much.
 --------------------------------
 [00000070][none]
-お陰で気が楽だ
+I feel at ease thanks to you.
 --------------------------------
 [00000071][none]
-僕も、よく喋る方では
-ありませんから
+I'm not a talker either.
 --------------------------------
 [00000072][none]
-そうか
+I see
 --------------------------------
 [00000073][none]
-……それと、君からは
-武人が備えるべき
-必死の覚悟を感じる
+...Also, from you I sense the desperate determination that a warrior should
+have.
 --------------------------------
 [00000074][none]
-それが自分の気を
-落ち着かせる
+It calms me 
 --------------------------------
 [00000075][none]
-君の祖国を守る意思……
-武人の心構えが
-伝えてくれるのだ
+Your will to protect your homeland... The warrior's mindset will tell you 
 --------------------------------
 [00000076][none]
-自分がここにいても
-よいのだということを
+It's okay for me to be here.
 --------------------------------
 [00000077][none]
-シンさん……
+Mr. Shin...
 --------------------------------
 [00000078][none]
-あなたは
-なぜネームレスに？
+Why are you Nameless?
 --------------------------------
 [00000079][none]
-母上が亡くなり父上と共に
-父の祖国ガリアに
-渡ったのが１月のことだ
+It was January when my mother passed away and I went to Gaul, my father's
+homeland, with my father.
 --------------------------------
 [00000080][none]
-まもなく戦が始まり
-義勇軍に志願した
+The war soon started I volunteered for the volunteer army.
 --------------------------------
 [00000081][none]
-すると異人の血を理由に
-転属を命じられ
-ここに籍を得たのだ
+Then, because of his foreign blood, he was ordered to be transferred. He was
+registered here.
 --------------------------------
 [00000082][none]
-そうですか……
-ガリアにいるのは
-辛いでしょうね
+I see... It must be hard to be in Gaul.
 --------------------------------
 [00000083][none]
-否
+no
 --------------------------------
 [00000084][none]
-え……
+Eh...
 --------------------------------
 [00000085][none]
-ガリアは……
-この国は自分を
-国民と認めてくれた
+Gaul... This country recognized me as a citizen.
 --------------------------------
 [00000086][none]
-ゆえに自分は国の
-主君であるコーデリア姫の
-ご恩に報いたい
+Therefore, I would like to repay the kindness of Princess Cordelia, the lord of
+the country.
 --------------------------------
 [00000087][none]
-我が命、我が忠誠は
-コーデリア姫に
-捧げるためにあるのだ
+My life, my loyalty is to be dedicated to Princess Cordelia.
 --------------------------------
 [00000088][none]
-辛いなど
-感じたことはないな
+I have never felt any pain.
 --------------------------------
 [00000089][none]
 ……
 --------------------------------
 [00000090][none]
-私は不器用だ
-この先もガリアには
-馴染めぬままかもしれん
+I'm clumsy I might not be able to get used to Gaul from now on.
 --------------------------------
 [00000091][none]
-だが、それでも自分は
-主君のために生き
-そして死ぬつもりだ
+But I will still live and die for my master.
 --------------------------------
 [00000092][none]
-この考えは変えられない
-それ以外の生き方を
-知らないのだから
+I can't change this idea because I don't know any other way to live 
 --------------------------------
 [00000093][none]
-……無理に変える必要は
-ないと思います
+...I don't think there's any need to forcefully change it 
 --------------------------------
 [00000094][none]
-ただ、もう少しだけ
-周りを見回してみると
-いいかもしれません
+However, it might be a good idea to take a little more look around.
 --------------------------------
 [00000095][none]
-周りを……？
+Around...?
 --------------------------------
 [00000096][none]
-この隊も、最初は
-バラバラでした
+This squad was also disjointed at first.
 --------------------------------
 [00000097][none]
-みんなが好き勝手に
-自分のしたいことだけを
-して……
+Everyone does whatever they want only what they want ...
 --------------------------------
 [00000098][none]
-このままではダメかもと
-思いましたが
+I thought it might not work as it is 
 --------------------------------
 [00000099][none]
-クルトさんが隊長となって
-少しずつ意識が
-変わっていったんです
+After Kurt became the captain, my mindset gradually changed 
 --------------------------------
 [00000100][none]
-自分のことだけじゃなくて
-部隊のことを考えるように
-なったんですよね
+I learned to think not only about myself, but also about the troops.
 --------------------------------
 [00000101][none]
-隊員がまとまったことで
-部隊は確実に良い方向に
-動き出しました
+With the members united, the unit has definitely started moving in a positive
+direction 
 --------------------------------
 [00000102][none]
 ……
 --------------------------------
 [00000103][none]
-シンさんも周りを見ると
-何か新しい発見が
-あるかもしれませんよ
+Shin-san, if you look around, you might discover something new .
 --------------------------------
 [00000104][none]
-……っと
-なんだか偉そうなこと
-言ってすみません
+... I'm sorry for saying something so arrogant 
 --------------------------------
 [00000105][none]
-いや……
-自分にはない考えだった
+No... It was an idea I didn't have.
 --------------------------------
 [00000106][none]
-ふむ
-少し考えてみよう
+Hmm Let's think about it for a moment.
 --------------------------------
 [00000107][none]
-これよりネームレスは
-この補給地の
-防衛任務に就く
+From now on, Nameless will be responsible for the defense of this supply base.
 --------------------------------
 [00000108][none]
-この補給地は両軍にとって
-戦略の要となる場所だ
+This supply area is a key strategic location for both armies.
 --------------------------------
 [00000109][none]
-いつ攻撃を受けても
-対応できるよう
-警戒を怠るな
+Stay alert so that you can respond to attacks at any time.
 --------------------------------
 [00000110][none]
-御意！
+Your will!
 --------------------------------
 [00000111][none]
-もちろんです
+Of course
 --------------------------------
 [00000112][none]
-……この静寂
-自分は敵の目を感じます
+...this silence I feel the enemy's eyes on me
 --------------------------------
 [00000113][none]
-そうだな……
-俺もこの静けさを
-危険だと感じている
+That's right... I too find this silence dangerous.
 --------------------------------
 [00000114][none]
-しかし、いかなる敵が
-来ようと必ずや
-死守してみせましょう
+But no matter what enemy comes, we will definitely defend it to the death.
 --------------------------------
 [00000115][none]
-たとえ己の命と
-引き替えになろうとも！
+Even if it means sacrificing your life!
 --------------------------------
 [00000116][none]
-意気込みはいい
-だが軽々しく
-命と引き替えとは言うな
+Your enthusiasm is good, but don't be so careless as to trade it for your life.
 --------------------------------
 [00000117][none]
-俺は隊員を犠牲にして
-任務を果たそうとは
-考えていない
+I have no intention of sacrificing my team members to accomplish my mission.
 --------------------------------
 [00000118][none]
-隊長殿？
+Captain?
 --------------------------------
 [00000119][none]
-この部隊に籍を
-置いたからには
+Since I joined this unit 
 --------------------------------
 [00000120][none]
-死ぬことなど考えず
-生きて隊に貢献することを
-第一に考えてくれ
+Don't think about dying Think about living and contributing to the squad First.
 --------------------------------
 [00000121][none]
-ふっ……
-やはり自分は異国の出
-考えに差違があるようだ
+Huh... I'm from a foreign country after all It seems like there's a difference
+in my thinking.
 --------------------------------
 [00000122][none]
-どういうことだ……？
+What do you mean...?
 --------------------------------
 [00000123][none]
-自分は主に仕える時点で
-生への執着を捨てています
+I have given up attachment to life when I serve the Lord.
 --------------------------------
 [00000124][none]
-武人とはそうあるべきだと
-信じておりますゆえ
+Because I believe that's what a samurai should be.
 --------------------------------
 [00000125][none]
-死を尊いものと考えるのか
+Do you consider death to be precious?
 --------------------------------
 [00000126][none]
-死を恐れぬ者
-それが武人です
+A person who is not afraid of death That is a warrior.
 --------------------------------
 [00000127][none]
-シンさん……
+Mr. Shin...
 --------------------------------
 [00000128][none]
-異国の戦士か……
+A foreign warrior...
 --------------------------------
 [00000129][none]
-大変だ隊長！
+It's tough, Captain!
 --------------------------------
 [00000130][none]
-どうした？
+What's wrong?
 --------------------------------
 [00000131][none]
-帝国軍の大軍が
-この補給地に
-向かっている！
+A large Imperial army is heading towards this supply area!
 --------------------------------
 [00000132][none]
-来たか
-各員、戦闘準備！
-急げ！
+Are you here? Everyone, prepare for battle!  Hurry!
 --------------------------------
 [00000133][none]
-死線を越える戦いとなろう
+It will be a deadly battle
 --------------------------------
 [00000134][none]
-だが、託された命だけは
-何としてでも果たす！
+But I will fulfill the life entrusted to me no matter what!
 --------------------------------
 [00000135][none]
-シンがポテンシャル@fcFF008800「忠誠心」@fciに
-目覚めました。
+Shin has awakened to the potential @fcFF008800 "loyalty" @fci.
 --------------------------------
 [00000136][none]
-敵の第二陣、来ます！
+The second wave of enemies is coming!
 --------------------------------
 [00000137][none]
-連戦は無理だ
-一時撤退する！
+It's impossible to continue fighting We'll temporarily withdraw!
 --------------------------------
 [00000138][none]
-了解です！
+Understood!
 --------------------------------
 [00000139][none]
-シンさん！
-下がりますよ！
+Mr. Shin!  It's going down!
 --------------------------------
 [00000140][none]
-……否！
+...No!
 --------------------------------
 [00000141][none]
-何をしている！
-撤退は命令だ！
+What are you doing!  Retreat is an order!
 --------------------------------
 [00000142][none]
-主君より受けた命令は
-この地の防衛のはず！
-命は惜しくない！
+The orders I received from my master were to protect this land!  I don't regret
+my life!
 --------------------------------
 [00000143][none]
-あのバカ……
-逆に突っ込んで
-行きやがった……！
+That idiot... He pushed in the other direction and ended up going...!
 --------------------------------
 [00000144][none]
-隊長!!
-僕が彼を援護します！
-許可を！
+Captain!! I will support him!  Give me permission!
 --------------------------------
 [00000145][none]
-君も死ぬだけだ
-許可できない
+You'll just die too I can't allow it.
 --------------------------------
 [00000146][none]
-しかし！
-このままではシンさんが！
+But!  If this continues, Mr. Shin will do it!
 --------------------------------
 [00000147][none]
-アルフォンス
-状況はどうなっている？
+Alphonse What's the situation?
 --------------------------------
 [00000148][none]
-オーケーだ、いけるぞ！
+Okay, let's go!
 --------------------------------
 [00000149][none]
-よし、突撃兵と戦車は
-隊列を組み、前進だ！
+Alright, assault troops and tanks form a formation and move forward!
 --------------------------------
 [00000150][none]
-前進？　どういうことです？
+forward? What do you mean?
 --------------------------------
 [00000151][none]
-これより我々は
-義勇軍中隊を支援する！
+From now on, we will support the volunteer army company!
 --------------------------------
 [00000152][none]
-ええっ!?
+Huh!?
 --------------------------------
 [00000153][none]
-緊急回線で
-援軍を要請しておいた
+I have requested reinforcements on the emergency line.
 --------------------------------
 [00000154][none]
-応じてくれた部隊が
-いたんですね！
-よかった……
+There was a unit that responded!  Good...
 --------------------------------
 [00000155][none]
-おどかさないでください
-シンさんを見捨てるのかと
-思いましたよ……
+Please don't scare me I thought you were abandoning Shin-san... 
 --------------------------------
 [00000156][none]
-前進だ！
-一気にたたみかける！
+Moving forward!  Fold all at once!
 --------------------------------
 [00000157][none]
-敵部隊の撤退を確認
-援軍のお陰で
-補給地を防衛できた
+Confirmed the withdrawal of enemy troops. Thanks to the reinforcements, We were
+able to defend the supply area.
 --------------------------------
 [00000158][none]
-頑固者も命拾いしたし
-万々歳だな
+Even the stubborn person saved his life, so all is well.
 --------------------------------
 [00000159][none]
 ……
 --------------------------------
 [00000160][none]
-なぜ撤退しなかった？
-理由を聞こう
+Why didn't you withdraw?  Let's hear the reason
 --------------------------------
 [00000161][none]
-自分は主君より受けた
-使命を優先したのです
+I prioritized the mission I received from my master.
 --------------------------------
 [00000162][none]
-どういう意味だ？
+What does that mean?
 --------------------------------
 [00000163][none]
-この地を守ることは
-我が主君コーデリア姫の
-領土を守ること……
+To protect this land is to protect the territory of my lord, Princess
+Cordelia...
 --------------------------------
 [00000164][none]
-すなわちガリアのため
-主君と国土のために
-命をかけたまでのこと
+In other words, he risked his life for Gaul's lord and land.
 --------------------------------
 [00000165][none]
-ガリアのために
-俺の命令を
-無視したというのか
+So you ignored my orders for Gaul's sake?
 --------------------------------
 [00000166][none]
-主君への忠誠は絶対です
-これを曲げることは
-何人たりともまかりならん
+Loyalty to the lord is absolute No one can compromise this 
 --------------------------------
 [00000167][none]
-バカだ……こいつ
+This guy is stupid...
 --------------------------------
 [00000168][none]
-筋金入りですね……
+That's hardcore...
 --------------------------------
 [00000169][none]
-そりゃネームレス送りに
-なるはずだ……
+Well, it should be nameless sending...
 --------------------------------
 [00000170][none]
-処罰するというのなら
-甘んじて受けよう
+If you're going to punish me, I'll just accept it.
 --------------------------------
 [00000171][none]
-主君への忠義を貫いて
-悔いること無し
+Stay loyal to your master without regrets
 --------------------------------
 [00000172][none]
-待ってください、シンさん
+Please wait, Mr. Shin.
 --------------------------------
 [00000173][none]
-主君への忠義というのなら
-隊長の命令には
-従わなければいけませんよ
+If you are loyal to your master, you must obey your captain's orders.
 --------------------------------
 [00000174][none]
-なぜだ
+Why?
 --------------------------------
 [00000175][none]
-隊長は君主の代理として
-隊を指揮しているんです
-違いますか？
+The captain commands the squad on behalf of the monarch. Is that correct?
 --------------------------------
 [00000176][none]
-む!!
+Hmm!!
 --------------------------------
 [00000177][none]
-セルジュ殿の申す通りだ
+Serge-dono is right.
 --------------------------------
 [00000178][none]
-自分は姫君への恩に
-報いようとするあまり
-大なる使命に囚われ
+I tried to repay my kindness to the princess, but I got caught up in a great
+mission.
 --------------------------------
 [00000179][none]
-使命達成のために
-隊員として務めることを
-失念していた……不覚だ！
+I forgot to serve as a member of the team in order to accomplish the mission...
+I was unaware!
 --------------------------------
 [00000180][none]
-では、ここで腹を切って
-命令違反の罪を償おう
-それでいいな？
+Well then, let's cut our teeth and atone for violating the order. Is that okay?
 --------------------------------
 [00000181][none]
-待て！
-腹を切るだと!?
+Wait!  What if I cut my stomach off!?
 --------------------------------
 [00000182][none]
-作法は心得ている！
+I know the etiquette!
 --------------------------------
 [00000183][none]
-いやあ!!　誰か止めて！
+Oh no!! Someone stop it!
 --------------------------------
 [00000184][none]
-クルト!!　何とかして！
+Kurt!! Do something!
 --------------------------------
 [00000185][none]
-シン、その行為は
-隊紀を乱す
-今すぐ中止しろ
+Shin, that action disturbs the discipline of the group Stop it now.
 --------------------------------
 [00000186][none]
-む……命令ならば
-是非も無し
+Hmm...if it's a command, absolutely not.
 --------------------------------
 [00000187][none]
-以後、君はガリアの国法
-および軍規を尊重し
+From now on, you will respect the laws of Gaul and military discipline.
 --------------------------------
 [00000188][none]
-コーデリア姫への
-忠誠を示さねばならない
-いいな？
+I have to prove my loyalty to Princess Cordelia Okay?
 --------------------------------
 [00000189][none]
-御意！
+Your will!
 --------------------------------

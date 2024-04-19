@@ -1,818 +1,685 @@
 [0207]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-サ、サクヤさん。こんにちは。
+Oh, Sakuya-san. Hello.
 --------------------------------
 [00000001][サクヤ,マキシマ,サクヤ]
-そんなに堅苦しくしなくってもいいのよ。
-こちらの世界にいても、
-あなたはあなたらしくいて欲しいの。
+You don't have to be so formal.  Even in this world, I want you to be yourself.
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-いや、そう言われても、
-急にそうするわけにも……。
+No, even if you say that, I can't suddenly do it...
 --------------------------------
 [00000003][サクヤ,マキシマ,サクヤ]
-どう？
-ユキヒメとはうまくやってる？
+What do you think?  Do you and Yukihime get along well?
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-うまくやってる……って言えるのかな。
-相変わらず小言ばっかり言われてますけど。
+I guess you could say I'm doing well...  I still get a lot of nagging, though.
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-あらあら。
-それは困ったわね。
+Oh my.  That's a problem.
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-でも、小言が多いのは仕方ないかしら。
-彼女はもともと精霊なわけだし。
+But I guess it can't be helped that you nag a lot.  She is originally a spirit.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-精霊？
+Spirit?
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-ええ、しかも上位のね。
+Yes, and it's at the top.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-この世界の精霊って
-誰でも刀に変身するんですか？
+Can any spirit in this world transform into a sword?
 --------------------------------
 [00000010][サクヤ,マキシマ,サクヤ]
-いいえ。彼女は特別よ。
-ユキヒメは自分から進んで「霊刀」になったの。
+No. she's special  Yukihime voluntarily became a "spirit sword".
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-自分の意思で刀になったんですか？
-なんでそんなことを？
+Did you become a sword by your own will?  Why did you do that?
 --------------------------------
 [00000012][サクヤ,マキシマ,サクヤ]
-それは本人に聞いてみないとわからないけど
-推測するなら……彼にそう頼まれたのかしらね。
+I won't know until I ask him, but if I have to guess... maybe he asked me to do
+that.
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-彼？
+Him?
 --------------------------------
 [00000014][サクヤ,マキシマ,サクヤ]
-クラントール王国の建国王よ。
-彼女は忠誠心がとても強いから。
-建国王に対しての、ね。
+Founding king of the Kingdom of Crantor.  Because her loyalty is very strong. 
+It's against the founding king.
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-建国王……。よく「先代はどうのこうの」って、
-ユキヒメが話題に出す奴ですね。
+Founding King... Yukihime often brings up things like, ``What about the previous
+generation?''
 --------------------------------
 [00000016][サクヤ,マキシマ,サクヤ]
-あら、奴なんて言っちゃいけないわ。
-あなたのご先祖様なんだから
-もっと敬わないとね。
+Oh, you shouldn't call him that.  Since they are your ancestors, you should
+respect them more.
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-へっ……!?
+Huh...!?
 --------------------------------
 [00000018][サクヤ,マキシマ,サクヤ]
-彼女から聞いてないの？
-建国王は、あなたの遠い祖先なのよ。
+Haven't you heard from her?  King Ken is your distant ancestor.
 --------------------------------
 [00000019][サクヤ,マキシマ,サクヤ]
-あなたが霊刀・雪姫を扱うことができるのは
-建国王の血筋を受け継いでいるから。
-あなたは、まぎれもない勇者の血統の持ち主なのよ。
+The reason you can wield the spiritual sword Yukihime is because you inherited
+the bloodline of the founding king.  You have an unmistakable lineage of heroes.
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-………………。
+……………….
 --------------------------------
 [00000021][サクヤ,マキシマ,サクヤ]
-うふふっ。
-驚いて声も出ないかしら？
+Hehe.  Are you too surprised to make a sound?
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-いや……というか……。
+No...or rather...
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-サクヤさん……。
-なぜ、そんなことを知ってるんですか？
+Sakuya-san...  How do you know that?
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-ユキヒメのことといい、オレの先祖のことといい、
-サクヤさん、この世界に詳しすぎますよね？
-とてもオレと同じ世界から来たとは思えない……。
+You talk about Yukihime, you talk about my ancestors, Sakuya-san, you know too
+much about this world, don't you?  I can't believe that you came from the same
+world as me...
 --------------------------------
 [00000025][サクヤ,マキシマ,サクヤ]
-うふふっ。 
-さあ、どうしてかしらね。
+Hehe.  Now, I wonder why.
 --------------------------------
 [00000026][サクヤ,マキシマ,サクヤ]
-あなたがもっと強くなって
-全てが片づいたら……その時には
-答えてあげられるかも知れないわ。
+When you get stronger and everything is sorted out... then I might be able to
+give you an answer.
 --------------------------------
 [00000027][レイジ,レイジ,レイジ]
-ええっ？　サクヤさん、ずるいですよ、それ。
+Huh? Sakuya-san, that's cunning.
 --------------------------------
 [00000028][サクヤ,マキシマ,サクヤ]
-うふふふっ。
+Hehehehe.
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-そんな事情に詳しいなんて、普通じゃない。
-サクヤさんって……何者なんですか？
-なんでそんなことを知ってるんですか？
+It's not normal to know such things.  Who is Sakuya-san?  How do you know that?
 --------------------------------
 [00000030][サクヤ,マキシマ,サクヤ]
-レイジ……そんなに私が信用できない？
+Rage... you don't trust me that much?
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-え？
-あ、いや、そういうわけじゃないですけど……。
+Huh?  Oh, no, it's not like that...
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-………………。
+……………….
 --------------------------------
 [00000033][サクヤ,マキシマ,サクヤ]
-ふふっ。
-どうかしたの？　ぼーっとしちゃって。
+Hehe.  What's wrong? I got distracted.
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-あ、いえ……すみません。
-やっぱり何でもないです。
+Oh, no...I'm sorry.  It's nothing after all.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（聞きたいことは山ほどあるけど
-どう質問すりゃいいのか、全然わからない。
-……また今度にするか）
+@fcFFAAFFAA(There are so many things I want to ask, but
+I don't really know how to ask.
+...Maybe I'll ask another time.)
 --------------------------------
 [00000036][サクヤ,マキシマ,サクヤ]
-とにかく、ユキヒメとは仲良くね。
-彼女と気持ちが通じ合うことで
-あなたはもっと強くなれるはずよ。
+Anyway, I get along well with Yukihime.  By sharing your feelings with her, You
+will become even stronger.
 --------------------------------
 [00000037][レイジ,レイジ,レイジ]
-はい、わかりました。
-けど、オレは仲良くしてもかまわないけど
-ユキヒメの方が何て言うか……。
+Yes, I understand.  However, I don't mind if we get along, I wonder what
+Yukihime will say...
 --------------------------------
 [00000038][サクヤ,マキシマ,サクヤ]
-あら。
-女の子と仲良くなるのは、あなたの得意技でしょう？
+Oh.  Being friends with girls is your specialty, right?
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-ええっ!?　なんですかそれ？
-サクヤさん、いったいオレのこと、
-どんな奴だと思ってるんですか!?
+Eh!? What is that?  Sakuya-san, what kind of person do you think I am!?
 --------------------------------
 [00000040][サクヤ,マキシマ,サクヤ]
-うふふっ。
-さあ、どうかしらね。
+Hehe.  Well, I don't know what to do.
 --------------------------------
 [00000041][none]
-なぜそんなことを知ってるんですか？
+How do you know that?
 --------------------------------
 [00000042][none]
-サクヤさんって、何者？
+Who is Sakuya?
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-あれ、サクヤさん。
-どうしたんですか、浮かない顔して？
+Oh, Sakuya-san.  What's wrong with your expression?
 --------------------------------
 [00000044][サクヤ,マキシマ,サクヤ]
-あら……レイジ。
-ちょっとね、考えごとをしていたの。
+Oh... Rage.  I was just thinking about something.
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-何か悩みごとですか？
-オレでよかったら相談にのりますよ？
+Is something bothering you?  If it's okay with me, I'll consult with you.
 --------------------------------
 [00000046][サクヤ,マキシマ,サクヤ]
-……あなたに話しても仕方ないことよ。
+...There's no point in telling you.
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-あ、ひでーなあ。
-そんなの、話してみないと
-わからないじゃないですか。
+Oh, that's awesome.  You won't understand unless you talk about it.
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-サクヤさん、話してください。
-１人で抱え込んでても、いいことないですよ？
+Sakuya-san, please talk.  There's nothing good about having to deal with it all
+by yourself, right?
 --------------------------------
 [00000049][サクヤ,マキシマ,サクヤ]
-そうね……。
-例えば、ここに１つの天秤があるとするわよね？
+Yes...  For example, suppose there is one scale here, right?
 --------------------------------
 [00000050][レイジ,レイジ,レイジ]
-はい？
-天秤……ですか？
+Yes?  A balance...?
 --------------------------------
 [00000051][サクヤ,マキシマ,サクヤ]
-ええ。
-この世界……エンディアスの
-光と闇を計る天秤。
+Yeah.  This world...Endias The scale that measures light and darkness.
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（な、何だ？
-いきなりスケールのでかい話になったぞ？）
+@fcFFAAFFAA(W-what? 
+It's suddenly become a big story, isn't it?)
 --------------------------------
 [00000053][サクヤ,マキシマ,サクヤ]
-光と闇、両者のバランスが崩れると
-天秤自体が倒れて、その上に乗っている人々が
-奈落の底へ落ちてしまう……。
+When the balance between light and darkness collapses, the scale itself
+collapses, and the people on it fall into the abyss...
 --------------------------------
 [00000054][サクヤ,マキシマ,サクヤ]
-誰かがバランスを取らなければ……。
-でもそのために、時には闇の重みを
-増やさなくてはいけない。
+If someone doesn't balance it out...  But in order to do that, sometimes we have
+to increase the weight of darkness. 
 --------------------------------
 [00000055][サクヤ,マキシマ,サクヤ]
-それは正しいことなのかしら？
-天秤の上の住民たちは、
-そんなことを望んでいるのかしら？
+Is that the right thing to do?  Is that what the people on the scale want?
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（サクヤさん……さっきからずっと
-ひとり言みたいに喋ってる。
-オレのことが目に入ってないみたいだ）
+@fcFFAAFFAA(Sakuya-san...
+You've been talking to yourself since a while ago.
+It's like you can't see me.)
 --------------------------------
 [00000057][サクヤ,マキシマ,サクヤ]
-そもそも、天秤の上の住民たちは
-この世界のバランスのことなど知りもしない。
+To begin with, the people on the scales don't even know about the balance in
+this world.
 --------------------------------
 [00000058][サクヤ,マキシマ,サクヤ]
-「調律者」を名乗る者が
-住民の意思とは無関係にバランスを調節して
-この世界を守った気になっている……。
+I feel like someone who calls himself the "Adjuster" has protected this world by
+adjusting the balance regardless of the will of the residents...
 --------------------------------
 [00000059][サクヤ,マキシマ,サクヤ]
-彼らに……調律者に、そんな権利があるかしら？
-私のやっていることは、天秤の住民たちを
-弄んでいるだけじゃないのかしら？
+Do they...do the trainers have that right?  Isn't what I'm doing just toying
+with the residents of Tenbin?
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-サクヤさん……。
+Sakuya-san...
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-そんなことはないですよ、サクヤさん。
+That's not true, Sakuya-san.
 --------------------------------
 [00000062][サクヤ,マキシマ,サクヤ]
-レイジ……？
+Rage...?
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-今の話、オレにはよくわからないけど
-サクヤさんのすることに間違いはないはずです！
+I don't really understand what you're talking about right now, but I'm sure
+there's nothing wrong with what Sakuya-san is doing!
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-サクヤさんが正しいと思うことなら
-きっと正しいことのはずです！
+If Sakuya-san thinks it's right, it must be right!
 --------------------------------
 [00000065][サクヤ,マキシマ,サクヤ]
-……うふふっ、ありがとう。
+...Hehe, thank you.
 --------------------------------
 [00000066][サクヤ,マキシマ,サクヤ]
-そんな風に、物事を単純に考えられたら
-いいのにね……。
+I wish I could think about things simply like that...
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-オレには……わかりません。
-今の話の内容も、なにがなんだかさっぱりだし。
+I...I don't know.  The content of the story just now is also somewhat
+refreshing.
 --------------------------------
 [00000068][サクヤ,マキシマ,サクヤ]
-レイジ……。
+Rage...
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-すみません、役に立てなくて。
+Sorry, I can't be of any help.
 --------------------------------
 [00000070][サクヤ,マキシマ,サクヤ]
-……ふふっ、いいのよ、謝らなくて。
-気にしないで。
+...hehe, it's okay, don't apologize.  Don't worry.
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000072][サクヤ,マキシマ,サクヤ]
-少しおしゃべりが過ぎたみたいね。
-ごめんなさい、今聞いたことは忘れて。
+I think you talked a little too much.  Sorry, forget what I just heard.
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-あ……はい。
+Ah... yes.
 --------------------------------
 [00000074][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-あの……サクヤさん。
-オレには難しいことはわかりませんけど……。
+Um...Sakuya-san.  I don't know if it's difficult, but...
 --------------------------------
 [00000076][サクヤ,マキシマ,サクヤ]
-うん？
+Yeah?
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-でも……オレはサクヤさんの味方ですから。
-困ったことがあったら、いつでも言ってください。
-喜んで力になります！
+But...I'm on Sakuya's side.  If you have any trouble, please feel free to let me
+know.  I'll be happy to help!
 --------------------------------
 [00000078][サクヤ,マキシマ,サクヤ]
-……うふふっ。
-優しいのね、レイジ。
+...Ufufu.  You're so kind, Rage.
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-あ、いや、そんなことは……。
+Oh, no, that's not true...
 --------------------------------
 [00000080][サクヤ,マキシマ,サクヤ]
-ありがとう。少し気が楽になったわ。
+Thank you. I feel a little better.
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（サクヤさん……やっぱり不思議な人だ。
-何もかもを見通してるような感じなのに
-今みたいに悩んだりして）
+@fcFFAAFFAA(Sakuya-san... you're a strange person after all.
+It's like you can see through everything, but you're worried like you are now.)
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（一体、何者なんだろう……この人は）
+@fcFFAAFFAA(Who the hell is this person?)
 --------------------------------
 [00000083][none]
-そんなことはないですよ
+That's not the case.
 --------------------------------
 [00000084][none]
-オレには……わかりません
+I don't know...
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-あ、サクヤさん。
-どうしたんですか、血相変えて？
+Oh, Sakuya-san.  What happened, did you change your appearance?
 --------------------------------
 [00000086][サクヤ,マキシマ,サクヤ]
-レイジ！
-よかったわ、あなたを探していたの。
+Rage!  Good thing I was looking for you.
 --------------------------------
 [00000087][サクヤ,マキシマ,サクヤ]
-準備を整えて、すぐに来てちょうだい。
-街はずれの遺跡に不審な動きがあるの。
-調査に向かうわよ！
+Please get ready and come right away.  There's some suspicious activity in the
+ruins on the outskirts of town.  I'm heading out to investigate!
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-不審な動き……。
-わかりました、すぐに行きます！
+Suspicious movements...  Okay, I'll go right away!
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-サクヤさん。
-あいつ、なにを企んでいるんでしょうか？
+Sakuya-san.  What is he planning?
 --------------------------------
 [00000090][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-サクヤさん？
-どうかしたんですか？
+Sakuya-san?  What's wrong?
 --------------------------------
 [00000092][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-サクヤさん……。
+Sakuya-san...
 --------------------------------
 [00000094][レイジ,レイジ,レイジ]
-サクヤさん、どこかケガでもしたんですか？
+Sakuya-san, are you injured somewhere?
 --------------------------------
 [00000095][サクヤ,マキシマ,サクヤ]
-えっ？
+Huh?
 --------------------------------
 [00000096][サクヤ,マキシマ,サクヤ]
-あ……ご、ごめんなさい。
-ちょっと考えごとをしていたの……。
+Ah...I-I'm sorry.  I was just thinking about something...
 --------------------------------
 [00000097][レイジ,レイジ,レイジ]
-サクヤさん、しっかりしてください！
+Sakuya-san, please stay strong!
 --------------------------------
 [00000098][サクヤ,マキシマ,サクヤ]
-え……レイジ？
+Huh... Rage?
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-ぼーっと考えごとするなんて
-サクヤさんらしくないですよ。
-いつもみたいに、胸を張ってください！
+It's not like Sakuya-san to be absentmindedly thinking about things.  As always,
+please hold your heart out!
 --------------------------------
 [00000100][サクヤ,マキシマ,サクヤ]
-レイジ……。ええ、そうね。
-ありがとう。
+Rage... Yes, that's right.  Thank you.
 --------------------------------
 [00000101][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000102][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000103][サクヤ,マキシマ,サクヤ]
-今、私たちが戦ったのは……。
-遠い昔に作られた、古代兵器。
+What we just fought was...  An ancient weapon created in the distant past.
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-古代……兵器？
+An ancient...weapon?
 --------------------------------
 [00000105][サクヤ,マキシマ,サクヤ]
-かつて、この場所には高度に発達した文明が
-存在していたの。
-あの兵器は、その当時のものよ。
+Once upon a time, a highly developed civilization existed in this place.  That
+weapon is from that time.
 --------------------------------
 [00000106][レイジ,レイジ,レイジ]
-そんな古いものが、どうして動き出したんですか？
-……まさか、伯爵の仕業？
-あいつ、いったいなにを企んで……。
+How did something so old come to life?  ...Is this the work of an earl?  What on
+earth is he planning...?
 --------------------------------
 [00000107][サクヤ,マキシマ,サクヤ]
-……ああ、どうしよう……。
+...Ah, what should I do...?
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-え……サクヤさん？
+Huh...Sakuya-san?
 --------------------------------
 [00000109][サクヤ,マキシマ,サクヤ]
-あの古代兵器を放置しておいたら
-いずれはとんでもないことになる。
-人々を襲い、大惨事が……。
+If we leave that ancient weapon alone, something terrible will happen
+eventually.  A great disaster strikes people...
 --------------------------------
 [00000110][サクヤ,マキシマ,サクヤ]
-私には、それを見過ごすことなんてできなかった。
-古きものを悪用するなんて
-許すわけにはいかない……。
+I couldn't overlook that.  We can't allow people to misuse something so ancient.
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-サクヤさん？
-なんの話をしてるんですか？
+Sakuya-san?  What are you talking about?
 --------------------------------
 [00000112][サクヤ,マキシマ,サクヤ]
-古きものの眠る場所は、ここだけではないわ。
-まだたくさんの古きもの、悪しきものたちが
-世界のあちこちに眠っているはず。
+This is not the only place where ancient things sleep.  There are still many
+ancient and evil things sleeping around the world.
 --------------------------------
 [00000113][サクヤ,マキシマ,サクヤ]
-どうにか……私がどうにかしなければ……。
+Somehow...if I don't do something...
 --------------------------------
 [00000114][レイジ,レイジ,レイジ]
-サクヤさん……。
+Sakuya-san...
 --------------------------------
 [00000115][サクヤ,マキシマ,サクヤ]
-レイジ……ごめんなさい。
-本来は無関係のあなたたちまで
-巻きこんでしまって……。
+Rage...I'm sorry.  Even those of you who were originally unrelated were dragged
+into this...
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-いえ、そんなことはいいんですけど……。
-サクヤさん、今の話は……。
+No, that's fine, but...  Sakuya-san, what we're talking about now...
 --------------------------------
 [00000117][サクヤ,マキシマ,サクヤ]
-……ごめんなさい。気にしないで。
+...I'm sorry. never mind.
 --------------------------------
 [00000118][サクヤ,マキシマ,サクヤ]
-行きましょう。
-もう、この場所にはいたくないわ。
+Let's go.  I don't want to be in this place anymore.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（サクヤさん、なにを悩んでいるんだ？）
+@fcFFAAFFAA(Sakuya-san, what are you worried about?)
 --------------------------------
 [00000120][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（オレにも話せないようなことなのか？
-サクヤさん……）
+@fcFFAAFFAA(Is this something you can't even talk about to me?
+Sakuya-san...)
 --------------------------------
 [00000121][none]
-どこかケガしたんですか？
+Are you injured somewhere?
 --------------------------------
 [00000122][none]
-しっかりしてください！
+Stay strong!
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-サクヤさん。
+Sakuya-san.
 --------------------------------
 [00000124][サクヤ,マキシマ,サクヤ]
-レイジ……。
-どうかしたの？
+Rage...  What's wrong?
 --------------------------------
 [00000125][レイジ,レイジ,レイジ]
-話があるんです、サクヤさんに。
-ちょっといいですか？
+I have something to talk about, Sakuya-san.  Is it okay?
 --------------------------------
 [00000126][サクヤ,マキシマ,サクヤ]
-……そうね。
-私も、あなたと話さなくてはいけないと
-思っていたわ。
+...That's right.  I thought I had to talk to you, too.
 --------------------------------
 [00000127][レイジ,レイジ,レイジ]
-サクヤさん、教えてください。
-一体何を悩んでいるんですか？
+Sakuya-san, please tell me.  What on earth are you worried about?
 --------------------------------
 [00000128][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000129][レイジ,レイジ,レイジ]
-世界のバランスとか、古代兵器とかって
-一体何なんですか？
-サクヤさんと何か関係あるんですか？
+What do you mean by world balance and ancient weapons?  Do you have any
+relationship with Sakuya-san?
 --------------------------------
 [00000130][レイジ,レイジ,レイジ]
-オレなんかじゃ頼りにならないだろうけど
-話せば楽になることもありますよ。
+You probably won't be able to rely on me, but sometimes things will be easier if
+you talk to me.
 --------------------------------
 [00000131][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000132][レイジ,レイジ,レイジ]
-やっぱり……伯爵の奴と
-なにか関係あるんですか？
+As expected... do you have any connection with the Earl?
 --------------------------------
 [00000133][サクヤ,マキシマ,サクヤ]
-……そうね。
-全ての始まりは伯爵だったわ。
+...That's right.  It all started with the Earl.
 --------------------------------
 [00000134][サクヤ,マキシマ,サクヤ]
-彼が何かを企んでいる、というのは
-ずっと前から気づいていたの。
-そう、ずっと以前から……。
+I've known for a long time that he was up to something.  Yes, from a long time
+ago...
 --------------------------------
 [00000135][サクヤ,マキシマ,サクヤ]
-でも、その目的まではわからなかった。
-彼が何をしようとしているのか、わかった時には
-全てが手遅れだったわ。
+But I didn't know its purpose.  By the time I realized what he was trying to do,
+it was all too late.
 --------------------------------
 [00000136][サクヤ,マキシマ,サクヤ]
-私の行動が遅れたせいで
-たくさんの悲劇が生まれて……。
+Because of my delay in acting, many tragedies have occurred...
 --------------------------------
 [00000137][サクヤ,マキシマ,サクヤ]
-クラントールもそう。
-私がしっかりしていれば、クラントールは
-今も平和な国だったはずよ。
+Same goes for Crantor.  If I had done my best, Krantor would still be a peaceful
+country.
 --------------------------------
 [00000138][レイジ,レイジ,レイジ]
-それじゃ、オレがこの世界に来たのは……。
+Then I came to this world...
 --------------------------------
 [00000139][サクヤ,マキシマ,サクヤ]
-そうね……。
-間接的とはいえ、レイジがエンディアスに来たのは
-私のせい、ということになるわね。
+Yes...  Even if it's indirectly, it's my fault that Rage came to Endias.
 --------------------------------
 [00000140][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000141][サクヤ,マキシマ,サクヤ]
-私は慌てたわ。
-慌てて事態の収拾を図ったけれど、全ては
-悪い方へと転がっていってしまった。
+I panicked.  I hurriedly tried to control the situation, but everything took a
+turn for the worse.
 --------------------------------
 [00000142][サクヤ,マキシマ,サクヤ]
-それでも、私は……。
-伯爵の企てが人々を苦しめるのを
-黙って見過ごすことはできなかった。
+Still, I...  I couldn't just sit by and watch the Earl's plans cause suffering
+to the people.
 --------------------------------
 [00000143][サクヤ,マキシマ,サクヤ]
-だから、あなたたちの手助けをしてきたの。
-傷つき、苦しむ人たちを救うために。
+That's why I've been helping you guys.  To save those who are hurt and
+suffering.
 --------------------------------
 [00000144][サクヤ,マキシマ,サクヤ]
-でも……それは本来「調律者」の役割じゃない。
+But...that's not the original role of a "tuner."
 --------------------------------
 [00000145][サクヤ,マキシマ,サクヤ]
-私たち「調律者」は
-世界のバランスを保つのが使命。
-住民に手を貸すことは許されないの。
+Our mission as "balancers" is to maintain the balance of the world.  You are not
+allowed to lend a hand to the residents.
 --------------------------------
 [00000146][レイジ,レイジ,レイジ]
-私たち「調律者」……。
-それじゃ、サクヤさんは……。
+We are the "tuners"...  Then, Mr. Sakuya...
 --------------------------------
 [00000147][サクヤ,マキシマ,サクヤ]
-でも、それは必要なことなのかしら？
-この世界のバランスを保つことは
-それほど重要なことなの？
+But is that necessary?  Is it really that important to maintain balance in this
+world ?
 --------------------------------
 [00000148][サクヤ,マキシマ,サクヤ]
-世界に深く介入し、
-守るべき住民を操るようなことをしてまで
-バランスを取ることが……。
+To maintain balance by intervening deeply in the world and even manipulating the
+people it is supposed to protect...
 --------------------------------
 [00000149][サクヤ,マキシマ,サクヤ]
-そう考えたら……。
-私のしていることは、伯爵と
-そう違わないんじゃないかしら。
+If you think about it...  I guess what I'm doing isn't all that different from
+the Count.
 --------------------------------
 [00000150][レイジ,レイジ,レイジ]
-サクヤさん……。
+Sakuya-san...
 --------------------------------
 [00000151][サクヤ,マキシマ,サクヤ]
-世界のバランスを崩そうとする伯爵。
-逆に、世界を守ろうとする私。
+A count who tries to upset the balance of the world.  On the contrary, I am
+trying to protect the world.
 --------------------------------
 [00000152][サクヤ,マキシマ,サクヤ]
-行動はまるで正反対だけど、
-自分のエゴで世界を……住民を操っていることに
-変わりはない。
+Even though his actions are the complete opposite, it doesn't change the fact
+that he uses his ego to manipulate the world... its residents.
 --------------------------------
 [00000153][サクヤ,マキシマ,サクヤ]
-私も、伯爵も……。
-結局は、似たもの同士なんだわ。
+Me and the Earl...  After all, they are similar.
 --------------------------------
 [00000154][レイジ,レイジ,レイジ]
-確かに、そうかもしれない。
+Yes, that may be true.
 --------------------------------
 [00000155][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-もしかすると、サクヤさんの
-……オレたちのやっていることは
-正しいことじゃないのかも知れない。
+Maybe, Sakuya-san... what we're doing isn't the right thing.
 --------------------------------
 [00000157][レイジ,レイジ,レイジ]
-でも……。
-オレは、それでもかまわないと思う。
+But...  I don't think that's okay.
 --------------------------------
 [00000158][レイジ,レイジ,レイジ]
-それは違うよ、サクヤさん。
+That's not true, Sakuya-san.
 --------------------------------
 [00000159][サクヤ,マキシマ,サクヤ]
-レイジ……？
+Rage...?
 --------------------------------
 [00000160][レイジ,レイジ,レイジ]
-サクヤさんのしていることが
-伯爵と同じだなんて……。
-そんな馬鹿な。ありえないよ！
+What Sakuya-san is doing is the same as the Count...  You're such an idiot. No
+way!
 --------------------------------
 [00000161][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000162][サクヤ,マキシマ,サクヤ]
-レイジ……あなたはどう思う？
-私のしていることは、間違っているのかしら？
+Rage...what do you think?  Is what I'm doing wrong?
 --------------------------------
 [00000163][レイジ,レイジ,レイジ]
-オレは……。
+I...
 --------------------------------
 [00000164][レイジ,レイジ,レイジ]
-サクヤさんの言ってること、
-オレには難しくてよくわからない。
+What Sakuya-san is saying is too difficult for me to understand.
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-でも、これだけははっきり言える。
-サクヤさんのやっていることは
-決して悪いことじゃない。
+But I can say this clearly.  What Sakuya-san is doing is not bad at all.
 --------------------------------
 [00000166][サクヤ,マキシマ,サクヤ]
-レイジ……。
+Rage...
 --------------------------------
 [00000167][レイジ,レイジ,レイジ]
-好きな人を守りたい。
-大事な人を守りたい。
-そう思うのは当たり前のことだろ。
+I want to protect the people I love.  I want to protect the people I care about.
+It's natural to think so.
 --------------------------------
 [00000168][レイジ,レイジ,レイジ]
-オレは……オレたちは、そのために戦ってるんだ。
-そのために帝国を倒すんだ。
-そうだろ、サクヤさん!?
+I... That's what we're fighting for.  For that purpose, we will defeat the
+Empire.  Isn't that so, Sakuya-san!?
 --------------------------------
 [00000169][レイジ,レイジ,レイジ]
-サクヤさんはオレたちの仲間だ。
-一緒に戦う仲間が間違っているだなんて
-オレは認めたくない。
+Sakuya-san is one of our friends.  I don't want to admit that the people I fight
+with are wrong.
 --------------------------------
 [00000170][レイジ,レイジ,レイジ]
-サクヤさんの悩みは大きすぎて
-オレの手には負えそうにないけど……でも
-１人で悩まないで、オレにも手伝わせてくれないか。
+Sakuya-san's troubles are too big for me to handle... But, instead of worrying
+about it all by yourself, could you please let me help you too?
 --------------------------------
 [00000171][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000172][サクヤ,マキシマ,サクヤ]
-……ふふっ、
-うふふ、うふふふっ。
+...Hehe,  Hehe, hehe.
 --------------------------------
 [00000173][レイジ,レイジ,レイジ]
-……サクヤさん？
+...Sakuya-san?
 --------------------------------
 [00000174][サクヤ,マキシマ,サクヤ]
-ふふふっ……ああ、おかしい。
-あなたと話していると、世界のバランスとかって
-すごく小さなものに思えてくるわね。
+Hehehe... ah, that's strange.  When I talk to you, the balance in the world
+seems like a very small thing.
 --------------------------------
 [00000175][サクヤ,マキシマ,サクヤ]
-ありがとう、レイジ。
-おかげで、なんだかすっきりした気分だわ。
+Thank you, Rage.  Thanks to you, I feel kind of refreshed.
 --------------------------------
 [00000176][レイジ,レイジ,レイジ]
-そうですか……よかった。
-サクヤさんの笑顔、久しぶりに見た。
-やっぱりサクヤさんは、笑顔の方がいいですよ。
+I see... that's good.  It's been a while since I saw Sakuya-san smile.  After
+all, Sakuya-san is better when she smiles.
 --------------------------------
 [00000177][サクヤ,マキシマ,サクヤ]
-あら……うふふっ。
-子供のくせに、ナマイキ言わないの。
+Oh...hehe.  Even though you're a child, you don't say anything stupid.
 --------------------------------
 [00000178][none]
-そうかもしれない
+maybe
 --------------------------------
 [00000179][none]
-それは違う
+That's not true
 --------------------------------
 [00000180][レイジ,レイジ,レイジ]
-あ、サクヤさん。
-どこへ行くんですか？
+Oh, Sakuya-san.  Where are you going?
 --------------------------------
 [00000181][サクヤ,マキシマ,サクヤ]
-レイジ。ちょうどよかったわ。
-一緒に来てもらえる？
+Rage. It was just right.  Can you come with me?
 --------------------------------
 [00000182][サクヤ,マキシマ,サクヤ]
-この間の遺跡の周囲に、不穏な動きがあるらしいの。
-もしかすると、またよくないことが
-起こるかもしれないわ。
+There seems to be some disturbing movement around the ruins.  Maybe something
+bad will happen again .
 --------------------------------
 [00000183][レイジ,レイジ,レイジ]
-よくないこと……。
-わかりました、すぐ行きます。
+That's not good...  Okay, I'll go right away.
 --------------------------------
 [00000184][サクヤ,マキシマ,サクヤ]
-なにかしら、あの偉そうな態度。
-まるで神気取りね！
+What's with that bossy attitude?  It's almost divine!
 --------------------------------
 [00000185][レイジ,レイジ,レイジ]
-サクヤさん……。
+Sakuya-san...
 --------------------------------
 [00000186][サクヤ,マキシマ,サクヤ]
-私は間違っても、あんな風にはなりたくないわ。
-あんな偉そうな、気取り屋の
-神もどきみたいには……。
+Even if I'm wrong, I don't want to end up like that.  She's such a bossy,
+pretentious person. She's like a god-like person...
 --------------------------------
 [00000187][レイジ,レイジ,レイジ]
-……ははっ。
+...Haha.
 --------------------------------
 [00000188][サクヤ,マキシマ,サクヤ]
-……何よ、レイジ。
-何がおかしいの？
+...What is it, Rage?  What's wrong?
 --------------------------------
 [00000189][レイジ,レイジ,レイジ]
-サクヤさんは、うじうじ悩むよりも
-怒ってるくらいの方が似合ってるよ。
+Sakuya-san looks better when she's angry than when she's worried.
 --------------------------------
 [00000190][サクヤ,マキシマ,サクヤ]
-なっ!?
+What!?
 --------------------------------
 [00000191][レイジ,レイジ,レイジ]
-オレは……サクヤさんが好きだ。
+I... I like Sakuya.
 --------------------------------
 [00000192][サクヤ,マキシマ,サクヤ]
-……レ、レイジ、
-なにを言い出すのよ!?
+...Rage, What are you saying!?
 --------------------------------
 [00000193][レイジ,レイジ,レイジ]
-オレは、この世界を守るために、
-懸命に戦うサクヤさんが好きだ。
-もちろん、他の仲間たちのこともだけど。
+I like Sakuya-san, who fights hard to protect this world.  Of course, the other
+friends as well.
 --------------------------------
 [00000194][サクヤ,マキシマ,サクヤ]
-あ……そ、そういうことね。
-ちょっとびっくりしたわ……。
+Ah... I see.  I was a little surprised...
 --------------------------------
 [00000195][レイジ,レイジ,レイジ]
-さっき、街のオッサンが虫けら扱いされた時
-サクヤさんは本気で怒っただろ。
-オレ、そんなサクヤさんが好きだよ。
+Just now, when the old man in town was treated like an insect, Sakuya-san must
+have been really angry.  I like Sakuya like that.
 --------------------------------
 [00000196][サクヤ,マキシマ,サクヤ]
-…………。
+………….
 --------------------------------
 [00000197][レイジ,レイジ,レイジ]
-オレは、伯爵みたいな奴から
-街の人たちを守りたい。
-サクヤさんもそうなんだろ？
+I want to protect the people of the city from people like the Count.  Isn't it
+the same for Sakuya?
 --------------------------------
 [00000198][サクヤ,マキシマ,サクヤ]
-……ええ、そうよ。
-私は、この世界の人たちが好き。
-レイジも、一緒に戦ってくれるみんなも。
+...Yes, that's right.  I like the people of this world.  Rage and everyone who
+fights together.
 --------------------------------
 [00000199][サクヤ,マキシマ,サクヤ]
-だから……守りたいの。
-守ってみせるわ、みんなを！
+That's why...I want to protect it.  I'll protect you all!
 --------------------------------
 [00000200][サクヤ,マキシマ,サクヤ]
-ありがとう、レイジ。
-おかげで吹っ切れたわ。
+Thank you, Rage.  Thanks to you, I was able to blow it up.
 --------------------------------
 [00000201][レイジ,レイジ,レイジ]
-よかった……。
-オレも少しは、サクヤさんの役に
-立てたってことだな。
+Good...  I think I was able to help Sakuya-san in some way.
 --------------------------------
 [00000202][サクヤ,マキシマ,サクヤ]
-ええ、そうね。
+Yeah, that's right.
 --------------------------------
 [00000203][サクヤ,マキシマ,サクヤ]
-でも……私を好きだ、なんて言うのは
-１０年早いかしらね。
+But... it's probably 10 years too early to say that you love me.
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-あっ!?
-さ、さっきのはつい勢いで、その……。
+Ah!? Well, what happened earlier was so sudden...
 --------------------------------
 [00000205][サクヤ,マキシマ,サクヤ]
-うふふふふっ。そうね……。
-１０年後、世界が平和になっていたら、
-また言ってみてちょうだい。
+Hehehehehe. That's right...  Ten years from now, when the world is at peace, try
+saying that again.
 --------------------------------
 [00000206][サクヤ,マキシマ,サクヤ]
-みんなが静かに暮らせるようになった世界で……。
-私にも、それからみんなにも……ね？
+In a world where everyone can live quietly...  For me, and for everyone...
+right?
 --------------------------------

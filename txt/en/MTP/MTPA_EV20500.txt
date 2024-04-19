@@ -1,1061 +1,855 @@
 [0244]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-お、エルミナじゃないか。
-こんなところでなにしてるんだ？
+Oh, it's Elmina.  What are you doing here?
 --------------------------------
 [00000001][エルミナ,ローデリア,エルミナ]
-あっ……れ、レイジさん!?
-……っ……あ、あのあの、私、失礼します！
+Ah... Rage-san!? ... Ah... Um, excuse me!
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-えっ、ちょっと待った！　逃げるなって！
-いったいどうしたんだよ？
+Oh, wait a minute! Don't run away!  What the hell happened?
 --------------------------------
 [00000003][エルミナ,ローデリア,エルミナ]
-@fcFFAAFFAA（い、いけない。私ったら、思わず
-逃げ出しそうになっちゃった……。レイジさんに
-お願いしなくちゃいけないことがあったのに……）
+@fcFFAAFFAA(No, I can't do that. 
+I almost ran away without thinking... 
+I had to ask Rage-san for something...)
 --------------------------------
 [00000004][エルミナ,ローデリア,エルミナ]
-あ、あの！　レイジさんっ！
-ちょっとよろしいでしょうかっ!?
+Oh, that! Mr. Rage!  Is that okay?
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-お、おう。どうした？
-なにか用があるなら遠慮なく言ってくれ。
+Oh, okay. what up? 
 --------------------------------
 [00000006][エルミナ,ローデリア,エルミナ]
-あ、いえ、その、あの、ええと……。
-ですから……その……。
+Oh, no, um, uh...  So... that's...
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-……あのさ、エルミナ。
+...Well, Elmina.
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-もっとハキハキと話してくれよ。
-このままじゃ日が暮れちゃうぜ？
+Please speak more clearly.  If we continue like this, the sun will set, right?
 --------------------------------
 [00000009][エルミナ,ローデリア,エルミナ]
-は、はいっ！　も、もももも、申し訳ありません！
-……私、本当にダメな子で……うぅ……。
+Yes!　Momomomomo, I'm sorry!  ...I'm really a no-good girl...uh...
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-……あ、いや、そんなに謝ることは……。
-ごめん、オレもちょっと言い過ぎたな。
+...Ah, no, I can't apologize that much...  Sorry, I said too much too.
 --------------------------------
 [00000011][エルミナ,ローデリア,エルミナ]
-い、いえ、私のほうこそ本当にごめんなさい。
-私ったら、どうしてこんなに緊張
-しちゃうんでしょう……うぅ……。
+No, I'm really sorry.  Why do I get so nervous? Ugh...
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-慌てなくていいから、ゆっくり話しなよ。
-それとも、オレってそんなに怖いかな？
+Don't panic, just talk slowly.  Or maybe I'm that scary?
 --------------------------------
 [00000013][エルミナ,ローデリア,エルミナ]
-い、いえ！　とんでもない！
-……こ、これは、ぜんぶ私の性格のせいで……。
-……ほ、本当にごめんなさい……。
+No, no! no way!  ...I-I'm really sorry...
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-いや、謝る必要はないけどさ……。
-うーん、どうも話が進まないなあ。
+No, there's no need to apologize...  Hmm, I can't seem to get the story going.
 --------------------------------
 [00000015][エルミナ,ローデリア,エルミナ]
-ほ、本当にすみません、すみません！
+I-I'm really sorry, I'm sorry!
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-……………………。
-……エルミナ、なんだか慌ててたみたいだけど、
-少しは落ち着いたか？
+…………………….  ...Elmina, you seemed to be in a bit of a panic. Have you calmed down
+a little?
 --------------------------------
 [00000017][エルミナ,ローデリア,エルミナ]
-あ……は、はい！　気をつかっていただいて
-ありがとうございます！
-……わ、私、なんだか緊張しちゃって……。
+Ah... yes! Thank you for your attention!  ...I-I'm kind of nervous...
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-そんなの気にしなくていいよ。
-それで、オレを呼び止めたのはなんでだい？
+Don't worry about that.  So why did you stop calling me?
 --------------------------------
 [00000019][エルミナ,ローデリア,エルミナ]
-あ、そうでした。すみません……。
-私なんかが呼び止めてしまって……。
+Oh, that's right. sorry……. 
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-おいおい、そうやって謝ってばかりじゃ
-話は進まないぜ？　オレを呼び止めたのは
-なにか用事があるからだろ？
+Hey, if you keep apologizing like that, the conversation won't move forward,
+right? The reason you stopped me was because you had something to do, right?
 --------------------------------
 [00000021][エルミナ,ローデリア,エルミナ]
-は、はい……実は私、引っ込み思案な性格を
-直したくて……それと、男性恐怖症も……。
+Yes...actually, I want to fix my shy personality...and my fear of men...
 --------------------------------
 [00000022][エルミナ,ローデリア,エルミナ]
-私って、このとおりの性格で……
-今みたいに男性と２人きりだと、
-うまく話せないんです……。
+I have this kind of personality... When I'm alone with a man like now, I can't
+talk well...
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-なるほど……そういうわけだったのか。
-……でも、どうしてオレに頼むんだ？
+I see... so that's what happened.  ...But why are you asking me?
 --------------------------------
 [00000024][エルミナ,ローデリア,エルミナ]
-あっ……そ、そうですよね。
-やっぱりご迷惑ですよね。……ご、ごめんなさい！
-今の話は忘れてください！
+Ah...that's right.  It's a nuisance after all. ...Sorry!  Forget what we just
+talked about!
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-お、おい、待てって！　帰るなって！
-迷惑とかじゃないってば！
-ただ、理由を聞いただけだよ。
+Oh, hey, wait! Don't go home!  It's not a nuisance!  I just asked why.
 --------------------------------
 [00000026][エルミナ,ローデリア,エルミナ]
-そ、そうでしたか……すみません。
-わ、私ったら、悪い方にばかり考えちゃって……。
+I-I see...I'm sorry.  I-I always think about the bad things...
 --------------------------------
 [00000027][エルミナ,ローデリア,エルミナ]
-ええと……それで、レイジさんにお願いした理由
-なんですけど……。
+Well... that's why I asked Rage-san...
 --------------------------------
 [00000028][エルミナ,ローデリア,エルミナ]
-この性格を直したいってアイラ様に相談したら、
-レイジさんに手伝ってもらえばうまくいく、
-と言われまして……。
+When I talked to Isla-sama about how I wanted to fix this personality, she said
+that if I asked Rage-san to help me, things would be fine. 
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-アイラ姫、オレの知らないところで
-適当なことを……。でもまあ確かに、
-その性格は直した方がいいかもな。
+Princess Isla, you did something random without me knowing... But,  Maybe you
+should change that personality.
 --------------------------------
 [00000030][エルミナ,ローデリア,エルミナ]
-そ、それじゃ、私が性格を直すのを
-手伝っていただけますか？
-お手数をかけて申し訳ないのですけど……。
+Well then, could you help me change my personality?  I apologize for the
+inconvenience, but...
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-ああ、わかったよ。
-オレもできる限りのことはしてみるよ。
-一緒にがんばろう！
+Oh, I understand.  I'll try my best as well.  Let's do our best together!
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……とは言ったものの……これは一筋縄じゃ
-いきそうにないぞ。
-さて、どうしたもんかな……）
+@fcFFAAFFAA(...However...this isn't going to be easy.
+Now, what should I do...)
 --------------------------------
 [00000033][none]
-もっとハキハキと話してくれよ
+Please speak more clearly.
 --------------------------------
 [00000034][none]
-慌てなくていいから、ゆっくり話しなよ
+There's no need to rush, just speak slowly.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-おーい、エルミナ！
-何してるんだ、こんなところで？
+Hey, Elmina!  What are you doing here?
 --------------------------------
 [00000036][エルミナ,ローデリア,エルミナ]
-あっ！　れ、レイジさん！
-い、いらしたのですか？
-……わ、私は用事があるので、失礼しま……。
+Ah! Hey, Rage-san!  Did you need it?  ...I-I have something to do, so please
+excuse me...
 --------------------------------
 [00000037][レイジ,レイジ,レイジ]
-おっと、エルミナ。逃げちゃダメだぜ？
-男とも話せるように努力するんだろ？
+Whoa, Elmina. You can't run away, right?  You're going to try your best to talk
+to men, right?
 --------------------------------
 [00000038][エルミナ,ローデリア,エルミナ]
-@fcFFAAFFAA（……そうよ、エルミナ。
-逃げてばかりじゃダメ……。ちゃんと男性とも
-お話しができるようにならなくちゃ）
+@fcFFAAFFAA(...That's right, Elmina.
+You can't just run away...
+You have to learn to talk to men properly.)
 --------------------------------
 [00000039][エルミナ,ローデリア,エルミナ]
-え、ええと、その……
-れ、レイジさんは、今日もお元気そうですね。
-……それじゃ、ごきげんよう。
+Um, uh... Rage-san seems to be doing well today.  ...Good day then.
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-お、おいおい。結局すぐに帰っちゃうのかよ。
-もう少しなにか話そうぜ。
+Oh, hey. I guess I'll be going home soon after all.  Let's talk about something
+a little more.
 --------------------------------
 [00000041][エルミナ,ローデリア,エルミナ]
-そ、そうですか？
-で、でも……なにを話せばいいのか……。
+I-Is that so?  But... what should I say...?
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（うーん、エルミナは相変わらずだなあ）
+@fcFFAAFFAA(Hmm, Elmina is still the same)
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（エルミナは男性恐怖症だって言ってたけど……。
-こりゃ確かに手ごわそうだな）
+@fcFFAAFFAA(Elmina said that she has a phobia of men...
+It sure looks tough.)
 --------------------------------
 [00000044][エルミナ,ローデリア,エルミナ]
-あ、あの……レイジさん。もしかして、怒って
-いらっしゃいますか？　と、当然ですよね。
-私みたいにウジウジした態度じゃ……。
+Ah, uh... Rage-san. Are you perhaps angry? Of course, right?  If you have an
+annoying attitude like me...
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-えっ？　そんなことないってば。
-エルミナはちょっと考えすぎだよ。
+Huh?　That's not true.  Elmina is thinking a little too much.
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-そ、そうでしょうか。
-で、でも、私、今だってレイジさんに
-ご迷惑をかけていますし……。
+I-I see.  But, I'm still causing trouble for Rage-san...
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-迷惑なもんか。気にすんなよ。
-もっと気楽に話してみろって。
+It's annoying. Don't worry about it.  Try talking more casually.
 --------------------------------
 [00000048][エルミナ,ローデリア,エルミナ]
-そ、そうですか……？
-で、でも、どんなお話をすればいいのでしょう。
+I-I see...?  But, what kind of story should we talk about?
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-う～ん。別になんでもいいんだよ。
-軽い世間話とかさ。
+Hmm. It doesn't really matter.  Just some light small talk.
 --------------------------------
 [00000050][レイジ,レイジ,レイジ]
-まあ、ちょっとだけ……な。
-そこまで緊張されると、オレも少し
-話がしにくいよ。
+Well, just a little...  If you're that nervous, it's a little hard for me to
+talk to you, too.
 --------------------------------
 [00000051][エルミナ,ローデリア,エルミナ]
-……！　やっぱり！　ご、ごめんなさい……！
-私、レイジさんにご迷惑ばかりかけて……！
+...! on second thoughts!  I've caused Rage-san so much trouble...!
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-あ、いや！　でも、迷惑ってほどでは……。
-ただ、もう少し気楽にエルミナと会話が
-したいと思ってさ。
+Oh no! But it's not so much that it's a nuisance...  However, I wanted to have a
+more casual conversation with Elmina .
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-簡単な世間話でいいからさ、リラックスして
-話してみろよ。
+Just some simple small talk, just relax and have a chat.
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000055][エルミナ,ローデリア,エルミナ]
-…………。
+………….
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（うっ……オレまで黙ってしまうと、完全に
-会話が止まる……これは気まずいな）
+@fcFFAAFFAA(Ugh...if I keep quiet, 
+the conversation will stop completely...
+this is awkward)
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-な……なあ、エルミナ。
-そんなに緊張しないで、気楽に話してみろよ。
-世間話とかでいいからさ。
+Hey... Hey, Elmina.  Don't be so nervous, just talk casually.  Just small talk
+is fine.
 --------------------------------
 [00000058][エルミナ,ローデリア,エルミナ]
-わ、わかりました。
-……えーと……こ、こんにちは。
+Oh, I see.  ...Um...Hello.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-はい、こんにちは。
+Yes, hello.
 --------------------------------
 [00000060][エルミナ,ローデリア,エルミナ]
-…………。
+………….
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000062][エルミナ,ローデリア,エルミナ]
-……………………。
+…………………….
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-なあ、エルミナ。
-いつまで黙ってるつもりだよ？
-これじゃ、オレまで息が詰まっちまうよ。
+Hey, Elmina.  How long are you going to stay silent?  This will make even me
+suffocate.
 --------------------------------
 [00000064][エルミナ,ローデリア,エルミナ]
-あっ……ご、ごめんなさい！　や、やっぱり、
-私なんかが男性とうまく話せるはずが……
-わ、私、帰ります！　本当にごめんなさい！
+Ah... I-I'm sorry!  Well, I'm sure I can talk to men well...  I-I'm going home!
+really sorry!
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-あっ、エルミナ!?
-……あぁ、行っちまった……。
-オレも、少し強く言い過ぎたな……。
+Ah, Elmina!? ...Ah, I'm gone...  I also said it a little too strongly...
 --------------------------------
 [00000066][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……やれやれ。黙って見ていれば……。
-使えん男だな、お前は。
+...Oh my gosh. If you just shut up and watch...  You're a useless man.
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-ア、アイラ姫!!
-オレたちのこと、ずっと見てたのか？
-だったら途中で声をかけてくれれば……。
+Ah, Princess Isla!! Have you been watching us the whole time?  In that case, if
+you could call out to me on the way...
 --------------------------------
 [00000068][アイラ,ブランネージュ・ガルディニアス,アイラ]
-私では力不足だと思ったから、お前に託して
-みたのだがな。しかし、どうやら見込み違い
-だったようだ。
+I thought I wasn't strong enough, so I entrusted it to you. However, it seems
+that I was wrong.
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-別に、あれがエルミナの性格だっていうなら、
-今のままでもいいじゃないかよ。
-無理に変える必要はないだろ？
+Well, if that's Elmina's personality, I think it's fine to leave it as it is. 
+There's no need to force the change, right?
 --------------------------------
 [00000070][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……なにか勘違いをしているようだが、
-男性恐怖症を直したいと言い出したのは
-エルミナ自身だ。
+...I think I've misunderstood something, but it was Elmina herself who said she
+wanted to cure her fear of men.
 --------------------------------
 [00000071][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エルミナは、自分の性格について真剣に悩んでいる。
-だから、「今の自分を変えたい」と私に
-相談してきたのだ。
+Elmina is seriously worried about her personality. That's why she came to me
+because she wanted to change who she is now.
 --------------------------------
 [00000072][アイラ,ブランネージュ・ガルディニアス,アイラ]
-もちろん、私自身もエルミナの性格を直して
-やりたいと思っているがな。
+Of course, I myself would like to change Elmina's personality.
 --------------------------------
 [00000073][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……エルミナは本当に良い子だ。
-あの子には良い男性と結ばれて、幸せな
-結婚生活を送ってほしい。
+...Elmina is a really good girl. She wants that girl to end up with a good man
+and have a happy married life.
 --------------------------------
 [00000074][アイラ,ブランネージュ・ガルディニアス,アイラ]
-だが、男性恐怖症のままでは、それも
-かなわぬ夢だ。なんとなく、お前なら
-エルミナを変えてくれそうな気がしたのだが……。
+But if you continue to be afraid of men, that's a dream that won't come true.
+Somehow, I felt like you could change Elmina...
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-そうか……エルミナ、本当に悩んでたのか。
-なのに、オレ、ちょっとキツく
-言い過ぎちゃったな……。
+I see...Elmina, were you really worried?  But I was a bit harsh I said it too
+much...
 --------------------------------
 [00000076][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それはあまり気にしなくていい。
-根に持つような娘ではないし、なにより、時には
-厳しい言葉も必要だろう。
+Don't worry too much about that.  She's not the kind of girl you want to be, and
+most of all, sometimes harsh words are necessary.
 --------------------------------
 [00000077][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それより、今後もエルミナを見捨てずに
-面倒を見てやってくれないか？
-エルミナに代わって、私からも頼む。
+More importantly, will you continue to take care of Elmina without abandoning
+her?  On behalf of Elmina, I also request this.
 --------------------------------
 [00000078][レイジ,レイジ,レイジ]
-……わかった。男と１対１で話せないなんて、
-どうってことのない悩みだと思ったけど……。
+...I see. I thought that not being able to talk one-on-one with a man was a
+trivial problem, but...
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-エルミナの幸せな結婚にかかわると言われちゃ、
-話は別だ。
-女の子の一生がかかってるんだもんな。
+It's a different matter if you say that Elmina's happy marriage is involved. 
+The girl's whole life is at stake.
 --------------------------------
 [00000080][アイラ,ブランネージュ・ガルディニアス,アイラ]
-うむ、よろしく頼む。
-私もできる限り作戦を考えてみる。
+Hmm, thank you very much.  I'll try to think of a strategy as much as I can.
 --------------------------------
 [00000081][アイラ,ブランネージュ・ガルディニアス,アイラ]
-お前は、今後も根気よくエルミナに話しかけて
-みてくれ。エルミナも、お前が相手なら少しは
-話ができるようだからな。
+Please continue to talk to Elmina patiently. Elmina also seems like she can talk
+a little if you're her partner.
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-おう、任せとけ！
-エルミナの男性恐怖症は、オレが必ず
-克服させてみせるぜ！
+Oh, leave it to me!  I'll definitely make Elmina overcome her fear of men!
 --------------------------------
 [00000083][none]
-迷惑なもんか。気にすんなよ
+It's a nuisance. Don't worry about it
 --------------------------------
 [00000084][none]
-まあ、ちょっとだけ……な
+Well, just a little...
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-あ、いたいた。おーい、エルミナ！
-急いでこっちに来てくれ！
-手伝ってほしいことがあるんだ！
+Oh, it was. Hey, Elmina!  Hurry up and come here!  I need your help with
+something!
 --------------------------------
 [00000086][エルミナ,ローデリア,エルミナ]
-えっ？　はい、なんでしょう、レイジさん？
+Huh? Yes, what is it, Rage-san?
 --------------------------------
 [00000087][レイジ,レイジ,レイジ]
-実は、町の近くにモンスターが現れたんだ。
-どうにかしないと町の人たちが危ない！
-手伝ってくれるな？
+Actually, a monster has appeared near the town.  If we don't do something, the
+townspeople are in danger!  Can you help me?
 --------------------------------
 [00000088][エルミナ,ローデリア,エルミナ]
-は……はいっ！　戦闘であれば、私にも
-お手伝いできます！
-すぐに行きましょう！
+Yes... yes! If it's a battle, I can help you too!  Let's go right away!
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-しっかりしろ、エルミナ。
-ほら、目を覚ましてくれよ。
+Stay strong, Elmina.  Hey, wake up.
 --------------------------------
 [00000090][エルミナ,ローデリア,エルミナ]
-う、うぅ～ん……。
-あっ、レイジさん……私、いったい……？
+Uh...  Ah, Rage-san... what on earth am I...?
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-いきなり気絶したから心配したぜ。
-……すまなかったな、エルミナ……。
-この作戦はちょっと刺激が強かったみたいだ。
+I was worried because you suddenly passed out.  ...I'm sorry, Elmina...  It
+seems this strategy was a bit too stimulating.
 --------------------------------
 [00000092][エルミナ,ローデリア,エルミナ]
-えっ、作戦……？
-それはどういうことでしょうか？
+Huh, strategy...?  What does that mean?
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-お前に男性恐怖症を克服させるために
-ちょっと荒療治を行ってみたんだ。
+I tried a little therapy to help you overcome your fear of men.
 --------------------------------
 [00000094][レイジ,レイジ,レイジ]
-お前をわざと男だらけの中で戦わせたのは、オレと
-アイラ姫が考えた作戦だったんだよ。
+It was a plan that Princess Isla and I came up with to have you fight in a room
+full of men.
 --------------------------------
 [00000095][エルミナ,ローデリア,エルミナ]
-えっ……？
-そ、そんなぁ！　私をだましたんですか？
+Huh...?  Oh, that's right! Did you deceive me?
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-まあまあ、そんなに怒るなよ。
-オレたちもお前のためを思ってだな……。
+Well, don't get so angry.  We're thinking of you too...
 --------------------------------
 [00000097][エルミナ,ローデリア,エルミナ]
-で、でも、やり方が乱暴すぎますよ！
-私、モンスターと戦っていることよりも、
-男性に囲まれてることの方が怖かったんですから！
+But, your method is too rough!  I was more scared of being surrounded by men
+than fighting monsters!
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-いやいや、だから、オレも悪かったと
-思ってるってば……。
+No, that's why you think I was at fault too...
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-ごめん。これもお前のためだと思ったんだ。
-……でも、確かにやりすぎたと思ってる。
-本当にごめん！
+Sorry. I thought this was for you too.  ...But I think I definitely went too
+far.  I'm really sorry!
 --------------------------------
 [00000100][エルミナ,ローデリア,エルミナ]
-あっ、いえ、そんな……。
-レイジさんたちも、私のためを思ってしてくれた
-ことですから……。
+Oh, no, that's it...  Because Rage-san and the others did it for me too... 
 --------------------------------
 [00000101][エルミナ,ローデリア,エルミナ]
-でも、やり方が乱暴だと思います。
-もしも私が戦闘中に気絶したら、他の方々にも
-迷惑がかかっていましたよ？
+But I think the way you do it is rough.  If I passed out during the battle,
+other people would also be in trouble, right?
 --------------------------------
 [00000102][レイジ,レイジ,レイジ]
-うん、だから、それは本当に悪かったと思ってる。
-反省してます。
+Yeah, so I think that was really bad.  I'm reflecting on this.
 --------------------------------
 [00000103][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000104][エルミナ,ローデリア,エルミナ]
-な、なにを黙っているんですかっ！
-私は怒ってるんですよ!?
-こんな無茶なことをして……もう！
+W-what are you keeping quiet about?!  I'm angry!? For doing something so
+reckless... already!
 --------------------------------
 [00000105][レイジ,レイジ,レイジ]
-わ、悪かったってば。
-まさか、気絶するとは思ってなかったんだよ。
+Oh, that was bad.  I didn't expect you to pass out.
 --------------------------------
 [00000106][エルミナ,ローデリア,エルミナ]
-私のためを思ってくれたのはわかりますが、
-やり方が乱暴すぎます!!
+I know you're thinking of me, but you're being too rough!!
 --------------------------------
 [00000107][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……ふむ。
+...Hmm.
 --------------------------------
 [00000108][エルミナ,ローデリア,エルミナ]
-あっ、アイラ様！　いらしたんですか？
-……そういえば、アイラ様もレイジさんと一緒に
-私をだましたんですよね……。
+Ah, Isla-sama! Did you need it?  ...Now that I think about it, Isla-sama also
+deceived me along with Rage-san...
 --------------------------------
 [00000109][エルミナ,ローデリア,エルミナ]
-でしたら、これはレイジさんだけじゃなくて、
-アイラ様にも責任が……。
+In that case, it's not just Rage-san who is responsible for this, Isla-sama is
+also responsible...
 --------------------------------
 [00000110][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……それより、エルミナ。さっきから見ていると、
-レイジと普通に会話できているようだけど？
+...More importantly, Elmina. From what I've been watching for a while now, it
+seems like you're able to have a normal conversation with Rage?
 --------------------------------
 [00000111][エルミナ,ローデリア,エルミナ]
-えっ？　……あ、そう言われてみれば……。
-私、レイジさんとお話しできてる!?
-ぜんぜん緊張もしてない……。
+Huh? ...Ah, now that you mention it...  I'm able to talk to Rage-san!? I'm not
+nervous at all...
 --------------------------------
 [00000112][レイジ,レイジ,レイジ]
-本当だ……！　やったじゃないか、エルミナ！
-男性恐怖症を克服できたんだな!?
+It's true...! You did it, Elmina!  So you were able to overcome your fear of
+men!?
 --------------------------------
 [00000113][エルミナ,ローデリア,エルミナ]
-……は、はい！　どうやらそうみたいです。
-レイジさんたちの荒療治が効いたのでしょうか？
-あ、ありがとうございます!!
+...Yes!　Apparently so.  Did Rage-san's rough treatment work?  Ah, thank you!!
 --------------------------------
 [00000114][レイジ,レイジ,レイジ]
-オレは大したことはしてないさ。それに、
-エルミナの悩みを解消できたんなら、
-オレも嬉しいよ。
+I didn't do much. Besides, I'd be happy if I could solve Elmina's troubles. I'd
+be happy too.
 --------------------------------
 [00000115][エルミナ,ローデリア,エルミナ]
-……本当にありがとうございます、レイジさん、
-アイラ様……。
-……どうお礼をすればよいか……。
+...Thank you very much, Rage-san, Isla-sama...  ...How should I thank you...?
 --------------------------------
 [00000116][エルミナ,ローデリア,エルミナ]
-私……大したお礼はできませんけど、
-せめて、レイジさんとアイラ様のために
-歌を捧げたいと思います……聞いてもらえますか？
+I... I can't really thank you, but I would like to at least dedicate a song to
+Rage-san and Aira-sama... Could you please listen?
 --------------------------------
 [00000117][レイジ,レイジ,レイジ]
-……へえ、うまいもんだな。
-オレ、歌については詳しくないけど、
-なんだか心に響いてくるよ……。
+...Wow, it's delicious.  I don't know much about singing, but it somehow touches
+my heart...
 --------------------------------
 [00000118][アルティナ,メル・シルフィス,アルティナ]
-本当ね。なかなかいい声じゃないの。
-エルミナ。
+That's true. It's not a very good voice.  Elmina.
 --------------------------------
 [00000119][エルウィン,ラナ・シルフィス,ラナ]
-へえ……。エルミナって、こういう歌も歌うのね。
-いつもと印象が違って、いいんじゃない？
+Huh... Elmina also sings songs like this.  Isn't it nice to have a different
+impression than usual?
 --------------------------------
 [00000120][サクヤ,マキシマ,サクヤ]
-ふぅ……。なんだか、聞いてたら
-たまった疲れが取れてきたわ。
+Huh... For some reason, listening to it made me feel relieved of my accumulated
+fatigue.
 --------------------------------
 [00000121][ミストラル,ネレイス,ミスティ]
-いいのう。この歌を聞きながら、
-のんびりと温泉にでもつかりたいものじゃ。
+Good. While listening to this song, I want to relax and soak in a hot spring.
 --------------------------------
 [00000122][リン,シャオメイ,リンリン]
-さすが歌姫。けっこう聞かせるじゃない。
+As expected of a diva. I have to ask you a lot.
 --------------------------------
 [00000123][アイラ,ブランネージュ・ガルディニアス,アイラ]
-うむ……いつの間にか、周りに仲間が集まって
-きている。これもエルミナの歌の力か……。
+Hmm... Before I knew it, my friends had gathered around me. This is also the
+power of Elmina's song...
 --------------------------------
 [00000124][フェンリル,,フェンリル]
-おっ？　なんだか心地良い歌が聞こえてくると
-思ったら、エルミナだったのか。
-いやあ、大した歌声だな！
+Oh? I thought I heard a pleasant song, but it turned out to be Elmina.  Wow,
+that's a great singing voice!
 --------------------------------
 [00000125][エルミナ,ローデリア,エルミナ]
-フェ、フェンリルさん!?
-あ、あの、ごめんなさい。
-あんまり近づかないで……きゅう……。
+Feh, Fenrir-san!? Ah, um, I'm sorry.  Don't get too close... Kyuu...
 --------------------------------
 [00000126][レイジ,レイジ,レイジ]
-わっ、また気絶したっ!?
-な、なんでだ!?　男性恐怖症は克服したんじゃ
-なかったのか!?
+Whoa, I passed out again!? W-why?! I think I overcame my fear of men Isn't it?!
 --------------------------------
 [00000127][フェンリル,,フェンリル]
-……な、なんだ？　今のは……俺のせいか？
-俺を見て気絶したのか？
-…………俺、そんなに怖いか……？
+...What? "What happened now...is it my fault?"  Did you faint when you saw me? 
+……Am I really that scared…?
 --------------------------------
 [00000128][レイジ,レイジ,レイジ]
-と、とにかく安静にしなくちゃ！
-あっちの木陰に運ぼう！
+Anyway, you have to rest!  Let's carry it to the shade of that tree!
 --------------------------------
 [00000129][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@fcFFAAFFAA（……？
-レイジとは普通に接していたのに、他の男性が
-来たら気絶した……？）
+@fcFFAAFFAA(...? She was interacting with Rage normally, 
+but when another man cameshe fainted...?)
 --------------------------------
 [00000130][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@fcFFAAFFAA（……これは、もしかすると……）
+@fcFFAAFFAA(...this could be...)
 --------------------------------
 [00000131][none]
-まあまあ、そんなに怒るなよ
+Okay, don't get so angry.
 --------------------------------
 [00000132][none]
-ごめん。これもお前のためだと思ったんだ
+Sorry. I thought this was for you too
 --------------------------------
 [00000133][レイジ,レイジ,レイジ]
-よう、エルミナ。なにしてるんだ？
+Hello, Elmina. What are you doing?
 --------------------------------
 [00000134][エルミナ,ローデリア,エルミナ]
-あっ、レイジさん。
-特になにをしているというわけではないんですけど。
-ちょっと休憩してました。えへへ。
+Ah, Rage-san.  It's not like I'm doing anything in particular.  I was taking a
+short break. Hehehe.
 --------------------------------
 [00000135][レイジ,レイジ,レイジ]
-そっか。……それにしても、ずいぶん普通に
-話せるようになったよなあ、エルミナも。
-ちょっと前までとは大違いだぜ。
+I see. ...Anyway, I'm able to speak much more normally now, Elmina as well. 
+It's a big difference from just a while ago.
 --------------------------------
 [00000136][エルミナ,ローデリア,エルミナ]
-そうですね……たしかに私、前とはずいぶん
-変わったかもしれません。これもすべて、
-レイジさんとアイラ様のおかげです。
+Well...I may have changed a lot from before. This is all thanks to Rage-san and
+Aira-sama.
 --------------------------------
 [00000137][レイジ,レイジ,レイジ]
-いやあ、オレなんか大したことは……。
-でも、これで安心したよ。
+Well, I'm not a big deal...  But now I feel relieved.
 --------------------------------
 [00000138][レイジ,レイジ,レイジ]
-これならもう、オレとの特訓は必要ないな。
-今までお疲れさま、エルミナ。
+With this, you won't need any more special training with me.  Thank you for all
+your hard work, Elmina.
 --------------------------------
 [00000139][エルミナ,ローデリア,エルミナ]
-えっ、それって……。だっ、ダメですっ！
-私が普通に話せる男性ってレイジさんだけで、
-まだまだ他の男性は怖いですし……。
+Oh, that's... No, no!  The only man I can talk to normally is Rage, I'm still
+scared of other men...
 --------------------------------
 [00000140][エルミナ,ローデリア,エルミナ]
-男性恐怖症はぜんぜん直ってないので、これからも
-特訓を続けてください！
+I haven't completely cured my fear of men, so please continue your special
+training!
 --------------------------------
 [00000141][レイジ,レイジ,レイジ]
-あっ、そうなのか。
-そういうことなら、これからも力になるよ。
+Oh, is that so?  If that's the case, I'll continue to help you.
 --------------------------------
 [00000142][エルミナ,ローデリア,エルミナ]
-ありがとうございます！
-これからもよろしくお願いしますね！
+Thank you!  Thank you for your continued support!
 --------------------------------
 [00000143][レイジ,レイジ,レイジ]
-ああ。しっかりオレについて来い！
-お前の男性恐怖症、オレが完治させてやるぜ！
+Yeah. Follow me closely!  I'll completely cure your fear of men!
 --------------------------------
 [00000144][エルミナ,ローデリア,エルミナ]
-ふふっ、わかりました。
-頼りにしています、レイジさん！
+Hehe, I understand.  I'm counting on you, Rage-san!
 --------------------------------
 [00000145][レイジ,レイジ,レイジ]
-おう。オレに任せておけば安心さ。
-一緒にがんばろうぜ。
+Oh. You can rest assured if you leave it to me.  Let's do our best together.
 --------------------------------
 [00000146][レイジ,レイジ,レイジ]
-面倒くさいけど……しかたないな。
-一緒にがんばるとするか。
+It's a pain, but... I have no choice.  Let's do our best together.
 --------------------------------
 [00000147][エルミナ,ローデリア,エルミナ]
-むっ……な、なんですか、その言い方は。
-ここまで来たら、最後までしっかり
-面倒を見てください！
+Hmm...w-how do you say that?  If you've come this far, please take care of
+yourself till the end!
 --------------------------------
 [00000148][レイジ,レイジ,レイジ]
-ははは、わかった、わかった。
-でも、エルミナもだいぶ自己主張ができるように
-なってきたじゃないか。
+Haha, okay, okay. 
+However, Elmina has also started
+to be able to assert herself.
 --------------------------------
 [00000149][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000150][エルミナ,ローデリア,エルミナ]
-ど、どうしたんですか？
-いきなり黙っちゃって……。
-なにか返事をしてください。
+What's wrong?  She suddenly went silent...  Please give me some reply.
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-あ、いや、エルミナもずいぶん
-ハキハキと話せるようになったなって思って
-感心してたんだよ。
+Ah, no, Elmina was impressed as well, thinking that she had become able to speak
+very clearly now.
 --------------------------------
 [00000152][エルミナ,ローデリア,エルミナ]
-ふふっ。これもレイジさんのおかげです。
-本当に感謝しています。
+Hehe. This is also thanks to Rage.  I really appreciate it.
 --------------------------------
 [00000153][レイジ,レイジ,レイジ]
-でも、オレとは普通に話せるのに、どうして他の
-男が相手だと緊張しちゃうんだろう？
-不思議だよなあ。
+But why do you get nervous around other men when you can talk to me normally? 
+That's strange.
 --------------------------------
 [00000154][エルミナ,ローデリア,エルミナ]
-えっ!?　そ、そうですね……どうしてでしょうね。
-と、とにかく、これからも
-よろしくお願いしますね、レイジさん。
+Huh!? Well...I wonder why.  Anyway, Thank you for your continued support,
+Rage-san.
 --------------------------------
 [00000155][レイジ,レイジ,レイジ]
-ああ、わかった。
-オレもエルミナが元気になったら嬉しいし、
-喜んで協力させてもらうよ！
+Oh, I see.  I'd be happy if Elmina gets better, and I'll be happy to help!
 --------------------------------
 [00000156][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@fcFFAAFFAA（…………）
+@fcFFAAFFAA(…………)
 --------------------------------
 [00000157][アイラ,ブランネージュ・ガルディニアス,アイラ]
-@fcFFAAFFAA（……念のため陰から様子を見ていたけど……
-なんの心配もなかったみたいね。
-よかったわね、エルミナ……私も嬉しいわ）
+@fcFFAAFFAA(...I was watching from behind just to be sure...
+It seems like there was nothing to worry about.
+That's good, Elmina... I'm happy too.)
 --------------------------------
 [00000158][アイラ,ブランネージュ・ガルディニアス,アイラ]
-くっ……安心したら、急に涙が……。
-私も、意外に心配性だったのね。
+Damn... I felt relieved, but then I burst into tears...  I was also surprisingly
+anxious.
 --------------------------------
 [00000159][アイラ,ブランネージュ・ガルディニアス,アイラ]
-レイジ……エルミナのこと、
-これからも頼むわね……。
+Rage... I'll keep asking you about Elmina...
 --------------------------------
 [00000160][none]
-ああ。しっかりオレについて来い！
+Ah. Follow me closely!
 --------------------------------
 [00000161][none]
-面倒くさいけど……しかたないな
+It's a pain, but... I have no choice.
 --------------------------------
 [00000162][エルミナ,ローデリア,エルミナ]
-あっ、レイジさん！　いいところに！
-すぐに来てください！
-アイラ様が……アイラ様が大変なんです！
+Ah, Rage-san! In a good place!  Please come right away!  Isla-sama...Isla-sama
+is in trouble!
 --------------------------------
 [00000163][レイジ,レイジ,レイジ]
-ど、どうしたんだ、エルミナ!?
-落ち着いて話してくれ。なにがあった？
+What's wrong, Elmina!? Please calm down and talk. What happened?
 --------------------------------
 [00000164][エルミナ,ローデリア,エルミナ]
-実は、アイラ様が足を滑らせて崖に落ちて
-しまって……ケガをされたようなのですが、
-私１人じゃうまく降りられなくて……。
+Actually, Isla-sama slipped and fell onto a cliff...and she seems to have been
+injured, but I couldn't get down by myself...
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-そりゃ大変だ！
-すぐにその場所に連れてってくれ、エルミナ！
+That's tough!  Take me there right away, Elmina!
 --------------------------------
 [00000166][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……ごめんなさい、エルミナ。あなたたち２人の
-仲を確かめるため、一芝居うたせてもらったの。
-思った通り、あなたたちの息はぴったりだったわね。
+...I'm sorry, Elmina. I asked you to perform in a play to confirm the
+relationship between the two of you.  As I expected, you guys fit perfectly
+together.
 --------------------------------
 [00000167][レイジ,レイジ,レイジ]
-なんだ、そういうことかよ……。
-オレたち、まんまと騙されたわけだ……。
+What, that's what you mean...  We were completely fooled...
 --------------------------------
 [00000168][エルミナ,ローデリア,エルミナ]
-ふ、ふざけないでください、アイラ様！
-また私をだましたんですか!?
-私、本当に心配したんですよ!?
+Heh, don't be silly, Isla-sama!  Are you fooling me again!? I was really
+worried!?
 --------------------------------
 [00000169][レイジ,レイジ,レイジ]
-まあまあ、エルミナ。そんなに怒るなよ。
-アイラ姫だって、エルミナのためを思って
-したことなんだろうし。
+Well, Elmina. Don't get so angry.  Princess Islay must have done it for Elmina.
 --------------------------------
 [00000170][エルミナ,ローデリア,エルミナ]
-レイジさんは黙っててください！
-私、本当に怒ってるんですから！
+Rage-san, please shut up!  I'm really angry!
 --------------------------------
 [00000171][レイジ,レイジ,レイジ]
-うっ……！　す、すみませんでした！
+Ugh...! I-I'm sorry!
 --------------------------------
 [00000172][エルミナ,ローデリア,エルミナ]
-こんなことをして、もしもアイラ様の身に
-なにかあったら……。ううっ……。
+If something like this were to happen to Isla-sama... Ugh...
 --------------------------------
 [00000173][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エ、エルミナ、どうか泣かないで。
-私はあなたを悲しませるために
-芝居をうったわけでは……。
+Ermina, please don't cry.  I didn't put on a play to make you sad...
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-……う～ん。ちょっとやりすぎたかもな、アイラ姫。
-エルミナは、アイラ姫のことを
-本当に心配してたんだぜ？
+...Hmm. I think you may have gone a little too far, Princess Isla.  Elmina was
+really worried about Princess Isla, wasn't she?
 --------------------------------
 [00000175][レイジ,レイジ,レイジ]
-まあ、前回はオレもエルミナをだました側だったから
-偉そうには言えないけどさ。
+Well, last time I was also the one who deceived Elmina, so I can't say I'm being
+great.
 --------------------------------
 [00000176][エルミナ,ローデリア,エルミナ]
-もう！　あきれて言葉が出ません！
-どうしてこんな危ないことをしたんですか！
+Already! I'm stunned and speechless!  Why did you do such a dangerous thing?
 --------------------------------
 [00000177][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……ごめんなさい、エルミナ。
-だけど、私のことなら心配無用よ。
+...I'm sorry, Elmina.  But you don't have to worry about me.
 --------------------------------
 [00000178][アイラ,ブランネージュ・ガルディニアス,アイラ]
-私も氷刃の魔女という２つ名で呼ばれる女だもの。
-あの程度のモンスターなら、たとえあなたたちの
-助けが遅れても……。
+I'm also a woman who goes by two names: the Iceblade Witch.  For a monster like
+that, even if your help is delayed...
 --------------------------------
 [00000179][エルミナ,ローデリア,エルミナ]
-でも、万が一のことがあったらどうするんですか!?
-おかげでレイジさんだって危ない目に
-遭ったんですよ!?
+But what would you do if something were to happen!? Thanks to you, even Rage-san
+was in danger !?
 --------------------------------
 [00000180][エルミナ,ローデリア,エルミナ]
-それに、アイラ様が私をだますのは２度目です！
-どうして何度も私を試すんですか!?
-そんなに私が信用できないんですか!?
+Besides, this is the second time Isla-sama has deceived me!  Why do you keep
+testing me!? Do you really don't trust me!?
 --------------------------------
 [00000181][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そ、そんな……。
-エルミナ、私はそんなつもりでは……。
+Oh, that's it...  Elmina, I didn't mean that...
 --------------------------------
 [00000182][レイジ,レイジ,レイジ]
-聞いてくれ、エルミナ。
-前回はオレもアイラ姫と一緒にお前をだましたから、
-少しは姫の気持ちがわかるつもりだ。
+Listen, Elmina.  Last time I fooled you along with Princess Isla, so I think I
+can understand a little bit how the princess feels.
 --------------------------------
 [00000183][レイジ,レイジ,レイジ]
-アイラ姫はお前を信用してないわけじゃない。
-ただ、お前を心配する気持ちが強いだけなんだよ。
-これもアイラ姫なりの愛情表現さ。
+It's not that Princess Isla doesn't trust you.  It's just that she is very
+worried about you.  This is also Princess Isla's expression of love.
 --------------------------------
 [00000184][エルミナ,ローデリア,エルミナ]
-でも、だからってアイラ様が自らの身を
-危険にさらす必要はありません！
+But there's no need for Isla-sama to put herself in danger!
 --------------------------------
 [00000185][エルミナ,ローデリア,エルミナ]
-レイジさんとアイラ様が……大好きな人たちが
-危険な目に遭うだなんて、私には耐えられません!!
-うっ……うぅっ……。
+Rage-san and Aira-sama...I can't bear to see the people I love in such a
+dangerous situation!! Ugh... Ugh...
 --------------------------------
 [00000186][レイジ,レイジ,レイジ]
-エルミナ……。
-お前、そこまでオレたちのことを……。
+Elmina...  You think so much about us...
 --------------------------------
 [00000187][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エルミナ……ごめんなさい、私が悪かったわ。
-だから、もう泣かないで……。
-私も、あなたが悲しむ姿は見たくないもの。
+Elmina...I'm sorry, it was my fault.  So don't cry anymore...  I don't want to
+see you sad either.
 --------------------------------
 [00000188][エルミナ,ローデリア,エルミナ]
-……くすん……は、はい。
-ちゃんと反省したのなら、許してあげます……。
-えへへ。
+...Damn... Yes.  If you have reflected properly, I will forgive you...  Hehe.
 --------------------------------
 [00000189][アイラ,ブランネージュ・ガルディニアス,アイラ]
-でも、ずいぶん成長したわね、エルミナ……。
-まさか、男性恐怖症のあなたが、レイジへの告白を
-口にするなんて……。
+But you've grown a lot, Elmina...  I never imagined that you, who have a fear of
+men, would confess to Rage...
 --------------------------------
 [00000190][エルミナ,ローデリア,エルミナ]
-……えっ？　告白……？
-どういうことですか？
+...Eh? Confession...?  What do you mean?
 --------------------------------
 [00000191][アイラ,ブランネージュ・ガルディニアス,アイラ]
-先ほど口にしたでしょう。「大好きな人」と。
-あなたが軽々しくそんな言葉を口にしないと
-いうことは、私にはよくわかっているわ。
+You mentioned it earlier. "The person I love."  I know very well that you don't
+say such words lightly .
 --------------------------------
 [00000192][アイラ,ブランネージュ・ガルディニアス,アイラ]
-レイジも聞いただろう？
-エルミナがお前のことを大好きだと言ったのを。
+Rage heard that too, right?  Elmina said she loves you.
 --------------------------------
 [00000193][レイジ,レイジ,レイジ]
-あ～、ン、ンンン。
-ま、聞いてないと言ったらウソになるな。
-だ、だけど……。
+Ah, n-nnnn.  Well, I'd be lying if I said I hadn't heard it.  But...
 --------------------------------
 [00000194][エルミナ,ローデリア,エルミナ]
-ま、待って！　アイラ様もレイジさんも、
-それ以上なにも言わないで！　私……。
-し、失礼しますっ！
+Oh, wait! Ayla-sama and Rage-san, don't say anything else! I……. 
 --------------------------------
 [00000195][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……おぉ、すごい速さで走り去っていく……。
-初々しくてかわいらしいなあ。
-で、どうだ？　あんな可愛い子に告白された気分は？
+...Oh, it's running away at great speed...  It's innocent and cute.  So, what do
+you think? How does it feel to be confessed to by such a cute girl?
 --------------------------------
 [00000196][レイジ,レイジ,レイジ]
-べ、別に……あれは友人としてオレたちを心配した
-言葉であって……告白のうちには入らないだろ。
+Well, that's not really true... those words were just words that worried us as
+friends... they don't belong in a confession.
 --------------------------------
 [00000197][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ふふん。そのわりには顔が赤いぞ？
-……まあいいか。これ以上のおせっかいはやめて、
-２人の若さに任せるとしよう。
+Hmm. Is your face red instead?  ...That's okay. Let's stop meddling any further
+and leave it to the two young people.
 --------------------------------
 [00000198][レイジ,レイジ,レイジ]
-べ、別に、オレとエルミナはそんなんじゃ……。
+Well, that's not the case with me and Elmina...
 --------------------------------
 [00000199][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……でも、エルミナが本当にオレのことを……？
-もしもそうだとしたら、オレはなんて
-答えればいいんだろう？）
+@fcFFAAFFAA(...But, does Elmina really mean me...?
+If so, how should I answer
+?)
 --------------------------------
 [00000200][レイジ,レイジ,レイジ]
-……お、おう、エルミナ。
-こんなところにいたのか。
-ぐ、偶然だなあ。
+...Oh, hey, Elmina.  Were you in a place like this?  Well, that's a coincidence.
 --------------------------------
 [00000201][エルミナ,ローデリア,エルミナ]
-偶然じゃ……ありません。
-私、レイジさんにお話しがあって……。
-だから、ここでお待ちしてたんです。
+It's not a coincidence...  I had a talk with Rage-san...  That's why I was
+waiting here.
 --------------------------------
 [00000202][レイジ,レイジ,レイジ]
-ああ、そうだったのか。
-それで、用事ってなんだ？
+Oh, I see.  So, what is your business?
 --------------------------------
 [00000203][エルミナ,ローデリア,エルミナ]
-え、ええと……立ち話もなんですから……。
-ちょっと散歩でもしながらお話ししませんか？
+Oh, um... we're talking while standing up...  Would you like to take a little
+walk and talk?
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-おう、いいぜ。
-じゃ、行こうか。
+Oh, okay.  Okay, let's go.
 --------------------------------
 [00000205][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000206][エルミナ,ローデリア,エルミナ]
-…………。
+………….
 --------------------------------
 [00000207][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（まいったな。この間、アイラ姫が「告白」
-だなんて言ったもんだから、オレもなんだか
-エルミナを意識しちゃうよ……）
+@fcFFAAFFAA(That's crazy. 
+The other day, Princess Isla said that it was a "confession", 
+so I'm kind of thinking of Elmina too...)
 --------------------------------
 [00000208][レイジ,レイジ,レイジ]
-あ、あの～、エルミナ……。
-オレに話があったんじゃ……？
-それとも、また男性恐怖症に戻っちゃったとか？
+Ah, uh, Elmina...  Didn't you talk to me...?  Or have you returned to your fear
+of men?
 --------------------------------
 [00000209][エルミナ,ローデリア,エルミナ]
-あ、いえ！　そういうことでは！
-ちょ、ちょっと緊張してしまいまして。
-少し話しづらいことなので……。
+Oh, no! That's not it!  Hey, I'm a little nervous.  It's a little difficult to
+talk about...
 --------------------------------
 [00000210][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（話しづらいこと？
-なにか悩みでもあるのかな？）
+@fcFFAAFFAA(Is this something difficult to talk about?
+Are you worried about something?)
 --------------------------------
 [00000211][レイジ,レイジ,レイジ]
-悩みがあるなら相談に乗るぜ？
-オレじゃ頼りないかもしれないけど、
-どんなことでも話してくれよ。
+If you have a problem, let's talk about it, okay?  I may not be able to rely on
+you, but please feel free to talk to me about anything.
 --------------------------------
 [00000212][エルミナ,ローデリア,エルミナ]
-そ、そうですか……？
-で、でも、もしかするとご迷惑かも……。
+I-I see...?  But, it might be a nuisance...
 --------------------------------
 [00000213][レイジ,レイジ,レイジ]
-オレ、エルミナの力になりたいんだよ。
-遠慮しないで言ってみろって！
+I want to help Elmina.  Don't hesitate to say it!
 --------------------------------
 [00000214][エルミナ,ローデリア,エルミナ]
-……レイジさん、私、いつも引っ込み思案で、
-逃げてばかりで……でも、逃げてばかりじゃ
-いけないってわかったんです。
+...Rage-san, I've always been shy and always running away... But I've learned
+that I can't keep running away.
 --------------------------------
 [00000215][エルミナ,ローデリア,エルミナ]
-だから……失敗に終わってもいいから、レイジさんに
-お話ししておかなくちゃいけないことが
-あるんです……。
+So...even if it ends in failure, there's something I need to talk to Rage
+about...
 --------------------------------
 [00000216][レイジ,レイジ,レイジ]
-……ああ、なんだ？
+...Oh, what?
 --------------------------------
 [00000217][エルミナ,ローデリア,エルミナ]
-私、この間は勢いで言っただけで……中途半端に
-なってしまいましたけど……。
+The other day I was just saying it out loud...but I ended up saying it
+half-heartedly...
 --------------------------------
 [00000218][エルミナ,ローデリア,エルミナ]
-……私、私……。
-レイジさんが、好き、です……。
-世界で一番……誰よりも……。
+…I, I….  I like Rage-san...  The best in the world...more than anyone else...
 --------------------------------
 [00000219][レイジ,レイジ,レイジ]
-えっ？　エ、エルミナ……。
-は、話って……それ？
+Huh? E-Elmina...  Is that what you're talking about?
 --------------------------------
 [00000220][エルミナ,ローデリア,エルミナ]
-あ、あのっ、返事は別にいいんです！
-私、自分の気持ちを伝えたかっただけですから！
-勇気を出せただけで充分ですから！
+Oh, um, I don't mind replying!  I just wanted to convey my feelings!  Just
+having the courage is enough!
 --------------------------------
 [00000221][エルミナ,ローデリア,エルミナ]
-だから、その……結果はどうなろうと……。
-私、満足です……。
-レイジさんに、勇気をもらえただけで……。
+So... no matter what the outcome is...  I'm satisfied...  Just because Rage-san
+gave me courage...
 --------------------------------
 [00000222][レイジ,レイジ,レイジ]
-……ちょっと待ってくれよ、エルミナ。
-オレにも返事をさせてくれよ。
+...Wait a minute, Elmina.  Please let me reply as well.
 --------------------------------
 [00000223][エルミナ,ローデリア,エルミナ]
-あっ、はい、すみません！
-お、おかしいですよね、私ったら。
-心の準備はできています……どうぞ。
+Ah, yes, sorry!  Oh, that's strange, isn't it?  I'm ready... go ahead.
 --------------------------------
 [00000224][レイジ,レイジ,レイジ]
-……オレ、ちょっと驚いたけど、
-それはイヤだからじゃない。むしろ逆だ。
-すごく嬉しいよ、エルミナ。
+...I was a little surprised, but it's not because I don't like it. In fact, it's
+the opposite.  I'm really happy, Elmina.
 --------------------------------
 [00000225][エルミナ,ローデリア,エルミナ]
-えっ？　それじゃ、レイジさん……？
+Huh? Then, Rage-san...?
 --------------------------------
 [00000226][レイジ,レイジ,レイジ]
-あらためて、オレからもお願いするよ。
-オレ、エルミナが好きだ。これからもずっと、
-オレと一緒にいてくれないか？
+Once again, I would like to ask you a favor.  I like Elmina. Will you continue
+to be with me forever?
 --------------------------------
 [00000227][エルミナ,ローデリア,エルミナ]
-レイジさん……は、はい！
-私、すごく嬉しいです！
-……うっ、うぅ……。
+Rage-san...ha, yes!  I'm so happy!  ...Uh, uh...
 --------------------------------
 [00000228][レイジ,レイジ,レイジ]
-おいおい、嬉しくても泣くのかよ。
-仕方のないやつだな。
-ほら、笑ってくれよ。
+Hey, are you crying even when you're happy?  It can't be helped.  Here, smile.
 --------------------------------
 [00000229][エルミナ,ローデリア,エルミナ]
-う、うぅ……ごめんなさい。
-こんな私ですけど、よろしくお願いいたします。
+Uh... I'm sorry.  I'm like this, but thank you for your help.
 --------------------------------
 [00000230][アイラ,ブランネージュ・ガルディニアス,アイラ]
-うぅ……よかった、よかったわね。エルミナ！
+Uh... that's good, that's good. Elmina!
 --------------------------------
 [00000231][レイジ,レイジ,レイジ]
-わぁ、アイラ姫っ!?　のぞいてたのか!?
-……っていうか、アイラ姫まで泣いてるのかよ……。
+Wow, Princess Isla!? Were you peeking at me?! ...Or rather, Princess Isla is
+crying too...
 --------------------------------
 [00000232][アイラ,ブランネージュ・ガルディニアス,アイラ]
-今まで長い間、エルミナの行く末を心配
-してきたけど……これでもう安心ね。
-エルミナにも立派な婿ができたわ……。
+I've been worried about Elmina's fate for a long time, but now I feel at ease. 
+Elmina has also found a wonderful son-in-law...
 --------------------------------
 [00000233][アイラ,ブランネージュ・ガルディニアス,アイラ]
-きっとエルミナの両親も喜んでくれるわ。
-さっそくご実家にも報告しなくちゃ！
-そうだ、結婚式の日取りも決める必要があるわね。
+I'm sure Elmina's parents will be happy too.  I have to report it to my parents
+right away!  That's right, we also need to decide on a date for the wedding.
 --------------------------------
 [00000234][レイジ,レイジ,レイジ]
-……えっ？　ちょっと待てよ。
-それはちょっと気が早すぎないか？
-別にイヤじゃないけど、まだ先の話というか……。
+...Eh? Wait a moment.  Isn't that a bit too early?  I don't particularly dislike
+it, but it's still a long way off...
 --------------------------------
 [00000235][アイラ,ブランネージュ・ガルディニアス,アイラ]
-なにを言う。善は急げと言うだろう？
-こういうことは、迅速に進めるに限る。
+What do you say? Good will say hurry up, right?  This kind of thing can only be
+done quickly.
 --------------------------------
 [00000236][エルミナ,ローデリア,エルミナ]
-……レイジさん、アイラ様は一度暴走したら
-言うことを聞きませんよ。
-ここは逃げるのが一番です！　……それーっ！
+...Rage-san, once Isla-sama gets out of control, he won't listen to you.  It's
+best to run away from here! ...That's it!
 --------------------------------
 [00000237][レイジ,レイジ,レイジ]
-わあっ!?
-ちょっとエルミナ、急に引っ張るなって……。
+Wow!? Hey Elmina, don't pull me away so suddenly...
 --------------------------------
 [00000238][アイラ,ブランネージュ・ガルディニアス,アイラ]
-あっ、こら！　２人とも、なぜ逃げるの!?
-式の招待客も決めなくちゃいけないのに！
+Oh, here! Why are they both running away!? They also have to decide on the
+guests for the ceremony!
 --------------------------------
 [00000239][エルミナ,ローデリア,エルミナ]
-ごめんなさい、アイラ様！
-これから先のことは、私たち２人で考えていきます！
-……そうですよね？
+I'm sorry, Isla!  The two of us will think about the future together!  ...Isn't
+that so?
 --------------------------------
 [00000240][レイジ,レイジ,レイジ]
-エルミナ……ああ、そうだな。これから先のこと、
-オレたち２人で一緒に考えていこう。
+Elmina... ah, that's right. Let's think about the future together. Let's think
+about it together.
 --------------------------------
 [00000241][エルミナ,ローデリア,エルミナ]
-はい！　……でも、今はとにかくアイラ様から
-逃げ切りましょう！
-しっかりついて来てくださいね！
+Yes! ...But for now, let's just run away from Isla-sama!  Please follow me
+closely!
 --------------------------------
 [00000242][レイジ,レイジ,レイジ]
-おう！　お前こそ遅れるなよ、エルミナ！
+Oh! Don't be late, Elmina!
 --------------------------------
 [00000243][エルミナ,ローデリア,エルミナ]
-ええ、もちろんです！
-ふつつかものですが、末永くよろしく
-お願いしますね、レイジさん！
+Yes, of course!  It's only a matter of time, but thank you for your continued
+support Thank you, Rage-san!
 --------------------------------

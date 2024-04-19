@@ -1,63 +1,54 @@
 [0016]
 *****************
 [00000000][リン,シャオメイ,リンリン]
-間に合ったけど、敵がすぐそこまで……。
+I made it in time, but the enemy was right there...
 --------------------------------
 [00000001][レイジ,レイジ,レイジ]
-よし、一気に片づけてやるっ！
+Okay, I'll take care of it all at once!
 --------------------------------
 [00000002][ガデム,,ガデム]
-……待て、レイジよ。
-その前にひとつ提案がある。
+...Wait, Rage.  Before that, I have one suggestion.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-ん、なんだ？
+Huh, what?
 --------------------------------
 [00000004][ガデム,,ガデム]
-おぬしと直接に剣を交えることが叶わぬならば、
-この戦場で、どちらが多くの敵を倒せるか
-勝負をしてはくれないか？
+If it's not possible for me to cross swords with you directly, would you mind
+having a contest to see who can defeat the most enemies on this battlefield?
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-……勝負、だって!?　本気で言ってるのか！
-今はそんな場合じゃないだろう。
-村のすぐそこまで帝国軍が……。
+...It's a game!? Are you serious?  I don't think that's the case now.  The
+imperial army is right up to the village...
 --------------------------------
 [00000006][ガデム,,ガデム]
-レイジよ……頼む。
-この勝負を受けてくれるのならば、
-もう真剣勝負には言及しない。
+Rage... please.  If you accept this match, I won't mention any more serious
+competition.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-ガデムさん……。
-……はぁ。わかったよ。
-その勝負、受けて立つよ。
+Mr. Gadem...  ...Sigh. understood. 
 --------------------------------
 [00000008][ガデム,,ガデム]
-おお、そうか。
-無理を言って済まない。
+Oh, I see.  I can't get away with saying it's impossible.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-それじゃ、いこうか。
-いざ、尋常に……。
+Well then, let's go.  Now it's time to get serious...
 --------------------------------
 [00000010][ガデム,,ガデム]
-勝負ッ！
+Battle!
 --------------------------------
 [00000011][リン,シャオメイ,リンリン]
-……でもあたしが一番多く倒しちゃったりして。
+...But I was the one who defeated them the most.
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-こいつで、最後……っ！
+This is the last one...!
 --------------------------------
 [00000013][ガデム,,ガデム]
-……どうやら、すべて片づいたようだな。
-さて、後は拙者とレイジの勝負の結果だが……。
+...It looks like everything is cleared up.  Now, what's left is the result of
+the battle between me and Rage...
 --------------------------------
 [00000014][ガデム,,ガデム]
-リンリンよ、数えていたか？
+Rinrin, were you counting?
 --------------------------------
 [00000015][リン,シャオメイ,リンリン]
-もちろん！
-ええっとね、まずレイジの倒した数が……。
+Of course!  Well, first of all, the number of kills Rage has...
 --------------------------------

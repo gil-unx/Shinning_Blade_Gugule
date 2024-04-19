@@ -1,809 +1,599 @@
 [0192]
 *****************
 [00000000][none]
-マルギットは
-ポテンシャル@fcFF008800「パニック」@fciに代わって
-@fcFF008800「指揮官の自覚」@fciに目覚めました。
+Margit awakened
+@fcFF008800 ``Commander's Awareness'' @fci instead of 
+@fcFF008800 ``Panic'' @fci.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年　バリアス西部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt1Seiryoku 1935 Western Varias
 --------------------------------
 [00000002][none]
-やってられん……
+I can't do it...
 --------------------------------
 [00000003][none]
-まあまあ……
+Well...
 --------------------------------
 [00000004][none]
-正規軍の護衛だぞ？
-何で護衛が必要なんだ
-ふざけた話だぜ……
+It's a regular army escort, right?  Why do you need an escort? That's a joke...
 --------------------------------
 [00000005][none]
-負傷者を集めて
-後方に下がる部隊なんです
-怒ることはないですよ
+This is a unit that gathers up the wounded and retreats to the rear. I won't get
+angry.
 --------------------------------
 [00000006][none]
-俺達はボロボロになっても
-護衛なんかつかないだろ
+Even if we're all broken, we won't have to protect you.
 --------------------------------
 [00000007][none]
-不満を言っても
-状況は好転しないさ
+Even if you complain the situation won't get better.
 --------------------------------
 [00000008][none]
-それに何でも嫌がらずに
-やる男はモテるんだぜ？
+Besides, men who do everything without hesitation are popular, right?
 --------------------------------
 [00000009][none]
-正規軍は男性ばかり
-らしいですけどね……
+Apparently the regular army is made up of only men but...
 --------------------------------
 [00000010][none]
-ちゃんと今日の分の水を
-鉢にやっておきましょう
+Let's put today's amount of water into the pot.
 --------------------------------
 [00000011][none]
-はあ、移動が多いと
-鉢植えの世話も大変だわ
+Sigh, if you move around a lot it's hard to take care of potted plants.
 --------------------------------
 [00000012][none]
-なかなか美しい花だね
-それは確か……
+It's quite a beautiful flower That's true...
 --------------------------------
 [00000013][none]
-ちょっとそこの不細工な方
+That one is a bit ugly.
 --------------------------------
 [00000014][none]
-ん？
+Huh?
 --------------------------------
 [00000015][none]
-私の視界に入らないで
-不愉快だわ
+Don't get in my sight It's unpleasant.
 --------------------------------
 [00000016][none]
-これは失礼
-花を愛でる
-邪魔をしてしまったか
+This is rude I'm admiring the flowers Did I interrupt you?
 --------------------------------
 [00000017][none]
-その花、見覚えがあってね
-名前が思い出せないんだが
+That flower looks familiar I can't remember its name.
 --------------------------------
 [00000018][none]
-まるできみのように
-淑やかな花だ
-とても美しい
+Just like you A ladylike flower So beautiful
 --------------------------------
 [00000019][none]
-ふん、この花の価値も
-分からない人間に
-言われても不快なだけよ
+Hmm, it's just unpleasant for someone who doesn't know the value of this flower
+to tell you that.
 --------------------------------
 [00000020][none]
-待ってくれ
-おれは女性に
-嘘はつかないぜ？
+Wait I don't lie to women, do I?
 --------------------------------
 [00000021][none]
-貴方が嘘つきだってことは
-疑いようのないことよ
+There is no doubt that you are a liar.
 --------------------------------
 [00000022][none]
-この花を
-貴方のような凡人が
-知っているわけがないの
+There is no way that an ordinary person like you would know about this flower.
 --------------------------------
 [00000023][none]
-これは
-ある貴族の殿方から
-いただいた特別な品種……
+This is a special variety given to me by a certain nobleman...
 --------------------------------
 [00000024][none]
-街の花屋で売っている
-花とは違うのよ
+They are different from the flowers sold at flower shops in the city.
 --------------------------------
 [00000025][none]
-知っているさ
-だから思い出すのに
-苦労しているんだ
+I know that's why I'm having a hard time remembering.
 --------------------------------
 [00000026][none]
-白々しい……消えなさい
-不細工な嘘つきと話すのは
-不毛だわ
+That's ridiculous... disappear. It's pointless to talk to an ugly liar.
 --------------------------------
 [00000027][none]
-そう言うなよ……
-マルギット、きみは確か
-正規軍の士官だったね？
+Don't say that... Margit, you were an officer in the regular army, weren't you?
 --------------------------------
 [00000028][none]
-そう、私は
-ランシール王立士官学校
-出身のエリートなのよ
+Yes, I'm an elite graduate of the Royal Ranshir Military Academy.
 --------------------------------
 [00000029][none]
-ここにいるのが当然の
-貴方達とは違うの
-気安く話しかけないでよね
+It's natural for us to be here. We're different from you guys. Don't talk to us
+casually.
 --------------------------------
 [00000030][none]
-きみがネームレスに来た
-理由も、おれ達とは
-違うのかな？
+Is your reason for coming to Nameless different from ours?
 --------------------------------
 [00000031][none]
-私がここにいる理由は無い
-これは不当な扱いなのよ
+There's no reason for me to be here This is unfair treatment.
 --------------------------------
 [00000032][none]
-部下の失敗さえなければ
-私は今も正規軍にいたはず
+If it weren't for my subordinate's failure, I would still be in the regular
+army.
 --------------------------------
 [00000033][none]
-部下の失敗……？
+My subordinate's failure...?
 --------------------------------
 [00000034][none]
-そうよ
-私は被害者なの
+Yes, I'm the victim.
 --------------------------------
 [00000035][none]
-それは違うと思うな
+I don't think so.
 --------------------------------
 [00000036][none]
-何ですって？
+What?
 --------------------------------
 [00000037][none]
-命令したのはきみだろ？
-それなら部下の失敗は
-君の責任じゃないのかい？
+You gave the order, right?  In that case, aren't you responsible for your
+subordinate's failures?
 --------------------------------
 [00000038][none]
-私の命令に
-間違いはなかったわ！
+There was no mistake in my command!
 --------------------------------
 [00000039][none]
-命令を聞き間違えた部下の
-不始末が私の責任になるの？
-そんなのおかしいでしょう！
+Am I responsible for the mismanagement of my subordinate who misunderstood
+orders?  That's strange!
 --------------------------------
 [00000040][none]
-やっぱりあなたとは
-考え方が合わないようね
+I guess I don't agree with you after all.
 --------------------------------
 [00000041][none]
-さよなら
+goodbye
 --------------------------------
 [00000042][none]
-これはまた
-手強いレディだ
-……放っておけないね
+This is another tough lady ...I can't leave her alone.
 --------------------------------
 [00000043][none]
-おっと……そうだ
-思い出したぞ
+Oops... that's right I remember.
 --------------------------------
 [00000044][none]
-彼女が育てている花は
-『ロイヤルマリー』
-って名前だったな
+The flower she was growing was 'Royal Mary' .
 --------------------------------
 [00000045][none]
-……まさかこの私が
-ネームレスの隊員ごときに
-意見されるなんて
+...I never expected that people would comment on me as if I were a nameless
+member.
 --------------------------------
 [00000046][none]
-不本意だわ！
-このままでは私の評価は
-下がっていくばかり……
+That's unintentional!  If things continue like this, my rating will only go
+down. 
 --------------------------------
 [00000047][none]
-こんな部隊は
-私に不相応だと
-証明しなければ……！
+I have to prove that this kind of unit is unsuitable for me...!
 --------------------------------
 [00000048][none]
-そうだわ！
+Yes!
 --------------------------------
 [00000049][none]
-私は元士官……
-作戦を提案して
-違いを見せつけるのよ
+I'm a former officer... I'll propose a strategy to show you what's different.
 --------------------------------
 [00000050][none]
-ランシール王立士官学校を
-卒業した能力を
-示してみせるわ！
+I'll show you what I have as a graduate of the Ranshir Royal Military Academy!
 --------------------------------
 [00000051][none]
-ふむ……マルギット
-この行程を
-考えたのは君か？
+Hmm...Margit Were you the one who thought of this process ?
 --------------------------------
 [00000052][none]
-はい！
+Yes!
 --------------------------------
 [00000053][none]
-ランドグリーズまでの
-地理を考えれば
-このルートが最善かと
+Considering the geography to Landgriz I think this route is the best.
 --------------------------------
 [00000054][none]
-残念だが
-この案は採用できない
+Unfortunately, this idea cannot be adopted.
 --------------------------------
 [00000055][none]
-え……なぜですか!?
+Huh... why!?
 --------------------------------
 [00000056][none]
-確かに、このルートなら
-ランドグリーズ到着までの
-時間は短くなる
+This route will certainly take the time it takes to reach Landgriz.
 --------------------------------
 [00000057][none]
-しかし我々が護衛している
-正規軍の負傷した兵に
-負担がかかりすぎる
+But it's too much of a burden on the wounded Regular Army soldiers we're
+protecting.
 --------------------------------
 [00000058][none]
-お言葉ですがクルトさん
-このルート以外は
-時間の無駄です
+As you say, Kurt, any route other than this one is a waste of time.
 --------------------------------
 [00000059][none]
-兵に多少の無理を強いても
-時間を短縮すべきです
+You should shorten the time even if you force the soldiers a little.
 --------------------------------
 [00000060][none]
-……君は、本当に
-そう思っているのか？
+...Do you really think that?
 --------------------------------
 [00000061][none]
-はい
+yes
 --------------------------------
 [00000062][none]
-それならば
-君はもう一度士官学校で
-勉強し直すべきだ
+In that case, you should go to military academy to study again.
 --------------------------------
 [00000063][none]
-な……!?
-どういう意味ですか!?
+What...!? What does it mean!?
 --------------------------------
 [00000064][none]
-君は自分のことしか
-考えていない
-それでは隊は動かない
+You're only thinking about yourself If that's the case, the team won't move.
 --------------------------------
 [00000065][none]
-な、な、な……！
+Nah, nah, nah...!
 --------------------------------
 [00000066][none]
-何なのよ！
-私の考えにどんな不備が
-あったっていうのよ……！
+What is it?  What kind of flaw is there in my idea ...!
 --------------------------------
 [00000067][none]
-また怒ってるのかい？
-美人には笑顔を
-忘れないでいてほしいな
+Are you angry again?  I want beautiful women to remember to smile 
 --------------------------------
 [00000068][none]
-また貴方!?
-最低のタイミングで
-現れるわね……！
+You again!? You show up at the worst possible timing...!
 --------------------------------
 [00000069][none]
-指揮所から
-出てきたってことは
-隊長に何か言われたのかい？
+Did the captain say something about you coming out of the command post?
 --------------------------------
 [00000070][none]
-私だって正規軍の
-士官だったのよ！
+I was also an officer in the regular army!
 --------------------------------
 [00000071][none]
-それなのにクルトさんは
-士官学校から
-やり直せだなんて……！
+And yet Kurt-san has to start over from the military academy...!
 --------------------------------
 [00000072][none]
-隊長もなかなか
-厳しいことを言うね
+The captain also says some harsh things.
 --------------------------------
 [00000073][none]
-私にだって誇りがあるわ！
-それを傷つけられたら
-黙っていられない！
+I'm proud too!  If you hurt me, I won't be able to stay silent!
 --------------------------------
 [00000074][none]
-誇り、ときたか
+Pride, Tokitaka
 --------------------------------
 [00000075][none]
-ねえマルギット
-君の誇りとは
-正規軍士官だったことかい？
+Hey Margit What are you proud of as a regular army officer?
 --------------------------------
 [00000076][none]
-そうよ！
-なぜ正規軍士官だった私が
-辱められないといけないの！
+Yes!  Why did I, a regular army officer, have to be humiliated!
 --------------------------------
 [00000077][none]
-それなら、これを期に
-もう一度自分の目で
-正規軍を見るといいさ
+In that case, you should take this opportunity to see the regular army with your
+own eyes once again.
 --------------------------------
 [00000078][none]
-何よ！
-そんなことに何の意味が
-あるっていうの！
+What!  What's the point of that? What's the point in that?
 --------------------------------
 [00000079][none]
-君は優秀なエリート
-正規軍士官だったのだろう？
-なら、必ず見えるはずだ
+You were an elite regular army officer, weren't you?  If so, you should
+definitely be able to see it.
 --------------------------------
 [00000080][none]
-ネームレスという
-底辺からしか
-見えないものがね
+Nameless, something that can only be seen from the bottom.
 --------------------------------
 [00000081][none]
-……分かったわよ！
-貴方に何が見えているのか
-知らないけど
+...I understand!  I don't know what you see 
 --------------------------------
 [00000082][none]
-貴方に見えて
-私に見えないはずがないわ！
+There's no way you can see it and I can't see it!
 --------------------------------
 [00000083][none]
-この先に帝国軍の部隊が
-潜伏しているらしいな
+It seems that there is an Imperial Army unit hiding ahead.
 --------------------------------
 [00000084][none]
-はい、斥候からの報告で
-確認済みです
+Yes, confirmed by scout report.
 --------------------------------
 [00000085][none]
-進路を変更して東側の
-山道へ迂回しましょう
+Change course and take a detour to the east mountain road.
 --------------------------------
 [00000086][none]
-何を言っているんだ？
-それでは時間が
-かかるではないか
+What are you talking about?  Wouldn't that take some time ?
 --------------------------------
 [00000087][none]
-時間よりも安全を
-優先すべきです
+Safety should be prioritized over time.
 --------------------------------
 [00000088][none]
-正規軍の兵は
-多くが負傷しており
-戦闘を避ける必要が……
+Many regular army soldiers are injured and need to avoid combat...
 --------------------------------
 [00000089][none]
-お前達が
-戦えばいいではないか
+Why don't you guys just fight?
 --------------------------------
 [00000090][none]
-迂回するより
-安全な策とは言えません
+Not a safer option than a detour
 --------------------------------
 [00000091][none]
-先行して敵部隊を撃破しろ
-我々正規軍はここで待機し
+Go ahead and destroy the enemy forces Our regular army will wait here.
 --------------------------------
 [00000092][none]
-お前達が全滅した場合は
-迂回することにしよう
+If all of you are wiped out, I'll take a detour.
 --------------------------------
 [00000093][none]
-な……
+What...
 --------------------------------
 [00000094][none]
-安全を優先すべきと
-言ったのは誰かね？
+Who said safety should be a priority?
 --------------------------------
 [00000095][none]
-これは命令だ
-先行して敵部隊を撃破しろ
+This is an order Go ahead and destroy the enemy unit.
 --------------------------------
 [00000096][none]
-……はっ
+...hah
 --------------------------------
 [00000097][none]
-先行しろだと!?
+Should I go first?
 --------------------------------
 [00000098][none]
-護衛部隊が
-いつの間に攻撃部隊に
-なったんだろうね？
+I wonder when the escort force became an attack force?
 --------------------------------
 [00000099][none]
-まるで手品じゃないか
-ハンカチがハトになるって
-本気で信じてるのかね
+It's like a magic trick Do you really believe that a handkerchief can turn into
+a pigeon?
 --------------------------------
 [00000100][none]
-このルートは私が提案した
-時間短縮を優先する
-ルートだわ
+This route is the one I proposed that prioritizes time saving 
 --------------------------------
 [00000101][none]
-敵の部隊が
-待ち伏せしているのに
-突破を強要……
+Forced to break through even though enemy troops are in ambush...
 --------------------------------
 [00000102][none]
-これが正規軍のやり方？
-誇りある正規軍が
-やることなの？
+Is this how the regular army does it?  Is this something a proud regular army
+would  do?
 --------------------------------
 [00000103][none]
-これでおれ達が失敗したら
-正規軍は全部ネームレスの
-責任にするんだろうな
+If we fail with this, the regular army will blame Nameless for everything.
 --------------------------------
 [00000104][none]
-責任……任務を強要して
-さらに責任まで
-押しつけるの……？
+Responsibility...forcing you to do the task and then imposing the responsibility
+on you...?
 --------------------------------
 [00000105][none]
-失敗したら部下の責任……
-それじゃまるで
-昔の私じゃない……
+If I fail, it's my subordinate's responsibility... That's just not the same
+person I used to be...
 --------------------------------
 [00000106][none]
-何とか敵部隊を破る方法を
-考えないとな
+I have to think of a way to defeat the enemy forces.
 --------------------------------
 [00000107][none]
 ……
 --------------------------------
 [00000108][none]
-クルトさん！
+Kurt!
 --------------------------------
 [00000109][none]
-何だ、マルギット
+What is it, Margit?
 --------------------------------
 [00000110][none]
-この正規軍が決めたルート
-以前私が提案したものと
-同じです
+The route chosen by this regular army is the same as the one I proposed before 
 --------------------------------
 [00000111][none]
-そうだな
+That's right.
 --------------------------------
 [00000112][none]
-突破する策を
-提案してもいいですか？
+May I suggest a way to break through?
 --------------------------------
 [00000113][none]
-君がか？
+Are you?
 --------------------------------
 [00000114][none]
-はい、私はこのルートが
-正しいと考え
+Yes, I think this route is correct.
 --------------------------------
 [00000115][none]
-敵と遭遇した場合の
-対処法も練っていました
+I was also thinking about what to do if I encountered an enemy.
 --------------------------------
 [00000116][none]
-しかし君の案は……
+But your idea...
 --------------------------------
 [00000117][none]
-前回の案を却下されてから
-問題点を修正するために
-再考したんです！
+After my previous proposal was rejected, I reconsidered it to fix the problems!
 --------------------------------
 [00000118][none]
-……なら、聞いてみよう
+...then let's ask.
 --------------------------------
 [00000119][none]
-この先は峡谷で左右に
-逃げることはできません
+There is a canyon ahead and you cannot run left or right 
 --------------------------------
 [00000120][none]
-その通りだ
-敵部隊と正面から
-激突することになる
+That's right. You'll be clashing head-on with the enemy force.
 --------------------------------
 [00000121][none]
-いいえ、正面から戦う
-必要はありません
+No, there is no need to fight head-on 
 --------------------------------
 [00000122][none]
-この峡谷には
-地図に載っていない
-峠道があるんです
+There is a mountain pass in this canyon that is not shown on the map.
 --------------------------------
 [00000123][none]
-本当か？
+Really?
 --------------------------------
 [00000124][none]
-この一帯は
-ある貴族の領地で
+This area is the territory of a certain nobleman.
 --------------------------------
 [00000125][none]
-私はその方と一緒に
-ここでよく
-狩りをしていました
+I used to hunt here a lot with that person.
 --------------------------------
 [00000126][none]
-その時使った道を通れば
-敵部隊に側面から
-奇襲をかけられます
+If you follow the path you used at that time, you can surprise enemy troops from
+the flank.
 --------------------------------
 [00000127][none]
-クルトさん、この作戦を
-採用してくれませんか？
-必ず成功するはずです！
+Kurt-san, would you please adopt this strategy?  I'm sure you'll succeed!
 --------------------------------
 [00000128][none]
-……悪くない
-だが、採用はしない
+...It's not bad, but I won't hire it.
 --------------------------------
 [00000129][none]
-そんな！
-どこがいけないんです？
-教えてください！
+That's it!  What's wrong?  Please tell me!
 --------------------------------
 [00000130][none]
-私、この苦しい状況で
-部隊のためになる作戦を
-真剣に考えました！
+In this difficult situation, I seriously thought about a strategy that would
+benefit the troops!
 --------------------------------
 [00000131][none]
-それでもダメなんですか？
-私は無能ですか？
+Still no good?  Am I incompetent?
 --------------------------------
 [00000132][none]
 ……
 --------------------------------
 [00000133][none]
-そこまで言うなら
-今回は君が隊を指揮しろ
+If you're going to go that far, you'll be in charge of the squad this time.
 --------------------------------
 [00000134][none]
-えっ？
+Huh?
 --------------------------------
 [00000135][none]
-君が責任をとるなら
-案を採用してもいい
+If you take responsibility you can adopt the plan.
 --------------------------------
 [00000136][none]
-隊員すべてと
-正規軍に対する
-全責任を負う覚悟はあるか？
+Are you prepared to take full responsibility for all your members and the
+regular army?
 --------------------------------
 [00000137][none]
-……！
+……!
 --------------------------------
 [00000138][none]
-あります！
-私にやらせてください!!
+Yes!  Please let me do it!!
 --------------------------------
 [00000139][none]
-よし、指揮権を預ける
-やってみろ
+Okay, I'll give you command Try it.
 --------------------------------
 [00000140][none]
-おい、いいのか……!?
+Hey, are you okay...!?
 --------------------------------
 [00000141][none]
-これはマルギットの作戦だ
-そしてこの土地を
-彼女はよく知っている
+This is Margit's plan and she knows this land well 
 --------------------------------
 [00000142][none]
-お願いします！
-必ず成功させますから
-私に力を貸してください！
+Please!  I will make it a success, so please lend me your strength!
 --------------------------------
 [00000143][none]
-さて、どうしたもんかねえ？
+Well, what should we do?
 --------------------------------
 [00000144][none]
-信用しろと
-言われてもな……
+Even if you tell me to trust you...
 --------------------------------
 [00000145][none]
-地図を見せてくれ
-マルギット、峠道の位置は
-どこになる？
+Show me the map Margit, where is the mountain pass located ?
 --------------------------------
 [00000146][none]
-アルフォンス？
+Alphonse?
 --------------------------------
 [00000147][none]
-クルトが指揮権を
-与えたからには
-彼女が指揮官だ
+Since Kurt gave her command, she is the commander.
 --------------------------------
 [00000148][none]
-そうね……偵察は私が行く
-アルフォンスは
-マルギットの補佐をお願い
+That's right...I'll do the reconnaissance. Alphonse, Please assist Margit.
 --------------------------------
 [00000149][none]
-そうさせてもらうよ
-レイラ、きみはクルトの
-指揮じゃないと不安かい？
+I'll let you do that. Layla, are you worried that Kurt isn't in command?
 --------------------------------
 [00000150][none]
-バカを言わないで
-誰の指揮だろうと
-勝つだけよ！
+Don't be stupid No matter who's in charge Just win!
 --------------------------------
 [00000151][none]
-その通り！
-勝てばいいんです！
+That's right!  All you have to do is win!
 --------------------------------
 [00000152][none]
-隊長の決めたことですから
-それが最適な判断でしょう
-僕達は従うだけですよ
+It's the captain's decision, so it's probably the best decision. We just follow.
 --------------------------------
 [00000153][none]
-隊長さんが妥協するとは
-思えないですからね
+I don't think the captain would compromise.
 --------------------------------
 [00000154][none]
-エイミーは賢いわね！
-グズグズしてる連中は
-教育してほしいのかしら？
+Amy is smart!  Do you want those who are messing around  to be educated?
 --------------------------------
 [00000155][none]
-言われるまでもねえよ！
-やるぞみんな！
+No need to tell me!  Let's do it, everyone!
 --------------------------------
 [00000156][none]
-みなさん……！
+Everyone...!
 --------------------------------
 [00000157][none]
-君が全員の
-命を預かるんだ
-頼むぞ、マルギット
+You are in charge of everyone's lives, Margit.
 --------------------------------
 [00000158][none]
-はい！
+Yes!
 --------------------------------
 [00000159][none]
-か、勝った……！
+I-I won...!
 --------------------------------
 [00000160][none]
-なかなか見事な
-指揮だったよ
+It was quite a splendid conducting.
 --------------------------------
 [00000161][none]
-アルフォンスさん……
+Mr. Alphonse...
 --------------------------------
 [00000162][none]
-これまで何度もきみを
-怒らせたこと
-謝らないといけないな
+I have to apologize to you for all the times I've upset you.
 --------------------------------
 [00000163][none]
-いいえ
-そんな事は
-どうでもいいの……
+No. I don't care about that...
 --------------------------------
 [00000164][none]
-貴方の言っていたこと
-今ならよく分かるわ
+I understand now what you were saying.
 --------------------------------
 [00000165][none]
-正規軍や士官、エリート
-そんな肩書きには
-誇りなんてなかったのよ
+Regular army, officer, elite There was no pride in those titles 
 --------------------------------
 [00000166][none]
-だって今
-私が誇りに思うのは
+Because now I'm proud of
 --------------------------------
 [00000167][none]
-一緒に戦ってくれた
-みんなのことだから
+It's about everyone who fought together 
 --------------------------------
 [00000168][none]
-ありがとう
-アルフォンスさん
-貴方のお陰よ
+Thank you Alphonse-san Thanks to you
 --------------------------------
 [00000169][none]
-おれはきみなら
-見えるはずだと
-言っただけだぜ
+I just said that you should be able to see it.
 --------------------------------
 [00000170][none]
-これはきみ自身が感じ
-そして考えた結果だよ
+This is what you feel and think about it yourself.
 --------------------------------
 [00000171][none]
-私が……？
+I...?
 --------------------------------
 [00000172][none]
-そう、かもね
+Yes, maybe
 --------------------------------
 [00000173][none]
-いい顔、できるじゃないか
-惚れちゃいそうだよ
+You have a nice face. I think I'm going to fall in love with you.
 --------------------------------
 [00000174][none]
-アルフォンスさん……
+Mr. Alphonse...
 --------------------------------
 [00000175][none]
-その体型で
-カッコつけられても
-私は惚れたりしませんから
+Even if you look cool with that body type, I won't fall in love with you.
 --------------------------------
 [00000176][none]
-参ったね
-高嶺の花とは
-このことかな？
+I'm sorry. What is Takane no Hana? Is this what you mean?
 --------------------------------
 [00000177][none]
-くすっ……
+Damn...
 --------------------------------
 [00000178][none]
-マルギット
-よくやった
+Margit Well done
 --------------------------------
 [00000179][none]
-クルトさん……！
+Kurt...!
 --------------------------------
 [00000180][none]
-この勝利と名誉は
-君のものだ
+This victory and honor is yours.
 --------------------------------
 [00000181][none]
-え……？
+Huh...?
 --------------------------------
 [00000182][none]
-君の作戦を
-君が指揮して得た勝利だ
+The victory was achieved by you directing your strategy.
 --------------------------------
 [00000183][none]
-士官学校で勉強し直せと
-言ったことを
-撤回しなければいけないな
+I have to retract what I said about re-studying at the military academy.
 --------------------------------
 [00000184][none]
-いいえ、あのままだったら
-私は変われませんでした
-クルトさんのお陰です
+No, if things had stayed the way they were, I wouldn't have changed. It's all
+thanks to Kurt.
 --------------------------------
 [00000185][none]
-感謝は戦ってくれた
-隊員達にするといい
+You should thank the soldiers who fought.
 --------------------------------
 [00000186][none]
-はい！
-私、行ってきます！
+Yes!  I'm going!
 --------------------------------
 [00000187][none]
-いいとこあるじゃないか
-隊長
+Isn't there a good point Captain?
 --------------------------------
 [00000188][none]
-その気にさせたのは
-君だろう？
+You were the one who made me feel that way, right?
 --------------------------------
 [00000189][none]
-花は自ら咲くものさ
-だからこそ美しい
+Flowers bloom on their own, which is why they are beautiful.
 --------------------------------
 [00000190][none]
-そう、彼女のようにね
+Yes, like her.
 --------------------------------
 [00000191][none]
-みなさん、ありがとう！
+Thank you everyone!
 --------------------------------

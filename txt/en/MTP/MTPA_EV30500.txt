@@ -1,237 +1,184 @@
 [0150]
 *****************
 [00000000][none]
-セルジュは
-ポテンシャル@fcFF008800「とだえた未来」@fciに代わって
-@fcFF008800「一筋の光」@fciに目覚めました。
+Serge has awakened to
+@fcFF008800 ``A ray of light'' @fci instead of 
+@fcFF008800 ``A broken future'' @fci.
 --------------------------------
 [00000001][none]
-@fcFFFFF5F0@dc9F555555@db2@dt1@lt1征暦１９３５年 ヴァーゼル北東部
+@fcFFFFF5F0@dc9F555555@db2@dt1@lt11935 Northeastern Basel
 --------------------------------
 [00000002][none]
-おいみんな！
-いい報せがあるぜ！
+Hey everyone!  I have good news!
 --------------------------------
 [00000003][none]
-例の激戦区に俺達が
-投入されるっていう話が
-見送られるらしいぞ！
+It seems that the story of us being thrown into the fierce battleground has been
+postponed!
 --------------------------------
 [00000004][none]
-いいニュースね
-珍しく
+Good news.  Unusual
 --------------------------------
 [00000005][none]
-あそこの指揮官は
-突撃以外の作戦を知らない
-大バカ野郎らしいからな
+That commander seems to be an idiot who doesn't know any strategies other than
+assault.
 --------------------------------
 [00000006][none]
-命がいくつあっても
-足りないわね
+No matter how many lives you have it's not enough.
 --------------------------------
 [00000007][none]
-正規軍の奴らも
-ご愁傷様だ
+I feel sorry for the regular army guys too.
 --------------------------------
 [00000008][none]
 ……
 --------------------------------
 [00000009][none]
-どうしたセルジュ
-なぜそんな顔してるんだ？
+What's wrong, Serge Why are you making that face?
 --------------------------------
 [00000010][none]
-メシの食い過ぎで
-気分でも悪いのか？
+Are you feeling unwell from eating too much food?
 --------------------------------
 [00000011][none]
-アルフォンスや
-あなたじゃないんだから
-そんなわけないでしょう
+It's not Alphonse or you. That can't be true.
 --------------------------------
 [00000012][none]
-じゃあ、何だ？
+So what?
 --------------------------------
 [00000013][none]
-……僕は戦いたかった
+...I wanted to fight
 --------------------------------
 [00000014][none]
-えっ？
+Huh?
 --------------------------------
 [00000015][none]
-もしかしてあなた
-懲罰恩赦を
-狙っているの？
+Maybe you are aiming for a punitive pardon ?
 --------------------------------
 [00000016][none]
-活躍して
-もっとマシな部隊に
-転属しようってのか
+Do you want to be active and transfer to a better unit ?
 --------------------------------
 [00000017][none]
-いえ、違います
+No, it's not.
 --------------------------------
 [00000018][none]
-僕はクロウ中佐に頼んで
-この部隊に
-転属させていただいたので
+I asked Commander Crow to transfer me to this unit.
 --------------------------------
 [00000019][none]
-恩赦はありませんよ
+There is no amnesty.
 --------------------------------
 [00000020][none]
-転属を希望したって……
-物好きにもほどがあるだろ
+Even if you requested a transfer...  There's a limit to how much you like
+things.
 --------------------------------
 [00000021][none]
-セルジュは正規軍から
-転属してきたのよね？
-どうしてここを選んだの？
+Serge was transferred from the regular army, right?  Why did you choose this
+place?
 --------------------------------
 [00000022][none]
-僕にはこの部隊が
-一番似合っているんです
+This unit suits me the most 
 --------------------------------
 [00000023][none]
-そんなこと言うのは
-お前ぐらいだろうな……
+You're the only one who would say that...
 --------------------------------
 [00000024][none]
-ちょっと普通じゃないわね
+That's a little unusual.
 --------------------------------
 [00000025][none]
-確かに、少し前までは
-ひどい部隊でしたけど
+It's true that they were a terrible unit until a while ago.
 --------------------------------
 [00000026][none]
-今はクルトさんが
-いるじゃないですか
+Kurt is here now, right?
 --------------------------------
 [00000027][none]
-あいつがそんなにいいか？
+Is he that good?
 --------------------------------
 [00000028][none]
-はい！
-クルトさんは
-理想の軍人です
+Yes!  Kurt-san is the ideal soldier.
 --------------------------------
 [00000029][none]
-いつでも冷静で
-判断が速くて
-迷いがない……
+Always calm, quick to make decisions, without hesitation...
 --------------------------------
 [00000030][none]
-兵士にとっては
-理想の指揮官だと思います
-彼の元で戦えて幸せですよ
+I think he's the ideal commander for the soldiers. I'm happy to be able to fight
+under him.
 --------------------------------
 [00000031][none]
-兵士ったってお前
-支援兵じゃないか
+Even if you're a soldier, aren't you a support soldier?
 --------------------------------
 [00000032][none]
-関係ありませんよ！
+It doesn't matter!
 --------------------------------
 [00000033][none]
-戦場に立つ者としては
-指揮のうっ……ゴホッ！
-ゴホッ、ゴホッ！
+As someone who stands on the battlefield, the command is...goho!  Goho, goho!
 --------------------------------
 [00000034][none]
-そう興奮するなよ
-セルジュ
+Don't get so excited Serge
 --------------------------------
 [00000035][none]
-すみません……
+Sorry...
 --------------------------------
 [00000036][none]
-そんなにクルトが
-いいのかしら……
+I wonder if Kurt is that good...
 --------------------------------
 [00000037][none]
-俺達が向かっている
-戦線だが
+This is the battle line we're heading towards.
 --------------------------------
 [00000038][none]
-帝国軍の大部隊を前に
-友軍は陣地の放棄と
-撤退を正式に決定した
+Faced with a large Imperial force, the friendly forces officially decided to
+abandon their base and retreat.
 --------------------------------
 [00000039][none]
-ゴホッ、ゴホッ！
-うっ……失礼、ゴホッ
+Goho, goho!  Ugh... Excuse me, Goho.
 --------------------------------
 [00000040][none]
-うるさいぞ
+It's noisy
 --------------------------------
 [00000041][none]
-……すみません
-話を続けてください、隊長
+...I'm sorry. Please continue, Captain.
 --------------------------------
 [00000042][none]
-気にするな
-体調が悪いなら
-救護テントで休んでいいぞ
+Don't worry. If you're not feeling well, you can rest in the first aid tent.
 --------------------------------
 [00000043][none]
-大丈夫です！
-ここに、いさせてください
-お願いします！
+It's okay!  Please let me be here Please!
 --------------------------------
 [00000044][none]
-無理するような
-ブリーフィングじゃないぜ
-休んでおけばどうだ？
+This isn't a briefing that forces you to do it. Why don't you take a break?
 --------------------------------
 [00000045][none]
-ダメです！
-僕は休めません！
+No!  I can't rest!
 --------------------------------
 [00000046][none]
-必死だな……
+You're desperate...
 --------------------------------
 [00000047][none]
-クルトとセルジュって
-なんだか似ているわね
-いつも真剣なところとか
+Kurt and Serge are kind of similar. They're always serious.
 --------------------------------
 [00000048][none]
 ……
 --------------------------------
 [00000049][none]
-静かに！
-話を続ける
+Quiet!  Continue talking
 --------------------------------
 [00000050][none]
-友軍の撤退に対し
-我々は支援を行う予定だ
+We plan to provide support for the withdrawal of friendly forces 
 --------------------------------
 [00000051][none]
-だが、支援に向かう
-地域まで帝国軍が
-追撃してくる可能性は低い
+However, it is unlikely that the Imperial Army will pursue the area where you
+are heading for support.
 --------------------------------
 [00000052][none]
-いいねえ！
-そいつは大歓迎だぜ
+Good!  That's very welcome.
 --------------------------------
 [00000053][none]
-状況が変わってくれて
-本当によかったわ
+I'm really glad that things have changed 
 --------------------------------
 [00000054][none]
-……また、戦えないのか
+...Can't we fight again?
 --------------------------------
 [00000055][none]
-お前、本当に
-戦いたかったんだな
-なぜなんだ？
+You really wanted to fight. Why?
 --------------------------------
 [00000056][none]
-そうね
-好戦的には
-見えないんだけど
+Yeah, I don't see it as belligerent, though.
 --------------------------------
 [00000057][none]
 ……
@@ -240,357 +187,279 @@
 ……
 --------------------------------
 [00000059][none]
-ひどいな……こうも
-腕が落ちるものか
+That's terrible... I feel like my arm is falling off like this.
 --------------------------------
 [00000060][none]
-セルジュ？
-あなた、支援兵なのに
-なぜ射撃練習を？
+Serge?  You're a support soldier, so why are you doing target practice?
 --------------------------------
 [00000061][none]
-……気まぐれです
+...it's a whim
 --------------------------------
 [00000062][none]
-気まぐれって……ほとんど
-命中してるじゃない
-あなた、本当に支援兵？
+On a whim... You almost hit the mark. Are you really a support soldier?
 --------------------------------
 [00000063][none]
-そうですよ
+That's right.
 --------------------------------
 [00000064][none]
-それだけの腕があるのに
-どうして……
+If you have that much skill, why...
 --------------------------------
 [00000065][none]
-兵科はどうでもいいんです
+I don't care about the military class.
 --------------------------------
 [00000066][none]
-え？
+Huh?
 --------------------------------
 [00000067][none]
-今の僕は……
+I am now...
 --------------------------------
 [00000068][none]
-戦場に立てているだけでも
-感謝しなければ
-いけないんですよ
+I have to be grateful for just standing on the battlefield.
 --------------------------------
 [00000069][none]
-それ、どういうこと？
+What do you mean?
 --------------------------------
 [00000070][none]
-お邪魔しました
-ここ、どうぞ
+Sorry to bother you Please come here.
 --------------------------------
 [00000071][none]
-セルジュ……
+Serge...
 --------------------------------
 [00000072][none]
-帝国の大部隊が
-友軍を追撃中との報告が
-届いている
+We have received reports that a large Imperial force is pursuing friendly
+forces.
 --------------------------------
 [00000073][none]
-ここまで来ないんじゃ
-なかったのか？
+Shouldn't it have come this far?
 --------------------------------
 [00000074][none]
-帝国軍の追撃に
-戦略的意義は無い
+Pursuing the Imperial Army has no strategic significance.
 --------------------------------
 [00000075][none]
-予想以上の戦果を
-おさめたことで
-勢いづいただけだろう
+I think they gained more momentum by achieving more than expected results.
 --------------------------------
 [00000076][none]
-このまま
-やっちまえってことか
+Do you mean just leave it like this ?
 --------------------------------
 [00000077][none]
-友軍は予想外の追撃を受け
-潰走中だ
+Friendly forces have been chased unexpectedly and are on the run.
 --------------------------------
 [00000078][none]
-俺達は友軍を
-援護しなければならない
+We must support our friendly forces.
 --------------------------------
 [00000079][none]
-最悪の展開かよ……
+This is the worst development...
 --------------------------------
 [00000080][none]
-結局こうなるのね……
+This is how it ends up...
 --------------------------------
 [00000081][none]
-で、どうしろってんだ？
+So, what should we do?
 --------------------------------
 [00000082][none]
-友軍の最後尾について
-帝国軍の追撃を断つ
+Stay at the tail end of friendly forces cut off pursuit by imperial forces
 --------------------------------
 [00000083][none]
-全滅しろってのか！
-冗談じゃないぜ！
+You want us to be wiped out!  I'm not kidding!
 --------------------------------
 [00000084][none]
-一小隊で食い止めるのは
-不可能よね……
+It's impossible to stop it with just one platoon...
 --------------------------------
 [00000085][none]
-やってられねえ……
+I can't do it...
 --------------------------------
 [00000086][none]
 ……
 --------------------------------
 [00000087][none]
-隊長、僕がやります
+Captain, I'll do it.
 --------------------------------
 [00000088][none]
-セルジュ？
+Serge?
 --------------------------------
 [00000089][none]
-敵の足を止めれば
-いいのでしょう？
+All you have to do is stop the enemy, right?
 --------------------------------
 [00000090][none]
-それなら僕ひとりで
-充分です
+Then I alone is enough 
 --------------------------------
 [00000091][none]
-何言ってんだ？
-できるわけないだろう！
+What are you talking about?  There's no way you can!
 --------------------------------
 [00000092][none]
-考えがあるのか？
+Do you have any ideas?
 --------------------------------
 [00000093][none]
-正規軍時代は狙撃兵でした
-地形さえ利用できれば……
+When I was in the regular army, I was a sniper If I could use the terrain...
 --------------------------------
 [00000094][none]
-敵部隊の足止めくらい
-僕ひとりでやってみせます
+I'll do everything by myself to stop the enemy troops.
 --------------------------------
 [00000095][none]
-セルジュ、お前……！
-バカなことを言うなよ！
+Serge, you...!  Don't say anything stupid!
 --------------------------------
 [00000096][none]
-狙撃兵……
-射撃技術が高いのは
-そういう理由があったのね
+Sniper... I guess that's the reason why his shooting skills are so high 
 --------------------------------
 [00000097][none]
-やらせてください、隊長
+Please let me do it, Captain.
 --------------------------------
 [00000098][none]
-……却下だ
-確実性がなさすぎる
+...rejected Too little certainty
 --------------------------------
 [00000099][none]
-っ!!
+!!
 --------------------------------
 [00000100][none]
-それに君の死は部隊に
-何の利益ももたらさない
-却下する
+And your death will not bring any benefit to the unit Dismiss.
 --------------------------------
 [00000101][none]
-当然だよな
+Of course.
 --------------------------------
 [00000102][none]
-これより早急に
-作戦を立てる
-指示があるまで待機しろ
+Plan your strategy as soon as possible Wait until you receive instructions.
 --------------------------------
 [00000103][none]
-……分かりました
+...I understand
 --------------------------------
 [00000104][none]
-でも僕は……
+But I...
 --------------------------------
 [00000105][none]
-隊長、申し訳ありません
-一度だけ
-僕はあなたに背きます
+Captain, I'm sorry Just once I'll disobey you.
 --------------------------------
 [00000106][none]
-隊長！
-セルジュがひとりで
-出撃しました！
+Captain!  Serge went out alone !
 --------------------------------
 [00000107][none]
-なに？
+What?
 --------------------------------
 [00000108][none]
-あいつ……！
-クルト！
-俺は助けに行くぞ！
+That guy...!  Kurt!  I'll go help!
 --------------------------------
 [00000109][none]
-単独行動はするな
-計画した作戦を変更して
-部隊ごと前進する
+Do not act alone Change your planned strategy Move forward with your unit.
 --------------------------------
 [00000110][none]
-いいのか!?
+Is it okay!?
 --------------------------------
 [00000111][none]
-セルジュを見捨てても
-状況は好転しない
-それに……
+Even if I abandon Serge, the situation will not improve And...
 --------------------------------
 [00000112][none]
-俺はセルジュを許さない
-……出撃だ！
+I won't forgive Serge ...Let's go!
 --------------------------------
 [00000113][none]
-まだ……生きているのか
-隊長の命令に背いて
-死ぬつもりだったのに……
+Are you still... alive? I disobeyed the captain's orders I was going to die...
 --------------------------------
 [00000114][none]
-ははは……ゴホッゴホッ
+Hahaha...gohogohoho
 --------------------------------
 [00000115][none]
-苦しい……そうか
-まだ、生きているから……
+It's painful...I see. I'm still alive...
 --------------------------------
 [00000116][none]
-セルジュ！
+Serge!
 --------------------------------
 [00000117][none]
-隊長……
+Captain...
 --------------------------------
 [00000118][none]
-僕は軍人として
-役に立っ……
+As a soldier, I am useful...
 --------------------------------
 [00000119][none]
-うっ!?
-隊長……？
+Huh!? Captain...?
 --------------------------------
 [00000120][none]
-命を粗末にするな
+Don't waste your life
 --------------------------------
 [00000121][none]
-違います！
-僕は……！
+No!  I...!
 --------------------------------
 [00000122][none]
-君の命は俺達にとっても
-失うわけにはいかない
-大切なものだ
+Your life is too precious for us to lose.
 --------------------------------
 [00000123][none]
-くっ……僕だって
-そんなの、僕だって……！
+Damn... Me too That's not even me...!
 --------------------------------
 [00000124][none]
-僕だって失いたくない！
-でも……！
+I don't want to lose either!  But...!
 --------------------------------
 [00000125][none]
-僕の命はもうすぐ
-消えてしまうんですよ……！
+My life is about to end...!
 --------------------------------
 [00000126][none]
-ゴホッゴホッ！
+Gohogoho!
 --------------------------------
 [00000127][none]
 ……
 --------------------------------
 [00000128][none]
-不治の病なんですよ
-発見した時には
-手遅れでした……
+It's an incurable disease. By the time I discovered it, it was too late...
 --------------------------------
 [00000129][none]
-そのせいで正規軍からは
-除隊されてしまったんです
+Because of that, I was expelled from the regular army.
 --------------------------------
 [00000130][none]
-でも僕は戦いたかった
-だから……ネームレスに
-入れてもらったんです
+But I wanted to fight so... I asked Nameless to join me.
 --------------------------------
 [00000131][none]
 ……
 --------------------------------
 [00000132][none]
-僕はずっと死に場所を
-求めてきました
+I've always been looking for a place to die.
 --------------------------------
 [00000133][none]
-この戦いこそ相応しい……
-そう思ったから
-僕は隊長に背きました
+This battle is worthy... Because I thought so, I disobeyed my captain.
 --------------------------------
 [00000134][none]
-死ぬなら戦場で
-軍人として使命を全うして
-死ぬと決めていたんです
+I had decided that if I was going to die, I would die on the battlefield,
+fulfilling my mission as a soldier.
 --------------------------------
 [00000135][none]
-ベッドの上で日に日に
-弱りながら……
+Lying in bed, getting weaker day by day...
 --------------------------------
 [00000136][none]
-死に飲み込まれていくのは
-嫌なんですよ！
+I don't want to be swallowed up by death!
 --------------------------------
 [00000137][none]
-……恐いんです
+...I'm scared
 --------------------------------
 [00000138][none]
-……言いたいことは
-それだけか
+... Is that all you want to say?
 --------------------------------
 [00000139][none]
-え……
+Eh...
 --------------------------------
 [00000140][none]
-命令違反は銃殺だ
-だがこんな自己満足で
-死ぬことは俺が許さない
+Violation of orders will result in death by firing , but I will not allow you to
+die with such complacency. 
 --------------------------------
 [00000141][none]
-銃殺より重い罰を与える
-命ある限り
-この部隊のために働け
+Punishment worse than firing As long as you live Work for this unit.
 --------------------------------
 [00000142][none]
-ただし次に
-命令違反をした場合は
-即刻病院送りにして
+However, the next time you violate the order, you will be sent to the hospital
+immediately.
 --------------------------------
 [00000143][none]
-二度と病院から
-出られなくしてやる
-覚悟しろ
+I'll make sure you won't be able to leave the hospital again Be prepared.
 --------------------------------
 [00000144][none]
-隊長……！
+Captain...!
 --------------------------------
 [00000145][none]
-最後にもうひとつ命じる
-俺が死んでいいと言うまで
-絶対に死ぬな……以上だ
+One last command Don't die until I say it's okay to die...That's it.
 --------------------------------
 [00000146][none]
-隊長……ううっ
-隊長、うっ……ああ
+Captain...Ugh Captain, Ugh...Ah
 --------------------------------
 [00000147][none]
-返事は
+The reply is
 --------------------------------
 [00000148][none]
-はい……!!
+Yes...!!
 --------------------------------
 [00000149][none]
-ありがとうございます
-あなたの下でなら……
-僕はもう一度生きられる
+Thank you If I were under you... I could live again.
 --------------------------------

@@ -1,1132 +1,926 @@
 [0260]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-よう、ユキヒメ。
-こんなところで１人……いや、１本？
-とにかく、なにをぼーっとしてるんだ？
+Hey, Yukihime.  In a place like this, I'm all alone...or rather, just one
+person?  Anyway, what are you absent-minded about?
 --------------------------------
 [00000001][ユキヒメ,ユキヒメ,ユキヒメ]
-バカモノ。誰もぼんやりなどしておらん。
-こうして目を閉じ、精神を集中しておったのだ。
-今後の戦いに備えて、な。
+Stupid. No one was absentminded.  In this way, I closed my eyes and concentrated
+my mind.  Prepare for the upcoming battle.
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-へえ……。
-でも、精神集中なんて意味があるのか？
-休む時はしっかり休んだ方がいいんじゃないか？
+Huh...  But what is the meaning of mental concentration?  Wouldn't it be better
+to take a good rest when you take a break?
 --------------------------------
 [00000003][ユキヒメ,ユキヒメ,ユキヒメ]
-なにを言うか！
-精神が伴わなければ、鍛えた肉体も意味をなさん。
-常に心の刃を研ぎ澄ますことが必要なのだ。
+What do you say!  If the mind is not accompanied by it, the trained body is
+meaningless.  It is necessary to always sharpen the blade of your mind.
 --------------------------------
 [00000004][ユキヒメ,ユキヒメ,ユキヒメ]
-どうもお前は、そのあたりの緊張感が
-足りなすぎるな……。
-ここはひとつ、説教が必要なようだ。
+I think you don't have enough tension in that area...  Looks like I need to
+explain something here.
 --------------------------------
 [00000005][ユキヒメ,ユキヒメ,ユキヒメ]
-向こうに、ちょうどいい草原がある。
-あそこでみっちりと語り合おうではないか。
+There's a nice grassland over there.  Let's have a serious talk over there.
 --------------------------------
 [00000006][ユキヒメ,ユキヒメ,ユキヒメ]
-よいか、レイジ。
-ひとくちに強さと言っても、それは肉体の強さ
-だけを指すのではない。
+Okay, Rage.  When you say strength, it doesn't just refer to physical strength .
 --------------------------------
 [00000007][ユキヒメ,ユキヒメ,ユキヒメ]
-限られた己の力を有効に使うためには、
-常日頃からの精神鍛錬もまた重要なのだ。
+In order to effectively use your limited power, it is also important to train
+your mind on a daily basis.
 --------------------------------
 [00000008][ユキヒメ,ユキヒメ,ユキヒメ]
-特に、お前のような未熟者ならなおさらだ。
-お前には休息の時間などないと思え。
-だいたい、先代が若いころは……。
+Especially if it's an inexperienced person like you.  I don't think you have
+time to rest.  About when my predecessor was young...
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-また、その話かよ……。
-先代がすごいってのは、もう充分わかってるよ。
+Let's talk about that again...  I'm already fully aware that the previous
+generation was amazing.
 --------------------------------
 [00000010][ユキヒメ,ユキヒメ,ユキヒメ]
-いいや、わかっておらん。
-本当に先代の偉大さを理解したなら、
-お前ももっとマシな男になるはずだからな。
+No, I don't understand.  If you truly understood the greatness of your
+predecessor, you would become a better man.
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-そんなこと言ったって、オレはオレ、
-先代は先代だろ？
+Even if you say that, I'm still me, and the previous generation is the previous
+generation, right?
 --------------------------------
 [00000012][ユキヒメ,ユキヒメ,ユキヒメ]
-甘えたことを言うなっ！　お前は強敵を前にして、
-「オレは弱いからさ～」と言い訳するつもりか!?
+Don't be spoiled! Are you going to say "I'm weak" as an excuse in front of a
+powerful enemy?
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-いや、そこまで言う気はないけどさ……。
+No, I don't mean to say that much...
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-先代ってそんなにすごかったのか？
+Was the previous generation really that great?
 --------------------------------
 [00000015][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ、もちろんだ。
-今現在、この世界が存在するのは先代の
-おかげと言ってよい。
+Hmm, of course.  It can be said that the reason this world exists today is
+thanks to our predecessors.
 --------------------------------
 [00000016][ユキヒメ,ユキヒメ,ユキヒメ]
-全ての人類は、今よりももっと
-先代に敬意を払うべきだと私は思うぞ。
+I think all humans should respect our ancestors more than we do now.
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-そんなもんかねえ……。
-ま、ユキヒメがそこまで言うんだ。
-話半分に聞いたとしてもすごいんだろうな。
+I don't think so...  Well, Yukihime says that much.  I think it's amazing even
+if you listen to only half the story.
 --------------------------------
 [00000018][ユキヒメ,ユキヒメ,ユキヒメ]
-こら、なにが話半分だ！
-私は真実しか言っておらんぞ！
+This is only half the story!  I'm only telling the truth!
 --------------------------------
 [00000019][ユキヒメ,ユキヒメ,ユキヒメ]
-おお、黙って私の話を聞く気になったか。
-では、さっそく聞かせてやろう。
+Oh, are you willing to shut up and listen to me?  Now, let's hear it.
 --------------------------------
 [00000020][ユキヒメ,ユキヒメ,ユキヒメ]
-あれは、先代と仲間たちが雪中を旅していた
-時のこと。先代は、寒さに凍える仲間を
-助けるため、口から紅蓮の炎を吐いたのだ。
+That was when my predecessor and his friends were traveling through the snow.
+The previous generation breathed out crimson flames from his mouth in order to
+save his friends who were freezing in the cold.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-……炎？　先代って、人間だよな？
+...Flame? The predecessor was a human, right?
 --------------------------------
 [00000022][ユキヒメ,ユキヒメ,ユキヒメ]
-無論。だが、先代は勇者の中の勇者。
-口からは火を吐き、指からは電撃を発する。
-そして眼光だけでドラゴンを気絶させるのだ！
+Of course. However, the previous generation was a hero among heroes. He breathes
+fire from his mouth and electricity from his fingers.  And you can stun dragons
+with just your eyes!
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-本当かなあ……。
-すごい人だったってのは本当なんだろうけど、
-その話はちょっと大げさじゃないか？
+I wonder if it's true...  It's true that he was an amazing person, but isn't
+that a bit of an exaggeration?
 --------------------------------
 [00000024][ユキヒメ,ユキヒメ,ユキヒメ]
-やれやれ、お前も疑い深い男だな。
-まあよい。時間はまだまだある。
-今後もたっぷりと先代の偉大さを教えてやろう。
+Well, you're a suspicious guy too.  Okay. There's still time.  I will continue
+to teach you more about the greatness of our predecessors.
 --------------------------------
 [00000025][ユキヒメ,ユキヒメ,ユキヒメ]
-しかし、お前は運がよいぞ。
-先代のことをよく知る私と
-共にいられるのだからな。
+But you're in luck.  Because I know my predecessor very well You can be with me.
 --------------------------------
 [00000026][ユキヒメ,ユキヒメ,ユキヒメ]
-私が話す逸話のひとつひとつが、
-お前を真の勇者へと近付けるための
-貴重な授業だと思うがいい。
+Think of each anecdote I tell you as a valuable lesson that will bring you
+closer to becoming a true hero.
 --------------------------------
 [00000027][レイジ,レイジ,レイジ]
-へいへい、そうですか。
-そいつはありがたいことだ。
+Hey hey, I see.  That's a blessing.
 --------------------------------
 [00000028][ユキヒメ,ユキヒメ,ユキヒメ]
-こら！　そういう態度がいかんと
-言っているのだ！
+Hey! I'm saying that that kind of attitude is unacceptable!
 --------------------------------
 [00000029][ユキヒメ,ユキヒメ,ユキヒメ]
-覚悟しておけよ。今後は私が
-みっちりとお前を勇者として
-鍛え上げてやるからな。
+Be prepared. From now on, I'll train you to be a hero.
 --------------------------------
 [00000030][ユキヒメ,ユキヒメ,ユキヒメ]
-……というわけで、時間のある時には
-私のところに来るように。
+...So please come to me when you have time.
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-え～っ？　めんどくさ……。
+Huh? It's such a hassle....
 --------------------------------
 [00000032][ユキヒメ,ユキヒメ,ユキヒメ]
-なにか言ったか？
+Did you say something?
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-いや……じゃあ、また時間のある時に
-話を聞かせてもらうよ……うん。
+No...Then I'll tell you the story again when I have time...Yeah.
 --------------------------------
 [00000034][none]
-また、その話かよ……
+I'm talking about that again...
 --------------------------------
 [00000035][none]
-先代ってそんなにすごかったのか？
+Was the previous generation really that great?
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-あ……ユキヒメ。
-姿が見えないと思ったら
-こんなところにいたのか。
+Ah...Yukihime.  I thought I couldn't see you, but you were in a place like this.
 --------------------------------
 [00000037][ユキヒメ,ユキヒメ,ユキヒメ]
-おお、レイジ。よいところに来たな。
-ちょうどお前に申し付けたいことが
-あったのだ。
+Oh, Rage. You've come to the right place.  I just had something to tell you. 
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-……なんだか、悪い予感しかしないなあ。
-オレ、ちょっと用事が……。
+...I just have a bad feeling about it.  I have something to do...
 --------------------------------
 [00000039][ユキヒメ,ユキヒメ,ユキヒメ]
-こら、逃げるな！
-お前を一人前の勇者に育てるための
-ありがたい稽古をつけてやろうというのだ。
+Hey, don't run away!  In order to develop you into a full-fledged hero, I'm
+going to give you valuable training.
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-やっぱり。そんなことだろうと思った。
-……ま、イヤだと言っても許してくれそうにないな。
-それで、オレはなにをすればいいんだ？
+As expected. That's what I thought.  ...Well, I don't think he'll forgive me
+even if I say no.  So, what should I do?
 --------------------------------
 [00000041][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな……では、今日は修行の初級編といくか。
-私について来い。
+That's right... So, today is the beginner's training session.  Come with me.
 --------------------------------
 [00000042][ユキヒメ,ユキヒメ,ユキヒメ]
-お前にはこれから、ちょっとした
-試練を果たしてもらう。
+You will now have to complete a small trial.
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-また修業か……わかったよ。
-どうせオレに断る権利はないんだろうしな。
+Training again...I understand.  I guess I don't have the right to refuse anyway.
 --------------------------------
 [00000044][ユキヒメ,ユキヒメ,ユキヒメ]
-さて。お前にはこれから、あの崖の上にある
-花を摘み取ってきてもらおう。
+Well. From now on, I'll have you pick the flowers that are on top of that cliff.
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-えっ？　ちょ、ちょっと待てよ。
-あの崖、ものすごく急……っていうか、
-反り返ってるぞ？
+Huh? Wait a minute.  That cliff is extremely steep... Or should I say it's
+curved?
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-あんなところを登れる人間なんて
-いるわけないじゃないか！
+There's no way anyone could climb that high!
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-だいたい、崖登りと勇者修行に
-いったいなんの関係があるんだ!?
+What on earth does cliff climbing have to do with hero training?
 --------------------------------
 [00000048][ユキヒメ,ユキヒメ,ユキヒメ]
-ええい、うるさい！　先代であれば、
-あのような崖はぴょーんと
-飛び越えていたぞ！
+Yeah, it's so loud! In the previous generation, we would have jumped over a
+cliff like that!
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-そ、そんな無茶な～。
+Oh, that's so unreasonable.
 --------------------------------
 [00000050][ユキヒメ,ユキヒメ,ユキヒメ]
-ごちゃごちゃ言うな！
-さっさと登れ！
+Don't mess around!  Quickly climb up!
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-あのさ。せめてなにか、登山道具とか使っちゃ
-ダメなのか？
+You know. Isn't it okay to at least use some kind of climbing equipment?
 --------------------------------
 [00000052][ユキヒメ,ユキヒメ,ユキヒメ]
-もちろん道具の使用は禁止。
-この程度の試練、己の身ひとつで
-成し遂げてみよ！
+Of course, the use of tools is prohibited.  Try to complete a trial of this
+magnitude on your own!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-そんなこと言ってもなあ……。
-オレ、ロッククライミングとか経験ないし。
+Don't say that...  I have no experience with rock climbing.
 --------------------------------
 [00000054][ユキヒメ,ユキヒメ,ユキヒメ]
-バカモノ！　やる前からあきらめてどうする！
-言い訳をする前に、自分になにができるのかを
-考えてみよ！
+Stupid! What should I do if I give up before I even try?  Before you make
+excuses, think about what you can do!
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-お前、オレをいじめて楽しんでない？
+Don't you enjoy bullying me?
 --------------------------------
 [00000056][ユキヒメ,ユキヒメ,ユキヒメ]
-なにを言うかっ！　お前を鍛えるために
-修行をしてやっている私の気持ちが
-わからぬか!?
+What are you talking about? Don't you understand why I'm training to train you!?
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-いや～。だって、これってただの
-無理難題だし……。
-意味あるのかなって思って。
+No. After all, this is just an impossible task...  I wonder if it has any
+meaning.
 --------------------------------
 [00000058][ユキヒメ,ユキヒメ,ユキヒメ]
-ヘリクツを言うヒマがあったら、
-この修行を乗り越えてみせよ！
-口よりも頭と体を動かせ！
+If you have time to say hello, try to overcome this training!  Move your head
+and body more than your mouth!
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-でも、崖を登るよりは、剣術の修行とかの方が
-勇者として成長できるんじゃないか？
+But wouldn't training in swordsmanship help you grow as a hero more than
+climbing a cliff?
 --------------------------------
 [00000060][ユキヒメ,ユキヒメ,ユキヒメ]
-たわけ！　そんなものは基礎ができてから
-行う修行！　まずは基礎体力と根性を
-身に着けんか！
+Tawasake! That kind of training should be done after the basics are established!
+First of all, acquire basic physical strength and guts!
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-なるほど、その通りだな。
+I see, you're right.
 --------------------------------
 [00000062][レイジ,レイジ,レイジ]
-あれこれ言う前に、自分になにができるのかを
-考えなくちゃダメだよな。
-さすがはユキヒメだ。
+Before you say anything, you need to think about what you can do.  As expected
+of Yukihime.
 --------------------------------
 [00000063][ユキヒメ,ユキヒメ,ユキヒメ]
-な、なんだ。今日はやけに素直だな。
-気持ち悪いではないか。
+What? You're being very honest today.  Isn't it disgusting?
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-……と言っても、どうすれば
-いいのかなあ……。
+...But I don't know what I should do...
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-正直言って、こんな崖、オレには
-とても登れそうにないんだけど……。
+To be honest, I don't think I'll be able to climb this cliff...
 --------------------------------
 [00000066][ユキヒメ,ユキヒメ,ユキヒメ]
-こらこら、さっきの素直な態度はどうした？
-諦めないでなんとかしてみよ！
+Hey, what happened to your honest attitude earlier?  Don't give up, try
+something!
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-……………………。
+…………………….
 --------------------------------
 [00000068][ユキヒメ,ユキヒメ,ユキヒメ]
-なんだ、なんだ？　返事くらいせんか！
-それとも反抗期か？
-私はお前をそんな風に育てた覚えはないぞ？
+What, what? Can't you just reply!  Or is it a rebellious period?  I don't
+remember raising you like that, do you?
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-……オレも育ててもらった覚えはないぞ。
+...I don't remember being raised either.
 --------------------------------
 [00000070][ユキヒメ,ユキヒメ,ユキヒメ]
-ならばこれからは私が育て直してやる。
-……というわけで、さっさと崖を登らんか！
+In that case, from now on, I will raise them again.  ...So, let's quickly climb
+the cliff!
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-はあ、やれやれ……。
-じゃ、その前に条件を確認させてもらうぞ。
+Ah, well...  Well, before that, let me confirm the conditions.
 --------------------------------
 [00000072][レイジ,レイジ,レイジ]
-あの崖の上に登って、頂上に咲いている花を
-摘んでくる……これでいいんだな？
+I'll climb up to the top of that cliff and pick the flowers blooming at the
+top...Is this okay?
 --------------------------------
 [00000073][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ、その通り。
-わかったら、さっそく始めよ！
+Hmm, that's right.  If you understand, let's get started!
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-オーケー。じゃ、ちょっと行ってくるから、
-お前はここでのんびりと待ってろよ。
+Okay. Well then, I'll go in a little while, so please wait here.
 --------------------------------
 [00000075][ユキヒメ,ユキヒメ,ユキヒメ]
-ん？　おい、レイジ。どこへ行く？
-崖はこっちだぞ？　おい！
-……行ってしまった……。
+Huh? Hey, Rage. Where are you going?  Hey! 
 --------------------------------
 [00000076][ユキヒメ,ユキヒメ,ユキヒメ]
-まさかあいつ、逃げたのか？
-……まあいい。何か準備があるのかもしれんし、
-しばらく待ってやるか……。
+Did you think he ran away?  ...Well, that's fine. There may be some
+preparations, so I'll wait for a while...
 --------------------------------
 [00000077][ユキヒメ,ユキヒメ,ユキヒメ]
-……遅い！　いくらなんでも遅すぎる！
-レイジのやつ、いったいなにをしておるのだ!?
-やはり、修行から逃げ出したのか……？
+...It's late! It's too late no matter what!  What on earth is Rage doing!? 
+Maybe he ran away from his training...?
 --------------------------------
 [00000078][ユキヒメ,ユキヒメ,ユキヒメ]
-まったく、情けないやつ!!
-見ておれ、次に会った時には思い知らせて……。
+What a pathetic thing!! Please keep an eye on me, and I'll remind you the next
+time I see you...
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-おう、ユキヒメ。待たせて悪かったな。
+Hey, Yukihime. Sorry for making you wait.
 --------------------------------
 [00000080][ユキヒメ,ユキヒメ,ユキヒメ]
-あっ、貴様！　よくも平気で私の前に
-顔を出せたものだな！
-今日という今日は……。
+Ah, you! You were able to show your face in front of me without any problem! 
+Today is...
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-……？　なにを言ってるんだ？
-ほら。お前の言ってた花、持って来たぜ。
+...? What are you talking about?  Look. I brought you the flowers you mentioned.
 --------------------------------
 [00000082][ユキヒメ,ユキヒメ,ユキヒメ]
-えっ……これは、確かに崖の上に咲いていた花……。
-だ、だが、どうやって？　しかも、鉢植えに
-なっているではないか。
+Huh...this is definitely a flower that was blooming on the cliff...  Yes, but
+how? Moreover, isn't it turned into a potted plant?
 --------------------------------
 [00000083][レイジ,レイジ,レイジ]
-だって、ユキヒメは時間制限はつけてなかっただろ？
-だから、横から遠回りしてのんびりと
-崖の上まで歩いていったんだよ。
+Because Yukihime didn't set a time limit, right?  That's why I took a detour
+from the side and leisurely walked to the top of the cliff.
 --------------------------------
 [00000084][ユキヒメ,ユキヒメ,ユキヒメ]
-で、では、鉢植えになっているのはなぜだ？
-私は野生の花を摘み取って来いと……。
+So, why is it in a pot?  I want to pick some wild flowers...
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-ああ、それか。時間はたっぷりあったから、
-摘み取らずに鉢に植え替えてきたんだ。
-これなら花も枯らさずに済むだろう？
+Oh, that's it. I had plenty of time, so I replanted them in pots without picking
+them.  If we do this, we won't have to let the flowers die, right?
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-せっかく持って来たんだから、この鉢植えは
-お前にやるよ。大事にしてくれよな。
+Since you brought it here, I'll give you this potted plant. Please take good
+care of me.
 --------------------------------
 [00000087][ユキヒメ,ユキヒメ,ユキヒメ]
-……な、なにを……!?　わ、私に花だと!?
-私は刀だぞ!?
+...w-what...!? W-you want me to be a flower!? I'm a sword!?
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-こうして話ができるのに、刀もなにもないだろ。
-とにかく、これはお前のもんだ。
-なんだったらオレに感謝してもいいぜ。
+You can talk like this, but you don't have a sword or anything.  Anyway, this is
+yours.  If that's the case, you can thank me.
 --------------------------------
 [00000089][ユキヒメ,ユキヒメ,ユキヒメ]
-お、お前……お前というやつは……。
-……ば、ばかもの！　私は崖を登れと
-言ったのだ！　こんなのは反則だ！
+Oh, you...you're...  ...You idiot! I told you to climb the cliff! This is a
+violation!
 --------------------------------
 [00000090][レイジ,レイジ,レイジ]
-わ、わあ!?　なんだよ、そんなに怒るなよ。
-お前の言う通りの結果は出しただろ!?
+W-wow!? What the heck, don't get so angry.  You got the results you said!?
 --------------------------------
 [00000091][ユキヒメ,ユキヒメ,ユキヒメ]
-う、うるさいっ！　向こうへ行けっ！
+Uh, it's so loud! Go over there!
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-なんなんだよ、いったい……。
-じゃ、オレはもう行くぞ。
+What on earth is that...?  Okay, I'll go now.
 --------------------------------
 [00000093][ユキヒメ,ユキヒメ,ユキヒメ]
-……行ったか……。
-まったく、レイジのやつ……妙な方法で修行を
-乗り越えてしまいおって。
+...Did you go...?  It's definitely Rage... He overcame his training in a strange
+way.
 --------------------------------
 [00000094][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（…………。
-だが、レイジが私の命じた通りの結果を
-出したのは確か……）
+@fcFFAAFFAA(………….
+But I'm sure Rage got the result
+as I ordered...)
 --------------------------------
 [00000095][ユキヒメ,ユキヒメ,ユキヒメ]
-しかも、摘み取ってくるべき花を思いやって……
-わ、私への贈り物にするなど……。
+What's more, you were considerate of the flowers you were supposed to pick... 
+I-I would give them as a gift to me...
 --------------------------------
 [00000096][ユキヒメ,ユキヒメ,ユキヒメ]
-……先代であれば、迅速に、ただ目的のみを
-果たしていたであろうな……。
-だが、レイジは……。
+...If it were the previous generation, it would have accomplished its purpose
+quickly...  But Rage...
 --------------------------------
 [00000097][ユキヒメ,ユキヒメ,ユキヒメ]
-ふ、ふん！　あの未熟者め！　あいつを相手に
-すると調子が乱れてしまうわ！
-……む？
+Huh, huh! That inexperienced person! If I deal with that guy, I'll lose my
+temper!  ...Hmm?
 --------------------------------
 [00000098][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（この花……。
-よく見れば「シラユキソウ」ではないか）
+@fcFFAAFFAA(This flower...
+If you look closely, it's probably a "white lily")
 --------------------------------
 [00000099][ユキヒメ,ユキヒメ,ユキヒメ]
-…………。
+………….
 --------------------------------
 [00000100][none]
-お前、オレをいじめて楽しんでない？
+Don't you enjoy bullying me?
 --------------------------------
 [00000101][none]
-なるほど、その通りだな
+I see, you're right.
 --------------------------------
 [00000102][ユキヒメ,ユキヒメ,ユキヒメ]
-来たか、レイジ。
-では、さっそく今日も稽古をつけてやろう。
+Come, Rage.  Now then, let's start practicing today.
 --------------------------------
 [00000103][レイジ,レイジ,レイジ]
-また修行か……。
-で、今度はなにをすればいいんだ？
+I'm going to train again...  So, what should I do next?
 --------------------------------
 [00000104][ユキヒメ,ユキヒメ,ユキヒメ]
-安心せい。
-今日はお前好みの修行だ。
-実戦形式の、な。
+Don't worry.  Today is your favorite training.  It's a real battle format.
 --------------------------------
 [00000105][ユキヒメ,ユキヒメ,ユキヒメ]
-さあ、まずは修行に適した場に移動するぞ。
-ついて来い！
+Well, first of all, let's move to a place suitable for training.  Come with me!
 --------------------------------
 [00000106][ユキヒメ,ユキヒメ,ユキヒメ]
-モンスターを追っている間に、
-少々遠くまで来てしまったようだな。
-……ん？　……この場所は……？
+Looks like you came a little far while chasing the monster.  ...Hmm? ……This
+place……?
 --------------------------------
 [00000107][レイジ,レイジ,レイジ]
-どうした、ユキヒメ？
-このあたりに来たことがあるのか？
+What's wrong, Yukihime?  Have you ever been around here?
 --------------------------------
 [00000108][ユキヒメ,ユキヒメ,ユキヒメ]
-この無惨に踏みにじられた花は、
-もしや、シラユキソウ……。
+This cruelly trampled flower is, I wonder if it's a white snowdrop...
 --------------------------------
 [00000109][レイジ,レイジ,レイジ]
-ああ、崖の上に咲いてたのと同じ花だな、これ。
-かわいそうに、こんなに踏み散らされて。
+Ah, this is the same flower that was blooming on the cliff.  Poor guy, he got
+trampled on so much.
 --------------------------------
 [00000110][ユキヒメ,ユキヒメ,ユキヒメ]
-……まさか、ここは……。
-いや、間違いない。この地は確かに
-私と先代の思い出の地……。
+...I can't believe it's here...  No, definitely. This place is certainly a place
+of memories for me and my predecessors...
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-この場所でなにかあったのか？
+Did something happen here?
 --------------------------------
 [00000112][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ。ここは、私が先代に忠誠を
-誓い、初めて霊刃化した場所……。
-あまりに昔のことなので、すぐには気付かなかった。
+Hmm. This is the place where I swore loyalty to my predecessor and transformed
+into a spirit blade for the first time...  It was so long ago that I didn't
+realize it right away.
 --------------------------------
 [00000113][レイジ,レイジ,レイジ]
-へえ、ユキヒメが初めて刀になった場所か。
-そりゃ懐かしいなあ。
+Huh, is this the place where Yukihime first became a sword?  That's so
+nostalgic.
 --------------------------------
 [00000114][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ。こうして目を閉じれば、かつての記憶が
-蘇る……凛々しく雄々しい先代の姿……。
+Hmm. When I close my eyes like this, memories of the past come back to me... the
+dignified and brave figure of my predecessor...
 --------------------------------
 [00000115][レイジ,レイジ,レイジ]
-……偶然だけど、良い場所に来られてよかったな。
-なんだったら、１人にしておいてやろうか？
+...It's just a coincidence, but I'm glad I came to a good place.  If that's the
+case, why don't you leave me alone?
 --------------------------------
 [00000116][ユキヒメ,ユキヒメ,ユキヒメ]
-……いや、気遣いは無用。
-ここにお前と２人で来たというのも
-なにかの縁であろう。
+...No, there's no need to worry.  The reason why I came here with you is
+probably due to some kind of connection.
 --------------------------------
 [00000117][レイジ,レイジ,レイジ]
-やれやれ。またお前の昔話かよ。
-いつでもどこでも先代の話に結びつけるなあ。
-それに、お前の話はちょっと大げさなんだよな。
+Oh my gosh. It's your old story again.  Relate to the story of your predecessor
+anytime, anywhere.  Besides, your story is a bit exaggerated.
 --------------------------------
 [00000118][ユキヒメ,ユキヒメ,ユキヒメ]
-ば、ばかもの！　私は常に
-真実しか申しておらぬわ！
+You idiot! I always tell you nothing but the truth!
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-本当かぁ～？　で、ここはどういう
-場所なんだよ？
+Really? So, what kind of place is this?
 --------------------------------
 [00000120][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ。ここは、私が先代に忠誠を
-誓い、初めて霊刃化した場所……。
-あまりに昔のことなので、すぐには気付かなかった。
+Hmm. This is the place where I swore loyalty to my predecessor and transformed
+into a spirit blade for the first time...  It was so long ago that I didn't
+realize it right away.
 --------------------------------
 [00000121][レイジ,レイジ,レイジ]
-へぇ～。ユキヒメが初めて刀になった場所か。
-そりゃ、ちょっとした思い出だな。
+Hey. Is this the place where Yukihime first became a sword?  Well, it's just a
+small memory.
 --------------------------------
 [00000122][ユキヒメ,ユキヒメ,ユキヒメ]
-ちょっとした、どころではないわ！
-私と先代の戦いが始まった
-歴史的な場所と言っていいくらいだ！
+It's just a little bit!  You could say it's a historic place where the battle
+between me and my predecessors began!
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（どうやら、ここはユキヒメにとって大切な
-場所みたいだな。黙って話を聞いてやるか……）
+@fcFFAAFFAA(Apparently, this is an important place for Yukihime. 
+I'll just shut up and listen...)
 --------------------------------
 [00000124][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ、覚えておるぞ。確かにここだ。
-何百年も経ったというのに、この大地も風も
-まったく変わってはおらん……。
+Hmm, I remember. It's definitely here.  Even though hundreds of years have
+passed, the land and wind have not changed at all...
 --------------------------------
 [00000125][ユキヒメ,ユキヒメ,ユキヒメ]
-実はな、レイジ。ここは、私が先代に忠誠を
-誓い、初めて霊刃化した思い出の場所なのだ。
-あまりに昔のことなので、すぐには気付かなかった。
+Actually, Rage. This is the place where I remember swearing loyalty to my
+predecessor and becoming a spirit blade for the first time.  It was so long ago
+that I didn't realize it right away.
 --------------------------------
 [00000126][レイジ,レイジ,レイジ]
-へえ、ユキヒメが初めて刀になった場所か。
-そりゃ思い出深いなあ。
+Huh, is this the place where Yukihime first became a sword?  That's so
+memorable.
 --------------------------------
 [00000127][ユキヒメ,ユキヒメ,ユキヒメ]
-そうであろう。
-いわば、この地から建国王の歴史が
-始まったのだからな。
+I guess so.  So to speak, the history of the Founding King began from this
+place.
 --------------------------------
 [00000128][レイジ,レイジ,レイジ]
-それで、どうだい？
-久々に思い出の場所に戻った気分は？
+So, what do you think?  How does it feel to return to a place of memories after
+a long time?
 --------------------------------
 [00000129][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな、全てがまるで昨日のことのよう……。
-だが……く……っ……うっ……。
+Well, everything seems like yesterday...  But...ku...uh...uh...
 --------------------------------
 [00000130][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……ユキヒメ？
-もしかして……泣いてる？）
+@fcFFAAFFAA(...Yukihime?
+Maybe... she's crying?)
 --------------------------------
 [00000131][ユキヒメ,ユキヒメ,ユキヒメ]
-空も大地も風も、そして、私も……。
-なにも変わっておらぬのに……。
-先代が……クリスだけがおらぬ……。
+The sky, the earth, the wind, and me...  Even though nothing has changed...  The
+previous generation... Chris is the only one missing...
 --------------------------------
 [00000132][ユキヒメ,ユキヒメ,ユキヒメ]
-……人間たちは皆、私を置いて去っていく……。
-……私は、この身が人ではないことを
-呪わしく思うぞ……。
+...All the humans are leaving me behind...  ...I feel cursed that I am not
+human...
 --------------------------------
 [00000133][レイジ,レイジ,レイジ]
-……ユキヒメ……そんなに落ち込むなよ。
-長生きしてきたからって、悲しいことばかり
-あったわけじゃないだろ？
+...Yukihime...don't be so depressed.  Just because you've lived a long life
+doesn't mean you've had all the sad things  right?
 --------------------------------
 [00000134][レイジ,レイジ,レイジ]
-長生きした分、いろんな出会いや
-楽しいこともあったはずだぜ？
+Since you've lived a long time, you must have had many encounters and had fun,
+right?
 --------------------------------
 [00000135][ユキヒメ,ユキヒメ,ユキヒメ]
-……レイジ……お前……。
+...Rage...you...
 --------------------------------
 [00000136][レイジ,レイジ,レイジ]
-……それに、オレがユキヒメと会えたのも
-お前がそうやって長生きしてくれてる
-おかげだしな。
+...And it's because of you that I was able to meet Yukihime for such a long
+time.
 --------------------------------
 [00000137][レイジ,レイジ,レイジ]
-お前は口うるさい奴だけど、ちょっとは
-感謝してるんだぜ？
-いつもオレを鍛えてくれて、さ。
+You're such a nag, but I'm a little grateful, okay?  Thank you for always
+training me.
 --------------------------------
 [00000138][ユキヒメ,ユキヒメ,ユキヒメ]
-……な、なんだと!?
-誰が口うるさいというのだ！
-私はお前のためを思って……！
+...W-what!? Who's the one to say anything?  I'm thinking of you...!
 --------------------------------
 [00000139][レイジ,レイジ,レイジ]
-……おっと、怖ぇ怖ぇ。
-でも、もう元気が出たみたいだな。
-そっちの方がお前らしいぜ？
+...Oh, I'm so scared.  But it looks like you've recovered your energy.  That's
+more like you, isn't it?
 --------------------------------
 [00000140][レイジ,レイジ,レイジ]
-それに、女の子の泣き顔を見てると
-こっちまで辛くなってくるんだよ。
-だから、お前も笑ってろ。な？
+Besides, seeing a girl's crying face makes me even harder.  So, you should smile
+too. What?
 --------------------------------
 [00000141][ユキヒメ,ユキヒメ,ユキヒメ]
-お、女の子ぉ!?　なにを申すかっ!?
-わ、私は上位精霊であり、刀であり……。
-その……。
+Oh, girl!? What are you talking about? I-I'm a superior spirit and a sword... 
+That...
 --------------------------------
 [00000142][レイジ,レイジ,レイジ]
-精霊とか刀とか、そんなことは関係ないだろ。
-ただ、お前が悲しい顔してると、
-オレまで一緒に悲しくなっちまうってだけだ。
+Spirits, swords, things like that don't matter.  It's just that when you look
+sad, I get sad too.
 --------------------------------
 [00000143][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（……レイジ……？
-……やはり違う……この男は、先代とは……）
+@fcFFAAFFAA(...Rage...?
+...It's different after all...This man is different from the previous generation...)
 --------------------------------
 [00000144][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（先代は、たとえ私が泣いていても
-『切れ味が鈍るぞ！』と叱咤するだけであった……。
-あくまで、私を刀として扱っておったのに……）
+@fcFFAAFFAA(Even if I cried,
+my predecessor would only scold me and say, ``It's going to lose its sharpness!''
+He treated me like a sword to the last...) )
 --------------------------------
 [00000145][レイジ,レイジ,レイジ]
-……？　どうした？　ぼけっとして。
-まさか、また泣くんじゃないだろうな？
-泣き虫の精霊さんよ。
+...? what up? I don't think you'll cry again, right?  Crybaby spirit-san.
 --------------------------------
 [00000146][ユキヒメ,ユキヒメ,ユキヒメ]
-た、たわけっ！　そんなはずがあるか！
-あ、明日からはどのようにお前を鍛えてやろうかと
-考えていたところだ！
+Ta-take!　Is that possible?  Ah, I was just thinking about how I should train you
+starting tomorrow!
 --------------------------------
 [00000147][レイジ,レイジ,レイジ]
-……そっか。それだけ元気があれば心配ないな。
-さ、帰ろうぜ。
-オレ、戦ったらハラが減っちゃったよ。
+...I see. As long as you're feeling well, there's no need to worry.  Let's go
+home.  When I fought, my Hara decreased.
 --------------------------------
 [00000148][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（まったく……こいつと一緒にいると調子が狂う。
-……だが、不思議と不愉快ではない……。
-レイジ……妙な男よ……）
+@fcFFAAFFAA(Totally... I go crazy when I'm with this guy.
+...But strangely, I'm not unpleasant...
+Rage... He's a strange guy...)
 --------------------------------
 [00000149][none]
-この場所でなにかあったのか？
+Did something happen here?
 --------------------------------
 [00000150][none]
-やれやれ。またお前の昔話かよ
+Oh my gosh. Is this your old story again?
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-ユキヒメ、ここにいたのか。
-探してたんだ。
+Yukihime, were you here?  I was looking for it.
 --------------------------------
 [00000152][ユキヒメ,ユキヒメ,ユキヒメ]
-おお、レイジ。どうした、私になにか用か？
-今日は修行の日ではなかったはずだが……？
+Oh, Rage. What's up, do you need something from me?  Today wasn't supposed to be
+a training day...?
 --------------------------------
 [00000153][レイジ,レイジ,レイジ]
-ああ、今日は別の用事なんだ。
+Oh, I have something else to do today.
 --------------------------------
 [00000154][レイジ,レイジ,レイジ]
-……ほら。これ、やるよ。町の露店で買ったんだ。
+...See. I'll do this. I bought it at a street stall in town.
 --------------------------------
 [00000155][ユキヒメ,ユキヒメ,ユキヒメ]
-……？　これは……ネックレス？
-なんだ、なにかの魔法の品か？
-もしかすると、戦闘に役立つ呪具なのか？
+...? Is this...a necklace?  What, is it some kind of magical item?  Maybe it's a
+magical tool useful in battle?
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-ははは、違う違う。ただのアクセサリーだよ。
-いつも世話になってるから、たまには
-なにかお礼をしようと思ってさ。
+Haha, no, no. It's just an accessory.  Since you always take care of me, I
+thought I'd do something to thank you once in a while.
 --------------------------------
 [00000157][ユキヒメ,ユキヒメ,ユキヒメ]
-なっ……私に、アクセサリー!?
-バ……バカモノ！
+What...accessories for me!? Ba...that's stupid!
 --------------------------------
 [00000158][ユキヒメ,ユキヒメ,ユキヒメ]
-そんな余計なことを考えているヒマがあったら
-剣の稽古でもせんか！
-こんなものはいらん！　返す！
+If you have time to think about such unnecessary things, why not practice
+swordsmanship!  I don't need something like this! return!
 --------------------------------
 [00000159][レイジ,レイジ,レイジ]
-返す、って言われても……。
-それはお前のために買ったものなんだ。
-オレに返されても困る。
+Even if you say you'll give it back...  That's what I bought for you.  I won't
+be in trouble if you give it back to me.
 --------------------------------
 [00000160][ユキヒメ,ユキヒメ,ユキヒメ]
-私のために……？
-む、この先端の飾りは、もしや……。
+For me...?  Hmm, maybe that decoration on the tip...
 --------------------------------
 [00000161][レイジ,レイジ,レイジ]
-そうそう。シラユキソウ、だっけ？
-この前、ユキヒメはその花を見て
-昔を思い出してただろ？
+Yeah. Shirayukisou, right?  When Yukihime saw that flower the other day, it
+reminded her of the past, right?
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-だから、きっとお前にとって思い出深い
-花なんだろうと思ってさ。
+So I'm sure it's a memorable flower for you.
 --------------------------------
 [00000163][レイジ,レイジ,レイジ]
-で、町に行ってシラユキソウをかたどった
-アクセサリーを探してきたってわけだ。
+So, I went to town and looked for some accessories in the shape of a white lily.
 --------------------------------
 [00000164][ユキヒメ,ユキヒメ,ユキヒメ]
-…………。
+………….
 --------------------------------
 [00000165][ユキヒメ,ユキヒメ,ユキヒメ]
-そ……それを早く言わんか。
-この馬鹿者。
+Well...why don't you say that quickly?  You idiot.
 --------------------------------
 [00000166][ユキヒメ,ユキヒメ,ユキヒメ]
-お、お前の気持ちを無下にするのは
-礼儀に反するからな。
-身につけてやるとしよう。
+Oh, it's against etiquette to disrespect your feelings.  Let's put it on.
 --------------------------------
 [00000167][レイジ,レイジ,レイジ]
-そうか……受け取ってくれるのか。
+I see... will you accept it?
 --------------------------------
 [00000168][ユキヒメ,ユキヒメ,ユキヒメ]
-こ、断っておくが、
-これはお前のためではないぞ!?
-ただ、物を大切にする気持ちでだな……！
+I-I have to say this, This isn't for you!? I just want to value things...!
 --------------------------------
 [00000169][レイジ,レイジ,レイジ]
-ユキヒメ……。
+Yukihime...
 --------------------------------
 [00000170][レイジ,レイジ,レイジ]
-ああ、大切にしてくれよな。
-……と言っても、お前に怒られたとおり、
-なんの役にも立たないアクセサリーだけどさ。
+Oh, please take good care of me.  ...However, as you said, it's a useless
+accessory.
 --------------------------------
 [00000171][ユキヒメ,ユキヒメ,ユキヒメ]
-バ、バカモノ！
-べ、別に役になど立たなくとも……。
-と、とにかく、大切にしてやる。感謝するがよい。
+Bah, you idiot!  Even if it's not particularly useful...  Anyway, I'll cherish
+it. Be grateful.
 --------------------------------
 [00000172][レイジ,レイジ,レイジ]
-ははっ、プレゼントしたオレが感謝するのか。
-お前って、ときどき変なこと言うよなあ。
+Haha, am I the one who gave it to you to thank you?  You say strange things
+sometimes.
 --------------------------------
 [00000173][レイジ,レイジ,レイジ]
-お前、意外と貧乏性なんだな。
-精霊のくせに……。
+You're surprisingly poor.  Even though it's a spirit...
 --------------------------------
 [00000174][ユキヒメ,ユキヒメ,ユキヒメ]
-な、なんだ、その言い草は！
-お前がもらってほしいというから
-受け取ってやったのであろうが!?
+W-what's that phrase?!  I guess I took it because you asked me to give it to
+you!?
 --------------------------------
 [00000175][レイジ,レイジ,レイジ]
-だったら最初から素直に受け取れよ。
-オレ、けっこう傷ついたぜ？
+Then just accept it from the beginning.  I was pretty hurt, right?
 --------------------------------
 [00000176][ユキヒメ,ユキヒメ,ユキヒメ]
-う、うるさい！
-男子たるもの、過ぎたことをいつまでも申すでない！
-とにかく、もらってやったのだから感謝せい！
+Uh, noisy!  As a man, I will never regret what happened!  Anyway, I'm grateful
+for what I received!
 --------------------------------
 [00000177][レイジ,レイジ,レイジ]
-オレが感謝するのかよ……。
-いちおうプレゼントした側なんだけどなあ……。
+Am I the one to thank you...?  I guess I was the one who gave the gift...
 --------------------------------
 [00000178][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000179][ユキヒメ,ユキヒメ,ユキヒメ]
-な、なにを黙っておる！
-私ばかり話していては、まるで馬鹿みたいでは
-ないかっ！
+W-what are you keeping quiet about!  Don't you feel like an idiot if you only
+talk about me? 
 --------------------------------
 [00000180][レイジ,レイジ,レイジ]
-いや……そのネックレス、けっこう似合ってると
-思ってさ。プレゼントしてよかったよ。
-オレのセンスもなかなかのものだな。
+No...I think that necklace suits you pretty well. I'm glad I gave it to you as a
+present.  My taste is also quite good.
 --------------------------------
 [00000181][ユキヒメ,ユキヒメ,ユキヒメ]
-に、似合っ!?　……バ、バカモノッ！
-そうやってたるんでいるからお前は
-いつまでたっても成長せぬのだ!!
+N-it suits you!?...B-stupid!  Because you're sagging like that, you'll never
+grow up!!
 --------------------------------
 [00000182][レイジ,レイジ,レイジ]
-わあ！　な、なんだよ？
-褒めたつもりなのに、なんで怒られるんだ!?
+Wow! What?  I meant to praise you, but why are you getting angry at me!?
 --------------------------------
 [00000183][ユキヒメ,ユキヒメ,ユキヒメ]
-うるさい！
-お、お前は私を人間のように……女の子として
-気安く扱いすぎる！
+Noisy!  Oh, you treat me like a human...as a girl too casually!
 --------------------------------
 [00000184][ユキヒメ,ユキヒメ,ユキヒメ]
-私は上位精霊なるぞ!?
-もっとこう、人ならざるものとして
-尊敬の念を持って扱わんか！
+I'm going to become a superior spirit!? Why don't you treat me with more respect
+as a non-human being?
 --------------------------------
 [00000185][レイジ,レイジ,レイジ]
-尊敬しろったって……。
-そんなにギャーギャーわめいてばかりじゃなあ……。
+I wanted you to respect me...  You're just screaming so much...
 --------------------------------
 [00000186][ユキヒメ,ユキヒメ,ユキヒメ]
-ギャーギャーとはなんだ！
-……だがまあ、ネックレスの礼として
-今日のところは許してやろう。
+What is Gya Gya!  ...But well, as a thank you for the necklace I'll forgive you
+for today.
 --------------------------------
 [00000187][ユキヒメ,ユキヒメ,ユキヒメ]
-こ、このネックレスも……。
-なかなか悪くないしな……うむ。
+This necklace too...  It's not that bad...hmm.
 --------------------------------
 [00000188][レイジ,レイジ,レイジ]
-お？　珍しく簡単に許してくれたな。
-それじゃ、また怒られないうちに退散しますか。
-じゃあな！　そのネックレス、似合ってるぜ！
+Oh? It's unusual for you to forgive me so easily.  Then, do you want to leave
+before I get angry again?  See you then! That necklace suits you!
 --------------------------------
 [00000189][ユキヒメ,ユキヒメ,ユキヒメ]
-バ、バカモノ！　私をからかうでない！
-……ふう……行ったか……。
-まったく、あやつときたら……。
+Bah, you idiot! Don't make fun of me!  ...Hmm...did you go...?  Totally, when it
+comes to that guy...
 --------------------------------
 [00000190][ユキヒメ,ユキヒメ,ユキヒメ]
-贈り物、か……。先代との付き合いは
-長かったが、そんなものは一度ももらったことが
-なかったな……。
+A gift, huh...? I've known my predecessor for a long time, but I've never
+received anything like that...
 --------------------------------
 [00000191][ユキヒメ,ユキヒメ,ユキヒメ]
-……いや、それでいいのだ。
-私はあくまで刀……武器なのだから。
-余計なことで持ち主の邪魔をしてはいかん。
+...No, that's fine.  I am just a sword...a weapon.  Don't disturb the owner with
+unnecessary things.
 --------------------------------
 [00000192][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（邪魔……そう。
-このままでは、いつか私が
-レイジの成長の妨げになるかもしれない……）
+@fcFFAAFFAA(Interfering... Yes.
+At this rate, I may someday become an obstacle to Rage's growth...)
 --------------------------------
 [00000193][ユキヒメ,ユキヒメ,ユキヒメ]
-@fcFFAAFFAA（いかん……いかんぞ、ユキヒメ。
-お前はクラントールに伝わる霊刀。
-あくまで戦いに専念するのだ……）
+@fcFFAAFFAA(No...no, Yukihime.
+You are a spiritual sword handed down in Crantor.
+You should concentrate on fighting...)
 --------------------------------
 [00000194][none]
-ああ、大切にしてくれよな
+Oh, please take good care of me.
 --------------------------------
 [00000195][none]
-お前、意外と貧乏性なんだな
+You are surprisingly poor.
 --------------------------------
 [00000196][レイジ,レイジ,レイジ]
-おっす、ユキヒメ。なにしてるんだ？
-もしかして、今日もオレに修業させるのか？
+Hey, Yukihime. What are you doing?  Maybe you'll train me today too?
 --------------------------------
 [00000197][ユキヒメ,ユキヒメ,ユキヒメ]
-……その通り。
-まずは修業の場に行くとしよう。ついてこい。
+...That's right.  First, let's go to the training ground. Follow me.
 --------------------------------
 [00000198][レイジ,レイジ,レイジ]
-……なんだよ、いつも以上に真面目な顔しちゃって。
-どうかしたのか？
+...What's that? You look more serious than usual.  What's wrong?
 --------------------------------
 [00000199][ユキヒメ,ユキヒメ,ユキヒメ]
-黙っておれ。これから修業を始めるのだ。
-たるんでおると大ケガをするぞ？
+Shut up. I'm about to start training.  If you slack, you will get seriously
+injured.
 --------------------------------
 [00000200][レイジ,レイジ,レイジ]
-……？　あ、ああ……気をつけるよ。
+...? Ah, ah... I'll be careful.
 --------------------------------
 [00000201][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（ユキヒメ、どうしたんだ……？
-なんだか、いつもより冷たいというか、
-そっけないというか……）
+@fcFFAAFFAA(Yukihime, what's wrong...?
+Somehow, you're colder than usual, or rather curt...)
 --------------------------------
 [00000202][ユキヒメ,ユキヒメ,ユキヒメ]
-なっ……!?　まだ野生のモンスターが!?
-しまった……油断した！
+What...!? There's still a wild monster!? I... I let my guard down!
 --------------------------------
 [00000203][レイジ,レイジ,レイジ]
-あっ、ユキヒメ……危ないっ！
-……ぐわっ！
+Ah, Yukihime... it's dangerous!  ...Guwah!
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-くそっ、この野郎！
+Damn you, you bastard!
 --------------------------------
 [00000205][レイジ,レイジ,レイジ]
-だ、大丈夫か、ユキヒメ？
-今度こそ、モンスターは全滅した……ぜ……。
+I-are you okay, Yukihime?  This time, the monsters have been wiped out...
 --------------------------------
 [00000206][ユキヒメ,ユキヒメ,ユキヒメ]
-バ、バカモノ！　私のことよりお前だ！
-血が出ているではないか!?
+Bah, you idiot! It's more about you than me!  Isn't there blood coming out?
 --------------------------------
 [00000207][ユキヒメ,ユキヒメ,ユキヒメ]
-バカな、私をかばうなど……。
-レイジ、大丈夫か!?　しっかりせい！
+You're an idiot, trying to protect me...  Rage, are you okay!? Take care!
 --------------------------------
 [00000208][レイジ,レイジ,レイジ]
-ああ、大丈夫だ。
-この程度の傷、どうってことねえよ。
+Oh, it's okay.  There's nothing wrong with a wound like this.
 --------------------------------
 [00000209][ユキヒメ,ユキヒメ,ユキヒメ]
-そ、そうか……よかった……。
-まったく、ひやひやさせおって……。
+I-I see... that's good...  It's completely chilling...
 --------------------------------
 [00000210][レイジ,レイジ,レイジ]
-悪い悪い。心配してくれてありがとうよ。
-でも、お前が無事でよかったよ。
+Bad bad. Thank you for your concern.  But I'm glad you're okay.
 --------------------------------
 [00000211][ユキヒメ,ユキヒメ,ユキヒメ]
-い、いや、礼を言うのは私のほう……。
-だ、だが、なんと愚かなことをするのだ！
-私をかばう必要などないのに！
+No, no, I'm the one who should thank you...  Yes, but what a foolish thing to
+do!  You don't need to protect me!
 --------------------------------
 [00000212][レイジ,レイジ,レイジ]
-そんなこと言われたってなあ……。
-ユキヒメが危ないと思ったら、体が勝手に
-動いてたんだよ。
+That's what you said...  When I thought Yukihime was in danger, her body started
+moving on its own.
 --------------------------------
 [00000213][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ。お前というやつは……。
-まったく……本当に、バカな奴……。
-……うっ……うぅ……。
+Rage. As for you...  He's really...a really stupid guy...  ...Uh...uh...
 --------------------------------
 [00000214][レイジ,レイジ,レイジ]
-わっ!?　ユ、ユキヒメ!?
-なんでお前が泣くんだよ!?
-ほら、オレはなんともないってば！
+Wow!? Yu, Yukihime!? Why are you crying!? Look, I'm nothing!
 --------------------------------
 [00000215][ユキヒメ,ユキヒメ,ユキヒメ]
-お前は……お前は、私を大切にしすぎる。
-私はただの刀なのだぞ……なのに、私のために
-傷ついてどうする！　……ううっ……。
+You... you value me too much.  I'm just a sword...But what are you going to do
+if you get hurt for me? ...Ugh...
 --------------------------------
 [00000216][ユキヒメ,ユキヒメ,ユキヒメ]
-もっと冷徹に、戦いに徹しなければ
-真の勇者にはなれんぞ!?
-私は、お前の成長の障害にはなりたくない！
+If you don't become more calm and dedicated to fighting, you won't be able to
+become a true hero!? I don't want to be an obstacle to your growth!
 --------------------------------
 [00000217][レイジ,レイジ,レイジ]
-ユキヒメ……ばかだな。
-オレはお前をただの刀だなんて思うつもりはないぜ。
-もちろん、これから先もな。
+Yukihime...you're an idiot.  I'm not going to think of you as just a sword.  Of
+course, in the future too.
 --------------------------------
 [00000218][ユキヒメ,ユキヒメ,ユキヒメ]
-だ、だが、そんな甘いことでは
-真の勇者になることは……。
+But, if you're naive like that, you won't become a true hero...
 --------------------------------
 [00000219][レイジ,レイジ,レイジ]
-お前を物みたいに扱うくらいなら、
-真の勇者になんてなれなくてもいい！
-……いや、オレは、オレなりの勇者になってみせる！
+I don't need to become a true hero as long as I treat you like an object! 
+...No, I'll become my own hero!
 --------------------------------
 [00000220][レイジ,レイジ,レイジ]
-仲間を守れないような奴は、本当の勇者じゃない！
-……だろ？　だからオレは、これからもお前を
-大切な仲間として扱うぜ。
+A person who can't protect his friends isn't a true hero!  ...Right? That's why
+I will continue to treat you as an important friend.
 --------------------------------
 [00000221][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……お前……。
-……ふふっ、口だけは１人前だな……。
+Rage...you...  ...Hehe, just the mouth is enough for one person...
 --------------------------------
 [00000222][レイジ,レイジ,レイジ]
-口だけじゃないさ。絶対に実現してやる。
-お前のこともしっかり守りながら強くなってやるぜ。
+It's not just words. I will definitely make it happen.  I'll protect you and
+grow stronger.
 --------------------------------
 [00000223][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ、わかった……だが、それならば今まで以上に
-厳しい修業が必要だな？
-しっかりついて来るのだぞ、レイジ？
+Hmm, I understand...but if that's the case, wouldn't it be necessary to train
+even harder than before?  Are you sure you're following me, Rage?
 --------------------------------
 [00000224][レイジ,レイジ,レイジ]
-おう、任せとけ、ユキヒメ！
-……って、おい、どうしたんだよ？
-なんでまた泣くんだ？
+Oh, leave it to me, Yukihime!  ...Hey, what's wrong?  Why are you crying again?
 --------------------------------
 [00000225][ユキヒメ,ユキヒメ,ユキヒメ]
-ん……よいのだ。これは、先ほどの涙とは
-別物だからな……。
+Hmm... that's fine. This is different from the tears from earlier...
 --------------------------------
 [00000226][レイジ,レイジ,レイジ]
-……？　そういうもんなのか？
-ま、悲しくて泣いてるわけじゃないんなら
-別にいいけどさ。
+...? Is that what it is?  Well, as long as you're not crying because you're sad,
+it's fine.
 --------------------------------
 [00000227][ユキヒメ,ユキヒメ,ユキヒメ]
-やれやれ……そういう鈍感なところも
-まだまだ修行が必要だな……。
+Oh my...I still need to practice being insensitive like that...
 --------------------------------
 [00000228][レイジ,レイジ,レイジ]
-おっす、ユキヒメ。
-どうしたんだ、こんなところでぼんやりして。
-今日はオレに修業させないのか？
+Hey, Yukihime.  What's wrong with you, you're in a daze?  Aren't you going to
+let me train today?
 --------------------------------
 [00000229][ユキヒメ,ユキヒメ,ユキヒメ]
-……なにを申すか。お前はすでに
-幾多の試練を乗り越え、真の勇者となった……。
-私の修業など必要なものか……。
+...What do you mean? You have already overcome many trials and become a true
+hero...  Is my training necessary...?
 --------------------------------
 [00000230][レイジ,レイジ,レイジ]
-えっ……ユキヒメ……どうしたんだよ、お前？
+What... Yukihime... what's wrong with you?
 --------------------------------
 [00000231][レイジ,レイジ,レイジ]
-オレを褒めてくれるのは嬉しいが……でも、お前は
-なんでそんなに悲しそうなんだよ？
+I'm glad you're praising me...but why do you look so sad?
 --------------------------------
 [00000232][ユキヒメ,ユキヒメ,ユキヒメ]
-……そんなこと、もうお前には関係ない。
-私はもう行くぞ……お前は、仲間たちの
-もとにでも行くがよい。
+...That doesn't matter to you anymore.  I'm leaving now...you can go to your
+friends.
 --------------------------------
 [00000233][レイジ,レイジ,レイジ]
-え、ちょっ……おい、待てよ、ユキヒメ！
-おいったら!!
+Hey...hey, wait, Yukihime!  If you come!!
 --------------------------------
 [00000234][レイジ,レイジ,レイジ]
-おい、待てよ、ユキヒメ！
-どこに行くんだよ!?
+Hey, wait, Yukihime!  Where are you going!?
 --------------------------------
 [00000235][ユキヒメ,ユキヒメ,ユキヒメ]
-ど、どこへ行こうと私の勝手だろう？
-もう、お前にとって私は必要ないのだから……。
+W-where I go is up to me, right?  You don't need me anymore...
 --------------------------------
 [00000236][レイジ,レイジ,レイジ]
-……ユキヒメ、さっきからなにを言ってるんだ？
-お前、なんだか様子がおかしいぞ？
-どうしたんだよ？
+...Yukihime, what were you talking about earlier?  There's something wrong with
+you, aren't you?  What's wrong?
 --------------------------------
 [00000237][ユキヒメ,ユキヒメ,ユキヒメ]
-お前はもう、立派な勇者として成長した。
-……そう、先代を越えるほどにな……だが……。
+You have already grown into a fine hero.  ...Yes, it's even better than its
+predecessor...but...
 --------------------------------
 [00000238][ユキヒメ,ユキヒメ,ユキヒメ]
-それはつまり、私はもう必要ないということ。
-……お前は、１人でも立派に生きていける
-勇者なのだからな。
+That means you don't need me anymore.  ...You are a hero who can live a great
+life on your own.
 --------------------------------
 [00000239][ユキヒメ,ユキヒメ,ユキヒメ]
-……お前と別れるのは寂しいが……。
-いつかはこうなるとわかっていたこと。
-お前は１人で自由に生きるがよい。
+...I'm sad to part with you, but...  I knew this would happen someday.  You
+should live freely by yourself.
 --------------------------------
 [00000240][レイジ,レイジ,レイジ]
-ユ、ユキヒメ……。
+Yu, Yukihime...
 --------------------------------
 [00000241][レイジ,レイジ,レイジ]
-……ばかを言うな！　戦いが終わったからって、
-なんでオレがお前と別れなきゃいけないんだよ！
-そんなこと勝手に決めるんじゃねえ!!
+...Don't be stupid! Just because the battle is over, why do I have to break up
+with you?  Don't decide things like that on your own!!
 --------------------------------
 [00000242][ユキヒメ,ユキヒメ,ユキヒメ]
-だ……だが、私の役目は勇者を育て、守ること。
-そして、お前の役目は私を振るって悪を倒すこと。
-だから、もうお前と私が共にいる必要はない。
+But... my role is to raise and protect heroes.  And your role is to use me to
+defeat evil.  So you and I don't need to be together anymore.
 --------------------------------
 [00000243][レイジ,レイジ,レイジ]
-……お前、それ、本気で言ってるのか？
+...Are you seriously saying that?
 --------------------------------
 [00000244][ユキヒメ,ユキヒメ,ユキヒメ]
-ほ、本気もなにも……。
-共にいる理由がなくなったのだから、
-仕方あるまい……。
+Oh, I'm not serious...  Since we no longer have a reason to be together,  It
+can't be helped...
 --------------------------------
 [00000245][レイジ,レイジ,レイジ]
-……お前はそれでいいのかよ？
-戦いが終わったら、それでさよならだなんて……。
-それがお前の望みなのか？
+...Are you okay with that?  Once the battle is over, it's goodbye...  Is that
+what you want?
 --------------------------------
 [00000246][ユキヒメ,ユキヒメ,ユキヒメ]
-わ、私の望み……？
-そ、そんなことは関係なかろう!?
-私の役目は……。
+W-What do I want...?  Well, that doesn't matter!? My role is...
 --------------------------------
 [00000247][レイジ,レイジ,レイジ]
-お前やオレの役目なんか知るか！
-オレは絶対にお前と別れたりしないぞ！
+Do you know what your and my role is?  I will never break up with you!
 --------------------------------
 [00000248][レイジ,レイジ,レイジ]
-それに、今までオレがお前と一緒にいたのも、
-役目だからじゃねえ！　オレ自身の意思だ！
-……お前は役目のためだけにオレと一緒にいたのか？
+Besides, the reason I've been with you until now isn't because I have a role to
+play! It's my own will!  ... Were you with me just for your role?
 --------------------------------
 [00000249][ユキヒメ,ユキヒメ,ユキヒメ]
-……それは……。
-そんなはずないだろう!?
-私は、私の意思でレイジと一緒にいたのだ!!
+...That's...  That can't be true!? I was with Rage out of my own free will!!
 --------------------------------
 [00000250][レイジ,レイジ,レイジ]
-……だろ？　じゃ、決まりだな。
-お前はこれからもオレと一緒にいてくれ。
-……刀としてじゃなく、女の子として……な。
+...Right? Well then, it's decided.  Please stay with me from now on.  ...Not as
+a sword, but as a girl...
 --------------------------------
 [00000251][レイジ,レイジ,レイジ]
-……それに、オレはまだまだ
-１人前なんかじゃないさ。
-もっともっとお前に鍛えてもらわなくちゃな。
+...Besides, I'm still not a full-fledged person.  I need you to train me even
+more.
 --------------------------------
 [00000252][レイジ,レイジ,レイジ]
-お前に稽古をつけてもらえないと、
-オレもなんだか寂しいぜ。
+Without you training with me, I feel lonely too.
 --------------------------------
 [00000253][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……お前……。
-……うむ、わかった。私がこれからも鍛えて
-やるから覚悟しておれ。……だが……。
+Rage...you...  ...Hmm, I understand. I'll continue to train you, so be prepared.
+...But...
 --------------------------------
 [00000254][レイジ,レイジ,レイジ]
-……？　どうした？
-またなにか変なこと言い出すんじゃないだろうな？
+...? what up? 
 --------------------------------
 [00000255][ユキヒメ,ユキヒメ,ユキヒメ]
-いや、その……これからもお前と一緒にいるのなら、
-私ももっと修業しなくては……と思ってな。
+No, if I'm going to be with you from now on, I think I'll have to train even
+more.
 --------------------------------
 [00000256][レイジ,レイジ,レイジ]
-え？　修業って、なんの修業だ？
+Huh? What kind of training is it?
 --------------------------------
 [00000257][ユキヒメ,ユキヒメ,ユキヒメ]
-その……お前のために、女の子らしさを身につける
-修業をしたいと思ってな。時間がかかるかも
-しれんが、しばし待っていてくれるか？
+Um...I want to train myself to be a girl for you. It might take some time, but
+could you please wait for a while?
 --------------------------------
 [00000258][レイジ,レイジ,レイジ]
-おう、もちろんだ！
-……ただし、何百年もかかっちゃダメだぜ？
-さすがに待ちきれなくなっちまうからな。
+Oh, of course!  ...However, it shouldn't take hundreds of years, right?  I'm
+sure I can't wait.
 --------------------------------
 [00000259][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ、楽しみにしていてくれ……。
-お前のために、もっともっと
-可愛い女の子に……なるからな……。
+Hmm, please look forward to it...  I'll become an even more cute girl for you...
 --------------------------------

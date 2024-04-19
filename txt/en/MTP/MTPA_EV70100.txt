@@ -1,331 +1,267 @@
 [0079]
 *****************
 [00000000][none]
-現状の報告をしておく
+Report the current situation
 --------------------------------
 [00000001][none]
-勲章が届いたぞ
+I received the medal.
 --------------------------------
 [00000002][none]
-本日から新しい隊員が
-入隊することになった
-よろしく頼むぞ
+A new member will be joining the army from today. Thank you for your
+cooperation.
 --------------------------------
 [00000003][none]
-№57
-ザハール・アロンソだぜぇ
-将軍様って呼んでくれぃ！
+№57 It's Zahar Alonso. Please call me General!
 --------------------------------
 [00000004][none]
-よぉし、祝杯をあげるか！
-酒もってこーい！
-ういっく
+Alright, let's have a toast!  Bring some sake!  Uikku
 --------------------------------
 [00000005][none]
-№58
-シン・ヒューガと申す
+№58 My name is Shin Huga.
 --------------------------------
 [00000006][none]
-異国から参ったゆえ
-不慣れで迷惑をかけるかと
-思うがよろしく頼む
+I'm from a foreign country, so I'm not used to it and I'm afraid I'll cause
+trouble, but I appreciate your help.
 --------------------------------
 [00000007][none]
-№25……だったか？
-今はセドリックって
-名乗ってるよ
+No. 25...was it?  Now he calls himself Cedric 
 --------------------------------
 [00000008][none]
-ここは面白そうな
-ところだな
-楽しませてもらうよ
+This looks like an interesting place I'll enjoy it.
 --------------------------------
 [00000009][none]
-……№33
-マルギット・ラヴェリです
+……№33 This is Margit Lavelli.
 --------------------------------
 [00000010][none]
-私がネームレスなんて……
-正規軍部隊の隊長も務めた
-士官だったのに……
+I'm nameless... I was an officer who also served as a captain in the regular
+army...
 --------------------------------
 [00000011][none]
-№46
-クラリッサ・キャラハンと
-申します
+№46 My name is Clarissa Callahan 
 --------------------------------
 [00000012][none]
-転属する前は衛生兵でした
-何かあったら
-声をかけてくださいね
+Before I was transferred, I was a medic If you need anything, please call me.
 --------------------------------
 [00000013][none]
-№18……ってのは
-やっぱり慣れないね
-エリオット・オーツだよ
+No. 18... I'm still not used to it It's Elliot Oates.
 --------------------------------
 [00000014][none]
-この部隊にも可愛らしい
-女の子たちがいるようだ
-ふっ、楽しみだよ
+It seems like there are some cute girls in this unit as well. I'm looking
+forward to it.
 --------------------------------
 [00000015][none]
-№7……じゃあねえな
-№17だ
-イルマリ・ガソット
+№7... Well then, It's №17 Ilmari Gasotto
 --------------------------------
 [00000016][none]
-昼寝する場所もねぇし
-めんどくせぇとこに
-来ちまったなー
+There's no place to take a nap, so I'm in a really troublesome place.
 --------------------------------
 [00000017][none]
-№16
-エイダ・アンゾルゲだ
+№16 It's Ada Ansorge.
 --------------------------------
 [00000018][none]
-私がここに来た目的は一つ
-それ以外に興味はない
-無駄な期待はするな
+I came here for one purpose I have no other interests Don't get your hopes up.
 --------------------------------
 [00000019][none]
-№26……
-ジゼルです
+№26…… This is Giselle
 --------------------------------
 [00000020][none]
-久しぶりに
-外に出たから
-太陽の光がまぶしいな……
+It's been a while since I went outside, so the sun is shining brightly...
 --------------------------------
 [00000021][none]
-№19
-フレデリカって呼んでね
-隊長さん
+№19 Please call me Frederica Captain-san
 --------------------------------
 [00000022][none]
-私の特技は寂しい男の人を
-なぐさめることなの
-いつでも呼んでね
+My special skill is comforting lonely men. Call me anytime.
 --------------------------------
 [00000023][none]
 
-@fcFF000088@lt1公国勲功章
+@fcFF000088@lt1Principal Order of Merit
 --------------------------------
 [00000024][none]
 
-@fcFF000088@lt1山の嘶き作戦従軍章
+@fcFF000088@lt1Mountain Roar Operation Badge
 --------------------------------
 [00000025][none]
 
-@fcFF000088@lt1公国功労章
+@fcFF000088@lt1 Principality Medal of Merit
 --------------------------------
 [00000026][none]
 
-@fcFF000088@lt1公国殊勲章
+@fcFF000088@lt1Duchy Medal
 --------------------------------
 [00000027][none]
 
-@fcFF000088@lt1外した部隊章
+@fcFF000088@lt1Removed unit badge
 --------------------------------
 [00000028][none]
 
-@fcFF000088@lt1ランドグリーズ聖槍勲章
+@fcFF000088@lt1Landgreese Holy Spear Medal
 --------------------------------
 [00000029][none]
 
-@fcFF000088@lt1殊勲青銅槍盾勲章
+@fcFF000088@lt1Distinguished Service Order of the Bronze Spear and Shield
 --------------------------------
 [00000030][none]
 
-@fcFF000088@lt1殊勲白銀槍盾勲章
+@fcFF000088@lt1Distinguished Service Order of the Silver Spear and Shield
 --------------------------------
 [00000031][none]
 
-@fcFF000088@lt1殊勲黄金槍盾勲章
+@fcFF000088@lt1Distinguished Service Order of the Golden Spear and Shield
 --------------------------------
 [00000032][none]
 
-@fcFF000088@lt1GBS英雄賞
+@fcFF000088@lt1GBS Hero Award
 --------------------------------
 [00000033][none]
 
-@fcFF000088@lt1GBS人道賞
+@fcFF000088@lt1GBS Humanitarian Award
 --------------------------------
 [00000034][none]
 
-@fcFF000088@lt1殊勲歩兵戦栄誉勲章
+@fcFF000088@lt1Distinguished Infantry Combat Medal of Honor
 --------------------------------
 [00000035][none]
 
-@fcFF000088@lt1殊勲機甲戦栄誉勲章
+@fcFF000088@lt1Distinguished Armored Warfare Medal of Honor
 --------------------------------
 [00000036][none]
 
-@fcFF000088@lt1殊勲聖槍勲章
+@fcFF000088@lt1Distinguished Order of the Holy Spear
 --------------------------------
 [00000037][none]
 
-@fcFF000088@lt1優秀兵士表彰
+@fcFF000088@lt1 Excellent Soldier Award
 --------------------------------
 [00000038][none]
 
-@fcFF000088@lt1優秀部隊表彰
+@fcFF000088@lt1 Excellent Unit Award
 --------------------------------
 [00000039][none]
 
-@fcFF000088@lt1優秀指揮官勲章
+@fcFF000088@lt1 Excellent Commander Medal
 --------------------------------
 [00000040][none]
 
-@fcFF000088@lt1優秀機甲兵団勲章
+@fcFF000088@lt1Excellent Armored Corps Medal
 --------------------------------
 [00000041][none]
 
-@fcFF000088@lt1優秀武装兵団勲章
+@fcFF000088@lt1 Excellent Armed Corps Medal
 --------------------------------
 [00000042][none]
 
-@fcFF000088@lt1作戦地図
+@fcFF000088@lt1 Operation map
 --------------------------------
 [00000043][none]
 
-@fcFF000088@lt1名もなき部隊の記録
+@fcFF000088@lt1Record of a nameless unit
 --------------------------------
 [00000044][none]
 
-@fcFF000088@lt1大翼兵団勲章
+@fcFF000088@lt1Great Wings Medal
 --------------------------------
 [00000045][none]
 
-@fcFF000088@lt1ランドグリーズ勲章
+@fcFF000088@lt1Landgriz Medal
 --------------------------------
 [00000046][none]
 
-@fcFF000088@lt1ロイヤル・ランドグリーズ勲章
+@fcFF000088@lt1Order of the Royal Landgrease
 --------------------------------
 [00000047][none]
-状況を説明する
-よく聞いてくれ
+Explain the situation Listen carefully
 --------------------------------
 [00000048][none]
-今回の作戦内容だ
-頭に叩き込んでくれ
+This is the content of this strategy Please drill it into your head.
 --------------------------------
 [00000049][none]
-現状を整理しよう
-話を聞いてくれ
+Let's sort out the current situation Please listen to me.
 --------------------------------
 [00000050][none]
-勝てる戦いだ
-落ち着いて行動してくれ
+It's a winnable battle Please calm down and act.
 --------------------------------
 [00000051][none]
-みんなよろしく頼む
-それでは行動開始
+Thank you everyone Let's start taking action.
 --------------------------------
 [00000052][none]
-各自警戒を怠らないように
-では行くぞ
+Please be on your guard Let's go.
 --------------------------------
 [00000053][none]
-これが最後の戦いだ
-みんな、俺の話をよく聞いてくれ
+This is the final battle Everyone, listen to me carefully.
 --------------------------------
 [00000054][none]
-俺を信じて戦ってくれ
-それでは行くぞ！
+Believe in me and fight Then let's go!
 --------------------------------
 [00000055][none]
-ちょっと俺さんの話を
-聞いてくれや
+Please listen to me for a moment.
 --------------------------------
 [00000056][none]
-一回しか言わないから
-よく聞いとけよ
+I'll only say it once Please listen carefully.
 --------------------------------
 [00000057][none]
-よくわかっただろ？
-じゃ、やってみな
+You understand, right?  Well then, give it a try
 --------------------------------
 [00000058][none]
-理解したか？
-ま、とりあえずやってみろ
+Did you understand?  Well, just try it.
 --------------------------------
 [00000059][none]
-お前さんに教えときたい
-ことがある
+There's something I want to tell you.
 --------------------------------
 [00000060][none]
-耳の穴かっぽじって
-よく聞けよ
+Listen carefully to your ears.
 --------------------------------
 [00000061][none]
-大丈夫だな？
-あとは任せたぜ
+Are you okay?  I'll leave the rest to you.
 --------------------------------
 [00000062][none]
-いいか？
-よろしくたのんだぜ
+Okay?  Thank you for your support.
 --------------------------------
 [00000063][none]
-俺の話を聞いてくれ
-重要な話をする
+Listen to me I have something important to say.
 --------------------------------
 [00000064][none]
-よし、それでは
-さっそく実践だ
+Okay, then Let's put it into practice.
 --------------------------------
 [00000065][none]
-今から話すことを
-よく聞いてくれ
+Listen carefully to what I'm about to say 
 --------------------------------
 [00000066][none]
-理解できたか？
-よろしく頼んだぞ
+Did you understand?  Thank you for your help.
 --------------------------------
 [00000067][ゴブリン,,ゴブリン]
-ブタ野郎ども！
-俺の話を聞け！
+Pigs!  Listen to me!
 --------------------------------
 [00000068][ゴブリン,,ゴブリン]
-大事な話だ！
-二度目はないぞ！
+It's important!  It won't happen again!
 --------------------------------
 [00000069][ゴブリン,,ゴブリン]
-分かったな？
-忘れるんじゃないぞ！
+Got it?  Don't forget!
 --------------------------------
 [00000070][ゴブリン,,ゴブリン]
-その小さい脳ミソに
-よーく刻み付けとけ！
+Carve it into that little brain of yours!
 --------------------------------
 [00000071][none]
-説明したいことがあります
-よく聞いてくださいね
+I have something to explain Please listen carefully.
 --------------------------------
 [00000072][none]
-大事な大事なお話です
-準備はいいですか？
+This is an important story Are you ready?
 --------------------------------
 [00000073][none]
-分かりましたか？
-忘れたら百叩きですよ
+Do you understand?  If you forget, you'll be hit 100 times.
 --------------------------------
 [00000074][none]
-いいですね？
-それではお願いします
+Sounds good?  Well then, please
 --------------------------------
 [00000075][none]
-ちょっといい？
-私の話を聞いてくれるかな
+Okay?  Will you listen to me?
 --------------------------------
 [00000076][none]
-大丈夫？
-それじゃやってみよう！
+Are you okay?  Let's try it then!
 --------------------------------
 [00000077][none]
-……よく聞け
+...listen carefully
 --------------------------------
 [00000078][none]
-……忘れるな
+...don't forget
 --------------------------------

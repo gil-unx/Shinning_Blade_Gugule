@@ -1,27 +1,22 @@
 [0006]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-リンリン……ここはいったいなんなんだ？
+Ringling...what on earth is this place?
 --------------------------------
 [00000001][リン,シャオメイ,リンリン]
-この奥に、貴重な宝石があるの。
-それを取りに行くのを、
-レイジに手伝ってもらいたいのよ。
+There's a precious gem down here.  I want Rage to help me get it. I want Rage to
+help me get it.
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-けど、モンスターがうようよしてるぜ。
-そんな場所にわざわざ取りに行くなんて
-その宝石、なんなんだよ？
+But it's crawling with monsters.  Why would you go all the way to a place like
+that to get it? What kind of gem is that?
 --------------------------------
 [00000003][リン,シャオメイ,リンリン]
-詳しい説明は後でするわ。
-お願い。手伝って、レイジ。
+I'll explain the details later.  Please. Help me, Rage.
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-……何だかわからないけど、
-大事なものみたいだな。
+...I don't know what it is, but it seems like something important.
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-わかった。手伝うよ。
-その代わり、後で必ず説明してもらうからな！
+Okay. I'll help you.  In return, I'll be sure to ask you to explain later!
 --------------------------------

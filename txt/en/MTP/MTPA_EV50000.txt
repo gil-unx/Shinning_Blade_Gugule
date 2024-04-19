@@ -1,1757 +1,1293 @@
 [0412]
 *****************
 [00000000][none]
-これより作戦を開始する
+Start the operation now
 --------------------------------
 [00000001][none]
-気負う必要はない
-落ち着いて行動してくれ
+There's no need to worry Please remain calm.
 --------------------------------
 [00000002][none]
-行動を終了する時は
-土のうにしゃがむなどして
-被弾面積を小さくすること
+When finishing the action, crouch down on a sandbag to reduce the area hit by
+the attack.
 --------------------------------
 [00000003][none]
-何事も基本が大切だ
-忘れるな
+The basics are important Don't forget
 --------------------------------
 [00000004][none]
-敵を倒したな
-この調子でいくぞ
+You defeated the enemy. I'll keep going like this.
 --------------------------------
 [00000005][none]
-弱った敵は放置せず
-一気に仕留めることが
-戦術の基本だ
+Don't leave a weakened enemy alone The basic strategy is to kill them all at
+once 
 --------------------------------
 [00000006][none]
-敵の数を減らせば
-確実に戦力を
-ダウンさせられる
+If you reduce the number of enemies, you can definitely reduce your military
+strength 
 --------------------------------
 [00000007][none]
-遠慮はいらない
-負傷している兵や
-弱い兵を優先的に狙え
+Don't be shy. Target wounded and weak soldiers first.
 --------------------------------
 [00000008][none]
-いいな
+Good
 --------------------------------
 [00000009][none]
-敵の背後を
-突くことができた
+I was able to hit the enemy in the back.
 --------------------------------
 [00000010][none]
-迎撃態勢が整っていない
-今が最大の攻撃チャンスだ
+We are not ready to intercept Now is our best chance to attack.
 --------------------------------
 [00000011][none]
-一気に攻めるぞ
-遅れるな！
+I'll attack all at once Don't be late!
 --------------------------------
 [00000012][none]
-いいか、あれが敵の拠点だ
+Look, that's the enemy's base.
 --------------------------------
 [00000013][none]
-これより我々は
-あの拠点を制圧に向かう
+From now on, we head to conquer that base.
 --------------------------------
 [00000014][none]
-今回の作戦は
-敵を倒すことではない
-拠点の制圧だ
+The mission this time is not to defeat the enemy but to seize the base.
 --------------------------------
 [00000015][none]
-それを忘れるな
-では、行動開始する
+Don't forget that Now start taking action
 --------------------------------
 [00000016][none]
-№6、聞こえるか？
-こちらは所定の位置に
-到着した
+№6, can you hear me?  This has arrived at the designated location 
 --------------------------------
 [00000017][none]
-前進して敵部隊を
-攻撃してくれ
+Advance and attack enemy troops.
 --------------------------------
 [00000018][none]
-こちら№6
-了解した
+This is No.6 I understand.
 --------------------------------
 [00000019][none]
-№13、準備はいいな？
-敵はひとりも逃がさず
-確実に仕留めるぞ
+№13, are you ready?  Not a single enemy will escape We will definitely kill
+them.
 --------------------------------
 [00000020][none]
-は、はい……
-逃げられたら
-いけないんですね？
+Yes... If you run away, you shouldn't do it, right?
 --------------------------------
 [00000021][none]
-そうだ
-偵察部隊に情報を
-持ち帰らせないためにな
+Yes, to prevent the reconnaissance unit from bringing back the information.
 --------------------------------
 [00000022][none]
-№1、もしそちらに
-敵が逃げた場合は頼むぞ
+№1, if the enemy escapes, I'll ask.
 --------------------------------
 [00000023][none]
 ……
 --------------------------------
 [00000024][none]
-どうした№1？
-応答せよ
+What's wrong with No.1?  Reply
 --------------------------------
 [00000025][none]
-……ない
+...no
 --------------------------------
 [00000026][none]
-なに？
+What?
 --------------------------------
 [00000027][none]
-知ったことではない
+nothing I know
 --------------------------------
 [00000028][none]
-なんだと？
-おい、№6
-№1はどうなってるんだ
+What?  Hey, №6 What's going on with №1?
 --------------------------------
 [00000029][none]
-心配するな№7
-№1は敵を逃がしはしない
+Don't worry, №7 №1 won't let the enemy escape.
 --------------------------------
 [00000030][none]
-むしろ君と№13が
-ミスしないように
-注意した方がいい
+In fact, you and No. 13 should be careful not to make mistakes 
 --------------------------------
 [00000031][none]
-……！
+……!
 --------------------------------
 [00000032][none]
-この部隊は……！
+This unit...!
 --------------------------------
 [00000033][none]
-各員に告ぐ
-この戦闘の要点を
-確認しておく
+Tell each member Please confirm the main points of this battle 
 --------------------------------
 [00000034][none]
-現在、我々が
-ターゲットとしているのは
-この戦車だ
+Currently, we are targeting this tank.
 --------------------------------
 [00000035][none]
-他の敵兵士は
-無視してもいい
+Other enemy soldiers can be ignored.
 --------------------------------
 [00000036][none]
-ターゲットの撃破を
-優先してくれ
+Prioritize destroying the target 
 --------------------------------
 [00000037][none]
-戦車と対戦車兵は
-このエリアに移動
-他の者は支援を
+Tanks and anti-tank soldiers move to this area others provide support.
 --------------------------------
 [00000038][none]
-対戦車兵はオレだ
-№32、戦車に向かうぜ
+I'm the anti-tank soldier No. 32, I'm heading for the tank.
 --------------------------------
 [00000039][none]
-№24です！
-支援にまわります！
+No.24!  I will support you!
 --------------------------------
 [00000040][none]
-№13、わ、私も……
+№13, me too...
 --------------------------------
 [00000041][none]
-各自、自分の役割を
-意識して行動するように
-それが部隊戦闘の基本だ
+Each person must be aware of their own role and act accordingly. That's the
+basis of unit combat.
 --------------------------------
 [00000042][none]
-作戦開始だ、№13
+Operation begins, No. 13
 --------------------------------
 [00000043][none]
-は、はい……
+Yes...
 --------------------------------
 [00000044][none]
-そんなに俺と組むのが
-不服か？
+Are you that dissatisfied with teaming up with me?
 --------------------------------
 [00000045][none]
-違います！
-これでもし№7の身に
-何かあったらと思うと……
+No!  What if something were to happen to No. 7...
 --------------------------------
 [00000046][none]
-……君は
-失礼なことを言うな
+...you don't be rude.
 --------------------------------
 [00000047][none]
-え!?
+Huh!?
 --------------------------------
 [00000048][none]
-同じチームのメンバーを
-心配するのは自分に
-よほど自信があるか……
+You must be very confident in yourself to worry about the members of your
+team...
 --------------------------------
 [00000049][none]
-もしくは
-相手を頼りないと
-感じているかのどちらかだ
+Either they feel they can not rely on the other person.
 --------------------------------
 [00000050][none]
-あ……!!
+Ah...!!
 --------------------------------
 [00000051][none]
-まあいい
-君の『死神』ジンクスを
-消すついでに証明しよう
+Well, that's fine Let's prove it while we erase your "Reaper" jinx.
 --------------------------------
 [00000052][none]
-この隊の隊長になる男は
-君が信頼すべき
-人間だということを
+The man who will be the captain of this squad is someone you should trust.
 --------------------------------
 [00000053][none]
-信頼……？
+Trust...?
 --------------------------------
 [00000054][none]
-論より証拠だ
-行くぞ！
+More evidence than argument Let's go!
 --------------------------------
 [00000055][none]
 ……
 --------------------------------
 [00000056][none]
-速い……！
-攻撃の精度も高く
-無駄が一切ない……
+Fast...!  His attacks are highly accurate. There is no waste...
 --------------------------------
 [00000057][none]
-これが№1の実力か
+Is this the No. 1 ability?
 --------------------------------
 [00000058][none]
-あの若さで
-どこであれほどの
-戦闘技術を……？
+Where did you learn such fighting skills at such a young age?
 --------------------------------
 [00000059][none]
-彼女は間違いなく
-この部隊の主力になる
+She will definitely be the main force of this unit.
 --------------------------------
 [00000060][none]
-何としても
-指揮を受け入れてもらう
-方法を考えなければ……
+I have to think of a way to get them to accept the command no matter what...
 --------------------------------
 [00000061][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-№7、聞こえるか？
-こちらはいつでも
-攻撃を開始できる
+№7, can you hear me?  We can launch an attack at any time 
 --------------------------------
 [00000062][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-そちらの準備が整ったら
-合図をくれ
+Give me a signal when you're ready.
 --------------------------------
 [00000063][none]
-これ以上行動開始が
-遅れたら不利になる一方か
+If the start of action is delayed any longer, it will be at a disadvantage.
 --------------------------------
 [00000064][none]
-こちらの戦車の準備が
-間に合っていないが
-やるしかなさそうだな
+Our tank isn't ready in time but it seems we have no choice but to do it 
 --------------------------------
 [00000065][none]
-ギュンター少尉
-行動を開始してくれ
-４２２部隊も始動する
+Second Lieutenant Gunther Start action Unit 422 will also start.
 --------------------------------
 [00000066][ホブゴブリン,ホブゴブリン,ホブゴブリン]
-分かった
-こちらは敵の側面だ
-十字砲火で攻めるぞ！
+All right. This is the enemy's flank. We'll attack with cross fire!
 --------------------------------
 [00000067][none]
-了解！
+Understood!
 --------------------------------
 [00000068][none]
-結果的に敵を
-引き込む形になったか……
+As a result, the enemy was pulled in...
 --------------------------------
 [00000069][none]
-ギュンター少尉はおそらく
-この形を予測して
-部隊を動かしたはず
+Ensign Gunter probably predicted this situation and moved his troops.
 --------------------------------
 [00000070][none]
-気楽そうな男だと
-思っていたが
-恐るべき用兵家だ
+I thought he seemed like an easy-going guy, but he turns out to be a terrible
+strategist.
 --------------------------------
 [00000071][none]
-ほう、側面にも
-敵が布陣していたか
+Oh, there were enemy formations on the flanks as well.
 --------------------------------
 [00000072][none]
-この位置では十字砲火を
-浴びることになります
+This position will expose you to crossfire 
 --------------------------------
 [00000073][none]
-あれは平地で最大の
-効果を発揮するものだ
-森ではさほど脅威ではない
+It's most effective on the plains. It's not much of a threat in the woods.
 --------------------------------
 [00000074][none]
-だが、尻尾を巻いて
-逃げ出す弱兵や
-無策な愚兵より良い
+But it's better than a weak soldier who turns his tail and runs away, or a
+reckless fool.
 --------------------------------
 [00000075][none]
-少しは戦える相手と
-出会えたことを
-喜ぶべきだ
+You should be glad that you met someone with whom you can fight at least a
+little.
 --------------------------------
 [00000076][none]
-確かに、我々にとっては
-その方が好都合ですな
+Certainly, it's more convenient for us.
 --------------------------------
 [00000077][none]
-……そういうことだ
+...That's what it is.
 --------------------------------
 [00000078][none]
-行動を開始しろ
-だが、功を焦るなよ
+Start taking action but don't rush to achieve success.
 --------------------------------
 [00000079][none]
-各員へ通達
-敵の包囲網を突破して
-あの地点へ向かう
+Notify everyone Break through the enemy's encirclement and head to that point.
 --------------------------------
 [00000080][none]
-我々の役目はあくまで
-ボルジア猊下の護衛だ
+Our role is to protect Prince Borgia.
 --------------------------------
 [00000081][none]
-装甲車の防衛を最優先し
-接近する敵を撃退せよ
+Prioritize the protection of your armored vehicle and repel the approaching
+enemy.
 --------------------------------
 [00000082][none]
-隊長殿
-よろしく頼んだぞ
+Captain Thank you very much.
 --------------------------------
 [00000083][none]
-諸君にヴァルキュリアの
-加護があらんことを
+May Valkyria's blessings be upon you all.
 --------------------------------
 [00000084][none]
-装甲車を狙ってくる
-敵の対戦車兵と戦車を
-最優先で排除しろ
+Eliminate enemy anti-tank soldiers and tanks targeting armored vehicles as a
+priority.
 --------------------------------
 [00000085][none]
-行くぞ！
+Let's go!
 --------------------------------
 [00000086][none]
-各員へ通達
-敵の包囲網を突破して
-あの地点へ向かう
+Notify everyone Break through the enemy's encirclement and head to that point.
 --------------------------------
 [00000087][none]
-我々の役目はあくまで
-ボルジア猊下の護衛だ
+Our role is to protect Prince Borgia.
 --------------------------------
 [00000088][none]
-装甲車の防衛を最優先し
-接近する敵を撃退せよ
+Prioritize the protection of your armored vehicle and repel the approaching
+enemy.
 --------------------------------
 [00000089][none]
-隊長殿
-よろしく頼んだぞ
+Captain Thank you very much.
 --------------------------------
 [00000090][none]
-諸君にヴァルキュリアの
-加護があらんことを
+May Valkyria's blessings be upon you all.
 --------------------------------
 [00000091][none]
-装甲車を狙ってくる
-敵の対戦車兵と戦車を
-最優先で排除しろ
+Eliminate enemy anti-tank soldiers and tanks targeting armored vehicles as a
+priority.
 --------------------------------
 [00000092][none]
-行くぞ！
+Let's go!
 --------------------------------
 [00000093][サクヤ,マキシマ,サクヤ]
-何だ!?
-あの黒服の兵隊達は
-ガリア軍なのか？
+What!? Are those black-clad soldiers the Gallic army?
 --------------------------------
 [00000094][サクヤ,マキシマ,サクヤ]
-待てよ……あの服には
-見覚えが……
+Wait... those clothes look familiar...
 --------------------------------
 [00000095][none]
-我々はガリア軍の
-特務部隊だ
+We are a special task force of the Gallic army.
 --------------------------------
 [00000096][none]
-あるお方の命により
-これより帝国軍を排除する
+By order of someone I will eliminate the Imperial Army from now on.
 --------------------------------
 [00000097][none]
-自警団の諸君は無理せず
-後退してくれ
+All you vigilantes, please retreat without forcing yourself.
 --------------------------------
 [00000098][サクヤ,マキシマ,サクヤ]
-あの人は……
+That person...
 --------------------------------
 [00000099][none]
-今助ける
-死ぬなよ
+Help now Don't die
 --------------------------------
 [00000100][サクヤ,マキシマ,サクヤ]
-は、はい！
+Yes!
 --------------------------------
 [00000101][サクヤ,マキシマ,サクヤ]
-やった！
-これでもう帝国軍は……
+Yay!  The Imperial Army is now...
 --------------------------------
 [00000102][none]
-待て……！
+Wait...!
 --------------------------------
 [00000103][サクヤ,マキシマ,サクヤ]
-あれは……！
+That's...!
 --------------------------------
 [00000104][none]
-どうやらあれが敵部隊の
-主力らしいな
+Apparently that's the main force of the enemy force.
 --------------------------------
 [00000105][none]
-各員に通達！
-作戦目標を変更！
-敵部隊の指揮官を狙え
+Notify everyone!  Change the mission objective!  Aim at the commander of the
+enemy unit.
 --------------------------------
 [00000106][none]
-指揮官を叩けば
-部隊は瓦解するはずだ！
-いくぞ！
+Hitting the commander will destroy the unit!  Let's go!
 --------------------------------
 [00000107][サクヤ,マキシマ,サクヤ]
-……すごいな
-慌てもせずに
-冷静に判断した
+...That's amazing You made a calm decision without panicking 
 --------------------------------
 [00000108][サクヤ,マキシマ,サクヤ]
-俺も……
-絶対に生き延びるぞ！
+Me too... I'll definitely survive!
 --------------------------------
 [00000109][none]
-勝利条件が
-@fcFFFF4640「敵指揮中戦車の撃破」@fciに
-変更されました。
+The victory condition has been changed to
+@fcFFFF4640 ``Destroy the enemy commanded medium tank'' @fci.
 --------------------------------
 [00000110][none]
-ほう、先日の交戦時より
-初動が速くなっている
+Well, the initial response is faster than the other day's engagement.
 --------------------------------
 [00000111][none]
-部隊の練度が
-上がったようだな
+It seems that the training level of the troops has improved 
 --------------------------------
 [00000112][none]
-だが完全な奇襲というのは
-いかなる精鋭であっても
-しのぎ切れるものではない
+But a complete surprise attack is something that no one, no matter how elite,
+can survive.
 --------------------------------
 [00000113][none]
-さて、どこまで保つかな？
+Now, how long should we keep it?
 --------------------------------
 [00000114][none]
-あれが通用門です
+That is the main gate.
 --------------------------------
 [00000115][none]
-確認した
-……コゼット、本当に
-戦いに参加するのか？
+Confirmed ... Cosette, do you really want to take part in the battle?
 --------------------------------
 [00000116][none]
-……はい
-わたしもユエル市を
-取り戻したいんです！
+...Yes I also want to take back Yuel City!
 --------------------------------
 [00000117][none]
-学校の軍事教練で
-習ったから戦えます
-心配しないでください！
+I can fight because I learned it in military training at school. Don't worry!
 --------------------------------
 [00000118][none]
-……分かった
-だが、くれぐれも
-無理はしないように
+...I understand but please don't push yourself too hard.
 --------------------------------
 [00000119][none]
-はい！
-ありがとうございます！
+Yes!  Thank you!
 --------------------------------
 [00000120][none]
-ガリア軍!?
-どうして
-あんな所から……！
+Gallia army!? Why from such a place...!?
 --------------------------------
 [00000121][none]
-守備隊の奴らめ
-緩い警戒をしやがって！
+You guys in the garrison Don't be too cautious!
 --------------------------------
 [00000122][none]
-よし
-あいつらを攻撃して……
-と、そういえば……
+Okay Let's attack them... Now that I think about it...
 --------------------------------
 [00000123][none]
-予備部隊らしく
-奥に引っ込んでろ
-と言われたんだったな
+As a reserve unit, you were told to retreat to the back.
 --------------------------------
 [00000124][none]
-あいつらがどれくらいの
-力を持ってるのか
-見させてもらうか
+Let me see how much power they have 
 --------------------------------
 [00000125][none]
-あれが通用門です
+That is the main gate.
 --------------------------------
 [00000126][none]
-確認した
-……コゼット、本当に
-戦いに参加するのか？
+Confirmed ... Cosette, do you really want to take part in the battle?
 --------------------------------
 [00000127][none]
-……はい
-わたしもユエル市を
-取り戻したいんです！
+...Yes I also want to take back Yuel City!
 --------------------------------
 [00000128][none]
-学校の軍事教練で
-習ったから戦えます
-心配しないでください！
+I can fight because I learned it in military training at school. Don't worry!
 --------------------------------
 [00000129][none]
-……分かった
-だが、くれぐれも
-無理はしないように
+...I understand but please don't push yourself too hard.
 --------------------------------
 [00000130][none]
-はい！
-ありがとうございます！
+Yes!  Thank you!
 --------------------------------
 [00000131][none]
-ガリア軍!?
-どうして
-あんな所から……！
+Gallia army!? Why from such a place...!?
 --------------------------------
 [00000132][none]
-守備隊の奴らめ
-緩い警戒をしやがって！
+You guys in the garrison Don't be too cautious!
 --------------------------------
 [00000133][none]
-よし
-あいつらを攻撃して……
-と、そういえば……
+Okay Let's attack them... Now that I think about it...
 --------------------------------
 [00000134][none]
-予備部隊らしく
-奥に引っ込んでろ
-と言われたんだったな
+As a reserve unit, you were told to retreat to the back.
 --------------------------------
 [00000135][none]
-あいつらがどれくらいの
-力を持ってるのか
-見させてもらうか
+Let me see how much power they have 
 --------------------------------
 [00000136][none]
-あいつらは
-俺が絶対に止める!!
+I will definitely stop them!!
 --------------------------------
 [00000137][none]
-落ち着け、アバン！
+Calm down, Avan!
 --------------------------------
 [00000138][none]
-落ち着いてられるかよ！
-軍の施設もないこの街を
-攻撃する奴は許せねえ！
+Can you stay calm?  We can't forgive anyone who attacks this town, which has no
+military facilities!
 --------------------------------
 [00000139][none]
-いいか
-目の前の戦車をよく見ろ
+Listen, Take a good look at the tank in front of you.
 --------------------------------
 [00000140][none]
-感情にまかせて
-あれに突っ込んだら
-どうなると思う？
+What do you think will happen if you let your emotions go and rush into it? What
+do you think will happen?
 --------------------------------
 [00000141][none]
-うっ……
+Ugh...
 --------------------------------
 [00000142][none]
-戦うというなら
-止めはしない
+If you want to fight I won't stop you.
 --------------------------------
 [00000143][none]
-だが、戦うなら
-俺の作戦に協力してくれ
-あの怪物に対抗するために
+But if you're going to fight, you'll have to cooperate with my plan to fight
+that monster.
 --------------------------------
 [00000144][none]
-……分かったよ
-あれは確かに俺ひとりじゃ
-どうにもならない
+...I understand. It's true that I can't do anything about it alone.
 --------------------------------
 [00000145][none]
-よし
-巨大戦車に真っ向から
-勝負しても勝ち目はない
+Okay. There's no chance of winning if you go head-on  against a giant tank.
 --------------------------------
 [00000146][none]
-戦車をけん制しつつ
-周りの敵拠点を
-制圧するんだ
+Control the enemy bases around you while keeping the tanks in check.
 --------------------------------
 [00000147][none]
-弾薬や動力の供給を
-止められればいくら
-巨大でも力はなくなる
+If you can stop the supply of ammunition and power, no matter how big you are,
+you will have no power.
 --------------------------------
 [00000148][none]
-わかった！
+Got it!
 --------------------------------
 [00000149][none]
-一個小隊が来たくらいで
-どうにかなると思うわけ？
-このエヒドナちゃんが！
+Do you think that just one platoon will do anything?  This Ejidna-chan!
 --------------------------------
 [00000150][none]
-なめてると踏むわよ！
+If you lick me, I'll step on you!
 --------------------------------
 [00000151][none]
-この基地は
-攻撃されることを
-想定していないみたい
+This base doesn't seem to be designed to be attacked.
 --------------------------------
 [00000152][none]
-警備がとても甘いわ
-突入するのは
-難しくないと思う
+The security is very lax. I don't think it would be difficult to break in.
 --------------------------------
 [00000153][none]
-それは好都合だ
+that's convenient
 --------------------------------
 [00000154][none]
-だが用心するに
-越したことはない
+But it's never better to be careful.
 --------------------------------
 [00000155][none]
-そうだな
-だから２方向から同時に
-攻撃を仕掛けて混乱を誘う
+That's right That's why they attack from two directions at the same time to
+cause confusion.
 --------------------------------
 [00000156][none]
-こちら側は任せろ
-完成した新たな力で
-結果を出さねばならない
+Leave it to us With the new power we have completed We must produce results.
 --------------------------------
 [00000157][none]
-よし
-迅速に作戦を遂行し
-ガリア領内に退避する
+Okay We'll carry out the operation quickly We'll evacuate to Gaul territory.
 --------------------------------
 [00000158][none]
-増援を呼ばせないためにも
-スピードを最優先してくれ
+Prioritize speed to avoid calling in reinforcements.
 --------------------------------
 [00000159][none]
-はい！
+Yes!
 --------------------------------
 [00000160][none]
-問題ない
+no problem
 --------------------------------
 [00000161][none]
-では、作戦開始だ
+Now, let's start the operation.
 --------------------------------
 [00000162][none]
-拠点に接近する
-敵を撃退しろ！
+Defeat the enemies approaching your base!
 --------------------------------
 [00000163][none]
-帝国の横暴な
-武力行使を許すな！
+Do not tolerate the Empire's tyrannical use of force!
 --------------------------------
 [00000164][none]
-君が指揮をとるつもりか？
+Are you going to take command?
 --------------------------------
 [00000165][none]
-士官候補生の指揮は
-私がとっている
+I am in charge of the cadets.
 --------------------------------
 [00000166][none]
-私はこの戦いを
-勝利に導く責任があるのだ
+I am responsible for leading this battle to victory.
 --------------------------------
 [00000167][none]
-貴官がどれほどの指揮官か
-存じていないが……
+I don't know how good of a commander you are, but...
 --------------------------------
 [00000168][none]
-無能であればいつでも
-部隊を指揮する用意がある
-覚えておいてもらおう
+Please remember that I am always ready to command your troops if you are
+incompetent.
 --------------------------------
 [00000169][none]
-……頼もしいな
+...Reliable.
 --------------------------------
 [00000170][none]
-ならば、君のために
-よい模範を示してみせよう
+In that case, I'll set a good example for you.
 --------------------------------
 [00000171][none]
-これは……
-ずいぶんと堅固な
-防衛設備だな
+This... It's a pretty solid defense.
 --------------------------------
 [00000172][none]
-強力なトーチカが
-配備されている
+A powerful pillbox is deployed 
 --------------------------------
 [00000173][none]
-ハーデンス軍曹は
-トーチカの破壊を
-優先してくれ
+Sergeant Hardens, please prioritize the destruction of pillboxes.
 --------------------------------
 [00000174][none]
-了解した
-歩兵の相手はたのんだぞ！
+Understood The infantry opponent asked!
 --------------------------------
 [00000175][none]
-無論だ
+Of course
 --------------------------------
 [00000176][none]
-よし！　一気に落とす！
+Okay! Drop it all at once!
 --------------------------------
 [00000177][none]
-どうした？
-ここで死ぬつもりか？
+What's wrong?  Are you planning to die here?
 --------------------------------
 [00000178][none]
-死ぬつもりで戦う者など
-この部隊にはいない！
+There is no one in this unit who will fight to the death!
 --------------------------------
 [00000179][none]
-ならば私を倒してみせろ
+Then defeat me.
 --------------------------------
 [00000180][none]
-……挑発に乗るのは
-命の価値を
-知らない者だけだ
+...The only people who take advantage of provocation are th those who do not
+know the value of life.
 --------------------------------
 [00000181][none]
-ふ……よい答えだ
+Huh... that's a good answer.
 --------------------------------
 [00000182][none]
-みんな、防戦に徹しろ！
-俺達の死に場所は
-ここじゃないぞ！
+Everyone, focus on defense!  This is not the place for us to die!
 --------------------------------
 [00000183][none]
-これは……
-ずいぶんと堅固な
-防衛設備だな
+This... It's a pretty solid defense.
 --------------------------------
 [00000184][none]
-強力なトーチカが
-配備されている
+A powerful pillbox is deployed 
 --------------------------------
 [00000185][none]
-ハーデンス軍曹は
-トーチカの破壊を
-優先してくれ
+Sergeant Hardens, please prioritize the destruction of pillboxes.
 --------------------------------
 [00000186][none]
-了解した
-歩兵の相手はたのんだぞ！
+Understood The infantry opponent asked!
 --------------------------------
 [00000187][none]
-無論だ
+Of course
 --------------------------------
 [00000188][none]
-よし！　一気に落とす！
+Okay! Drop it all at once!
 --------------------------------
 [00000189][none]
-跳ね橋を上げるには
-あの地点にある装置を
-動かさなければならない
+To raise the drawbridge you must move the device at that point 
 --------------------------------
 [00000190][none]
-さすがに守りが厳重だな
+As expected, the defense is very strict.
 --------------------------------
 [00000191][none]
-イムカが率いる別働隊と
-連携して
-攻めなければならない
+We must attack in cooperation with the detached force led by Imka.
 --------------------------------
 [00000192][none]
-こちらもどう動くか
-難しいぞ
+How this works too It's difficult.
 --------------------------------
 [00000193][none]
-別働隊を孤立させないよう
-正面からも攻めるぞ
+We will attack from the front so that the detached unit will not be isolated.
 --------------------------------
 [00000194][none]
-了解だ
+Understood
 --------------------------------
 [00000195][none]
-あれはガリア軍の部隊か？
-こんなところまで
-来ていたとはな……
+Is that a Gallic army unit?  I had no idea you had come this far ...
 --------------------------------
 [00000196][none]
-フッ、面白い
-お手並み拝見といこうか
+Hmm, that's interesting Let's see how it goes.
 --------------------------------
 [00000197][none]
-あの戦車が隊長機だな
-あれさえ撃破すれば
-この部隊は崩れるはずだ
+That tank is the commander's machine If we destroy it, this unit should
+collapse.
 --------------------------------
 [00000198][none]
-各員へ、あの大型機に
-攻撃を集中するぞ！
+To everyone, we'll concentrate our attacks on that large plane!
 --------------------------------
 [00000199][none]
-来たか……
+Did you come...?
 --------------------------------
 [00000200][none]
-蛮勇は真の勇気にあらず
-それを知るがいい！
+Savagery is not true courage You should know that!
 --------------------------------
 [00000201][none]
-ユエル市では
-本気を出せなかったからな
-今度こそ勝負してもらうぜ！
+I couldn't show my true feelings in Yuel City, so I'll let you compete this
+time!
 --------------------------------
 [00000202][none]
-ネームレス！
-貴様達の力を見せてみろ！
+Nameless!  Show us your power!
 --------------------------------
 [00000203][none]
-いくぞおおおおおおお！
+Let's go!
 --------------------------------
 [00000204][none]
-戦車はどうした？
-グスルグ、報告せよ！
+What happened to the tank?  Gusurg, report!
 --------------------------------
 [00000205][none]
-大変です隊長さん！
-戦車の中に
-グスルグさんがいません！
+It's tough, Captain!  Mr. Gusrug is not inside the tank!
 --------------------------------
 [00000206][none]
-なに!?
-グスルグは
-どこにいるんだ！
+What!? Where is Gusurg !?
 --------------------------------
 [00000207][none]
-操縦席にグスルグさんの
-制服の上着が
-置いてあります！
+Mr. Gusrug's uniform jacket is placed in the cockpit!
 --------------------------------
 [00000208][none]
-それに、戦車の主砲身が
-折れています……！
+Also, the tank's main gun barrel is broken...!
 --------------------------------
 [00000209][none]
-そんなバカな……！
+You're such an idiot...!
 --------------------------------
 [00000210][none]
-これより攻撃を開始する！
-ネームレスよ
-砲撃で先制しろ！
+Start attacking now!  Nameless Take the lead with artillery fire!
 --------------------------------
 [00000211][none]
-待ってください！
-戦車にトラブルが発生し
-砲撃できません！
+Wait!  The tank is in trouble Cannot fire!
 --------------------------------
 [00000212][none]
-何を言っている？
-早く撃て！
-敵に先制されたいのか！
+What are you talking about?  Shoot quickly!  You want the enemy to take the
+lead!
 --------------------------------
 [00000213][none]
-砲撃は不可能です！
-戦闘を開始してください！
+Bombing is not possible!  Start the battle!
 --------------------------------
 [00000214][none]
-ええい、役立たずが!!
+Yeah, you're useless!!
 --------------------------------
 [00000215][none]
-くっ！　敵が来たか!!
+Damn! The enemy has arrived!!
 --------------------------------
 [00000216][none]
-後手に回るとは……
-なんということだ！
+To be behind the curve... How dare you!
 --------------------------------
 [00000217][none]
-くっ、正規軍の援護に
-行きたいが
-それどころじゃない……！
+Damn, I'd like to go to support the regular army, but that's not the point...!
 --------------------------------
 [00000218][none]
-各員へ！
-このエリアの拠点は
-死守するぞ！
+To everyone!  We will defend the base in this area to the death!
 --------------------------------
 [00000219][none]
-ここを落とされたら
-全軍が総崩れになる！
-持ちこたえるんだ！
+If we are defeated here, the entire army will collapse!  Hold on!
 --------------------------------
 [00000220][none]
-リエラ！　聞こえるか！
+Riera! Can you hear me!
 --------------------------------
 [00000221][none]
-だめだ、声が届いていない！
+No, I can't hear you!
 --------------------------------
 [00000222][none]
-それでも敵と戦う意志は
-持っているみたいだよ
-分かってるだろうね、隊長？
+Still, it seems like you have the will to fight the enemy. You understand,
+Captain?
 --------------------------------
 [00000223][none]
-……ああ
-包囲網を破るには
-彼女の力が必要だ
+...Ah We need her power to break the siege 
 --------------------------------
 [00000224][none]
-リエラの攻撃を起点として
-包囲を崩す！
+Break the siege using Riela's attack as a starting point!
 --------------------------------
 [00000225][none]
-イムカ
-よろしくたのんだぞ！
+Imuka Thank you very much!
 --------------------------------
 [00000226][none]
-……り得ない
+...not possible
 --------------------------------
 [00000227][none]
-イムカ……？
+Imuka...?
 --------------------------------
 [00000228][none]
-あり得ない！
-あれは……
-悪魔だ……!!
+Impossible!  That's... It's the devil...!!
 --------------------------------
 [00000229][none]
-おい、イムカ！
-どうしたんだ！
+Hey Imka!  What's wrong?
 --------------------------------
 [00000230][none]
-う……
-ううっ……!!
+Uh... Uh...!!
 --------------------------------
 [00000231][none]
-くっ、仕方ない！
-俺達だけで行くぞ！
+Damn, I can't help it!  We'll go alone!
 --------------------------------
 [00000232][none]
-何という力だ……
+What power...
 --------------------------------
 [00000233][none]
-銃や砲ではない
-ラグナイトの力そのものを
-操っているのか？
+Are you controlling the power of Ragnite itself, not guns or cannons?
 --------------------------------
 [00000234][none]
-あれが……
-ヴァルキュリアの力！
+That... The power of Valkyria!
 --------------------------------
 [00000235][none]
-ガリア軍……私達なんかに
-かまっている場合じゃ
-ないはずなのに……！
+The Gallic army...I don't think they care about us...!
 --------------------------------
 [00000236][none]
-数が多い……
-楽な戦いは
-させてもらえそうにない
+There are a lot of them... I don't think they'll give me an easy fight 
 --------------------------------
 [00000237][none]
-言葉のわりには余裕ね？
+That's a lot of room for words, isn't it?
 --------------------------------
 [00000238][none]
-楽できないのはお前だ
-自分はあの程度の数は
-苦にならない
+You're the one who can't enjoy it. I don't mind that kind of number 
 --------------------------------
 [00000239][none]
-私だって平気だわ！
-寝込んだついでに
-疲れもとれて元気百倍よ！
+I'm fine too!  Now that I'm asleep, I'm feeling 100 times more energetic now
+that I'm feeling tired!
 --------------------------------
 [00000240][none]
-無理はするな
-いざという時は自分に
-任せれば問題ない
+Don't push yourself In an emergency, just leave it to yourself There's no
+problem
 --------------------------------
 [00000241][none]
-いざという時に
-イムカがいるから
-無理ができるのよ
+In case of an emergency Imka is there, I can do whatever I want.
 --------------------------------
 [00000242][none]
-お前……
-その考え方嫌いじゃない
+You... I don't like that way of thinking.
 --------------------------------
 [00000243][none]
-じゃ、いくよ！
+Well, let's go!
 --------------------------------
 [00000244][none]
-ああ！
-抜かりはしない！
+Oh!  I won't let you slip!
 --------------------------------
 [00000245][none]
-妙だな
-これまでのカラミティとは
-攻め方が違う
+That's strange The attack style is different from the previous Calamity.
 --------------------------------
 [00000246][none]
-勢い任せでも
-駆け引きをしてくる
-タイプでもない……
+I'm not the type to rely on momentum, or to play games with others...
 --------------------------------
 [00000247][none]
-もっと戦術の定石に近い
-手堅い戦い方だ
+It's a solid fighting style that's more like a standard tactic.
 --------------------------------
 [00000248][none]
-おそらくあの戦車が
-指揮官機だな
+That tank is probably the commander's plane.
 --------------------------------
 [00000249][none]
-予想はしていたが
-さすがに手強いな
-クルト……
+I expected it, but he's really tough. Kurt...
 --------------------------------
 [00000250][none]
-だが、この戦いも
-俺が望んだ道だ！
+But this battle is also the way I wanted it to be!
 --------------------------------
 [00000251][none]
-速い……！
-機動力に
-さらに磨きがかかったか
+Fast...!  Mobility Has it been further refined?
 --------------------------------
 [00000252][none]
-俺の想定した行動速度を
-上回ってくるとは
+I didn't expect it to exceed my expected speed of action.
 --------------------------------
 [00000253][none]
-どんどん成長しているな
-……厄介な部隊に
+They're growing rapidly ...they're becoming a troublesome force.
 --------------------------------
 [00000254][none]
-やはりあなたは
-ここを狙ったか
+Are you aiming here after all?
 --------------------------------
 [00000255][none]
-ふ……
-ガリア軍は完全に
-出し抜いたのだがな
+Huh... The Gallic army completely outmaneuvered us.
 --------------------------------
 [00000256][none]
-よもや逃亡中の部隊が
-ここに現れるとは
-さすがに驚いたぞ
+I was really surprised that a group of troops who were on the run would show up
+here.
 --------------------------------
 [00000257][none]
-だが、その少人数で
-このランドグリーズを
-守りきれるか？
+But, with such a small number of people, can we protect this landgriz?
 --------------------------------
 [00000258][none]
 ……
 --------------------------------
 [00000259][none]
-こちらと同じように
-カラミティも戦力は少ない
+Just like here, Calamity also has little strength.
 --------------------------------
 [00000260][none]
-奇襲である以上
-攻撃目標は
-絞り込んでいるはず……
+Since it was a surprise attack the target of the attack should have been
+narrowed down...
 --------------------------------
 [00000261][none]
-ダハウ大尉が無差別に
-民間人を攻撃するとは
-考えにくい
+It is unlikely that Captain Dachau would attack civilians indiscriminately.
 --------------------------------
 [00000262][none]
-部隊配置を考えても
-狙いはこの城門からの
-中央突破だ
+Even considering the troop placement, the aim is to break through the center
+from this castle gate.
 --------------------------------
 [00000263][none]
-各員に告ぐ！
-我々は城門に戦力を結集し
-防衛に専念する！
+Tell each member!  We will gather our forces at the castle gates and concentrate
+on defense!
 --------------------------------
 [00000264][none]
-でも、それじゃ
-市民を守れないわ！
+But that won't protect the citizens!
 --------------------------------
 [00000265][none]
-イムカ、君はどう判断する？
+Imka, what do you think?
 --------------------------------
 [00000266][none]
-あの男がダルクスの誇りを
-捨てていないなら
-市民には手を出さない
+If that man hasn't given up his pride in Darcus, he won't touch the citizens.
 --------------------------------
 [00000267][none]
-俺と同意見だ
-各員に再度通達！
-城門の防衛が最優先だ！
+I agree with you Notify everyone again!  Defending the castle gate is the top
+priority!
 --------------------------------
 [00000268][none]
-はい！
+Yes!
 --------------------------------
 [00000269][none]
-まずいな
-城門の損傷が
-大きくなってきた
+That's not good. The damage to the castle gate is getting bigger. 
 --------------------------------
 [00000270][none]
-各員へ！
-城門を攻撃する敵を
-叩いてくれ！
+To everyone!  Hit the enemy attacking the castle gate!
 --------------------------------
 [00000271][none]
-このままでは城門を
-破られてしまうぞ！
+At this rate, the castle gate will be broken down!
 --------------------------------
 [00000272][none]
-悪いけど、このアタシに
-向かってくるバカには
-泣いてもらうわよ
+I'm sorry, but any idiot who comes at me will cry.
 --------------------------------
 [00000273][none]
-……泣いても
-許さないけどね
-絶対に！
+...I won't forgive you even if you cry, never!
 --------------------------------
 [00000274][none]
-無策で突っ込んでくる
-奴らじゃないことは
-分かってるはずだぞ？
+You should know that they're not just charging in without a plan, right?
 --------------------------------
 [00000275][none]
-策ごと踏み潰すって
-言ってんのよ！
+I'm saying that I'll crush every plan!
 --------------------------------
 [00000276][none]
-アンタこそ余計なことして
-足を引っ張らないでよね！
+Don't do anything unnecessary and hold me back!
 --------------------------------
 [00000277][none]
-俺以上にネームレスを
-警戒している奴がいるなら
-教えてもらいたいな
+If there is someone who is more wary of Nameless than me, I would like to know.
 --------------------------------
 [00000278][none]
-減らず口を！
-さあ、ぶっ潰すわよ！
+Mouth without diminishing!  Come on, let's destroy it!
 --------------------------------
 [00000279][none]
-了解だ！
+Understood!
 --------------------------------
 [00000280][none]
-出てきたな、ネームレス！
+Nameless is here!
 --------------------------------
 [00000281][none]
-ヴァルキュリア！
-貴様を討ち取って
-その首をダハウ様に捧げる！
+Valkyria!  I will kill you and offer your head to Lord Dahau!
 --------------------------------
 [00000282][none]
-独立の実現のため……
-いくぞおおおおおおお！
+To achieve independence... Let's go ooooooooo!
 --------------------------------
 [00000283][none]
-この士気の異常な高さ……
-ハーデンス軍曹が
-苦戦するわけだ
+This abnormally high morale... Sergeant Hardens is having a hard time 
 --------------------------------
 [00000284][none]
-いいか、隙を見せるな！
-一気にやられるぞ！
+Listen, don't give up!  You'll be defeated at once!
 --------------------------------
 [00000285][none]
-孤立しないように
-連携をとって迎え撃て！
+Don't be isolated Let's work together to attack!
 --------------------------------
 [00000286][none]
-ネームレス……
-やはり来たか
+Nameless... Did you come after all?
 --------------------------------
 [00000287][none]
-だが……
-ヴァルキュリアは
-討たせてもらうぞ！
+But... Valkyria will be defeated!
 --------------------------------
 [00000288][none]
-このエヒドナの火力で
-必ず仕留める！
+With this Ejidna's firepower, I will definitely kill it!
 --------------------------------
 [00000289][none]
-巨大戦車……！
-あれがカラミティの
-本隊だな
+Huge tank...!  That's Calamity's main force.
 --------------------------------
 [00000290][none]
-ここで負けるわけには
-いかない！
-みんな、全力でいくぞ！
+We can't afford to lose here!  Everyone, let's do our best!
 --------------------------------
 [00000291][none]
-重装甲とはいえ
-どこかに弱点はあるはずだ
-そこを狙えば……！
+Even though it's heavily armored there must be a weak point somewhere If you aim
+there...!
 --------------------------------
 [00000292][none]
-クルト！
-見て、あそこ！
-ラジエーターがあるわ！
+Kurt!  Look over there!  There's a radiator!
 --------------------------------
 [00000293][none]
-あれだけの巨体だ
-ラジエーターはいくつも
-あるだろう
+It's that big There must be several radiators 
 --------------------------------
 [00000294][none]
-問題はどの部分の
-ラジエーターかだな……
+The question is which part of the radiator...
 --------------------------------
 [00000295][none]
-あそこの２器は構造的に
-主砲の冷却用とみて
-間違いない
+There is no doubt that those two vessels over there are structurally used to
+cool the main gun.
 --------------------------------
 [00000296][none]
-破壊すれば
-主砲を止められる？
+Can you stop the main gun by destroying it?
 --------------------------------
 [00000297][none]
-主砲さえ止めれば
-接近しての総攻撃も
-可能となるな
+As long as you stop the main gun, an all-out attack at close range is possible.
 --------------------------------
 [00000298][none]
-あのラジエーターを狙うぞ！
-散開して主砲の標的を
-散らしつつ攻撃せよ！
+Aim for that radiator!   Spread out and attack while scattering the main gun
+targets!
 --------------------------------
 [00000299][none]
-む、ラジエーターが
-１器やられたか……！
+Hmm, one radiator was damaged...!
 --------------------------------
 [00000300][none]
-これほど精度の高い
-攻撃をしてくるとは……
-やるな！
+I didn't expect you to attack with such high accuracy... Don't do it!
 --------------------------------
 [00000301][none]
-歩兵部隊！
-迎撃を急げ！
+Infantry!  Hurry up to intercept!
 --------------------------------
 [00000302][none]
-よし、ラジエーターを
-片方破壊できた！
+Okay, we've destroyed one of the radiators!
 --------------------------------
 [00000303][none]
-もう一方も破壊するんだ！
-それで主砲は止まる！
-頼むぞ、みんな！
+Destroy the other one too!  Then the main gun stops!  Please, everyone!
 --------------------------------
 [00000304][none]
-私が先行して
-敵陣を崩すわ！
+I'll take the lead and destroy the enemy's formation!
 --------------------------------
 [00000305][none]
-左右に散開した敵は
-みんなに任せる！
+Enemies scattered left and right I'll leave it to everyone!
 --------------------------------
 [00000306][none]
-了解だ！
-中央はリエラに任せて
-俺達は両翼を狙うぞ！
+Understood!  Leave the center to Riera. We'll aim for both wings!
 --------------------------------
 [00000307][none]
-この力で……
-今度こそ助ける！
+With this power... I'll help you this time!
 --------------------------------
 [00000308][none]
-来やがったぞ
-アイスラーの子分どもが
+Here they come Eisler's henchmen
 --------------------------------
 [00000309][none]
-迎撃準備は万全のようです
-軽く突破、というわけには
-いかないでしょう
+Looks like you're fully prepared to intercept It won't be easy to break through 
 --------------------------------
 [00000310][none]
-分かってるよ
+I know
 --------------------------------
 [00000311][none]
-セコいアイスラーのことだ
-どうせ子飼いの部隊は
-精鋭を集めてんだろうさ
+I'm talking about the cool Eisler The child care unit is probably gathering the
+best of the best.
 --------------------------------
 [00000312][none]
-ザコ相手だったらわざわざ
-お前を呼ばねえって
+I wouldn't bother calling you if I was dealing with you.
 --------------------------------
 [00000313][none]
-それではもう一度
-作戦を確認しましょう
+So let's check the strategy again 
 --------------------------------
 [00000314][none]
-クロウ中佐の乗る装甲車は
-敵の手が届かない地点へ
-向かいます
+Commander Crowe's armored vehicle heads for a location out of reach of the
+enemy.
 --------------------------------
 [00000315][none]
-ここまで逃げ切れば
-安全でしょう
+If you can escape this far, you'll be safe.
 --------------------------------
 [00000316][none]
-到着次第
-４２２部隊自慢の
-移動速度で振り切ります
+As soon as we arrive We will shake it off with the movement speed that 422nd
+Unit is proud of 
 --------------------------------
 [00000317][none]
-妥当な判断だ
-足に関しちゃお前さん達の
-右に出る部隊は無いわな
+That's a reasonable decision. When it comes to legs, there's no unit that can
+compete with yours .
 --------------------------------
 [00000318][none]
-散々追いかけまわされ
-ましたからね
-逃げ足には自信があります
+I was chased a lot, so I'm confident in my ability to run away.
 --------------------------------
 [00000319][none]
-それでは各員、行動開始！
+Everyone, let's start acting!
 --------------------------------
 [00000320][none]
-ひとつ目の拠点を制圧
-よし、その調子だ
+Conquer the first base Okay, that's it.
 --------------------------------
 [00000321][none]
-おい、喜んでる暇はねえぞ
-時間がないんだ
-さっさと終わらせようぜ
+Hey, there's no time to be happy I don't have time Let's get this over with
+quickly.
 --------------------------------
 [00000322][none]
-了解
-各員、引き続き敵拠点の
-制圧を急いでくれ
+Understood Everyone, please continue to take control of the enemy base as
+quickly as possible.
 --------------------------------
 [00000323][none]
-ふたつ目の拠点を制圧
-残るはひとつだ！
+Conquer the second base There's only one thing left!
 --------------------------------
 [00000324][none]
-さっさと突破するぞ
-アイスラーの野郎に
-時間を与えるな！
+Let's break through quickly Don't give Eisler's bastard any time!
 --------------------------------
 [00000325][none]
-時間がない
-急ぐぞ！
+We don't have time Hurry up!
 --------------------------------
 [00000326][none]
-しかし、その裏にもうひとつ救国の部隊がいたことは
-誰も知らない――
+However, no one knows that there was another national rescue squad behind the
+scenes.
 --------------------------------
 [00000327][none]
-完全に隠密行動で
-進めるのはここまでだな
+This is all you can do with complete covert action.
 --------------------------------
 [00000328][none]
-ここからは交戦の可能性も
-考えなければならない
+From here on, we must also consider the possibility of engagement 
 --------------------------------
 [00000329][none]
-必要最小限、効率よく
-進まなければ……
+If it doesn't proceed as efficiently as possible with the minimum necessary...
 --------------------------------
 [00000330][none]
-よく考えろ
-慎重かつ、大胆に……
+Think carefully Be careful and be bold...
 --------------------------------
 [00000331][none]
-そう、クルトのように……！
+Yes, just like Kurt...!
 --------------------------------
 [00000332][none]
-ネームレス……
-アンタ達が強いことは
-よく知ってるわ
+Nameless... I know very well that you guys are strong 
 --------------------------------
 [00000333][none]
-でも……このアタシに
-簡単に勝てるとは
-思わないことね！
+But... don't think that you can defeat me easily!
 --------------------------------
 [00000334][none]
-人間なんてのは
-死ぬ気になれば
-なんだってできるのよ！
+Humans can do anything if they want to die!
 --------------------------------
 [00000335][none]
-どんなヤツが相手でも
-ビビる必要なんてないのさ！
+No matter who you're up against, there's no need to be scared!
 --------------------------------
 [00000336][none]
-見てなよ、グスルグ……
+Look, Gusrug...
 --------------------------------
 [00000337][none]
-アタシをモノにしたのは
-正解だったって
-証明してあげるわ！
+I'll prove to you that you were right to turn me into an object!
 --------------------------------
 [00000338][none]
-この戦い
-勝たせてもらうぞクルト！
+Let's win this battle Kurt!
 --------------------------------
 [00000339][none]
-ダルクスの誇りさえ捨てた
-男の全身全霊をかけて！
+I put all my heart and soul into it as a man who even gave up his pride as
+Darcus!
 --------------------------------
 [00000340][none]
-各員に言っておく
-勝敗にかかわらず
-俺達はこの地で果てる身だ
+I say this to everyone Regardless of whether we win or lose We will end up here.
 --------------------------------
 [00000341][none]
-死を恐れるな
-敗北を恐れろ！
-いいな！
+Don't be afraid of death Don't be afraid of defeat!  Good!
 --------------------------------
 [00000342][none]
-クルト、あれ……！
+Kurt, that...!
 --------------------------------
 [00000343][none]
-エンジンのラジエーターか
-破壊すれば戦車の動きを
-止められるかもしれない！
+You might be able to stop the tank by destroying the engine's radiator!
 --------------------------------
 [00000344][none]
-各員へ伝達！
-エンジンラジエーターを
-集中攻撃！
+Communicate to each member!  Concentrated attack on the engine radiator!
 --------------------------------
 [00000345][none]
-俺達の手で……
-ランドグリーズを
-守るんだ！
+With our hands... We will protect Landgriz!
 --------------------------------
 [00000346][none]
-ダハウ様の理想を……
-独立の悲願を叶えるのは
-オレしかいないんだよ！
+I am the only one who can fulfill Lord Dahau's ideals... My long-cherished
+desire for independence !
 --------------------------------
 [00000347][none]
-グスルグ！　リディア！
-あんた達の無念も
-オレが背負ってやる！
+Gusrug! Lydia!  I'll shoulder your regrets as well!
 --------------------------------
 [00000348][none]
-空に還りし同胞達よ！
-オレに力を貸してくれ！
+My brethren have returned to the sky!  Please lend me your strength!
 --------------------------------
 [00000349][none]
-勝負だ！
-ネームレス！
+It's a game!  Nameless!
 --------------------------------
 [00000350][none]
-ガリアも！
-帝国も、連邦も！
-ユグド教も！
+Gaul too!  The Empire and the Federation too!  Yugd religion too!
 --------------------------------
 [00000351][none]
-私の新国家建国を
-止めることはできん！
+Nothing can stop me from building a new nation!
 --------------------------------
 [00000352][none]
-それは誰のための……
-誰が幸せになる国だ！
+It's for everyone... A country that makes everyone happy!
 --------------------------------
 [00000353][none]
-私以外の
-全てのダルクス人だ！
+All Darxians except me!
 --------------------------------
 [00000354][none]
-抵抗する者は
-すべて焼き払う！
+All who resist will be burned down!
 --------------------------------
 [00000355][none]
-太古の昔に１００の都市と
-１００万の人畜を
-焼き払ったという
+It is said that in ancient times, 100 cities and 1 million people and animals
+were burned down.
 --------------------------------
 [00000356][none]
-ダルクスの災厄を
-私が再現してみせよう！
+Let me recreate the disaster of Darcus!
 --------------------------------
 [00000357][none]
-だがそれで千年続く
-ダルクスの国家が
-生まれるなら本望だ！
+But if it creates a nation of Darcus that will last for a thousand years, then
+that's what I want!
 --------------------------------
 [00000358][none]
-それが散っていった同胞
-祖先への手向けとなる！
+It will be a message to the ancestors of our fallen brethren!
 --------------------------------
 [00000359][none]
-ラジエーターを
-全部壊したわ！
+I broke all the radiators!
 --------------------------------
 [00000360][none]
-これで弾道兵器は
-止まるんだよね!?
+This will stop ballistic weapons, right?
 --------------------------------
 [00000361][none]
 ……
 --------------------------------
 [00000362][none]
-残念だが……
-その迎撃装置があるかぎり
-起動は止まらない
+Unfortunately... As long as that interceptor is present, it will not stop
+starting.
 --------------------------------
 [00000363][none]
-ダハウ!!
+Dahau!!
 --------------------------------
 [00000364][none]
-ダルクスの希望を
-消すわけにはいかんのだ
+I can't let Darcus' hope disappear 
 --------------------------------
 [00000365][none]
-あなたがしようと
-していることは
-世界を破滅に導く行為だ！
+What you are about to do will destroy the world!
 --------------------------------
 [00000366][none]
-破壊の向こうには
-希望がある！
+There is hope on the other side of destruction!
 --------------------------------
 [00000367][none]
-ダルクスの
-忌まわしき歴史が
-破壊から始まったようにな！
+It's like Darcus's  hideous history began with destruction!
 --------------------------------
 [00000368][none]
-ダハウ……！
+Dahau...!
 --------------------------------
 [00000369][none]
-……止めてみせる！
+...I'll stop it!
 --------------------------------
 [00000370][none]
-悲しみを止める方法は
-他人に悲しみを
-背負わせる事じゃないから！
+The way to stop sadness is not to burden others with your sadness!
 --------------------------------
 [00000371][none]
-……ああ
+...Ah
 --------------------------------
 [00000372][none]
-みんな、時間がない！
-あの迎撃装置を
-集中的に攻撃してくれ！
+Guys, we don't have time!  Concentrate attack on that interceptor!
 --------------------------------
 [00000373][none]
-そして……
-ダハウを倒すぞ！
-よろしくたのむ！
+And... We will defeat Dahau!  Thank you!
 --------------------------------
 [00000374][none]
-勝利条件が
-@fcFFFF4640「侵入者迎撃装置の撃破」@fciに
-変更されました。
+The victory condition has been changed to
+@fcFFFF4640 ``Defeating the intruder interception device'' @fci.
 --------------------------------
 [00000375][none]
-ガリアも！
-帝国も、連邦も！
-ユグド教も！
+Gaul too!  The Empire and the Federation too!  Yugd religion too!
 --------------------------------
 [00000376][none]
-私の新国家建国を
-止めることはできん！
+Nothing can stop me from building a new nation!
 --------------------------------
 [00000377][none]
-それは誰のための……
-誰が幸せになる国だ！
+It's for everyone... A country that makes everyone happy!
 --------------------------------
 [00000378][none]
-私以外の
-全てのダルクス人だ！
+All Darxians except me!
 --------------------------------
 [00000379][none]
-抵抗する者は
-すべて焼き払う！
+All who resist will be burned down!
 --------------------------------
 [00000380][none]
-太古の昔に１００の都市と
-１００万の人畜を
-焼き払ったという
+It is said that in ancient times, 100 cities and 1 million people and animals
+were burned down.
 --------------------------------
 [00000381][none]
-ダルクスの災厄を
-私が再現してみせよう！
+Let me recreate the disaster of Darcus!
 --------------------------------
 [00000382][none]
-だがそれで千年続く
-ダルクスの国家が
-生まれるなら本望だ！
+But if it creates a nation of Darcus that will last for a thousand years, then
+that's what I want!
 --------------------------------
 [00000383][none]
-それが散っていった同胞
-祖先への手向けとなる！
+It will be a handout to the scattered compatriots ancestors!
 --------------------------------
 [00000384][none]
-ラジエーターを全て壊した
-これで……
-弾道兵器が止まる
+Destroyed all the radiators. Now... The ballistic weapons will stop.
 --------------------------------
 [00000385][none]
 ……
 --------------------------------
 [00000386][none]
-残念だが……
-その迎撃装置があるかぎり
-起動は止まらない
+Unfortunately... As long as that interceptor is present, it will not stop
+starting.
 --------------------------------
 [00000387][none]
-ダハウ!!
+Dahau!!
 --------------------------------
 [00000388][none]
-ダルクスの希望を
-消すわけにはいかんのだ
+I can't let Darcus' hope disappear 
 --------------------------------
 [00000389][none]
-あなたが
-やろうとしている事は
-死と破壊を生むだけだ！
+What you are trying to do will only cause death and destruction!
 --------------------------------
 [00000390][none]
-今という時代は
-我らダルクス人の
-屍の上に築かれたものだ！
+This era was built on the corpses of us Dalxians!
 --------------------------------
 [00000391][none]
-それを人類の繁栄と
-呼ぶのなら、我らにも
-そうする権利がある！
+If we call that the prosperity of humanity, then we have the right to do so too!
 --------------------------------
 [00000392][none]
-ダハウ……!!
+Dahau...!!
 --------------------------------
 [00000393][none]
-罪をどれだけ背負っても
-愛する者を失った
-悲しみは背負えない……
+No matter how many sins I carry I can't bear the sadness of losing a loved
+one...
 --------------------------------
 [00000394][none]
-だから……！
-罪無き人々の屍の山の上に
-希望などあるわけがない！
+So...!  There can be no hope on a mountain of dead bodies of innocent people!
 --------------------------------
 [00000395][none]
-……ああ
+...Ah
 --------------------------------
 [00000396][none]
-みんな、時間がない！
-あの迎撃装置を
-集中的に攻撃してくれ！
+Guys, we don't have time!  Concentrate attack on that interceptor!
 --------------------------------
 [00000397][none]
-そして……
-ダハウを倒すぞ！
-よろしくたのむ！
+And... We will defeat Dahau!  Thank you!
 --------------------------------
 [00000398][none]
-馬鹿な！
-攻撃が効いていない!?
+That's stupid!  The attack isn't working!?
 --------------------------------
 [00000399][none]
-私は死ぬわけには
-いかないのだよ
-クルト・アーヴィング
+I can't die Kurt Irving
 --------------------------------
 [00000400][none]
-そんな……ありえない……
-人の意思が死をも
-超越するなんて……
+That's... impossible... A person's will can transcend even death...
 --------------------------------
 [00000401][none]
-お前にはわかるまい
-死してなお
-叶えたい理想があることを
+You don't understand Even if I die, I still have ideals that I want to fulfill.
 --------------------------------
 [00000402][none]
-それを手にするまで
-死すら赦されぬ
-希望があることを
+Until you get it Even death won't forgive There is hope.
 --------------------------------
 [00000403][none]
-ダハウ大尉……
-あなたはっ！
+Captain Dachau... You!
 --------------------------------
 [00000404][none]
-私はもう止められんぞっ!!
+I can't stop it now!!
 --------------------------------
 [00000405][none]
-よし、目的地の武器庫に
-たどり着いたぞ
+Alright, we've arrived at our destination, the armory.
 --------------------------------
 [00000406][none]
-まんまと偽りの情報に
-ひっかかったようだな
-アーヴィング少尉
+Looks like you fell for the false information Lieutenant Irving.
 --------------------------------
 [00000407][none]
-ダハウ大尉!?
-くそ、罠だったのか！
+Captain Dahau!? Damn, it was a trap!
 --------------------------------
 [00000408][none]
-さあ、私たちの因縁に
-ここで終止符を打たせて
-もらおうか！
+Come on, let's put an end to our relationship here!
 --------------------------------
 [00000409][none]
-くっ……
-何とか突破してみせる！
+Damn... I'll break through somehow!
 --------------------------------
 [00000410][none]
-ダハウ大尉
-俺はあなたに勝つ！
-勝ってみせる!!
+Captain Dachau I will beat you!  I'll show you victory!!
 --------------------------------
 [00000411][none]
-勝利条件が
-@fcFFFF4640「エリア１の目標地点に到達」@fciに
-変更されました。
+The victory condition has been changed to
+@fcFFFF4640 "Achieve the target point in Area 1" @fci.
 --------------------------------
