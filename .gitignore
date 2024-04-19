@@ -1,0 +1,7 @@
+
+*.iso
+/bin/python/__pycache__
+/bin/Sb/.vs
+/bin/Sb/Sb/obj
+/bin/Sb/Sb/.vs
+/isofiles
