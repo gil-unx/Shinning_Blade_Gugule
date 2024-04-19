@@ -1,239 +1,196 @@
 [0059]
 *****************
 [00000000][カノン,シーナ,カノン]
-レイジ！　いつまで待たせるのよ！
-早く手伝いなさいよ！
+Rage! How long are you going to make us wait! Hurry up and help us!
 --------------------------------
 [00000001][ゼクティ,アイン,アイン]
-急いで、戦闘準備を。
+Hurry, prepare for battle.
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-わ、わかったよ……。
+I... I got it...
 --------------------------------
 [00000003][トウカ,クレハ,トウカ]
-ごめんね、レイジくん。
+I'm sorry, Rage-kun.
 --------------------------------
 [00000004][スレイプニル,,スレイプニル]
-精霊王の卵の手がかりを求めて来てみれば、
-貴公らと遭遇するとはな。
-ちょうどいい、ここで始末してくれるわ。
+I came here looking for the Spirit King egg. Instead I found you. Just as well,
+it's time to put an end to this.
 --------------------------------
 [00000005][スレイプニル,,スレイプニル]
-「シャイニング・ブレイド」の封印、
-これ以上解放させるわけにはいかん！
+The Seal on the Shining Blade, I won't allow you to release it any further!
 --------------------------------
 [00000006][トウカ,クレハ,トウカ]
-あ……。敵が逃げていくわ。
+Ah... the enemy has escaped.
 --------------------------------
 [00000007][カノン,シーナ,カノン]
-ふん！　悪が栄えたためしはないのよ！
-世界の平和を乱すバカは、おととい来なさいっての！
+Hmph. The wicked dares challenge the glorious. The idiots who mess with the
+peace of this world, brought my little brother here.
 --------------------------------
 [00000008][サクヤ,マキシマ,サクヤ]
-ふふっ、相変わらずね、カノン。まさか、
-あなたたちまで来ているとは思わなかったわ。
+Hehe, you're still the same, Kanon. I didn't think you all would come here.
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-でも、そのうち呼ばなきゃならないとは
-思っていたから、こちらとしてはちょうどいいわね。
+But, we wouldn't have been able to call you, so it's good that you came.
 --------------------------------
 [00000010][カノン,シーナ,カノン]
-サクヤさん、やっぱりこっちにいたんですね!?
-海外研修とか言って、ずっと学校を休んでるから
-まさかとは思ったんだけど……。
+Sakuya-san, so it's true you came here?! When you said that you had to go
+overseas for studies, and quit school, I didn't think you meant this...
 --------------------------------
 [00000011][ゼクティ,アイン,アイン]
-剣道部員たちが、顧問がいないと
-練習ができないって困ってた。
-レイジのことはあまり気にしてなかったけど。
+The Kendo group, without an advisor, practice was impossible. We weren't worried
+about Rage, but...
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-……あ、そ。
-冷たい奴らだなぁ……。
+...wow. As cold-hearted as always...
 --------------------------------
 [00000013][カノン,シーナ,カノン]
-……って、そんなことよりカイト！
-カイトはこっちに来てませんか？
-あいつも、最近姿が見えなくて……。
+...wait, more importantly, Kaito! Did Kaito come here? He hasn't been seen
+lately either...
 --------------------------------
 [00000014][トウカ,クレハ,トウカ]
-実は……こちらの世界から、
-私を呼ぶ声が聞こえるような気がして……。
-それを調べるためにやってきたんです。
+The truth is, from our world, I heard someone calling me here, so we came here
+to investigate.
 --------------------------------
 [00000015][ゼクティ,アイン,アイン]
-私の友達が教えてくれた。
-きっと精霊王の１人が助けを求めている声だと。
+My friends have taught me this. It has to be the voice of a Spirit King asking
+for help.
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-精霊王に!?　じゃあ、もしかして先輩も、
-歌姫ってことなんですか？
+A Spirit King?! Then, don't tell me, senior is also a Loreley?
 --------------------------------
 [00000017][トウカ,クレハ,トウカ]
-歌姫……？　なんのこと……？
-私には、よくわからないのだけど……。
+Loreley? What is that? I don't really understand...
 --------------------------------
 [00000018][フェンリル,,フェンリル]
-なにやら、いろいろあるようだな。
-それじゃ、いったん拠点に戻って情報交換と行くか。
-みんな、ついてきてくれ。
+Well, it seems we have a lot to explain. Anyway, let's return to our base, so we
+can exchange information. Everyone, follow me.
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-先輩、こっちですか？
+Senior, is it here?
 --------------------------------
 [00000020][トウカ,クレハ,トウカ]
-ええ。私を呼ぶ声が、
-こちらから聞こえるような……。
+Yeah, I heard the voice calling me from here.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-わかりました。敵がうろついてると思いますから、
-オレから離れないでくださいね！　絶対！
+I got it. The enemy is wandering in this region. Do not leave my side, ever.
 --------------------------------
 [00000022][ユキヒメ,ユキヒメ,ユキヒメ]
-……なにを張り切っているのだ……！
-このバカは……っ！
+...now he gets enthusiastic! This idiot...!
 --------------------------------
 [00000023][ゼクティ,アイン,アイン]
-トウカ。呼んでいる場所までは、まだ遠い？
+Touka. Is the place that called you not far from here?
 --------------------------------
 [00000024][トウカ,クレハ,トウカ]
-ええ、もう少し先みたい……。
-ごめんなさい。
+Yeah. Just a little more, sorry.
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-気にしない気にしない！
-どこまでも付き合いますよ！
-さあ、張り切って行ってみよう！
+No worries! I'll follow you all the way! Come, let's go all the way!
 --------------------------------
 [00000026][ユキヒメ,ユキヒメ,ユキヒメ]
-……いっそのこと切り刻んでやろうか、
-このバカモノが……！
+If only he was this enthusiastic with other things. This idiot!
 --------------------------------
 [00000027][ゼクティ,アイン,アイン]
-……あいつは！
+That guy!
 --------------------------------
 [00000028][レイジ,レイジ,レイジ]
-スレイプニル！　やっぱりお前も来てたか！
+Sleipnir! I knew you would show up!
 --------------------------------
 [00000029][スレイプニル,,スレイプニル]
-貴公らか……。やはり卵はここだな……。
-ならば、命に換えても卵を奪い取る！
+You again... so the egg really is here... come forth, and pay with your lives
+for it!
 --------------------------------
 [00000030][スレイプニル,,スレイプニル]
-ダークドラゴン様のため、
-そして、我が誇りのためにも……。
-この戦い、決して退くわけにはいかんのだ！
+For DarkDragon, and for my pride, I will not retreat from this battle!
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-……どっちかが倒れるまで戦うってことか。
-いいぜ。だったらこっちも……。
-真っ正面から受けて立つ！
+We are going to fight until one of us falls. So be it. I will take you, head on!
 --------------------------------
 [00000032][スレイプニル,,スレイプニル]
-……無念……！　ここまでか……！
-だが……我が戦いに、悔いは…………。
+A shame...! This is as far as I go.... but, I have no regrets....
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-……スレイプニル。
-お前の心にも、少しは残ってたんだな。
-なくしたはずの騎士道ってやつがさ……。
+.... Sleipnir. Looks like a bit of your heart still remained. You could not have
+been a knight otherwise...
 --------------------------------
 [00000034][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ。よくやった。
-いい戦いだったぞ、レイジ。
-少しは腕を上げたようだな。
+You've done well. That was a good battle, Rage. Your skills have improved.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-え？　そ、そうか？　まいったな、ははははっ。
+Eh? R...really? I guess so. Hahahaha.
 --------------------------------
 [00000036][ユキヒメ,ユキヒメ,ユキヒメ]
-……少しほめられると調子に乗る、
-その根本的な軽さは直っていないようだな。
-まったく……！
+Praise you a little, and you get overconfident. Your nature just doesn't change.
+Good grief.
 --------------------------------
 [00000037][レイジ,レイジ,レイジ]
-まあ、そういうなよ。いいじゃねえか、
-勝ったんだからさ！
-さーて、探索に戻ろうぜ！
+Well, maybe. It's not so bad. We won after all. Okay, let's continue the search!
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-トウカ先輩、どうですか？
-この先に、卵はありそうですか？
+How is it, Senior Touka. Is the egg somewhere ahead?
 --------------------------------
 [00000039][トウカ,クレハ,トウカ]
-そうね。いままでより、ずっと強く
-呼ばれているような感じがするの……。
-きっと、間違いないと思うわ。
+Yes. It is somewhere here. I can hear a strong calling. It has to be.
 --------------------------------
 [00000040][ゼクティ,アイン,アイン]
-わかった。早く行こう。
+Understood. Let's hurry.
 --------------------------------
 [00000041][トウカ,クレハ,トウカ]
-ここは……！
+This is...!
 --------------------------------
 [00000042][カノン,シーナ,カノン]
-どうしたの？　トウカ！　なにか感じる？
+What is it? Touka! What do you feel?
 --------------------------------
 [00000043][トウカ,クレハ,トウカ]
-ええ……！　間違いないわ。
-この先に……私を呼んでいたものが……！
+Yeah...! This is it. Ahead of here.... it is calling to me...!
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-ホントですか!?　それじゃあ急ぎましょう！
+Really?! Then let's hurry!
 --------------------------------
 [00000045][none]
-ev50713　ボス登場演出（ファンロン）
+ev50713 Boss appearance production (Fanlong)
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-……えーと、こんちは。
-あんたが、ファンロンか？
+Let's see... Hello. Are you Fanron?
 --------------------------------
 [00000047][ファンロン,,ファンロン]
-その通り。
-私は雷の精霊王を守護する者、ファンロンだ。
+Indeed I am. I am the guardian of the Thunder Spirit King, Fanron.
 --------------------------------
 [00000048][ファンロン,,ファンロン]
-我が庇護の下にある精霊王の卵が、
-エルデの巫女を呼んでおった。
-お前たちはその声を感じ取り、ここに来たのかな？
+The Spirit King egg under my protection has called out to the Miko of Elde. Have
+you come here, hearing the voice?
 --------------------------------
 [00000049][トウカ,クレハ,トウカ]
-はい。その卵が、私に助けを求める声が……。
+Yes. This egg has called out to me for help...
 --------------------------------
 [00000050][ファンロン,,ファンロン]
-なるほど……。
-では、お前がこの精霊王に呼びかける使命を持った、
-歌姫なのかもしれんな。
+I see... Then, you who are called here for the Spirit King, you might very well
+be a Loreley.
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-ああ。オレたちもそう思う。
-だから、この人をここまで連れてきたんだ。
-ファンロン、この人に卵を渡してくれるか？
+Yeah, that's what we believe too. That's why we brought her here. Fanron, would
+you let us have the egg?
 --------------------------------
 [00000052][ファンロン,,ファンロン]
-……ふむ。話はわかった。
-だが、すんなりと卵を渡すわけにはいかん。
+...hm. I know what you mean. However, I cannot simply just hand the egg over.
 --------------------------------
 [00000053][ファンロン,,ファンロン]
-お前たちの言葉と素性を、証明してもらわねばな。
-……お若いの、意味はわかるな？
+To test the truth in your words, you will have to prove it to me. Do you
+understand what does this means?
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-もちろん！　あんたの試練を受けろってことだろ？
-いつでもいいぜ！
+Of course! To accept your trial, right? We're always ready!
 --------------------------------
 [00000055][ファンロン,,ファンロン]
-ふふふ、なかなかいい覚悟だ。
-話が早くて、実にいい。
-ではさっそくだが……始めるとしようか！
+Hmhmhm, you seem to have prepared well. It is still too early for talk, though.
+Well then... let us begin!
 --------------------------------
 [00000056][ファンロン,,ファンロン]
-見事だ……。よくぞ私を打ち破った。
+Impressive... You managed to defeat me.
 --------------------------------
 [00000057][トウカ,クレハ,トウカ]
-はい……！　ありがとうございます！
+Yes...! Thank you!
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-やりましたね、先輩！
-これで、探してた精霊王の卵に会えますよ！
+We did it, Senior! Now we can meet the Spirit King egg we have been searching
+for!
 --------------------------------

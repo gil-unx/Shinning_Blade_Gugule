@@ -1,512 +1,436 @@
 [0136]
 *****************
 [00000000][none]
-ev50901　ボス登場演出（スルト）
+ev50901 Boss appearance production (Sult)
 --------------------------------
 [00000001][スルト,,スルト]
-遅かったじゃねえか、フェンリル。
-あんまり遅ぇから、どうやってお前を殺すか考えて
-ヒマをつぶしてたとこだぜ。
+You're late, Fenrir! While waiting for you, I was thinking of the best way to
+kill you.
 --------------------------------
 [00000002][フェンリル,,フェンリル]
-考えるのはいいことだな。
-お前はもうすぐ、考えることも感じることも
-できなくなるんだ。今のうちに考えておけ。
+That is something good to think about. Very soon, you won't be able to think any
+more. Think while you still can.
 --------------------------------
 [00000003][スルト,,スルト]
-そうかいそうかい……。
-お前も言うようになったじゃねえか……。
+I see, I see... What big words...
 --------------------------------
 [00000004][スルト,,スルト]
-まあ、お互いのあいさつはこれぐらいにしてだ。
-さっさと決着をつけようじゃねえか！
+Well, now that we got the pleasantries done. Let's settle this right now!
 --------------------------------
 [00000005][フェンリル,,フェンリル]
-望むところだ！
+Just what I was hoping for!
 --------------------------------
 [00000006][フェンリル,,フェンリル]
-スルト！　どうして師匠を殺した！
-どうして掟を破り、無駄な殺しを繰り返した！
+Surt! Why did you kill our teacher!? Why did you break our rules and kill
+needlessly?!
 --------------------------------
 [00000007][スルト,,スルト]
-決まってるじゃねえか！　殺し足りねえからだよ！
-いくら殺してもな！　なにしろ、一番殺してぇ奴を
-殺しそこねてたんだからな！
+Isn't it obvious! I just can't get enough of killing! It's never enough! I want
+to be the number one killer!
 --------------------------------
 [00000008][スルト,,スルト]
-いつも俺の前を走ってやがる、
-世界で一番目障りな野郎をな！
+But you just had to stand in my way. You're obstructing me being number one in
+this world!
 --------------------------------
 [00000009][スルト,,スルト]
-だが、そいつも今日までだ。
-今日こそ殺してやるぜ！　フェンリルっ！
+But all that ends today. Today, I will kill you! Fenrir!
 --------------------------------
 [00000010][フェンリル,,フェンリル]
-……お前のその妄念、俺の手で仕留めてやる！
+...your mad ambition, I will stop you with my own hands!
 --------------------------------
 [00000011][スルト,,スルト]
-くそ……っ！　フェンリルっ……！
-どうして、俺は……！
+Shit...! Fenrir...!  Why, me...!
 --------------------------------
 [00000012][フェンリル,,フェンリル]
-……あの世で、師匠にでも聞いてみろ。
+...You should ask your master in the afterlife.
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-フェンリルさん……。
+Mr. Fenrir...
 --------------------------------
 [00000014][リン,シャオメイ,リンリン]
-にゃにゃにゃにゃっ！　レイジ！　フェンリル！
-浸ってる時間はないみたいよ!?
-あっちから新手が！
+Nyanyanyanyanya! Rage! Fenrir!  Looks like you don't have time to soak in it!?
+There's a new guy over there!
 --------------------------------
 [00000015][フェンリル,,フェンリル]
-あれは……古代兵器じゃないか！
-しかも大量の……！
+That's... an ancient weapon!  And there are a lot of them...!
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-何台出てきたって同じことだ！
-全部片付けてやるぜ！
+No matter how many cars come out, it's the same thing!  I'll clean everything
+up!
 --------------------------------
 [00000017][サクヤ,マキシマ,サクヤ]
-ダメっ！　逃げなさい！　急いで！
+No! Run away! Quickly!
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-サクヤさん!?　どうしたんです？
-そんなに慌てて……。
+Sakuya-san!? What's wrong?  I'm in such a hurry...
 --------------------------------
 [00000019][サクヤ,マキシマ,サクヤ]
-慌てずにいられないわよ！
-とてもじゃないけど、あれだけの数の古代兵器には
-太刀打ちできないわ！　とにかく、撤退するのよ！
+I can't help but panic!  It's not much, but we can't compete with that many
+ancient weapons! Anyway, retreat!
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-……わかりました。
-みんな！　後退だーっ！
-急いで拠点まで下がるんだ！　早く！
+....I understand. Everyone! Let's retreat! We must hurry back to our base point!
+Hurry!
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（くそ……。せっかくスルトを倒したってのに、
-ここで後退なんて……。
-悔しいったらありゃしないぜ……）
+@fcFFAAFFAA(Damn... and we finally defeated Surt. To be forced to retreat now... Regrettable...)
 --------------------------------
 [00000022][アイザック,,伯爵]
-ふむ……。残念だな、サクヤ。
-せっかくこちらの隠し球を出したというのに、
-もう帰ってしまうのか。
+Hm... What a shame, Sakuya. To think I finally decided showed my hand, and
+you're leaving now.
 --------------------------------
 [00000023][アイザック,,伯爵]
-まあ、いい。いずれ近いうちに、
-また会う機会もあるはずだからな。
-ふふふふふふふ……。
+Well, no matter. Eventually, we will meet again. Hmhmhmhmhmhmhm....
 --------------------------------
 [00000024][アイザック,,伯爵]
-ほう……。これはこれは……。
-お前の方から会いに来てくれたのか。
-ありがたい話だな。
+Oh... This is this...  Did you come to see me?  That's a good thing.
 --------------------------------
 [00000025][サクヤ,マキシマ,サクヤ]
-……来たくて来たわけじゃないわよ。
-できればもう、会いたくもなかったし。
+...I didn't come because I wanted to.  If possible, I didn't want to see you
+again.
 --------------------------------
 [00000026][サクヤ,マキシマ,サクヤ]
-だから、ここで勝負をつけさせてもらうわ！
-みんな！　行くわよ！
+That's why I'll put up a fight here!  Everyone! Let's go!
 --------------------------------
 [00000027][ミストラル,ネレイス,ミスティ]
-はぁ……はぁ……。
-なんとか……倒したようじゃな。
+Huh… huh….  It looks like you managed to defeat it...
 --------------------------------
 [00000028][エルミナ,ローデリア,エルミナ]
-そのよう……です……。
+That's right...
 --------------------------------
 [00000029][リック,エルウッド,リック]
-はぁ……はぁ……。
-あれで……最後か……。
-どうにか……勝ったようだな……。
+Huh… huh….  That's it... the last time...  Somehow... it looks like we won...
 --------------------------------
 [00000030][レイジ,レイジ,レイジ]
-そ、そうだな……。こっちの……勝ちだ！
-だけど、さすがに……今回はキツかったぜ。
+Oh, that's right... This one...is the winner!  But, as expected... this time was
+tough.
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-とうとう、来たんだな……。
-ここまで。
+We're finally here at last...
 --------------------------------
 [00000032][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな。ずいぶん長かったが……。
-やっと戻ってきた。
+Indeed. It has been such a long time... We are finally back here.
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-ローゼリンデ、用意はいいか？
+Roselinde, are you ready?
 --------------------------------
 [00000034][ローゼリンデ,フレイア,ローゼリンデ]
-ええ。いつでも！
+Yeah, always!
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-それじゃあ、行くぞ！
-クラントールを解放するんだ！
+Then, let us go! Time to liberate Crantor!
 --------------------------------
 [00000036][ローゼリンデ,フレイア,ローゼリンデ]
-もう、護衛はいないようね！
-大聖堂の中に入りましょう！
+There are no more guards left! Let's enter the grand cathedral!
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-わかったわ！
+Understood!
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-行くぜ！　バルドルを捕まえて、
-決着をつけてやる！
+Let's go! We'll capture Balder, and settle everything once and for all!
 --------------------------------
 [00000039][ローゼリンデ,フレイア,ローゼリンデ]
-これが……大聖堂？
-なんてこと……こんなに変わり果ててしまって……。
+This is... the grand cathdral? My goodness... it's completely different...
 --------------------------------
 [00000040][サクヤ,マキシマ,サクヤ]
-悪いけど、悲しむのは後にして。
-今はまず、やらなきゃならないことがあるの。
-みんな、あそこにある機械が見えるかしら？
+I'm sorry, but you'll have time to feel bad about it later. Right now, there is
+something we must do. Everyone, do you see the machine over there?
 --------------------------------
 [00000041][ローゼリンデ,フレイア,ローゼリンデ]
-はい。見えます。
+Yes, I see it.
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-なんですか？　あの機械は。
+What is it? That machine.
 --------------------------------
 [00000043][サクヤ,マキシマ,サクヤ]
-あれはたぶん、転送装置よ。
-あの装置を起動させれば、
-バルドルのところにいけるはず！
+That is probably a teleporter. If we use it, it will send us to where Balder is!
 --------------------------------
 [00000044][サクヤ,マキシマ,サクヤ]
-私がなんとか動かしてみるから、
-その間、援護をお願い！
+I will attempt to activate it. In the meantime, back me up!
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-わかりました！
+Understood!
 --------------------------------
 [00000046][リック,エルウッド,リック]
-レイジ！　敵が来るぞ！
+Rage! The enemy is coming!
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-上等だぜ、来るなら来い！
-サクヤさんには、指一本触れさせやしない！
+Just as well, come then! You won't lay a finger on Sakuya-san!
 --------------------------------
 [00000048][サクヤ,マキシマ,サクヤ]
-準備ができたわ！　みんな！　こっちへ！
+It's done! Everyone! Over here!
 --------------------------------
 [00000049][エルミナ,ローデリア,エルミナ]
-は、はい……っ！
+Y...yes!
 --------------------------------
 [00000050][ローゼリンデ,フレイア,ローゼリンデ]
-わかりました！
+Understood!
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-サクヤさん！　みんな集まりました！
+Sakuya-san! Everyone is gathered!
 --------------------------------
 [00000052][サクヤ,マキシマ,サクヤ]
-わかった！　いいわね？　いくわよ！
+I got it! Is it okay? Here I go!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-どこだ……？　ここ……。
+Where... is this place?
 --------------------------------
 [00000054][バルドル,,バルドル]
-ふふふふふふ……。
-おぬしたち、とうとうここまでやって来たか！
+Hmhmhmhmhmhm.... You have finally made it here!
 --------------------------------
 [00000055][ローゼリンデ,フレイア,ローゼリンデ]
-バルドル！
+Balder!
 --------------------------------
 [00000056][バルドル,,バルドル]
-ほほう、裏切り者の歌姫も戻ってきたか。
-だが、少しばかり遅すぎたようだな。
+Ah, the traitor's Loreley has returned. But, a little too late.
 --------------------------------
 [00000057][ユキヒメ,ユキヒメ,ユキヒメ]
-遅すぎただと？　どういうことだ？
+Too late? What do you mean?
 --------------------------------
 [00000058][サクヤ,マキシマ,サクヤ]
-まさか……！　ダークドラゴンが!?
+It can't be...! DarkDragon is?!
 --------------------------------
 [00000059][バルドル,,バルドル]
-ふっ……ふふふふふふ……。
-はーはっはっはっは！
+Hm....hmhmhmhm.... hahahahaha!
 --------------------------------
 [00000060][バルドル,,バルドル]
-ダークドラゴン様！
-今こそ、目覚めの時にございます！
+DarkDragon-sama! It is now time for your awakening!
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-これが……ダークドラゴン……！
+This is... DarkDragon...!
 --------------------------------
 [00000062][リック,エルウッド,リック]
-間に合わなかったのか……！
+We didn't make it in time...!
 --------------------------------
 [00000063][サクヤ,マキシマ,サクヤ]
-くっ……！
+Kh...!
 --------------------------------
 [00000064][バルドル,,バルドル]
-はははははははは！
-さあ、ダークドラゴン様！
-愚かな光の者どもに、闇の鉄槌を！
+Hahahahahaha! Here, DarkDragon-sama! Show these foolish followers of light, the
+hammer of darkness!
 --------------------------------
 [00000065][ダークドラゴン,,ダークドラゴン]
-……よかろう。だがその前に、
-おぬしの手を借りたいことがある。
+...very well. But before that, I need your help again.
 --------------------------------
 [00000066][バルドル,,バルドル]
-は！　なんなりとお申し付けくださいませ。
+Yes! You shall get whatever you need.
 --------------------------------
 [00000067][ダークドラゴン,,ダークドラゴン]
-そうか。では、バルドルよ……。
-私は戦いの前に、もう少し力をつけておきたい。
+I see. Well then, Balder, before I battle, I need a little more power.
 --------------------------------
 [00000068][ダークドラゴン,,ダークドラゴン]
-……おぬしにも、我が糧となってもらおうか。
+You too, shall strengthen me.
 --------------------------------
 [00000069][バルドル,,バルドル]
-…………は？　い、今……なんと？
+....huh? Now? What is...?
 --------------------------------
 [00000070][バルドル,,バルドル]
-ひ！　ひっ！　ひぃいいいいいいいいいっ！
-ダ、ダークドラゴン様！　なぜ私まで……！
-あ！　あ！　ぁあああああああああああああっ！
+Eh? Ah! Hiiiiiiiiiiiiiiii! DarkDragon-sama! Why am I......! Argh! Aaaaaaaaargh!
 --------------------------------
 [00000071][リック,エルウッド,リック]
-きゅ、吸収したのか……？
-バルドルを……？
+He's.... absorbed...? Balder...?
 --------------------------------
 [00000072][ダークドラゴン,,ダークドラゴン]
-…………むぅ。足りん……。
-この程度ではまだまだ飢えが満たされん……。
+.....hm, not enough...... this will not be enough to satisfy my hunger...
 --------------------------------
 [00000073][ダークドラゴン,,ダークドラゴン]
-まあいい、おぬしたちを倒し、
-その魂を食らえば済むこと！
-さあ、おぬしたち！　覚悟はよいな！
+No matter. Once you all are defeated, I shall feast on your souls! Come forth!
+Prepare yourself!
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-そうはさせるかよ！　今度こそ、
-二度と目覚めないように封印してやる！
+Like hell that would happen! This time for sure, I won't let you awake a second
+time and seal you away!
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-やった！　仕留めたか!?
+We did it! Is he down?!
 --------------------------------
 [00000076][ユキヒメ,ユキヒメ,ユキヒメ]
-いや、待て！
+No, wait!
 --------------------------------
 [00000077][ダークドラゴン,,ダークドラゴン]
-ふふふふふ……。なるほどなるほど、
-これがおぬしたちの力か。
-あの将軍どもでは太刀打ちできぬわけだ。
+Hmhmhmhm... I see, I see. This is the strength you have. It is no wonder those
+generals could not defeat you.
 --------------------------------
 [00000078][ダークドラゴン,,ダークドラゴン]
-だがしかし！　この私に通用するほどの
-力ではないな！
+However! You cannot hope to face me with such power!
 --------------------------------
 [00000079][ダークドラゴン,,ダークドラゴン]
-見るがいい、我が力の一端を！
+Behold! A taste of my power!
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-やっと本気を出す気になったみてえだな。
-手を抜いてちゃオレたちに勝てないって、
-やっとわかったか？
+Looks like it's finally time to get serious. Even if you give it everything you
+have, you cannot win. Are you up for this?
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-もっとも、本気を出したって同じことだけどな！
+Even if you get serious, the result will be the same!
 --------------------------------
 [00000082][ダークドラゴン,,ダークドラゴン]
-ふふふ、いつまでそうやって、
-減らず口を叩いていられるかな!?
+Hmhmhm, how long do you intend to stand there fighting with words?!
 --------------------------------
 [00000083][レイジ,レイジ,レイジ]
-やった……！
-今度こそ、ダークドラゴンを……！
+We did it...! This time, DarkDragon is...!
 --------------------------------
 [00000084][カノン,シーナ,カノン]
-さすがレイジっ！　それでこそ、
-あたしの弟よ！
+I knew you could do it, Rage! Now that's my brother!
 --------------------------------
 [00000085][エルミナ,ローデリア,エルミナ]
-レイジさん……お見事です！
+Rage-san... that was amazing!
 --------------------------------
 [00000086][クララクラン,クララクラン,クララクラン]
-あなたこそ、真の勇者……！
-エンディアスの民は、永遠にあなたのことを
-たたえ続けるでしょう！
+You are the true hero...! The people of Endias will forever speak of you!
 --------------------------------
 [00000087][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ……。これで……。
+Rage... it is now...
 --------------------------------
 [00000088][レイジ,レイジ,レイジ]
-ああ、ローゼリンデ。これで終わったんだ。
-これで……やっと平和が戻ってくるんだ。
-クラントールにも、ヴァレリア全体にも……。
+Yeah, Roselinde, it's over now. With this, peace will return. To Crantor, and to
+the whole of Valeria.
 --------------------------------
 [00000089][ミストラル,ネレイス,ミスティ]
-やれやれ、これで終わりか。
-わらわは島に帰って温泉にでも……。
+My my, it's finally over. I want to return to the hot springs in my island...
 --------------------------------
 [00000090][リン,シャオメイ,リンリン]
-…………ん？
-にゃ！　待って!?
+....hm? Nya! Wait?!
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-どうした？　リンリン。
+What's wrong, Rinrin?
 --------------------------------
 [00000092][リン,シャオメイ,リンリン]
-なんか……。笑い声が聞こえる……。
+I am.... hearing the sound of laughter...
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-ダークドラゴン……覚悟はいいか？
-今度こそ、本当に決着をつけさせてもらうぜ……！
+DarkDragon... are you prepared for this? This time, we're really going to settle
+things for real.
 --------------------------------
 [00000094][ダークドラゴン,,ダークドラゴン]
-ふん！　たかがちっぽけな人間一匹。
-「シャイニング・ブレイド」が解放されたところで、
-どれほどのことができるというのだ。
+Hmph! You're just one tiny human. Even when you have released the seal of
+Shining Blade, there is nothing you can do.
 --------------------------------
 [00000095][レイジ,レイジ,レイジ]
-ちっぽけだって、弱くたって、
-オレたちには命もあれば心もあるんだ。
-お互いを信じて、助け合う心がな！
+Even if I'm tiny, even if I'm weak, we are all living, we all have hearts. We
+all believe in each other, our hearts are linked!
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-今だってみんなの心が、
-オレの腕と、ユキヒメの体にこもってるんだ。
-だからオレは……お前なんかに負けやしないんだよ！
+Everyone's hearts, my hands, and Yukihime's body, we are together. That is
+why... there is no way we would lose to you!
 --------------------------------
 [00000097][ダークドラゴン,,ダークドラゴン]
-……生意気なことを！
-その思いあがり！　私の腹に納まってから
-ゆっくりと後悔するがよい!!
+...what impudence! Such arrogance! You will regret your actions in my stomach!!
 --------------------------------
 [00000098][ダークドラゴン,,ダークドラゴン]
-いや、その前に……我が怒りの業火で、
-原型をとどめぬほどに焼き尽くしてくれるわっっっ！
+No, before that... the fires of my rage, I will return everything into nothing!
 --------------------------------
 [00000099][ガデム,,ガデム]
-レイジ……ここまで共に戦えたこと、嬉しく思うぞ！
+Rage...I'm happy that we were able to fight together this far!
 --------------------------------
 [00000100][ディラン,ローエン,ディラン]
-お前はオレの認めた男だ。
-やってくれると信じてるぜ！
+You're the guy I approve of.  I believe you can do it!
 --------------------------------
 [00000101][イサリ,ジェラード,イサリ]
-レイジ……お前は……負けない！
+Rage...you...don't lose!
 --------------------------------
 [00000102][刃九郎,,刃九郎]
-おぬしの力、拙者は信じておる！
+I believe in your power!
 --------------------------------
 [00000103][レイジ,レイジ,レイジ]
-みんなの力、貸してもらうぜッ！！
+I'll ask everyone to lend me their strength! !
 --------------------------------
 [00000104][剛龍鬼,,剛龍鬼]
-レイジ！　戦士なら、やり遂げろ！
+Rage! If you're a warrior, do it!
 --------------------------------
 [00000105][龍那,,龍那]
-レイジさんなら大丈夫です！
+Rage-san is fine!
 --------------------------------
 [00000106][アイラ,ブランネージュ・ガルディニアス,アイラ]
-レイジ……遠慮する必要はないぞ。
+Rage... there's no need to hold back.
 --------------------------------
 [00000107][エルウィン,ラナ・シルフィス,ラナ]
-そうよ！　思いっきりやっちゃえー!!
+Yes! Do it to your heart's content!!
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-ああ、やってやるっ！
+Oh, I'll do it!
 --------------------------------
 [00000109][クララクラン,クララクラン,クララクラン]
-気高き勇者の勝利を祈りますわ、レイジ殿！
+I pray for the victory of the noble hero, Rage-dono!
 --------------------------------
 [00000110][ゼクティ,アイン,アイン]
-レイジ……私も応援する！
+Rage...I'll support you too!
 --------------------------------
 [00000111][カノン,シーナ,カノン]
-しくじったら、ぶっとばすわよ！　いいわね！
+If you mess up, I'll destroy you! Good!
 --------------------------------
 [00000112][レイジ,レイジ,レイジ]
-まかせとけって！　俺の実力、見せてやるぜ!!
+Leave it to me! I'll show you what I'm capable of!!
 --------------------------------
 [00000113][フェンリル,,フェンリル]
-レイジ、お前ならできる！
+Rage, you can do it!
 --------------------------------
 [00000114][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-彼の戦闘ポテンシャルは……。
-演算能力を超えています……。
+His fighting potential is...  It exceeds my computing power...
 --------------------------------
 [00000115][リン,シャオメイ,リンリン]
-にゃー！　負けるなレイジ！
-あんたはあたしが見込んだ勇者なんだからね!!
+Meow! Don't lose, Rage!  You are the hero I expected!!
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-俺は負けない、任せてくれ！
+I won't lose, leave it to me!
 --------------------------------
 [00000117][サクヤ,マキシマ,サクヤ]
-あなたは成長したわ。
-私が……いいえ、誰もが期待していた以上に。
-自分を信じて思いっきりやりなさい！
+You've grown.  I... no, more than anyone expected.  Believe in yourself and do
+your best!
 --------------------------------
 [00000118][レイジ,レイジ,レイジ]
-ありがとうございます、サクヤさん！
-あなたに教わった全て……今、ぶつけます!!
+Thank you, Sakuya-san!  Everything I learned from you...I'll give it to you
+now!!
 --------------------------------
 [00000119][エアリィ,マナフレア,エアリィ]
-レイジ……リックのこと、立ち直らせてくれて……
-ありがとう。
+Rage...Thank you for helping Rick get back on his feet... Thank you.
 --------------------------------
 [00000120][アミル,アーデット,アミル]
-私たちを、また一緒にしてくれて……ありがとう！
+Thank you for bringing us together again!
 --------------------------------
 [00000121][ネリス,フィリアム,ネリス]
-リックもわたしたちも、あなたに感謝してるよ！
+Rick and we appreciate you!
 --------------------------------
 [00000122][リック,エルウッド,リック]
-レイジ、お前ならきっと勝てるさ。
-この俺が保証してやる。
+Rage, I'm sure you can win.  I'll guarantee it.
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-リック……みんな……。
-もう、誰も悲しませない！　そのためにも、勝つっ!!
+Rick...everyone...  I won't make anyone sad anymore! For that reason, I will
+win!!
 --------------------------------
 [00000124][アルティナ,メル・シルフィス,アルティナ]
-世界中、みんなの想い……みんなの希望を……。
+All over the world, everyone's thoughts... everyone's hopes...
 --------------------------------
 [00000125][エルミナ,ローデリア,エルミナ]
-私たちの力とともに、歌声に乗せて……。
+With our power, with our singing voice...
 --------------------------------
 [00000126][ミストラル,ネレイス,ミスティ]
-全て、おぬしとユキヒメに預けたぞ！
+I left everything to you and Yukihime!
 --------------------------------
 [00000127][トウカ,クレハ,トウカ]
-だから、レイジくん！　絶対に勝って!!
+So, Rage-kun! Definitely win!!
 --------------------------------
 [00000128][ローゼリンデ,フレイア,ローゼリンデ]
-この世界を覆う闇を断ち斬ってっ!!
+Cut off the darkness that covers this world!!
 --------------------------------
 [00000129][レイジ,レイジ,レイジ]
-みんなの心のこもった歌声、
-確かに受け取ったぜ！
+I certainly received everyone's heartfelt singing voices!
 --------------------------------
 [00000130][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ。あなたは最高の相棒よ。
-あなたとならきっと、どんなことでも……！
+Rage. You are the best buddy.  With you, I'm sure anything will happen...!
 --------------------------------
 [00000131][レイジ,レイジ,レイジ]
-ユキヒメ、ありがとう！　
-お前の気持ち、そして、お前の力……。
-全部オレが受け止めるっ！
+Thank you, Yukihime!  Your feelings and your power...  I'll take it all!
 --------------------------------
 [00000132][レイジ,レイジ,レイジ]
-ダークドラゴンッ！　今度こそ終わりだっ！
-この世界から……消えてなくなれぇっっ!!
-シャイニング……。
+Dark Dragon! This time it's over!  From this world...disappear!! Shining...
 --------------------------------
 [00000133][レイジ,レイジ,レイジ]
-ブレイドォォォッッ!!
+Blade!!
 --------------------------------
 [00000134][ダークドラゴン,,ダークドラゴン]
-ば、バカな……！　この私が……っ！　
-たかが１人の人間と、１本の刀に…………っ！
+B-you idiot...! This is me...!  Just one person and one sword...!
 --------------------------------
 [00000135][ダークドラゴン,,ダークドラゴン]
-バカなぁ℃―――――――――￥っ！
+That's stupid!]
 --------------------------------

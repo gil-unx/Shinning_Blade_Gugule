@@ -1,921 +1,754 @@
 [0220]
 *****************
 [00000000][none]
-@lt1@fs16@dt2@db1@dcFF000000―　フォンティーナのとある海岸　―
+@lt1@fs16@dt2@db1@dcFF000000―A certain coast of Fontina―
 --------------------------------
 [00000001][none]
-@lt1@fs16@dt2@db1@dcFF000000―　アルティナの家　―
+@lt1@fs16@dt2@db1@dcFF000000― Altina’s house―
 --------------------------------
 [00000002][ケフィア,,ケフィア]
-フゥ～！　フフゥ～！
+Fuu~! Fuu~!
 --------------------------------
 [00000003][アルティナ,メル・シルフィス,アルティナ]
-ケフィア！　どこへ行くのよ！
-待って！　ケフィアー！
+Kefia! Where are you going? Wait? Kefia!
 --------------------------------
 [00000004][ケフィア,,ケフィア]
-フゥフゥ～！
+Fufu~!
 --------------------------------
 [00000005][アルティナ,メル・シルフィス,アルティナ]
-もう、ケフィアったら。
-そんなに急いで、海岸になにが……。
-…………あら？
+Ah, Kefia. Why are you rushing off to the beach? ...huh?
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-…………。
+.....
 --------------------------------
 [00000007][ケフィア,,ケフィア]
-フゥ！　フゥフゥフゥ～！
+Fu! Fufufu~!
 --------------------------------
 [00000008][アルティナ,メル・シルフィス,アルティナ]
-これは……人間!?　しかも武装してるわ……。
-どうして、こんなところに倒れているのかしら。
-それに、横にいるのは……猫？
+This is ... a human? And he's armed... Why has he fallen here? And, is that a
+cat beside him?
 --------------------------------
 [00000009][ケフィア,,ケフィア]
-フゥフゥ～！
+Fufu~!
 --------------------------------
 [00000010][アルティナ,メル・シルフィス,アルティナ]
-この人間を、助けろっていうの？
-で、でも、森に他の種族を入れるわけには……。
+Help this human? B... but, we can't let other races enter our forest...
 --------------------------------
 [00000011][ケフィア,,ケフィア]
-フゥー！　フゥフゥフフゥ！
+Fuu! Fufuffu!
 --------------------------------
 [00000012][アルティナ,メル・シルフィス,アルティナ]
-そ、そうね。このまま放っておくわけにも……。
-いったいどうしたらいいのかしら……。
+Y... Yeah, we can't just leave him alone like this. What should I do...
 --------------------------------
 [00000013][リン,シャオメイ,リンリン]
-どうするかは、あなたの判断に任せるしかないけど
-こちらとしては、助けてもらえると
-ありがたいわね……。
+What should be done would be your decision of course, but we would be grateful
+if you could help us.
 --------------------------------
 [00000014][アルティナ,メル・シルフィス,アルティナ]
-え!?　
+Eh?
 --------------------------------
 [00000015][ユキヒメ,ユキヒメ,ユキヒメ]
-迷惑なのは重々承知だが、どうか、
-このバカを助けてやってはもらえまいか？
-さすがに、このままでは……。
+I know how much trouble this would cause you, but would you please help this
+idiot? If he's left like this...
 --------------------------------
 [00000016][アルティナ,メル・シルフィス,アルティナ]
-い……今しゃべったのは……あなた!?
-あ、そうか。あなた、猫かと思ったら……。
-猫の妖精ケットシーだったのね。
+T... The one who talked... it's you?! Ah, I see. I thought you were a normal
+cat. You're a Cait Sith, right?
 --------------------------------
 [00000017][リン,シャオメイ,リンリン]
-ええ。私がケットシーであることは
-間違いないんだけれど。
-でも、しゃべったのは私だけじゃないわ。
+Yeah. I am indeed a Cait Sith, correct. But, I am not the only one talking here.
 --------------------------------
 [00000018][アルティナ,メル・シルフィス,アルティナ]
-…………え？
+..... eh?
 --------------------------------
 [00000019][ユキヒメ,ユキヒメ,ユキヒメ]
-私だ。
-今、お前に話しかけているのは私の方だ。
+It's me. The one talking right now is me.
 --------------------------------
 [00000020][アルティナ,メル・シルフィス,アルティナ]
-……？　刀……？
-刀がしゃべった……!?
+...? The katana...? The katana is talking...?!
 --------------------------------
 [00000021][アルティナ,メル・シルフィス,アルティナ]
-あなた、何者!?
-まさか、ドラゴニア帝国の手先!?
+Who are you people?! Could it be, you are underlings for the Dragonia Empire?!
 --------------------------------
 [00000022][ユキヒメ,ユキヒメ,ユキヒメ]
-なんだと……？　お前、私を知らんのか？
-おまけに……言うに事欠いて、帝国の手先だとっ!?
-そのような者と間違えられるとは……なんたる屈辱！
+What did you say? Haven't you heard anything about me? Not only that, you call
+us underlings for the Empire?! To be so far from the truth, this is such an
+insult!
 --------------------------------
 [00000023][ユキヒメ,ユキヒメ,ユキヒメ]
-……まあ、よかろう。こちらは助けを求めている身。
-ここはぐっとこらえて名乗りを上げよう。
-エルフの娘よ、しかと聞くがよい。
+Well... fine. We are the ones seeking for help. Very well, I will tell you my
+name. Listen carefully, elf girl.
 --------------------------------
 [00000024][ユキヒメ,ユキヒメ,ユキヒメ]
-我が名はユキヒメ。クラントール王国を守護し、
-闇を滅する霊刀・雪姫とは我のことなり。
-耳にしたことくらいあるであろう。
+My name is Yukihime. I am Crantor Kingdom's protector, purger of darkness,
+Spirit Sword Yukihime. Listen well.
 --------------------------------
 [00000025][ユキヒメ,ユキヒメ,ユキヒメ]
-そして、ここに倒れし男は我と志を同じくする者、
-異界より呼ばれ来たる剣士レイジ。
-我を振るうことができる資格を持つ男なり。
+And, the man who has fallen here is with me. His name is Rage, a swordsman
+called here from another world. A man who has earned the right to wield me.
 --------------------------------
 [00000026][アルティナ,メル・シルフィス,アルティナ]
-クラントールの霊刀……？　……って、まさか、
-あなたたち、クラントール王国から流されてきたの!?
+Spirit Sword of Crantor...? ....Don't tell me, you all had drifted all this way
+from Crantor kingdom?
 --------------------------------
 [00000027][アルティナ,メル・シルフィス,アルティナ]
-船で何日もかかる、遠い国じゃないの！
-よく生きてここまで流れ着いたわね……。
+Even by ship, the journey would take several days! To think you managed to
+survive this long drifting here...
 --------------------------------
 [00000028][ユキヒメ,ユキヒメ,ユキヒメ]
-まったくだ。レイジは運が強いとしか
-言いようがないな……。
+Indeed. One could even say Rage has some crazy luck.
 --------------------------------
 [00000029][アルティナ,メル・シルフィス,アルティナ]
-そうね。クラントールはこの間、
-帝国軍に占領されたって聞いたけど……。
-その戦いでも生き延びたのね。確かに運がいいわ。
+That's right. I heard that Crantor has recently been taken over by the Imperial
+Front. To have made it out of that battle alive, you are indeed lucky.
 --------------------------------
 [00000030][リン,シャオメイ,リンリン]
-まあ、確かにそうね。
-ところでエルフのお嬢さん、
-２つほど聞きたいことがあるのだけど、いい？
+Well, that is true. Anyway, Miss Elf, is it okay if I ask you about 2 things?
 --------------------------------
 [00000031][リン,シャオメイ,リンリン]
-１つめ、あなたのお名前は何ていうの？
-２つめ、レイジを助けてもらえるの？
-どうかしら？　聞かせてくれる？
+First, what is your name? Second, would you help Rage? What would you do? Would
+you tell us?
 --------------------------------
 [00000032][リン,シャオメイ,リンリン]
-あ、ちなみに私の名前はリンリンよ。以後よろしく。
+Ah, by the way, my name is Rinrin, pleased to meet you.
 --------------------------------
 [00000033][アルティナ,メル・シルフィス,アルティナ]
-あ……よ、よろしく……。私はアルティナ。
-そっちの精霊はケフィアよ。
-それから……。
+Ah... pleased to meet you too. My name is Altina. This spirit here is Kefia. So
+now...
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-そこの人を助けるかどうかだけど、それは……。
+About helping that person, well...
 --------------------------------
 [00000035][ケフィア,,ケフィア]
-フゥ？　フフゥ～！
+Fu? Ffu~!
 --------------------------------
 [00000036][アルティナ,メル・シルフィス,アルティナ]
-ケフィア……。
-……そうね。ケフィアが警戒してないってことは
-その人、きっと悪い人ではないのね……。
+Kefia... That's right. If Kefia is okay, that means, this person can't be a bad
+person....
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-……わかったわ。ちょっと待ってて。
-今、私の家まで運ぶから……。
+I understand. Wait here, we'll carry him to our home.
 --------------------------------
 [00000038][リン,シャオメイ,リンリン]
-ありがとう！　よかった、
-これでようやく一安心ね……。
+Thank you! This is great, now we're saved.
 --------------------------------
 [00000039][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ！　おい、レイジ、聞こえるか？
-もう大丈夫だぞ。おい！　レイジ！
+Rage! Hey, Rage, are you listening? It's okay now. Hey! Rage!
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-……うっ……。
+...Ugh...
 --------------------------------
 [00000041][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ！
+Rage!
 --------------------------------
 [00000042][バルドル,,バルドル]
-どうした若造。もう後がないぞ？
-ちょっとでもその者たちが剣を突き出せば……
-ふふふ、どうなるかな？
+What's wrong, lad? No place to run?
+Would you run at them with your sword?
+Hahaha. What would you do?
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-ちくしょう……。
+Damn it...
 --------------------------------
 [00000044][バルドル,,バルドル]
-まったく、しつこい奴だ。
-いい加減にあきらめたらどうだ？
+Good grief, what a stubborn person. Would you just give up already?
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-そんなことができるか！
-オレは約束したんだ！　絶対に守るって……。
-必ず守ってみせるって……！
+Like hell I would! I will keep my promise! .... I will definitely protect you!
 --------------------------------
 [00000046][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ、いいの！　逃げて！
-お願いだから、逃げてっ！
+Rage, stop. Run! Please! Just get out of here!
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-ダメだ！　あきらめるんじゃない！
-ちょっとだけ待っててくれ、
-今、お前を助け出して……。
+No! I won't give up! Just wait for me. I'm coming to save you now...
 --------------------------------
 [00000048][バルドル,,バルドル]
-それは無理な相談だな！
-やってしまえ！
+That won't be happening. Finish him!
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-うあっ！
+Uargh!
 --------------------------------
 [00000050][レイジ,レイジ,レイジ]
-うわぁ℃―――――――――￥っ！
+Argh--------!
 --------------------------------
 [00000051][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ！　レイジ℃――――――￥っ！
+Rage! Rage------------!
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-うわぁああああああっ！
+Uaaargh!
 --------------------------------
 [00000053][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ！
+Rage!
 --------------------------------
 [00000054][リン,シャオメイ,リンリン]
-目を覚ましたようね。
-安心したわ……。
+You finally woke up. What a relief...
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-え？　こ、ここは……。
+Eh? This... this is...
 --------------------------------
 [00000056][アルティナ,メル・シルフィス,アルティナ]
-フォンティーナの銀の森にある、私の家よ。
-まったく、人間ってどうしてこう騒々しいのかしら。
-目を覚ますときぐらい、静かにできないの？
+Fontina Silver forest. This is my home. Good grief, why are humans always this
+loud. Are you unable to keep quiet when you're awake?
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-フォンティーナ？
-そんなところにまで流されちまったのか？
-……っていうか？　誰だ、お前？
+Fontina? Have we drifted all the way here? ... and, who are you?
 --------------------------------
 [00000058][ユキヒメ,ユキヒメ,ユキヒメ]
-バカモノ！　なんだその態度は。
-このアルティナが、
-倒れていたお前を助けてくれたのだぞ！
+You fool! What kind of attitude is that? This Altina was the one who helped you
+when you were out.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-え!?　そ、そうだったのか。
-それは悪かった、ごめん。
-状況が飲み込めてなかったもんだからさ……。
+Eh?! I... see. Sorry about that. I still don't know much about the situation.
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-いや、そんなことより、お礼を言わなきゃな。
-助けてくれてありがとう。
+Well, anyway, I have to thank you. Thank you for saving me.
 --------------------------------
 [00000061][アルティナ,メル・シルフィス,アルティナ]
-いいわよ。そんなの。
-人間からお礼を言ってもらえるなんて、
-最初から期待してないから。
+Whatever. I wasn't particularly expecting to be thanked by a human.
 --------------------------------
 [00000062][アルティナ,メル・シルフィス,アルティナ]
-まあ、体が元通りになるまでは、
-せいぜいここで養生していくことね。
-野垂れ死にでもされたら寝覚めが悪いし！
+Anyway, you still haven't recovered, so try to stay put. I can't have you dying
+out there in the wild.
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-ありがたいんだけど、
-そうノンビリもしてられない。
-オレ、もう行かないと。
+Thank you, but I can't stay here. I have to go.
 --------------------------------
 [00000064][アルティナ,メル・シルフィス,アルティナ]
-え？　ちょ、ちょっと？　なにを言ってるの？
+Eh? W... Wait? What are you saying?
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-友達が、オレの助けを待ってるんだ。
-急いで見つけ出さないと……。行こう、ユキヒメ！
+My friends are waiting for me. I have to go find them. Let's go, Yukihime!
 --------------------------------
 [00000066][ユキヒメ,ユキヒメ,ユキヒメ]
-お、おい!?　レイジ！
+H.. hey! Rage!
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-リンリンはここで待っててくれ。
-できるだけ早く戻ってくるからな。
-じゃあ、行ってくる！
+Rinrin, stay here. I will try to return as soon as I can. Come on, let's go!
 --------------------------------
 [00000068][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ、落ち着け！　ちょっと待て！
-レイジっ！
+Rage, calm down! Wait! Rage!
 --------------------------------
 [00000069][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ、いったいどういうつもりだ？
-こんなに慌てて出かけたところで、
-あの者が見つかるわけでもあるまい。
+Rage, exactly what were you thinking? Rushing out like this. What if you're
+spotted?
 --------------------------------
 [00000070][ユキヒメ,ユキヒメ,ユキヒメ]
-それよりはアルティナの家で
-しばらくやっかいになり、
-じっくりと力を蓄えるべきではないのか？
+More importantly, shouldn't you take this opportunity to recover your strength
+in Altina's home?
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-わかってる！　そんなこと、
-オレだって頭じゃわかってるんだ。
-でも……だけど……おっとっと！
+I know! Even I know something like that. But... still.... ouch!
 --------------------------------
 [00000072][ユキヒメ,ユキヒメ,ユキヒメ]
-言わんことではない……。
-足がふらつくのだろう？
-まだ、体が本調子ではないせいだぞ。
+I told you so. You can't even walk properly now. Your body is not in perfect
+condition right now.
 --------------------------------
 [00000073][ユキヒメ,ユキヒメ,ユキヒメ]
-このような時、先代であれば
-決して焦らず、じっくりと時を待つはずだ。
-だからお前もそれを見習ってだな……。
+If it were your predecessor, they would definitely have chosen to wait for the
+right time. You have so much more to learn.
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-だから、オレは先代とは違うっての。
-何度言ったらわかるんだよ。
-とにかく、オレはオレのやり方で行く！
+I told you, I'm not my predecessor. How many times do I have to tell you that. I
+have my own way of handling things.
 --------------------------------
 [00000075][ユキヒメ,ユキヒメ,ユキヒメ]
-ふぅ……やれやれ。仕方のない奴だ。
-どうやら付き合うしかなさそ…………ん!?
+Sigh... Looks like I have no choice either but to come with you... huh?!
 --------------------------------
 [00000076][ユキヒメ,ユキヒメ,ユキヒメ]
-いかん！　レイジ気をつけろ！
-そちらの茂みにモンスターだ！
+Look out! Careful, Rage! There are monsters hidden here!
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-くそっ！　出てきやがったか！
-ユキヒメ、頼む！
+Damn! We have to get out of here! Yukihime, let's go!
 --------------------------------
 [00000078][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ……。しかたあるまい。
+Yeah... no way around this.
 --------------------------------
 [00000079][ユキヒメ,ユキヒメ,ユキヒメ]
-まずいな……。レイジ、気付いているか？
+This is not good. Rage, do you see it?
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-……ああ。来ちまったみたいだな。
-モンスターたちがさ……。
+Yeah. They're coming, those monsters.
 --------------------------------
 [00000081][ユキヒメ,ユキヒメ,ユキヒメ]
-まずいところに来てくれたものだが……。
-レイジ、戦えそうか？
+What a bad timing. Rage, are you able to fight?
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-なんとかやってみるさ……。
+I have to try somehow.
 --------------------------------
 [00000083][ユキヒメ,ユキヒメ,ユキヒメ]
-わかった。いいか、絶対にあきらめるな。
-ギリギリまで粘れば、きっと勝機も……。
+I understand. Listen, don't you dare quit on me. If we persist to the end, we'll
+win this battle...
 --------------------------------
 [00000084][ユキヒメ,ユキヒメ,ユキヒメ]
-……後ろ？　まさか、新手か!?
+...from behind? More enemies?!
 --------------------------------
 [00000085][アルティナ,メル・シルフィス,アルティナ]
-いた！　やっと見つけた！
-なにをやってるのよレイジ！
-よけいな手間をかけさせないで！
+Ah! There you are! What do you think you're doing, Rage? Stop giving me more
+trouble!
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-アルティナ!?
+Altina?!
 --------------------------------
 [00000087][ユキヒメ,ユキヒメ,ユキヒメ]
-……よかった。モンスターではなかったのだな。
+...Good, it wasn't a monster.
 --------------------------------
 [00000088][アルティナ,メル・シルフィス,アルティナ]
-……慌てて追いかけて、やっと見つけたと思えば
-モンスターに絡まれている最中だなんて、
-どこまで私に迷惑をかければ気が済むの？
+I chased after you in a hurry, finally found you, and now I'm being seen like a
+monster. How much more problems do you intend to cause me?
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-いや……。大丈夫だ。
-迷惑はかけない。自分の身ぐらいは、自分で……。
+No... We're fine. I won't give you more problems. I got into this mess myself, I
+will get myself...
 --------------------------------
 [00000090][アルティナ,メル・シルフィス,アルティナ]
-そんなにふらついてて、
-まともに戦えるわけないでしょう？
-私についてきなさい！　なんとか切り抜けるわよ！
+You can't even stand properly, yet you're thinking of fighting? I'm coming with
+you! We'll get out of this somehow.
 --------------------------------
 [00000091][アルティナ,メル・シルフィス,アルティナ]
-ふう……。なんとか片付いたようね。
+Altina is now an Ally.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-………………。
+Whew... looks like that's all of them.
 --------------------------------
 [00000093][アルティナ,メル・シルフィス,アルティナ]
-どうしたの？　具合が悪い？
-それとも、どこか怪我をしたの？
+.....
 --------------------------------
 [00000094][レイジ,レイジ,レイジ]
-いや、そうじゃない。そうじゃないんだ。
-ただ……俺、今……ほとんど何もできてない。
-人の手を借りなければ……まともに戦うことも……。
+What's wrong? Are you not feeling well? Or, are you injured?
 --------------------------------
 [00000095][レイジ,レイジ,レイジ]
-クラントールでも、結局あの子を守れなかった。
-だけど今は、そのとき以上に……俺……
-何もできなくなっちまってる。
+No... it's not that. It's not that at all. It's just... I... right now, I can't
+do anything at all. I have to rely on someone, just to fight.
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-このままじゃ……このままじゃ、
-あの子を助け出すことなんかできっこない。
-いったい俺、どうしたら……。
+With the way I am now, I cannot help that girl. Just what should I do...
 --------------------------------
 [00000097][アルティナ,メル・シルフィス,アルティナ]
-………………。え、えーと……。
-あ、あなた！　何言ってるのよ！
-今、何もできないのなんて、当たり前じゃない！
+..... erm.... You! Just listen to yourself! O... of course you can't do anything
+now.
 --------------------------------
 [00000098][アルティナ,メル・シルフィス,アルティナ]
-あなたは怪我をして、海に流されて、
-さっきようやく目を覚ましたところなのよ？
-いきなり戦えるはずがないじゃないの！
+You're injured, you drifted all the way from see, you barely just woke up, and
+already you're rushing into battle!
 --------------------------------
 [00000099][アルティナ,メル・シルフィス,アルティナ]
-だいたい、あなたは焦りすぎなの！
-本当に、その友達とやらを助けたいのなら、
-まずは力をつけることを考えなさい！
+Simply put, you're far too impatient! And shouldn't you help your friends and
+accept their help?
 --------------------------------
 [00000100][アルティナ,メル・シルフィス,アルティナ]
-そ、そうね……例えば……
-私の仕事を手伝いなさい。
-私と一緒に、森を見て回るのよ。
+Like now... you can help me with my work. Come back with me to patrol the
+forest.
 --------------------------------
 [00000101][レイジ,レイジ,レイジ]
-……森の……見回り？
+Patrol... the forest?
 --------------------------------
 [00000102][アルティナ,メル・シルフィス,アルティナ]
-そう。私の役目は、銀の森の守り人。
-侵入者から、この森を守るのが私の仕事よ。
-当然、侵入者たちとの戦いもあるわ。
+Yes. I am the protector of the Silver Forest. Protecting this forest from
+intruders is my job. Of course, I would have to fight intruders as well.
 --------------------------------
 [00000103][アルティナ,メル・シルフィス,アルティナ]
-戦いのカンや、体力を取り戻したいのなら
-ちょうどいい仕事よ。
-だから、私を手伝いなさい。いいわね？
+After battles, resting is also part of the job. So will you help me?
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-…………そうか……。
-そうかもな……。
-わかった、そうさせてもらうよ。
+...yeah... I see.... I understand. I will do as you ask.
 --------------------------------
 [00000105][レイジ,レイジ,レイジ]
-……アルティナ、だったよな。
-ありがとう、いろいろと気を使ってくれて。
+...Altina, it was.  Thank you for being so considerate.
 --------------------------------
 [00000106][アルティナ,メル・シルフィス,アルティナ]
-!?　な、何を言っているの！
-私が、人間なんかに気を使うはずがないでしょ！
+!? W-what are you talking about!?  There's no way I would care about humans!
 --------------------------------
 [00000107][アルティナ,メル・シルフィス,アルティナ]
-ただ単に、助手がほしかったのよ！
-手が足りなくて！　それだけ！
-勘違いしないで！
+I just wanted an assistant!  I don't have enough hands! that's all! 
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-そ、そうか。悪かった……。
+Oh, I see. It was bad…….
 --------------------------------
 [00000109][アルティナ,メル・シルフィス,アルティナ]
-まったく……。まあ、わかったのならいいわ。
-とにかく、私を手伝うことにしたのなら、
-今日は帰って、ゆっくり休んでおきなさい。
+Well then, lets return for today. And rest properly.
 --------------------------------
 [00000110][アルティナ,メル・シルフィス,アルティナ]
-明日からの仕事は厳しいのよ！
-途中でまた倒れられたりしたら、
-迷惑なことこの上ないから！
+It's going to be a rough day tomorrow! If you collapse it's only going to give
+me more problems!
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-ふぅ……。
+Whew...
 --------------------------------
 [00000112][リン,シャオメイ,リンリン]
-お帰りなさい。だいぶ歩きまわったようね。
+Welcome back. That was quite the walk you took.
 --------------------------------
 [00000113][アルティナ,メル・シルフィス,アルティナ]
-なによ？　もう疲れたの？
-まったくだらしないわね。
+What? You're tired already? How inept.
 --------------------------------
 [00000114][アルティナ,メル・シルフィス,アルティナ]
-言っときますけど、この程度で
-音を上げられちゃ困るのよ？
+I didn't want to say this, but the situation could have been worse.
 --------------------------------
 [00000115][アルティナ,メル・シルフィス,アルティナ]
-この銀の森は、今かなり危険な状態なの。
-守り人の仕事は、いくらでもあるんですからね。
+This Silver Forest is now in danger. As the protectors, we have much more work
+to do.
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-危険って……やっぱりこの森も、
-帝国の奴らに狙われてるのか？
+Danger... so this forest is also targetted by the Empire?
 --------------------------------
 [00000117][アルティナ,メル・シルフィス,アルティナ]
-ドラゴニア帝国とやらがヴァレリア地方を
-騒がせている、という噂なら聞いているわ。
+Dragonia Empire has invaded Valeria. That is what I've heard.
 --------------------------------
 [00000118][アルティナ,メル・シルフィス,アルティナ]
-でも、この森を襲っているのは帝国じゃないわ。
-ルーンベールよ。
+However, this forest is not attacked by the Empire. It's by Runevale.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-ルーンベール？
-確か、フォンティーナの隣の国だったよな。
+Runevale? That's a neighbouring country of Fontina.
 --------------------------------
 [00000120][レイジ,レイジ,レイジ]
-でも、おかしいな。オレの聞いた話じゃ、
-ルーンベールも帝国軍と戦ってるはずだけど。
+But this is strange. From what I've heard, Runevale and the Empire are at war.
 --------------------------------
 [00000121][アルティナ,メル・シルフィス,アルティナ]
-知らないわよ、他の種族の事情なんか。
-おおかた、帝国軍に降参して
-手先にでもなったんじゃないの？
+I don't know what the other races are up to. They probably surrendered to the
+Empire and became part of them.
 --------------------------------
 [00000122][アルティナ,メル・シルフィス,アルティナ]
-とにかく、奴らはある日突然、
-この森に襲いかかって来たわ。
+In any case, they are suddenly coming after this forest.
 --------------------------------
 [00000123][アルティナ,メル・シルフィス,アルティナ]
-生き物や草木を踏み潰し、大勢のエルフを手にかけ、
-そしてエレンシアの都も破壊しつくして……。
-封印されていたダークドラゴンの体も奪っていった。
+The forest was destroyed, elves slain, even the city of Elensia destroyed, and
+the the sealed body of DarkDragon was taken.
 --------------------------------
 [00000124][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（ダークドラゴン……！　やっぱり帝国の連中は、
-そいつの復活を狙ってるのか……。
-あの子が教えてくれた通りだ……）
+@fcFFAAFFAA(DarkDragon...! 
+So the Empire's true motive is the revival... 
+What that girl told me makes sense....)
 --------------------------------
 [00000125][アルティナ,メル・シルフィス,アルティナ]
-私は、守り人の役目を与えられて、
-この銀の森にいたから難を逃れたけど、
-でも、私の両親は……。
+As the protector of this forest, I stayed here, and escaped the slaughter, but
+my parents....
 --------------------------------
 [00000126][レイジ,レイジ,レイジ]
-あ……！　ごめん！　悪かった！
-オレが変なこと言ったせいで、
-嫌なことを思い出させて……。
+Ah! I'm sorry! It's my fault! I shouldn't have talked about that. I made you
+remember that.
 --------------------------------
 [00000127][アルティナ,メル・シルフィス,アルティナ]
-……思い出させた？　いいえ。
-思い出したんじゃないわ。
-だって、一瞬たりとも、忘れたことはないもの。
+Made me remember that? No. You didn't make me remember that. Because I've never
+for one moment, forgotten it.
 --------------------------------
 [00000128][アルティナ,メル・シルフィス,アルティナ]
-あの時以来、連中は何度も森を襲って
-フォンティーナの民を苦しめているわ。
-それに、森の木々だってどんどん枯れている。
+Ever since then, the enemy has made countless assaults, causing much pain for
+people of Fontina. All the trees are starting to die.
 --------------------------------
 [00000129][アルティナ,メル・シルフィス,アルティナ]
-そして、森のあちこちで遊んでいた
-精霊や妖精たちの姿も見えなくなった。
-きっと、全部帝国の……闇の力のせいよ。
+That's not all. The spirits and fairies that use to play in the forest are all
+gone. This is surely... because of the Empire's power of darkness.
 --------------------------------
 [00000130][アルティナ,メル・シルフィス,アルティナ]
-こんな状態で、あの日のことや、
-仲間たちのこと、そして父や母のことを、
-忘れられるわけがないじゃないの！
+With all these happening now, what happened that day, to my friends, my mother,
+my father, I could never forget it!
 --------------------------------
 [00000131][レイジ,レイジ,レイジ]
-…………。
+.....
 --------------------------------
 [00000132][アルティナ,メル・シルフィス,アルティナ]
-だけど、こんな時なのに……
-姉さんはいっこうに森に戻ってこない……。
-あの人はいったいなにを考えてるのかしら！
+But in such a time, my big sister still refuses to return to the forest. Exactly
+what is she thinking?!
 --------------------------------
 [00000133][レイジ,レイジ,レイジ]
-え？　お前、姉さんがいるのか？
+Eh? You have a sister?
 --------------------------------
 [00000134][アルティナ,メル・シルフィス,アルティナ]
-そうよ。だいぶ前に「外の世界を見たい」
-とか言って、森から出て行ってしまったけど、
-今はどこをほっつき歩いているのやら……。
+Yes. She said she wants to see the world outside. With those words, she left the
+forest, and I don't even know where she is now.
 --------------------------------
 [00000135][ケフィア,,ケフィア]
-フゥ！　フゥフゥフゥ～！
+Fu! Fufufu~!
 --------------------------------
 [00000136][アルティナ,メル・シルフィス,アルティナ]
-ケフィア!?　わかったわ！
-すぐに行くから！
+Kefia?! I understand. I'll be right there!
 --------------------------------
 [00000137][レイジ,レイジ,レイジ]
-なんだ!?　どうしたんだ？
+What?! What is it?
 --------------------------------
 [00000138][アルティナ,メル・シルフィス,アルティナ]
-侵入者よ！　
-ケンタウロスたちが、森に入り込んできたわ！
-レイジ！　ついてきなさい！
+Intruders! Centaurs have invaded the forest. Rage, come with me!
 --------------------------------
 [00000139][アルティナ,メル・シルフィス,アルティナ]
-それにしても、ルーンベールの連中、
-よくあきらめずに森に入り込んでくるものね。
+At any rate, it looks like Runevale has not given up on this forest.
 --------------------------------
 [00000140][レイジ,レイジ,レイジ]
-いや、オレはまだ、
-いまいち納得がいかないんだけどさ。
-あいつら、本当にルーンベールから来てるのか？
+To be honest, I'm not so sure I agree. Are you really sure those guys are from
+Runevale?
 --------------------------------
 [00000141][アルティナ,メル・シルフィス,アルティナ]
-なにを言ってるのよ。あなたも見たでしょ？
-今襲ってきたのはケンタウロスじゃないの。
+What are you saying? Didn't you see them? The ones who attacked us this time
+were the Centaurs.
 --------------------------------
 [00000142][アルティナ,メル・シルフィス,アルティナ]
-ルーンベールといえば、人間とケンタウロスが
-作った国なのよ？
+Isn't Runevale a country of Humans and Centaurs?
 --------------------------------
 [00000143][レイジ,レイジ,レイジ]
-だから、襲って来てるのはルーンベールだってのか？
-かなり根拠としては薄いような気がするけど。
+Is that the reason why you think Runevale is attacking? I think we should have
+more evidence before we can be certain its them.
 --------------------------------
 [00000144][レイジ,レイジ,レイジ]
-でも、ルーンベールがどうなってるのか、
-気にはなるな。行ってみるってのも悪くないかな。
-あの子の情報も、つかめるかもしれないし……。
+But, if it really is Runevale, then I am concerned. If we go there, we might
+find news of that girl.
 --------------------------------
 [00000145][アルティナ,メル・シルフィス,アルティナ]
-……急にずいぶん自信を取り戻したようだけど、
-あなた１人で無事行き着けるのかしらね。
-まあ、行くも行かないもあなたの勝手だけど。
+...you recover your confidence pretty fast, now you're even planning to go
+alone. Well, it's your choice anyway.
 --------------------------------
 [00000146][ケフィア,,ケフィア]
-フフゥ！　フフ～フゥ！
+Ffu! Ff~fu!
 --------------------------------
 [00000147][アルティナ,メル・シルフィス,アルティナ]
-やっぱり今のは無しよ！
-勝手に行かせるわけにはいかないわ！
-まだ仕事を手伝ってもらわないと！
+No, wait. Don't just leave yet! I need your help again.
 --------------------------------
 [00000148][アルティナ,メル・シルフィス,アルティナ]
-今度は、森の中心にまで敵が入りこんだみたい！
-追い出しに行くわよ！
+This time, some of the enemies have made it through the center. We have to go
+after them!
 --------------------------------
 [00000149][レイジ,レイジ,レイジ]
-わかった！　行くぜ！
+I got it! Let's go!
 --------------------------------
 [00000150][アルティナ,メル・シルフィス,アルティナ]
-よかった……どうやらこのあたりに
-被害はないようね。
+That's great. It seems this place was not harmed.
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-……へぇ。森の奥に、こんな大きな木があったのか。
+Whoa. To think there is such a big tree in the middle of the forest.
 --------------------------------
 [00000152][アルティナ,メル・シルフィス,アルティナ]
-銀の森に古くから立っている「霊樹」よ。
-この木の周りでだけは、
-精霊たちも以前のように元気なの。
+This is the Spirit Tree, that has been here since ancient times in the Silver
+Forest. Only around this tree, can the spirits recover to their old self.
 --------------------------------
 [00000153][アルティナ,メル・シルフィス,アルティナ]
-ほらね？　みんな、とっても元気でしょう？
-うふふふっ。よしよし、遊びたいのね？
-ほら、ケフィアも出ておいで？
+Ah, see? Is everyone okay? Ahaha, are you playing? Kefia, you can come out now?
 --------------------------------
 [00000154][ケフィア,,ケフィア]
-フフフゥ～♪
+Fffu~!
 --------------------------------
 [00000155][アルティナ,メル・シルフィス,アルティナ]
-あ！　こら、そんなところに入らないの！
-こらこら！　くすぐったいってば。
-おとなしくしてないと、聞かせてあげないわよ？
+Ah! Come on, you can't go there. That tickles! Be a good girl and listen, okay?
 --------------------------------
 [00000156][アルティナ,メル・シルフィス,アルティナ]
-そうそう。そうやっておとなしく
-お行儀よくしてるのよ？
-それじゃあ、聞かせてあげるね？
+Yes, be a good girl, just like that, okay? Well then, shall I sing for you?
 --------------------------------
 [00000157][アルティナ,メル・シルフィス,アルティナ]
-ふ～ん♪　ふふふ～ん♪　ふふ～んふ～ん～♪
+Hm.... hm... hm...
 --------------------------------
 [00000158][レイジ,レイジ,レイジ]
-へぇ……。
+Oh....
 --------------------------------
 [00000159][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（今まで気付かなかったけど、アルティナの声って、
-こんなにきれいだったんだな……）
+@fcFFAAFFAA(Even though I was with her, I didn't know Altina had such a nice voice...)
 --------------------------------
 [00000160][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（それに……なんだろう。
-聞いてるうちにすごく心が落ち着いてくる……）
+@fcFFAAFFAA(And somehow, listening to her makes me feel more calm...)
 --------------------------------
 [00000161][？？？,,？？？]
-なんて素敵な歌声……。
+Such a wonderful voice...
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-え!?
+Eh?!
 --------------------------------
 [00000163][アルティナ,メル・シルフィス,アルティナ]
-誰！　誰かいるの!?
-出てきなさい！　出てこないと……。
-ただではすまないわよ！
+Who?! Who goes there?! Show yourself. If you don't come out, you're going to be
+sorry!
 --------------------------------
 [00000164][？？？,,？？？]
-は、はい……。す、すみません……！
-今、そちらに……。
+O... Okay... I'm sorry.... I'm coming out...
 --------------------------------
 [00000165][？？？,,？？？]
-あの……申し訳ありません。
-わ、私、ここに隠れていたのですが、
-きれいな声が聞こえてきたもので、つい……。
+Erm... please excuse me. I... I was hiding in here, but I heard such a good
+voice, so...
 --------------------------------
 [00000166][アルティナ,メル・シルフィス,アルティナ]
-隠れていたですって？　あなたは何者!?
-どこから来たの！
+Hiding there? Who are you?! Where did you come from!?
 --------------------------------
 [00000167][エルミナ,ローデリア,エルミナ]
-私……ですか？
-東の聖王国ルーンベールから参りました、
-エルミナと申します……。
+Me? I come from Holy Kingdom Runevale of the East. My name is Elmina.
 --------------------------------
 [00000168][アルティナ,メル・シルフィス,アルティナ]
-ルーンベール!?　じゃあ、さっきの
-ケンタウロスたちの仲間なの!?
+Runevale?! So, you are an ally of those Centaurs?!
 --------------------------------
 [00000169][エルミナ,ローデリア,エルミナ]
-あ、あの怖い方たちですか……？
-い、いえ、違います……！
-私、あの方たちに追われて……！
+T... those scary people...? No.. it's not like that at all... I was being chased
+by them...!
 --------------------------------
 [00000170][レイジ,レイジ,レイジ]
-アルティナ！　落ち着けって！
-さっきの奴、「帝国の騎士」って言ってたろ？
-ルーンベールとは関係なさそうじゃないか！
+Altina! Calm down! That guy said he was a knight of the Empire, didn't he? It
+has nothing to do with Runevale!
 --------------------------------
 [00000171][アルティナ,メル・シルフィス,アルティナ]
-そんなこと、わかったもんじゃないわ！
-森への侵入者は許さない！
+I know that! But intruders are not allowed in the forest!
 --------------------------------
 [00000172][エルミナ,ローデリア,エルミナ]
-ご、ごめんなさい……！　私、森に入るつもりは
-なかったのです……。そもそも、シルディアに
-こんな深い森があるとは、全然知らなくて……。
+I... I'm sorry! I wasn't actually trying to enter the forest. Come to think of
+it, I didn't know that Syldia had such a deep forest...
 --------------------------------
 [00000173][レイジ,レイジ,レイジ]
-……え？　シルディア？
-今、シルディアって言った？
+Eh? Syldia? Did you say Syldia?
 --------------------------------
 [00000174][エルミナ,ローデリア,エルミナ]
-……はい。シルディアと。
-…………あら……？
+...yes. Syldia. .....huh?
 --------------------------------
 [00000175][エルミナ,ローデリア,エルミナ]
-あの……つかぬことをうかがいますが……。
-もしかして、ここはシルディアでは
-ないのでしょうか……？
+Erm... this might seem like an awkward question, but could it be possible, that
+this isn't Syldia...?
 --------------------------------
 [00000176][アルティナ,メル・シルフィス,アルティナ]
-……ここは、フォンティーナの銀の森よ。
+This is the Silver Forest of Fontina.
 --------------------------------
 [00000177][エルミナ,ローデリア,エルミナ]
-……フォンティーナ？　
-あの、あなたがおっしゃっているのは、
-エルフの国、フォンティーナのことでしょうか……？
+...Fontina? Erm... the Fontina that you speak of, could you mean the Elf Country
+Fontina...?
 --------------------------------
 [00000178][アルティナ,メル・シルフィス,アルティナ]
-フォンティーナは、それ以外にないわよ。
+There's only one Fontina, isn't that right?
 --------------------------------
 [00000179][エルミナ,ローデリア,エルミナ]
-そうですか……。ご親切にありがとうございます。
-フォンティーナといえば……ルーンベールから見て
-南側にあり、シルディアは西……。
+Ah, I see... Thank you for telling me. Fontina is... the South side of Runevale,
+and Syldia is at the West...
 --------------------------------
 [00000180][エルミナ,ローデリア,エルミナ]
-…………え？　……えええっ！
-では、私、全然違う方向に……！
+........ eh? EHHH?! That means, I went towards a completely wrong direction...!
 --------------------------------
 [00000181][エルミナ,ローデリア,エルミナ]
-どうしましょう。私、とんでもないことを……。
-いったい私、これからどうすれば……！
-こんなことでは、アイラ様に合わせる顔が……！
+What should I do? I made such an unthinkable mistake! What should I do now? I
+won't be able to meet Aira-sama like this...!
 --------------------------------
 [00000182][エルミナ,ローデリア,エルミナ]
-あ、アイラ様……！　お許し下さい！
-うっ……ううぅうっ……ぐすっ……。
+Ah, Aira-sama...! Please forgive me! U....uuuu...sniff...
 --------------------------------
 [00000183][アルティナ,メル・シルフィス,アルティナ]
-ちょ、ちょっと！　落ち着きなさい！　泣かないで！
-とにかく、落ち着いて事情を話しなさい！
-侵入の件については、それからよ！
+W... wait! Calm down! Don't cry. Anyway, calm down and explain everything. Let's
+start with entering the forest.
 --------------------------------
 [00000184][エルミナ,ローデリア,エルミナ]
-ぐすっ……ぐすっ……。も、申し訳ありません。
-ぐすん……ぐすっ……ううううぅ……。
+sob...sob... P... Please excuse me. ....sob...sob....uuuuu...
 --------------------------------
 [00000185][アルティナ,メル・シルフィス,アルティナ]
-そうなの……ルーンベールもそんな状態に……。
-どうりで、森にも異変が起きているはずだわ……。
+I see... to think something like that has happened to Runevale.... It's no
+wonder something strange is happening to the forest...
 --------------------------------
 [00000186][エルミナ,ローデリア,エルミナ]
-はい……。聖騎士団は壊滅して、
-城で指揮を取っておられた国王陛下も戦死され……。
-私も、命からがら都を逃げ出しました。
+Yes... the Holy Knights were wiped out, the castle received word that the King
+has died in battle.... I barely got away with my life either.
 --------------------------------
 [00000187][エルミナ,ローデリア,エルミナ]
-でも、まだルーンベールでは生き残った王女、
-アイラ姫の指揮の下で戦いが続いています。
+However, the surviving princess of Runevale, Aira-sama, has now taken command,
+and is continuing the war.
 --------------------------------
 [00000188][エルミナ,ローデリア,エルミナ]
-西方のクラントール王国は完全に
-帝国に占領されてしまったようですが、
-ルーンベールを始め、他の諸国では……。
+Crantor Kingdom from the west has already been completely taken over by the
+Empire. Starting with Runevale, all the other countries will also be...
 --------------------------------
 [00000189][エルミナ,ローデリア,エルミナ]
-帝国軍に対する抵抗が続いているようです。
-アイラ様はそうした勢力と手を結ぶため、
-なんとか連絡を取ろうと努力しておられます。
+The resistance against the Imperial Front is still continuing. Aira-sama is
+gathering all allies. We are working hard to contact other forces.
 --------------------------------
 [00000190][エルミナ,ローデリア,エルミナ]
-私も、アイラ様の命令でヴァレリア地方の
-中央にある都市国家シルディアに向かうところ
-だったのですが、どういうわけだか、ここに……。
+I too, am under orders from Aira-sama to go to Syldia Capital, located in the
+center of Valeria. That's how it was supposed to be, but here I am...
 --------------------------------
 [00000191][レイジ,レイジ,レイジ]
-どうしてシルディアに向かってたんだ？
+Why were you headed to Syldia?
 --------------------------------
 [00000192][エルミナ,ローデリア,エルミナ]
-はい、なんでもシルディアには
-帝国と戦う意思を持つ方々が集まり……
+Yes, it seems that there were people in Syldia who were willing to fight against
+the Empire.
 --------------------------------
 [00000193][エルミナ,ローデリア,エルミナ]
-「ヴァレリア解放戦線」という
-義勇兵部隊を結成しているとか。
+They are known as the Valeria Liberation Front, consisting of volunteer
+soldiers.
 --------------------------------
 [00000194][エルミナ,ローデリア,エルミナ]
-その状況を視察した上で、
-私にできることがあればお手伝いするように、
-というのがアイラ様のお言いつけです。
+I knew about the situation, and I told Aira-sama that I would help out in any
+way that I could, so she asked me to do this.
 --------------------------------
 [00000195][アルティナ,メル・シルフィス,アルティナ]
-そう……。森の外も、そんなことに……。
+I see... so much is happening outside this forest...
 --------------------------------
 [00000196][レイジ,レイジ,レイジ]
-シルディア……ヴァレリア解放戦線か。
-そこには、いろんな国の連中が集まってるんだよな？
+Syldia... Valeria Liberation Front... People from all countries gathered
+there...
 --------------------------------
 [00000197][レイジ,レイジ,レイジ]
-だったら……そこに行ってみるべきかもしれないな。
-少なくとも、この世界の状況はわかりそうだし……。
-もしかしたら、あの子のことも……。
+That means that I will have to go there too... Even if it's just a little, I
+will know more about what is happening to this world. And perhaps hear more news
+about that girl too.
 --------------------------------
 [00000198][レイジ,レイジ,レイジ]
-……よし、わかった！
-エルミナ、オレもシルディアに行くぜ！　
+Okay, I understand! Elmina, I am going to Valeria too!
 --------------------------------
 [00000199][エルミナ,ローデリア,エルミナ]
-本当ですか？
-一緒に来ていただければ、大変心強いです。
-ありがとうございます……。
+Really? If you would come with me, I would feel much more at ease! Thank you
+very much!
 --------------------------------
 [00000200][レイジ,レイジ,レイジ]
-いや、エルミナのためじゃないんだ。
-オレも帝国と戦わなきゃならない理由があるからな。
-アルティナ。お前も一緒に来ないか？
+I'm not just doing this for you. I have a reason to be fighting the Empire as
+well. Altina, would you come along with us too?
 --------------------------------
 [00000201][アルティナ,メル・シルフィス,アルティナ]
-え!?　私？　何を言ってるのよ。
-私には、この銀の森を守るという役目が……。
+Eh? Me? What are you saying? My duty is to protect this Silver Forest.
 --------------------------------
 [00000202][レイジ,レイジ,レイジ]
-だけど、さっきエルミナから聞いただろ？
-森の外は、もっとひどい状況になってるって。
-その状況を放っておいたら……。
+But you heard what Elmina said, right? Outside of this forest, the situation is
+much worse. If this is allowed to continue as it is now...
 --------------------------------
 [00000203][レイジ,レイジ,レイジ]
-森の中だって、もっともっと
-ひどいことになるかもしれないぞ？
-一度、外の様子を見てきたほうがいいんじゃないか？
+Then it will only be a matter of time before this forest becomes much much
+worse. Won't you at least come out to see what is happening outside?
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-森の見回りは、他の人に代わってもらうことも
-できるだろう？
+For patrolling the forest, isn't there anyone who could take over?
 --------------------------------
 [00000205][アルティナ,メル・シルフィス,アルティナ]
-………………。
+......
 --------------------------------
 [00000206][レイジ,レイジ,レイジ]
-いや、無理にとは言わないよ。
-お前の都合だってあるんだしな。
-変なこと言って、悪かった。
+Nevermind, I shouldn't have made such a request. I'm sorry for putting you in
+such a spot.
 --------------------------------
 [00000207][アルティナ,メル・シルフィス,アルティナ]
-……ううん。森を守るためには……
-外の様子を知らなくてはならない……。
-そのとおりかもしれないわね……。
+For the sake of protecting this forest, we do have to know what is going on
+outside... What you said may be correct....
 --------------------------------
 [00000208][アルティナ,メル・シルフィス,アルティナ]
-……少し、待ってくれる？
-森から出るには……長老会議の許可を取らないと。
+...could you wait for a bit? To leave, I would have to seek the permission from
+the Elders.
 --------------------------------
 [00000209][エルミナ,ローデリア,エルミナ]
-で、では、アルティナさんも
-来ていただけるのですか？
+So... Altina is coming too?
 --------------------------------
 [00000210][アルティナ,メル・シルフィス,アルティナ]
-そうね。行くわ。
-あなたたちと一緒にシルディアへ……！
+Yes... let's go. We'll all go together to Syldia!
 --------------------------------
 [00000211][ケフィア,,ケフィア]
-フウ！　フウフゥフゥ～！
+Fuu! Fuufufu~!
 --------------------------------
 [00000212][アルティナ,メル・シルフィス,アルティナ]
-ごめんなさいね、ケフィア。
-あなたを外に連れて行くわけにはいかないの。
-でも、必ず帰ってくるから！　いい子で待っててね。
+I'm sorry, Kefia, but I can't take you with me ouside. But, I promise to return!
+Be a good girl and wait for me.
 --------------------------------
 [00000213][ケフィア,,ケフィア]
-フゥ～……。
+Fuuuuu....
 --------------------------------
 [00000214][アルティナ,メル・シルフィス,アルティナ]
-……レイジ、エルミナ。あなたたちは私の家で、
-出発の準備をしておいて。
-私は、長老たちに話を通してくるから。
+Rage, Elmina. Please wait at my home to get ready. I will speak to the elders
+about this.
 --------------------------------
 [00000215][アルティナ,メル・シルフィス,アルティナ]
-私は……森を守るために、行かなきゃいけないって！
+For the sake of protecting this forest, I have to go!
 --------------------------------
 [00000216][none]
-@lt1@dt2@db1@dc88000088翌日。「長老会議」との話し合いを終えた
-アルティナと共に、
-レイジたちは銀の森を後にした。
+@lt1@dt2@db1@dc88000088 The following day, after speaking with the Elder Council,
+together with Altina, Rage and Elmina leave the Silver Forest.
 --------------------------------
 [00000217][none]
-@lt1@dt2@db1@dc88000088目指すは、都市国家「シルディア」の近くに位置する
-「ヴァレリア解放戦線」の砦。
+@lt1@dt2@db1@dc88000088 Their objectives, to reach Syldia Capital and the Valeria Liberation Front.
 --------------------------------
 [00000218][none]
-@lt1@dt2@db1@dc88000088ケットシーのリンリンを案内に立て、
-帝国軍の目を避けるように進むレイジたちの胸には、
-一抹の不安と、かすかな希望とが同居していた。
+@lt1@dt2@db1@dc88000088 With Cait Sith Rinrin guiding them,
+they managed to evade the pursuit of the Imperial Army.
+Faint hopes and unease were never too far apart.
 --------------------------------
 [00000219][none]
-@lt1@dt2@db1@dc88000088帝国軍と激しい戦いを繰り広げているという
-その砦で、彼らはなにを見るのだろうか……？
+@lt1@dt2@db1@dc88000088 The fierce battle from the Imperial Army is constantly spreading.
+From here, what would they find...?
 --------------------------------

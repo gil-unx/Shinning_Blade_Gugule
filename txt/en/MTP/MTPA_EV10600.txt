@@ -1,1170 +1,965 @@
 [0280]
 *****************
 [00000000][none]
-@lt1シルディアに戻ったヴァレリア解放戦線の面々を
-迎えたのは、遠く離れたリーベリア地方からの
-心強い援軍であった。
+@lt1Valeria Liberation Front returns to Syldia, where reinforcements had 
+arrived to join them.
 --------------------------------
 [00000001][none]
-@lt1援軍を率いるのは、聖フィリアス王国の姫騎士
-と名高いクララクラン王女。
+@lt1The reinforcements were lead by Saint Philias Kingdom's Princess Knight, 
+the famous Princess Clalaclan.
 --------------------------------
 [00000002][none]
-@lt1リーベリアの諸国は、ヴァレリアを襲う
-危機の知らせを受け、彼女を指揮官として
-大規模な遠征部隊を派遣したのだ。
+@lt1Hailing from Riveria, the Princess knew of Valeria's crisis, and she led 
+her soldiers to help in the war.
 --------------------------------
 [00000003][none]
-@lt1ドラゴニア帝国が起こした戦乱は、こうして
-大陸全土の戦いへと発展していくこととなる。
+@lt1The war with Dragonia Empire, will turn into a full-scale land battle.
 --------------------------------
 [00000004][none]
-第６章 輝ける光のシンフォニー
+Chapter 6 Symphony of Shining Light
 --------------------------------
 [00000005][クララクラン,クララクラン,クララクラン]
-……以上が、聖フィリアス王国より
-預かってまいりました戦力の内訳です。
-セイランからの派遣隊についてはこちらの書類を。
+And so, from Philias, we are here to provide assistance. We have this scroll
+from Seiran.
 --------------------------------
 [00000006][サクヤ,マキシマ,サクヤ]
-了解しました、クララ姫。
-貴国を始め、リーベリア地方の皆さんからの
-多大なる支援に感謝します。
+Understood, Princess Clala. We are grateful to you and everyone from Riveria.
 --------------------------------
 [00000007][クララクラン,クララクラン,クララクラン]
-以前、リーベリアが危機に陥った際には、
-ベスティアから援軍をお送りいただきました。
-今回はそのお返し、ということですわ。
+Previously, Riveria was in a crisis. Bestia helped us out. Now is the time to
+return that favor.
 --------------------------------
 [00000008][クララクラン,クララクラン,クララクラン]
-それにドラゴニア帝国の拡大は、
-いまやエンディアス大陸全体に関わる問題です。
-このまま放置するわけにはまいりません。
+In addition, Dragonia Empire expanding its territory is becoming a problem for
+the whole of Endias. We cannot leave it alone.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-でも、他の地方から援軍が来てくれるなんて、
-今まで以上に話が大きくなってきたな。
+Even so, it's still a big deal that you are helping us out by sending your
+troops all the way here.
 --------------------------------
 [00000010][クララクラン,クララクラン,クララクラン]
-ふふふっ、それを言ったら、あなたは異世界から
-わざわざ来てくれたわけではありませんか。
-そうでしょ？　レイジ殿。
+Hahaha, even though you say so, you came all the way from another world to help,
+didn't you, Rage-dono?
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-え？　オレのこと知ってるの？
+Eh? You know about me?
 --------------------------------
 [00000012][クララクラン,クララクラン,クララクラン]
-ええ。今やあなたのことを知らぬものなど
-おりませんわ。異世界から来られた
-伝説の剣の使い手、レイジ殿。
+Yes. There is no one who hasn't heard of you. Rage-dono, the one from another
+world, who wields the Legendary sword.
 --------------------------------
 [00000013][クララクラン,クララクラン,クララクラン]
-そう、あなたこそ、クラントール王国の
-伝説に語られる勇者様なのですわよね……！
+That's right. You are the legendary hero of Crantor Kingdom.
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-え？　え？　え？
+Eh? Eh? Eh?
 --------------------------------
 [00000015][クララクラン,クララクラン,クララクラン]
-なるほど、今までの勇者様とは少し雰囲気が
-違うようですが、これはこれでまた……。
+I see, you are still lacking just a little bit. With just a little bit more...
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-な、なんだ？　どうしたんだ？
-急に目を輝かせて身を乗り出してきて……。
+W...what? What is it? Your eyes seemed to be glittering...
 --------------------------------
 [00000017][クララクラン,クララクラン,クララクラン]
-あら。これは失礼をいたしました。
-私、勇者様全般に大変興味がございまして……。
+Oh my, please excuse me. It's just that I have an interest in all the heroes.
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-そ、そうなんだ……。
+I... see.
 --------------------------------
 [00000019][クララクラン,クララクラン,クララクラン]
-そうそう、ごあいさつが遅れましたわ。
-私、聖フィリアス王国第一王女、
-クララクランと申します。
+That's how it is. Please pardon my late greetings. I am the first princess of
+Saint Philias Kingdom, Clalaclan.
 --------------------------------
 [00000020][クララクラン,クララクラン,クララクラン]
-よろしくお見知りおきを。勇者レイジ様。
+I look forward to knowing you more, hero Rage-sama.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-そ、そーですか。ごていねいにどうも。
-こちらこそよろしく……。
+I see. Same goes for me too...
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（すごく真面目そうな人だけど、
-なんかちょっと変わったところもあるなぁ……。
-この世界のお姫様って、みんなそうなのか？）
+@fcFFAAFFAA(She seems to be an earnest and polite person, 
+but seems also a little bit strange. 
+Are all the princesses in this world all like that?)
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（でも、優秀そうではあるし、ラナやアルティナ
-あたりと比べたらぜんぜんお姫様っぽいし、
-頼りになる仲間が増えたと思っていい……のかな？）
+@fcFFAAFFAA(But, she definitely is more refined than Rana and Altina, and more like a princess. If she joins us, our allies will increase, right?)
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（いや、きっとそうだな。遠い国から来た
-お姫様の戦いっぷり……。
-きっとすげえんだろうなぁ……！）
+@fcFFAAFFAA(No, it has to be so. A Princess coming all the way here from a distant country to help us. It's just amazing.)
 --------------------------------
 [00000025][バルドル,,バルドル]
-奴らめ、増長しおって……！
-今しがた、リーべリア地方からの
-援軍が到着したとの報告があったぞ！
+Those wretches grow by the hour. Even now, I get reports of back-up coming from
+Riveria!
 --------------------------------
 [00000026][バルドル,,バルドル]
-ただでさえ、このところ負けが続いて
-せっかく占領した領土を次々と取り返されて
-おるというのに……。
+And now, we are in danger of losing the land we fought hard to take.
 --------------------------------
 [00000027][バルドル,,バルドル]
-このまま奴らを勢いに乗せては、
-本当に取り返しのつかぬ状況に追い込まれかねん。
+If this keeps up, they will be forcing us back.
 --------------------------------
 [00000028][バルドル,,バルドル]
-おぬしたち！　なにかこの状況を打破する、
-いい考えはないのか！
+All of you! Can't you think of something to change the situation?!
 --------------------------------
 [00000029][スレイプニル,,スレイプニル]
-黒竜教の暗黒司祭バルドルよ……。
-貴公が、作戦に余計な口を出さなければいい。
-それだけのことだ。素人は戦に首を突っ込むな。
+Black Dragon Clan Dark Priest Balder, I would advise you not to shoot your mouth
+regarding our battles. Amateurs don't belong on the battlefield.
 --------------------------------
 [00000030][スレイプニル,,スレイプニル]
-まったく、こちらの行動に干渉した上に、
-伯爵などと名乗る得体の知れぬ男や、
-無愛想な竜騎士ふぜいを重用するとは……。
+Good grief. In addition to your interference, I have to deal with that Earl,
+whose name I don't even know, and that unsociable Dragon Knight.
 --------------------------------
 [00000031][ファフナー,,ファフナー]
-………………。
+.....
 --------------------------------
 [00000032][スレイプニル,,スレイプニル]
-貴公はいったいなにを考えておるのか。
-その傍若無人なふるまいこそが、我が軍の
-相次ぐ敗退につながっている。そうは思わぬか？
+Exactly what are you thinking? Do you intend to just stand there and watch while
+my armies are beaten back?
 --------------------------------
 [00000033][スルト,,スルト]
-ったくよぉ。黒竜教団だかなんだかしらねえが、
-お前らの都合だけで戦ができるかってんだよ。
+Jeez. I don't care if you are the Black Dragon Clan or not, you don't need to
+fight, right?
 --------------------------------
 [00000034][スルト,,スルト]
-だいたい、バラされて封印されてた
-ダークドラゴンの体は全部集めただろうが。
-お前はそっちの再生に専念してりゃいい。
+After all, the seal is almost broken, DarkDragon's body is all collected. Aren't
+you getting the revival you want?
 --------------------------------
 [00000035][バルドル,,バルドル]
-お、お、おぬしたちは私に向かって、
-なんという口の聞き方を……！
-自分たちの落ち度を棚に上げて……！
+You... you all talk to me with such tones, after you failed so many times?
 --------------------------------
 [00000036][バルドル,,バルドル]
-よいか、おぬしたち！　私に逆らうということは、
-すなわちダークドラゴン様のお言葉に背くも
-同然なのだぞ！　わかっておるのか！
+Listen, all of you! To go against me, is to go against the words of
+DarkDragon-sama! Do you understand?
 --------------------------------
 [00000037][アルベリッヒ,,アルベリッヒ]
-……ダークドラゴン様に背く気はない。
-その復活こそ、我らが共通の目的。
+We have no intentions of going against DarkDragon-sama. We all share the same
+goals, his revival.
 --------------------------------
 [00000038][アルベリッヒ,,アルベリッヒ]
-……だが、能無しばかりのこの有様で
-それが果たせるかどうか。
-はなはだ心もとなくなってきたな。
+However, having to work with such an incompetent person, this result is not
+unexpected. It's impossible for me to do this.
 --------------------------------
 [00000039][スルト,,スルト]
-てめえ……こっちにケンカ売ってやがんのか？
-上等だ！　いつでも買ってやらあ！
+Why you! Are you trying to pick a fight with me? That's fine by me!
 --------------------------------
 [00000040][アイザック,,伯爵]
-ここは冷静になるべきとき。
-いら立つ気持ちは理解できますが、
-内輪もめはまったく無益なこと。
+We should all just calm down here. I understand your anger. However, an internal
+argument serves no purpose.
 --------------------------------
 [00000041][アイザック,,伯爵]
-確かに、我が軍は敵の反撃に手を焼いている。
-逆に、敵は援軍を加えてその勢いをさらに
-増しつつあります。
+True, our forces have been reduced from the enemy's counter-attack. And the
+enemy numbers keep increasing from the reinforcements.
 --------------------------------
 [00000042][アイザック,,伯爵]
-「シャイニング・ブレイド」の使い手、
-などと呼ばれる者もいるようでその存在は確かに
-気にはなりますが……。
+The user of the Shining Blade, that's what they call him. I'm concerned about
+the presence of this person.
 --------------------------------
 [00000043][アイザック,,伯爵]
-私の見たところ、この者はまったく未熟。
-「シャイニング・ブレイド」の復活さえ封じれば、
-さほどの脅威にはなりえないでしょう。
+From what I have seen, this person is young and inexperienced. I don't think the
+Shining Blade poses a threat to us.
 --------------------------------
 [00000044][アルベリッヒ,,アルベリッヒ]
-ほう……。
+Oh?
 --------------------------------
 [00000045][アイザック,,伯爵]
-また、敵軍全体を見ても、
-急激に陣容が大掛かりになった影響から、
-内部の統制を取るのに難航している様子。
+If you look carefully at the enemy, they are just a hurriedly build up group,
+with no internal control.
 --------------------------------
 [00000046][アイザック,,伯爵]
-今がまさに奴らを叩く、絶好の機会でしょう。
-指令拠点となっているシルディアの砦を落とし、
-敵の勢いをそぐのです。
+Now is exactly the right time to strike at them. Once we make their command
+center, the Syldia fortress fall, their strength will greatly weaken.
 --------------------------------
 [00000047][スレイプニル,,スレイプニル]
-ふむ……。だが、そのための戦力は？　
-認めたくはないが、我が軍の損害はかなり大きい。
-攻勢に出る余力など、どこにもないぞ。
+Hmph. And where will you get the army for this task? I don't want to admit this,
+but my forces have suffered great loss. I no longer have the numbers for this.
 --------------------------------
 [00000048][アイザック,,伯爵]
-ご心配なく。こんなこともあろうかと、
-皆様のために充分な数の補充兵を
-ご用意しております。
+Do not worry. About this, I have enough reinforcements prepared for everyone.
 --------------------------------
 [00000049][アイザック,,伯爵]
-ご入用とあらば、さらなる補充、
-さらに強力な部隊をもご用意できます。
-存分にご活用を。
+We will resupply you, and make your forces even stronger. Use as you please.
 --------------------------------
 [00000050][バルドル,,バルドル]
-…………いつの間に。
+Since when?
 --------------------------------
 [00000051][スルト,,スルト]
-……気に入らねえな。
-だが、くれるっていうものを断る理由もねえ。
-ぞんぶんに利用させてもらうぜ。
+Who cares. I've no reason to refuse. I will make full use of this then.
 --------------------------------
 [00000052][バルドル,,バルドル]
-……な、なにをしておる、おぬしたち！
-伯爵の働きで、すでに準備は整っておるのだ。
-ただちに攻撃を開始せよ！
+What are you all doing? With the Earl's backing, you should hurry up and make
+preparations, then attack!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-やれやれ、どうしたもんかなあ……。
+Jeez, what to do now...
 --------------------------------
 [00000054][クララクラン,クララクラン,クララクラン]
-申し訳ありません。こちらの手違いで。
+Please excuse me, it's my mistake.
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-あ、いや、クララ姫のせいじゃないよ。
-ある意味しょうがないっていうか……。
+Ah, no, it's not your fault. That wasn't what I was talking about anyway.
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-フィリアス軍のやり方と、
-オレたちのやり方が違いすぎるんだ。
-それをなんとかしないと……。
+The Philias army have a much different way of handling things from us. I was
+thinking about that...
 --------------------------------
 [00000057][リン,シャオメイ,リンリン]
-どうしたの、レイジ？
-手間取ってるようね？
+What is it, Rage? You have a task to do?
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-そうなんだよ。
-フィリアス軍がベスティアに向かう前に
-合同訓練をしてたんだけど……。
+Something like that. The Philias army is working with Bestia for a combined
+training exercise.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-オレたちとは命令系統とか基本戦術が違いすぎてて、
-うまく連携が取れないんだ。
+If the command system and basic tactics differ too much, we won't be able to
+command them well.
 --------------------------------
 [00000060][リン,シャオメイ,リンリン]
-そう。そっちもなのね……。
+Yes, and that may be the same...
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-そっちもって？
+What might be the same?
 --------------------------------
 [00000062][リン,シャオメイ,リンリン]
-再編の終わったベスティア軍と、
-エルフ族の戦士たちが共同で陣を張ってるの。
-クラントール方面から来る帝国軍に備えてね。
+Regrouping of the Bestia army with the elf tribe warriors was a stretch. And we
+have to prepare for Imperial Army coming from Crantor.
 --------------------------------
 [00000063][リン,シャオメイ,リンリン]
-でも、急激に部隊の規模が大きくなったのと
-守らなければならない範囲が広がったこと。
+However, to suddenly increase the deploying area like is not possible.
 --------------------------------
 [00000064][リン,シャオメイ,リンリン]
-それから、さっきレイジも言っていたように
-各隊の命令系統なんかが食い違っていること。
-そんなことがあって、意思疎通がうまくいかないの。
+And in addition to what Rage just said, different command system, different
+food, this creates more problems.
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-そっか。他のところも同じなのか……。
+I see, it's the same at other places too.
 --------------------------------
 [00000066][リン,シャオメイ,リンリン]
-様々な勢力の混成部隊をまとめあげて
-軍として機能させるのは簡単なことではないわ。
-機能さえすれば、強力な力になるのに。
+Increasing the morale of a mixed army is no easy task. If we could, our
+abilities would be increased.
 --------------------------------
 [00000067][リン,シャオメイ,リンリン]
-そのために調整が必要なことが多くって、
-その対応でサクヤも大忙しよ。
+For this reason, we need to keep adjusting the army. We need Sakuya for this.
 --------------------------------
 [00000068][レイジ,レイジ,レイジ]
-せっかく援軍も来たってのに、
-なかなか上手くいかないもんだな……。
-このままじゃまずいよなぁ。
+We finally get reinforcements, yet we are unable to make good use. If this keeps
+up, it would be very bad.
 --------------------------------
 [00000069][クララクラン,クララクラン,クララクラン]
-当面のところは仕方ないのかも知れませんが、
-すり合わせを急がなければなりませんね。
+I don't really know about the current difficulties, but we must solve the
+friction quickly.
 --------------------------------
 [00000070][リン,シャオメイ,リンリン]
-そうね。早くこちらの体制を整えなきゃ。
+Indeed. We will have to reform them.
 --------------------------------
 [00000071][リン,シャオメイ,リンリン]
-もっとも、これまでの戦いで、
-敵もかなり消耗しているから
-多少は時間の余裕があると思うんだけど……。
+Although, we have significantly reduced much enemy numbers. We may have bought
+quite some time, but still...
 --------------------------------
 [00000072][クララクラン,クララクラン,クララクラン]
-何ですか、この音は？
+What was that sound?
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-敵襲を知らせる合図だ！
+We have reports of enemy assault!
 --------------------------------
 [00000074][フェンリル,,フェンリル]
-レイジ！　クララ姫！　敵襲だ！
-スレイプニルと暗黒騎士団が来る！
+Rage! Princess Clala! It's the enemy! Sleipnir and the Dark Knights are coming!
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-くそ。まずい時に！
+Damn! What bad timing!
 --------------------------------
 [00000076][リン,シャオメイ,リンリン]
-……ホントにまずいわね。
-ちょっと、敵の戦力をなめてたかも……。
+This is really bad. The enemy numbers should still be recovering...
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-その話は後にしよう！
-今はとにかく迎撃だ！
+We can talk later! We need to intercept them now!
 --------------------------------
 [00000078][フェンリル,,フェンリル]
-ご苦労だった、レイジ。
-状況を報告してくれ。
+Good work, Rage. Now, let's hear the report.
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-フォンティーナ、ルーンベール、ベスティア、
-とりあえずどこの拠点も、しばらくは安全そうだ。
+Fontina, Runevale, Bestia, in short, all the posts, are currently safe for now.
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-正直、連携がいいとは言えないけど
-それなりに防御を固めて、
-どうにか敵を跳ね返してる。
+However, the truth is, enemies surround us. Without fortification, the enemies
+would jump over.
 --------------------------------
 [00000081][フェンリル,,フェンリル]
-敵部隊の規模や指揮官は？
+What about the enemy commander?
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-規模はかなり大きかったけど……。
-これといって目立つような指揮官はいなかったな。
-スルトやスレイプニルは出てこなかった。
+The enemy numbers were large. I wasn't able to locate them. I didn't see Surt or
+Sleipnir either.
 --------------------------------
 [00000083][フェンリル,,フェンリル]
-そうか……。
-隊長、スレイプニルの攻撃以来、
-敵の将軍連中は鳴りを潜めてますね。
+I see. Captain, the enemy general must be in hiding.
 --------------------------------
 [00000084][サクヤ,マキシマ,サクヤ]
-そうね。敵はこれだけ大規模な攻勢に出ているのに、
-将軍たちが攻撃部隊の指揮をとってはいない。
-なんだか、気になるわね……。
+Indeed. To come up with such a large scale attack, there is no way this could be
+possible without their commanders. I'm concerned about this.
 --------------------------------
 [00000085][フェンリル,,フェンリル]
-今までの攻撃はなにかの準備……。
-将軍連中はそっちの準備にかかっている……。
-そういう可能性もありそうですね。
+They seem to be preparing for something big. The generals are up to something, I
+believe.
 --------------------------------
 [00000086][リン,シャオメイ,リンリン]
-サクヤ！　フェンリル！
+Sakuya! Fenrir!
 --------------------------------
 [00000087][サクヤ,マキシマ,サクヤ]
-リンリン？　どうしたの？
+Rinrin? What is it?
 --------------------------------
 [00000088][リン,シャオメイ,リンリン]
-前線からの伝令よ！
-ベスティア方面、フォンティーナ方面で、
-それぞれ味方の戦線が突破されたわ！
+We have received news from the frontline! From Bestia and Fontina, the enemy has
+broken through!
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-そんなバカな！　防衛体制は整ってるはずだぜ？
+How can that be possible? Isn't their defense fortified?
 --------------------------------
 [00000090][リン,シャオメイ,リンリン]
-それぞれの隊、それぞれの軍ごとにはね。
-だけど、どこの隊も重大な欠点を克服できないまま、
-帝国軍の攻撃を受けてしまったから。
+They all have their own armies of course. However, part of the groups had not
+overcome their weakness, and they took a big hit from the Imperial Army.
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-重大な欠点……。
-部隊同士の連携ってことか……。
+The weakness... working together with other armies, huh...
 --------------------------------
 [00000092][リン,シャオメイ,リンリン]
-そう。つまり、敵は部隊と部隊の間、
-２つの部隊の守備範囲が接するところを
-正確に狙って攻撃してきたのね。
+Yes. In other words, the enemy made a precise strike against the weakness in our
+defense.
 --------------------------------
 [00000093][リン,シャオメイ,リンリン]
-おそらく、これまでの散発的な攻撃は、
-弱点がどこかを探るための威力偵察だったのよ。
+If I'm not mistaken, these attacks up to now were merely a test to find out real
+weaknesses.
 --------------------------------
 [00000094][フェンリル,,フェンリル]
-くそ……。味なマネを。
-それで？　突破したのはどこの部隊だ!?
+Damn, this cunning lot. So? Which groups broke through?!
 --------------------------------
 [00000095][リン,シャオメイ,リンリン]
-ベスティア方面はスルト将軍率いる部隊。
-フォンティーナ方面は、スレイプニル将軍の
-暗黒騎士団のようね。
+For Bestia, it was general Surt. For Fontina, it was general Sleipnir.
 --------------------------------
 [00000096][フェンリル,,フェンリル]
-スルトか……！　とうとう出てきたか！
+Surt! He finally showed up!
 --------------------------------
 [00000097][サクヤ,マキシマ,サクヤ]
-まずいわね。ベスティアとフォンティーナで
-防衛線を破られたと言うことは……。
+This is really bad, for them to have broken through the defense at Bestia and
+Fontina...
 --------------------------------
 [00000098][リン,シャオメイ,リンリン]
-南北からシルディアに向けて進軍し、いつでも
-この砦を包囲できる状態になった、ということよね。
-敵の進撃を押さえて、包囲だけは阻止しなきゃ……。
+Syldia is being protected by this fortress. But if the enemy surrounds us and
+press their attack, we will not be able to stop them.
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-副隊長！　とにかく、スルトの方に向かおうぜ。
-奴も副隊長が出て来るのを待っているはずだ。
-そっちに気を取られてくれれば、進撃が鈍るかも！
+Vice-captain! In any case, you should head over to Surt. Seems he was waiting
+for you. We should be able to delay their assault here.
 --------------------------------
 [00000100][フェンリル,,フェンリル]
-そうだな。
-……隊長！
+Indeed. Captain!
 --------------------------------
 [00000101][サクヤ,マキシマ,サクヤ]
-わかったわ。
-スルト隊の方に戦力を集中して、
-そちらを確実に押さえましょう。
+I understand. If we focus on Surt, we might just get out of this.
 --------------------------------
 [00000102][リック,エルウッド,リック]
-了解です。でも、スレイプニルはどうします？
+Understood. But what should we do about Sleipnir?
 --------------------------------
 [00000103][サクヤ,マキシマ,サクヤ]
-暗黒騎士団は、別働隊にけん制させるわ。
-その間に私たちがスルト将軍を撃退すれば、
-包囲を阻止することができるはず。
+For the Dark Knights, we should leave it to other units. During this time, we
+will repel back general Surt, and prevent him from surrounding here.
 --------------------------------
 [00000104][サクヤ,マキシマ,サクヤ]
-それじゃあみんな、準備はいいわね？
-出撃よ！
+Well then everyone, are you ready? Move out!
 --------------------------------
 [00000105][バルドル,,バルドル]
-ダークドラゴン様！　朗報でございます！
+DarkDragon-sama! I bring our report!
 --------------------------------
 [00000106][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFなんだ、バルドル……。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFWhat is it, Balder...
 --------------------------------
 [00000107][バルドル,,バルドル]
-ブンブンうるさいハエどもの砦を
-完全に包囲いたしました！
+We have completely surrounded the fortress of those buzzing flies!
 --------------------------------
 [00000108][バルドル,,バルドル]
-これで、奴らの連携を封じることができます。
-あとは……各拠点を、虱潰しにしていくだけ！
+We have cut them off completely. It will only be a matter of time before all the
+other strongholds fall!
 --------------------------------
 [00000109][バルドル,,バルドル]
-我が方の勝利は
-もう決まったようなものでございます！
+Our victory is most assured!
 --------------------------------
 [00000110][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFF勝ち誇るのはまだ早い。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFIt is still too early to celebrate victory.
 --------------------------------
 [00000111][バルドル,,バルドル]
-ひっ!?
-……で、ですが、ダークドラゴン様……。
+Ach! But... DarkDragon-sama...
 --------------------------------
 [00000112][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFやつらを根絶やしにするまでは油断するな。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFUntil every single one of them is wiped out, do not be careless.
 --------------------------------
 [00000113][バルドル,,バルドル]
-…………っ。
+...uh.
 --------------------------------
 [00000114][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFF念のため、残った精霊王の卵を早急に探し出せ。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFFor this purpose, the remaining Spirit King Egg must be found quickly.
 --------------------------------
 [00000115][バルドル,,バルドル]
-は、ははっ！
-では、さっそく！
+Understood! Right away!
 --------------------------------
 [00000116][バルドル,,バルドル]
-ファフナー！　ファフナーはおるか！
+Fafner! Fafner, are you here?!
 --------------------------------
 [00000117][ファフナー,,ファフナー]
-はっ……。
+Here.
 --------------------------------
 [00000118][バルドル,,バルドル]
-魂吸収を中断し、一刻も早く精霊王の卵を探し出せ！
-よいな！
+Stop the harvesting of souls. Focus all priority on getting the Spirit King egg
+as soon as possible, understand?
 --------------------------------
 [00000119][ファフナー,,ファフナー]
-仰せのままに……。
+As you wish...
 --------------------------------
 [00000120][アルティナ,メル・シルフィス,アルティナ]
-あ、レイジ……。酒場に行くところなの？
+Ah, Rage. Are you going to the pub?
 --------------------------------
 [00000121][レイジ,レイジ,レイジ]
-ああ。最新の戦況を聞いてこないと。
-アルティナも行くのか？
+Yeah, I'm going to find out the current situation. Altina, you coming?
 --------------------------------
 [00000122][アルティナ,メル・シルフィス,アルティナ]
-ええ。砦の中を見回ってきたから、
-フェンリルさんに報告に行かなきゃ。
-……悪い知らせばかりだから、気が重いけど。
+Yeah, after my patrol, I have to report to Fenrir-san. ...getting these bad
+news, makes my heart sink...
 --------------------------------
 [00000123][アルティナ,メル・シルフィス,アルティナ]
-状況を報告します。
-砦の西側で、守備隊が苦戦中。
+This is the report. To the west of the fortress, the defenders are facing a
+tough battle.
 --------------------------------
 [00000124][アルティナ,メル・シルフィス,アルティナ]
-それに、北側もです。
-救援を求めていますが、どうしましょう？
+And to the north, they are requesting for back up. What should we do?
 --------------------------------
 [00000125][フェンリル,,フェンリル]
-そうだな……。誰か！　守備隊に伝えてきてくれ。
-増援を出すまでは時間がかかるが、必ず助けに行く。
-決してあきらめずに持ちこたえろってな。
+I see. We have to help the defenders. We must not give up, and hold on. What
+does everyone here think?
 --------------------------------
 [00000126][ミストラル,ネレイス,ミスティ]
-……気休めにもならん返事じゃな。
-しかし今は、他に答えようがないか……。
+Maybe it's just a reply to appease them, but we still have to answer them...
 --------------------------------
 [00000127][リン,シャオメイ,リンリン]
-ついでに言うと、
-東側も南側も、ほとんど同じ状況よ。
-おまけに、兵力や備蓄食料にも余裕なし。
+And speaking of this, the north side and south side face similar situations. In
+addition, the supplies and manpower is running low.
 --------------------------------
 [00000128][アルティナ,メル・シルフィス,アルティナ]
-敵の包囲が始まって、もう何日経つのかしら……。
-なんだか、追い込まれる一方のような気がするわ。
+With the enemy surround us like that, how long can we hold out... Seems like
+we're being forced to a corner...
 --------------------------------
 [00000129][リック,エルウッド,リック]
-外にはアルベリッヒの奴がいるってのに……。
-俺たちはただ、ここで耐えてることしか
-できないのか……！
+Alberich that bastard is still out there somewhere. We can't just sit here and
+wait!
 --------------------------------
 [00000130][レイジ,レイジ,レイジ]
-そうだな……。こうしている間にも、
-きっとローゼリンデはあいつらに利用されて……。
+Yeah... even now, they must still be using Roselinde...
 --------------------------------
 [00000131][龍那,,龍那]
-弱りましたね……。
-外と連絡さえつけば、なにか打開策も
-考えられるのでしょうが……。
+The situation is bad... we must somehow find a way to contact outside.
 --------------------------------
 [00000132][ユキヒメ,ユキヒメ,ユキヒメ]
-それができれば苦労はない。
-敵の包囲をすり抜けることさえできれば、
-とっくにレイジと私が行っているところだ。
+It would be great if that were possible. The enemy has us all surrounded. It
+might have been possible for Rage and I.
 --------------------------------
 [00000133][ユキヒメ,ユキヒメ,ユキヒメ]
-だが、こう厳重に取り巻かれてしまっては、
-敵陣を抜けることも容易ではない……。
-というよりも、ほぼ不可能だ。
+However, it would not be easy to break through the enemy lines. It is just not
+possible.
 --------------------------------
 [00000134][アルティナ,メル・シルフィス,アルティナ]
-そう……ですよね。
-抜けられない……ですよね。
-誰も、あの包囲では……。
+I.... see. We can't escape. No one....
 --------------------------------
 [00000135][エルミナ,ローデリア,エルミナ]
-う……っ。うううっ……。ぐすっ……。
-アイラ様……！
+U.... uuu..... ug...... Aira-sama...!
 --------------------------------
 [00000136][レイジ,レイジ,レイジ]
-あ……！　バ、バカ！　ユキヒメ！
-なんてことを言うんだよ！　ラナとアイラ姫が、
-ちょっと前から行方不明だってのに……。
+Ah! Y... Yukihime, you idiot! What are you saying at a time like this! Ranah and
+Princess Aira are currently missing right now...
 --------------------------------
 [00000137][ユキヒメ,ユキヒメ,ユキヒメ]
-……そうか！　そうだったな……。
-これは失言だった。私としたことが……。
+Ah! That's right. Please excuse my words...
 --------------------------------
 [00000138][ユキヒメ,ユキヒメ,ユキヒメ]
-ア、アルティナ？　エルミナ？　心配はいらないぞ？
-あの２人のことだ。きっと、そのうち、
-ふらりと帰ってくるに違いない。
+A... Altina? Elmina? Don't worry so much. Those two, they are bound to return
+here unharmed.
 --------------------------------
 [00000139][ユキヒメ,ユキヒメ,ユキヒメ]
-ほら、あれだ。
-どうせ、またラナが気まぐれを起こしてだな、
-アイラを連れてどこかへ……。
+Yeah, like that time, Ranah wanders off somewhere in a whimsy, Aira chases after
+her and such...
 --------------------------------
 [00000140][エルウィン,ラナ・シルフィス,ラナ]
-あたしがどうかした？
+What is it about me?
 --------------------------------
 [00000141][アルティナ,メル・シルフィス,アルティナ]
-……え？　ね、姉さん!?
+...eh? Big sister?!
 --------------------------------
 [00000142][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エルミナ……ごめんなさいね。
-だいぶ心配をかけてしまったわね……。
+Elmina... I'm sorry. I made you worry...
 --------------------------------
 [00000143][エルミナ,ローデリア,エルミナ]
-アイラ様……！
+Aira-sama!
 --------------------------------
 [00000144][レイジ,レイジ,レイジ]
-ラナ!?　アイラ姫!?　お前ら、どこ行ってたんだ!?
+Ranah? Princess Aira? Where have the two of you been?!
 --------------------------------
 [00000145][エルウィン,ラナ・シルフィス,ラナ]
-ちょっとね。考えがあって、ルーンベールまで。
-あと、ベスティアとかフォンティーナとか。
+Let's see. Runevale first. And then Bestia and Fontina.
 --------------------------------
 [00000146][アルティナ,メル・シルフィス,アルティナ]
-あの短い期間でそんなに!?　い、いえ、それ以前に
-厳重な包囲網をどうやって抜けたの？
+In such a short time? W... wait a minute, wasn't the whole fortress surrounded?
 --------------------------------
 [00000147][エルミナ,ローデリア,エルミナ]
-そ、そうです。私たちはてっきり……。
+That's right. We were all...
 --------------------------------
 [00000148][エルウィン,ラナ・シルフィス,ラナ]
-別にどってことないわよ。
-あたしら、そういうの得意だし。
-それよりみんな、聞いて！
+It's not that big a deal. We are good at such things. More importantly, listen
+to this!
 --------------------------------
 [00000149][エルウィン,ラナ・シルフィス,ラナ]
-ルーンベール、ベスティア、フォンティーナの拠点は
-ここより包囲が手薄だったの。
-今は、どうにか援軍が出せる状態になってるわ！
+Runevale, Bestia, Fontina bases have all fallen into enemy hands. Right now, we
+had sent for help!
 --------------------------------
 [00000150][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ただ、今までの混乱で
-連絡がうまくいってない状態だったからな。
-ラナと私で、手分けして話をつけてきた。
+However, in such chaos, it is difficult to maintain contact, so Ranah and I
+split up.
 --------------------------------
 [00000151][ユキヒメ,ユキヒメ,ユキヒメ]
-お前たちが連絡を……？　つまり、なにか？
-フォンティーナとルーンベールの女王自らが、
-敵陣を２人で突破し、伝令を努めていたと……？
+So you had contact? In other words, the princesses of Fontina and Runevale
+infiltrated past enemy lines by themselves, to act as messengers?!
 --------------------------------
 [00000152][エルウィン,ラナ・シルフィス,ラナ]
-そうよ？　なにかまずかった？
+Yeah. Is there a problem?
 --------------------------------
 [00000153][ユキヒメ,ユキヒメ,ユキヒメ]
-いや、まずいというか……。
-なんとも無謀なことを……。
+No, no problems.... just pure reckless...
 --------------------------------
 [00000154][アルティナ,メル・シルフィス,アルティナ]
-……まあ、うちの姉のすることですから。
+..... well, that's my Big sister for you...
 --------------------------------
 [00000155][エルミナ,ローデリア,エルミナ]
-さすがアイラ様です……！
+Aira-sama is great!
 --------------------------------
 [00000156][龍那,,龍那]
-それで、他国の皆さんはなんと……？
+So, what about everyone from the other countries?
 --------------------------------
 [00000157][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それぞれの拠点から、
-シルディアに向けて救援隊が出た。
-夜明け前には砦の外に集結する予定だ。
+All the respective bases, are sending out troops to Syldia. By dawn, they are to
+assemble outside the fortress.
 --------------------------------
 [00000158][フェンリル,,フェンリル]
-もうそんなところまで来てるのか!?
+They are still coming here?!
 --------------------------------
 [00000159][エルウィン,ラナ・シルフィス,ラナ]
-ええ。あっちこっちの拠点で、レイジがピンチだ！
-って言ったら、みんな、どんなことをしてでも
-助けに行くんだって必死になって。
+Yeah. We went to all the bases, and told them, Rage is in a pinch! Something
+like that. Everyone is determined to help.
 --------------------------------
 [00000160][レイジ,レイジ,レイジ]
-え？　……オレのために？
+Eh? For me?
 --------------------------------
 [00000161][エルウィン,ラナ・シルフィス,ラナ]
-あんた、ずいぶんいろんなところで
-みんなを助けてきたらしいじゃない？
-どこでも大人気だったわよ？
+You seem to have helped out a lot of people. You're actually quite popular, you
+know?
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-い、いや、オレは別にそんな……。
-ま、まいったな……どうも。
+Well, I don't really.... well, thanks.
 --------------------------------
 [00000163][アイラ,ブランネージュ・ガルディニアス,アイラ]
-とにかく、救援隊は夜明けと共に
-一斉攻撃を始める。
-だからその時は、砦からも打って出て欲しい。
+Anyway, we will attack at dawn along with the rescue troops. When the time
+comes, we will break out in full force.
 --------------------------------
 [00000164][フェンリル,,フェンリル]
-よし、各守備隊に連絡だ。
-なんとしても、明日までは持ちこたえろ！
-明日、夜明けとともに攻撃を開始する！
+Okay, contact all the guards at all posts. We must hold out till tomorrow.
+Tomorrow at dawn, we begin our attack!
 --------------------------------
 [00000165][フェンリル,,フェンリル]
-それから……。
-レイジ、明日の出撃はお前が指揮を取れ。
+One more thing... Rage, you will be leading the assault tomorrow.
 --------------------------------
 [00000166][レイジ,レイジ,レイジ]
-え？　指揮を……ですか？
+Eh? Lead?
 --------------------------------
 [00000167][フェンリル,,フェンリル]
-ああ。救援隊は、お前を助けに来るんだぞ？
-お前が陣頭で元気な姿を見せてやれば、
-みんなの士気も上がるってもんだ。
+Yeah. The rescue troops came for your sake, right? Your presense will raise
+everyone's morale.
 --------------------------------
 [00000168][レイジ,レイジ,レイジ]
-そっか……。わかりました！
-明日の反撃、先頭に立ちます！
+I see. I understand! I will lead tomorrow's counter-attack!
 --------------------------------
 [00000169][フェンリル,,フェンリル]
-リンリン。準備はどうだ？
+Rinrin, how are the preparations?
 --------------------------------
 [00000170][リン,シャオメイ,リンリン]
-レイジの指示通り、全員夜明け前に配置についたわ。
-あとは、救援隊が動き出すのを待つだけね。
+Just as Rage ordered, everyone is at their position before dawn. All we have to
+do now is wait for the rescue troops.
 --------------------------------
 [00000171][エルミナ,ローデリア,エルミナ]
-ほ、本当に始まるのでしょうか、攻撃は。
-私……あの……心配です……。
+The attack. It's really about to start, isn't it? I'm... a little worried.
 --------------------------------
 [00000172][アイラ,ブランネージュ・ガルディニアス,アイラ]
-大丈夫よ。信じて待ちましょう。
+It will be fine. Have faith.
 --------------------------------
 [00000173][エルミナ,ローデリア,エルミナ]
-は、はい……アイラ様。
+Y... yes, Aira-sama.
 --------------------------------
 [00000174][エルウィン,ラナ・シルフィス,ラナ]
-アルティナ。あたしのことは心配しないで。
-自分の面倒ぐらいは、自分で見られるから。
+Altina, don't worry about me. I will handle my own problems.
 --------------------------------
 [00000175][アルティナ,メル・シルフィス,アルティナ]
-な、なに言ってるのよ！　心配なんかしてないわよ！
-でも……。
-姉さんは、フォンティーナの女王じゃないの！
+What are you talking about? I'm not worried at all! But still... big sister is
+still the Queen of Fontina!
 --------------------------------
 [00000176][アルティナ,メル・シルフィス,アルティナ]
-大事な身柄なんだから、怪我とかしちゃダメよ！
-わ、私も……念のため、そばにいさせてもらうけど！
+I can't let anything happen to you. I... for that reason, I'm staying close by!
 --------------------------------
 [00000177][エルウィン,ラナ・シルフィス,ラナ]
-……ふふふっ。わかったわ、アルティナ。
-２人で一緒にがんばろうね！
+Hehe, I understand, Altina. Let's do our best together!
 --------------------------------
 [00000178][レイジ,レイジ,レイジ]
-さぁて、そろそろ、だな……リック。
-大暴れしてやろうぜ。
+Well then. Any time now. Rick, it will be time to go amok.
 --------------------------------
 [00000179][リック,エルウッド,リック]
-……勝手にしろ。俺は俺で、勝手にやる。
+Do what you want. I will do what I want.
 --------------------------------
 [00000180][レイジ,レイジ,レイジ]
-お前、いつもそれだなぁ……。
-たまには気の利いたこと言ってみろよ。
+You're always like this. Can't you say something encouraging once in a while?
 --------------------------------
 [00000181][リック,エルウッド,リック]
-……大きなお世話だ。
+Good work.
 --------------------------------
 [00000182][ユキヒメ,ユキヒメ,ユキヒメ]
-いよいよ始まったな……！
-レイジ！　こちらも行こう！　合図を！
+It's finally begun! Rage! Go this way! Group up!
 --------------------------------
 [00000183][レイジ,レイジ,レイジ]
-よし！　来たか！
-みんな！　準備はいいな！　行くぞぉ℃―――￥っ！
+Okay, here it comes! Everyone ready! Let's go--!!
 --------------------------------
 [00000184][サクヤ,マキシマ,サクヤ]
-お集まりの同盟軍の皆さん。皆さんの尽力により、
-厳しい戦局を乗り越え、どうにかシルディア周辺の
-敵を排除することができました。
+Everyone who has gathered here, we have won a great victory due to everyone's
+effort. We turned the situation around, and enemies in the vicinity have been
+eliminated.
 --------------------------------
 [00000185][サクヤ,マキシマ,サクヤ]
-しかし敵の本拠地となっているクラントールの奪還、
-そして、ダークドラゴン復活の阻止。
-これらの目的を達成するためには……。
+However, we must recapture the enemy's homebase at Crantor, and stop the revival
+of DarkDragon. In order to fulfil our objectives...
 --------------------------------
 [00000186][サクヤ,マキシマ,サクヤ]
-我々も組織の再編成を行い、
-戦闘体制を整えることが必要です。
+We must reorganize our current forces, and alter our method of command.
 --------------------------------
 [00000187][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それに異論はない。
-だが、具体的にはどのように？
+There are no disagreements. But, how should that be done?
 --------------------------------
 [00000188][サクヤ,マキシマ,サクヤ]
-どのように？　ふふふっ。それは、
-あなたにも腹案があるんじゃないの？
+How? Heheh. About that, you must already have your own plans, right?
 --------------------------------
 [00000189][アイラ,ブランネージュ・ガルディニアス,アイラ]
-腹案……ねえ。まあ、なくもない。
-だが、それは私に限ったことじゃないだろう。
-サクヤも、ラナも、クララクランも……。
+Plan, huh... Well, that might be. But that shouldn't just be me alone. Sakuya,
+Ranah, and Clalaclan too...
 --------------------------------
 [00000190][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そして、今回共に戦った、ほとんど全員が
-持っているんじゃないのか？　ほぼ同じ案を。
+And, almost everyone agrees that this battle was won due to this person.
 --------------------------------
 [00000191][クララクラン,クララクラン,クララクラン]
-……そうですね。今回の戦い、
-特に、シルディアの砦を解放した戦いで、
-皆が１つにまとまることができた理由……。
+Indeed. This battle, especially releasing Syldia fortress, everyone was fighting
+for a single cause.
 --------------------------------
 [00000192][クララクラン,クララクラン,クララクラン]
-それを考えれば、
-おのずと結論は出てくるのではないかと。
+Taking that into consideration, there can be only one logical outcome.
 --------------------------------
 [00000193][レイジ,レイジ,レイジ]
-そっか。ラナとアイラ姫は、あっちこっちの拠点を
-走り回って大活躍だったもんな。
-２人を中心にまとまれば、きっとみんな……。
+I see. Rana and princess Aira, went all over these locations actively looking
+for help. We won because of those two. Everyone must also...
 --------------------------------
 [00000194][エルウィン,ラナ・シルフィス,ラナ]
-なに言ってんのよ、あんた。
-みんなが言ってるのは、
-あたしたちのことじゃないわよ？
+What are you talking about? The one everyone is talking about, isn't us.
 --------------------------------
 [00000195][レイジ,レイジ,レイジ]
-え？　違うのか？
+Eh? It's not?
 --------------------------------
 [00000196][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……違う。まるで違うぞ、レイジ。
-とはいえ、もしかしてレイジのように別のことを
-考えている人もいないとは限らない。
+Wrong. Totally wrong, Rage. If it was someone else, and not you, this could not
+have been possible.
 --------------------------------
 [00000197][アイラ,ブランネージュ・ガルディニアス,アイラ]
-いちおう、みんなの意思を確認してみよう。
-これからも、ドラゴニア帝国との
-戦いを続けるにあたって……。
+In any case. To give everyone a cause to rise up and continue to fight Dragonia
+Empire...
 --------------------------------
 [00000198][アイラ,ブランネージュ・ガルディニアス,アイラ]
-私は、レイジを中心に結束していくのが
-一番だと思うが、みんなはどうだろうか？
+I think Rage should be the heart of this. What do you all think?
 --------------------------------
 [00000199][レイジ,レイジ,レイジ]
-……え？
+...eh?
 --------------------------------
 [00000200][エルウィン,ラナ・シルフィス,ラナ]
-賛成！　こないだも言ったけど、
-どこの拠点でもレイジは大人気だったもんね！
+Agreed! I said this before. All the bases all hold Rage in high regard!
 --------------------------------
 [00000201][ディラン,ローエン,ディラン]
-オレも賛成だな。レイジは信用できる。
+I agree too. I can trust in Rage.
 --------------------------------
 [00000202][エルミナ,ローデリア,エルミナ]
-はい、私も、レイジさんなら……。
+Yes! If it is Rage, I too can...
 --------------------------------
 [00000203][サクヤ,マキシマ,サクヤ]
-もちろん私も賛成。
-私とフェンリルが仕込んだ義勇兵たち、
-レイジ以外には預けられないわね。
+Of course I agree too. For me, Fenrir, and all the volunteer soldiers, no one
+else can lead us except for Rage.
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-え？　えええっ!?　ちょっと待ってくれよ！
-いきなり「オレを中心に」とか言われても……。
-オレ、そんなの無理だって！
+Eh? Eeeh?! Wait a moment! Suddenly saying I should be the heart of all this...
+I, can't do this!
 --------------------------------
 [00000205][レイジ,レイジ,レイジ]
-オレは別に、サクヤさんみたいに
-うまい作戦とか立てられるわけじゃないし、
-副隊長みたいに現場を仕切れるわけじゃないし……。
+I don't really have the strategic abilities of Sakuya-san, and I don't perform
+as well as Vice-captain....
 --------------------------------
 [00000206][レイジ,レイジ,レイジ]
-だいたい、この中にはお姫様とか女王様が
-大勢いるだろ？　人をまとめるんなら、
-そういう肩書きがあるほうがいいんじゃないか？
+Furthermore, wouldn't it be better if the heart of this were the princesses or
+the queen? They have a better title, right?
 --------------------------------
 [00000207][アイラ,ブランネージュ・ガルディニアス,アイラ]
-その肩書きを持った当人として言わせてもらうが、
-今、帝国に立ち向かうために大事なのは
-肩書きだの権威だのじゃない。
+That title might be able to bring people together. But to convince everyone to
+stand up against the Empire is more important, it needs something more.
 --------------------------------
 [00000208][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ここにいる皆、それぞれの意思だ。
-私は、多くの人々を苦しめる帝国を倒すため、
-自分の意思でお前と共に戦う。
+Everyone here have their own beliefs. Many people join for their own reasons to
+end the suffering caused by the Empire. We need to you to unite us, by our own
+volition.
 --------------------------------
 [00000209][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そして、ここには、
-私と同じようにしたいものが大勢いる。
-今、一番大事なのはそこだ。
+And, now we are facing a formidable force. So this is very important.
 --------------------------------
 [00000210][ミストラル,ネレイス,ミスティ]
-確かにそれは大事じゃな。まあ、わらわとしては、
-レイジに付き合っておるといろいろ
-面白いものが見られることの方が大事じゃが。
+It is indeed important. It looks like if I stick around Rage, more interesting
+things will happen.
 --------------------------------
 [00000211][クララクラン,クララクラン,クララクラン]
-私の心も、すでに決まっております。
-闇の勢力を打ち破る日まで、
-勇者様や仲間たちと共に……！
+I too have already made my decision. Until the day when the darkness is smashed,
+I will continue to fight beside the hero.
 --------------------------------
 [00000212][レイジ,レイジ,レイジ]
-みんな……！　どうしてそこまで……。
+Everyone... To feel this strongly...
 --------------------------------
 [00000213][フェンリル,,フェンリル]
-以前、ラナとアイラ姫が言っていただろう？
-お前はこれまで、あちこちを走り回り、
-そこで多くの人たちを救ってきた。
+Didn't Ranah and Aira mentioned this before? It's because you went around
+helping so many people.
 --------------------------------
 [00000214][フェンリル,,フェンリル]
-そして、俺たちの側に数々の勝利をもたらした。
-みんな、これまでお前のそういう姿を見てきたんだ。
-だから、みんなはこう信じている。
+And, it's because you were with us, that we had so many victories. Everyone
+wants to see you doing this. That's why, believe in everyone.
 --------------------------------
 [00000215][フェンリル,,フェンリル]
-お前がいれば……そして、
-お前を中心にしてまとまれば、
-この戦い、必ず勝てる……ってな。
+If it is you, at the heart of this, I know we can win this war.
 --------------------------------
 [00000216][レイジ,レイジ,レイジ]
-オレがいれば……勝てる……。
-……副隊長も、そう思ってくれるのかい？
+If it is me... we can win... Vice-captain, is that what you really believe?
 --------------------------------
 [00000217][フェンリル,,フェンリル]
-「副隊長」はよせ。さっき隊長……いや、
-サクヤさんと相談したんだが、
-もうヴァレリア解放戦線は解散だ。
+No more Vice-captain. Earlier, I spoke to Captain.... no, Sakuya-san. The
+Valeria Liberation Front is now disbanded.
 --------------------------------
 [00000218][フェンリル,,フェンリル]
-事態はすでに、ヴァレリアだけの問題では
-なくなっているわけだからな。
+The nature of this situation, involves far more than Valeria now.
 --------------------------------
 [00000219][フェンリル,,フェンリル]
-だが、それはさておき……質問への答えはこうだ。
-お前がいて、「シャイニング・ブレイド」が
-お前の手の中にあれば、この戦いに必ず勝てる。
+Well, leaving that aside, time to answer the question. With you, and the Shining
+Blade that you hold in your hand, we will win this war.
 --------------------------------
 [00000220][フェンリル,,フェンリル]
-たとえ、帝国軍がどれほど強大であっても、
-お前と共に戦えば、必ず打ち破ることができる。
-俺は、そう信じているぞ。
+No matter how great the Empire forces, if we fight with you, we will win this.
+That is what I believe.
 --------------------------------
 [00000221][サクヤ,マキシマ,サクヤ]
-そうね。私も信じてるわ。
-レイジとユキヒメの名コンビが持つ、
-とんでもない力をね。
+That's right. I believe it too. Rage and Yukihime, there's nothing you can't do.
 --------------------------------
 [00000222][ユキヒメ,ユキヒメ,ユキヒメ]
-そ、それはどうも……。
-か、かたじけない。
+That is... we are grateful...
 --------------------------------
 [00000223][レイジ,レイジ,レイジ]
-……わかった。そうまで言ってくれるんなら……。
-オレ、やるよ。力の限り……いや、
-力の限界を超えちまったって、やり抜いてみせる。
+I understand, since you have already said so. I will do it. To whatever limits I
+can reach. No, beyond the limits. I will do this.
 --------------------------------
 [00000224][レイジ,レイジ,レイジ]
-必ず、帝国を倒すんだ！　平和を取り戻すために！
-みんな、オレと一緒に戦ってくれるか!?
+We will definitely defeat the Empire! We will regain peace! Everyone, will you
+fight together with me?!
 --------------------------------
 [00000225][レイジ,レイジ,レイジ]
-みんな……！　ありがとう……！
+Everyone! Thank you!
 --------------------------------
 [00000226][龍那,,龍那]
-ふふふっ。どうやらレイジさんを中心に、
-新たな「シャイニング・フォース」が
-結成された……ということのようですね。
+Hehehe. With Rage-san as the heart, we will need to form the new Shining Force,
+won't we?
 --------------------------------
 [00000227][クララクラン,クララクラン,クララクラン]
-「シャイニング・フォース」……！
-そうですわ……これはまさにその再来……！
+Shining Force! I see... It certainly has risen once again...
 --------------------------------
 [00000228][レイジ,レイジ,レイジ]
-「シャイニング・フォース」？　なんだ？　それ。
+Shining Force? What is that?
 --------------------------------
 [00000229][龍那,,龍那]
-かつて、今と同じようにエンディアスが
-危機に陥ったとき、
-ダークドラゴンと戦った光の軍勢のことです。
+A long time ago, not unlike today, Endias once faced a crisis. DarkDragon waged
+war with the forces of Light.
 --------------------------------
 [00000230][龍那,,龍那]
-世界を救おうと自分の意思で立ち上がり、
-仲間を信じて共に戦った英雄たち……。
-それが「シャイニング・フォース」なのです。
+Everyone stood up by their own volition, believing in their allies, fighting
+alongside the hero. That was the Shining Force.
 --------------------------------
 [00000231][レイジ,レイジ,レイジ]
-「シャイニング・フォース」か……。
-いいじゃないか……それ！
+Shining Force, huh... That is good!
 --------------------------------
 [00000232][レイジ,レイジ,レイジ]
-よーっし！　みんな！　オレたちはこれから、
-「シャイニング・フォース」だ！
+Okay, everyone! From now on, we are the Shining Force!
 --------------------------------
 [00000233][レイジ,レイジ,レイジ]
-ドラゴニア帝国を倒して、
-世界に平和を取り戻すため、
-力を合わせて戦い抜こう！
+Combine all our might, so that we may defeat the Dragonia Empire, and restore
+peace to this world!
 --------------------------------
 [00000234][レイジ,レイジ,レイジ]
-みんな！　オレについてきてくれっ!!
+Everyone! Follow me!!
 --------------------------------
 [00000235][アルティナ,メル・シルフィス,アルティナ]
-おうっ！
+Oh!
 --------------------------------
 [00000236][エルウィン,ラナ・シルフィス,ラナ]
-おー！
+Oh!
 --------------------------------
 [00000237][アイラ,ブランネージュ・ガルディニアス,アイラ]
-おう！
+Oh!
 --------------------------------
 [00000238][エルミナ,ローデリア,エルミナ]
-おう……！
+Oh...!
 --------------------------------
 [00000239][ミストラル,ネレイス,ミスティ]
-おう！
+Oh!
 --------------------------------
 [00000240][クララクラン,クララクラン,クララクラン]
-はい！
+Yes!
 --------------------------------
 [00000241][刃九郎,,刃九郎]
-おう！
+Oh!
 --------------------------------
 [00000242][ディラン,ローエン,ディラン]
-おう！
+Oh!
 --------------------------------
 [00000243][フェンリル,,フェンリル]
-おう！
+Oh!
 --------------------------------
 [00000244][サクヤ,マキシマ,サクヤ]
-ええ！
+Yes!
 --------------------------------
 [00000245][リック,エルウッド,リック]
-………………。
+.....
 --------------------------------
 [00000246][アミル,アーデット,アミル]
-リック……。どうしたの……？
-もしかして……みんながレイジをほめてるのが不満？
+Rick... what is it? Don't tell me, you're unhappy that people are praising Rage?
 --------------------------------
 [00000247][エアリィ,マナフレア,エアリィ]
-ううん……。違うんじゃ……ないかな。
-リックも、ホントはちょっと嬉しいんだと思う。
-だけど……最近のリックは、その……素直じゃ……。
+No... that is wrong... isn't it? Rick is a little happy too. But... recently...
+Rick isn't hone...
 --------------------------------
 [00000248][リック,エルウッド,リック]
-う、うるさいぞ！　アミル、エアリィ！
-だいたい、誰がリーダーになろうと、
-俺には関係のないことだ……。
+Enough! Amil, Airy! Whoever is the leader, doesn't make any difference to me!
 --------------------------------
 [00000249][リック,エルウッド,リック]
-……そうだ。なにがどう変わろうと、
-俺のやることは変わらない。
-俺は、必ずネリスを見つけ出す。
+That's right. Nothing has changed... What I have to do doesn't change. I will
+definitely find Neris.
 --------------------------------
 [00000250][リック,エルウッド,リック]
-そして……アルベリッヒの奴を、この手で……！
+And Alberich that bastard, with these hands, I will...
 --------------------------------
 [00000251][バルドル,,バルドル]
-あれだけの大軍勢を率いていながら……。
-いったいなんなのだ？　この有様は……。
+Didn't you all have big armies? All of you!
 --------------------------------
 [00000252][スルト,,スルト]
-あと少しのところだったんだ！
-それを……どっかの役立たずが、
-敵の挟撃なんかを許しやがって！
+Just a little more! If only I had just a little more! Someone must have failed
+his job, that's why the enemy could have succeeded!
 --------------------------------
 [00000253][スレイプニル,,スレイプニル]
-聞き捨てならぬ言い様だな。
-貴公の落ち度を、まるでこちらのせい、
-とでも言わんばかりのようだが？
+Enough with your ramblings. Are you trying to say that your failure was my
+fault?
 --------------------------------
 [00000254][アルベリッヒ,,アルベリッヒ]
-お前たち２人のせいだろう。
+The fault lies with the both of you.
 --------------------------------
 [00000255][スルト,,スルト]
-んだと、この野郎！
-お前は最後においしいところを
-持っていこうとしてただけじゃねえか！
+What did you say, you bastard! You were holding on to the last best position!
 --------------------------------
 [00000256][バルドル,,バルドル]
-まったくおぬしたちときたら……。
-いいかげんにせんか！　
-無能同士、なにを揉めている！
+Here you go again! Enough! All you incompetant fools are only good at making
+excuses!
 --------------------------------
 [00000257][バルドル,,バルドル]
-おぬしたちのせいで貴重な戦力を浪費し、
-敵を勢いづかせることになったのだぞ！
-その責任をなんとする！
+Because of you all, we lost much of our forces, while the enemy grows even
+stronger! How will you answer for this?
 --------------------------------
 [00000258][アイザック,,伯爵]
-バルドル様。ご安心を。
-土地と戦力をいくらか失ったところで、
-何の問題があるというのです。
+Balder-sama, do not worry. No matter how much forces we lose on this land, it
+will not be a problem.
 --------------------------------
 [00000259][バルドル,,バルドル]
-なに？
+What?
 --------------------------------
 [00000260][アイザック,,伯爵]
-我らの目的は、ダークドラゴン様の復活。
-ダークドラゴン様の復活さえ果たせれば、
-敵がどれほど勢力を増そうと物の数には入りません。
+Our objective is the revival of DarkDragon-sama. Once the revival of
+DarkDragon-sama is complete, no matter how much the enemy's strength increases,
+it will not matter.
 --------------------------------
 [00000261][バルドル,,バルドル]
-なるほど……。確かにダークドラゴン様のお力には、
-いかなる軍勢といえども
-対抗しうるわけがないな……。
+I see. Indeed, with DarkDragon-sama's power, it doesn't matter what the enemy
+comes up with, they won't be able to resist.
 --------------------------------
 [00000262][バルドル,,バルドル]
-では、我々はこれまで以上に
-このクラントールの地を堅固に守り、
-ダークドラゴン様の復活に全力を注ぐ……。
+Well then, we have to defend Crantor, and focus completely on the resurrection
+of DarkDragon-sama.
 --------------------------------
 [00000263][バルドル,,バルドル]
-そのことこそ肝要というわけだな？　伯爵。
+This is far more important, isn't it, Earl.
 --------------------------------
 [00000264][アイザック,,伯爵]
-そのとおりです。その上で念のため、
-「シャイニング・ブレイド」の覚醒阻止に
-力を注ぎましょう。
+Correct indeed. For this higher purpose, we must focus on preventing the
+awakening of the Shining Blade.
 --------------------------------
 [00000265][アイザック,,伯爵]
-そうすれば我が方の勝利は
-より確実なものになるかと。
+Only then, will the victory of our side be affirmed.
 --------------------------------
 [00000266][バルドル,,バルドル]
-ふむ……。それもそうかも知れぬな。
-ならば、よしとしよう！
+Hm... That might just work. Okay, we will do it this way!
 --------------------------------
 [00000267][バルドル,,バルドル]
-では、急いで精霊王の卵を回収せねばな。
-しかし、ファフナーからはいまだ発見の報がない。
-と、なれば……スレイプニル！
+Well then, we will have to hurry with finding the Spirit King Egg. However,
+Fafner still has not send in any reports of finding it. So.... Sleipnir!
 --------------------------------
 [00000268][スレイプニル,,スレイプニル]
-…………何用か。
+What do you want?
 --------------------------------
 [00000269][バルドル,,バルドル]
-おぬしも精霊王の卵を探しに行くがよい。
-あの連中にこれ以上卵を渡すわけにはいかぬ！
+You too will go search for the Spirit King egg. You must not allow them to get
+the egg!
 --------------------------------
 [00000270][アイザック,,伯爵]
-それにつきましては……。
-スレイプニル殿には、
-ベスティア方面へ向かっていただくことが肝要かと。
+If I might add, it is important for Sleipnir-dono to head towards Bestia.
 --------------------------------
 [00000271][バルドル,,バルドル]
-なぜだ？
+Why?
 --------------------------------
 [00000272][アイザック,,伯爵]
-ベスティア方面で、面白い現象が起きており、
-それが精霊王の卵と、
-何か関係があるかと思われるからです。
+In Bestia, interesting phenomenons are happening. Perhaps they might have
+something to do with the Spirit King egg.
 --------------------------------
 [00000273][バルドル,,バルドル]
-なるほど。
-そういうことだ。よいな、スレイプニル！
-卵だ！　必ず卵を手に入れてもらうぞ！
+I see. That might be it. Listen, Sleipnir! The egg! Make sure you get the egg!
 --------------------------------
 [00000274][バルドル,,バルドル]
-万が一にも、「シャイニング・ブレイド」を
-覚醒させるようなことがあってはならぬのだ！
-よいな！
+No matter what, we must prevent the awakening of the Shining Blade at all costs!
+Got it?!
 --------------------------------
 [00000275][スレイプニル,,スレイプニル]
-……よかろう。その任務、しかと引き受けた。
-度重なる敗北の屈辱……今度こそ、
-奴らにその苦味を味わわせてくれる！
+Very well. I accept this mission. The humiliation of these repeated defeats, I
+will let them have a taste of it!
 --------------------------------
 [00000276][none]
-@lt1@dt2@db1@dc88000088こうして様々な民族、種族を超えて集まった
-人々は、レイジを中心として光の軍勢
-「シャイニング・フォース」を結成。
+@lt1@dt2@db1@dc88000088 And thus, all the races and people have gathered. With Rage at the heart,
+the military force known as Shining Force was formed.
 --------------------------------
 [00000277][none]
-@lt1@dt2@db1@dc88000088世界を闇で覆わんとするドラゴニア帝国との
-対決姿勢を明確にした。
+@lt1@dt2@db1@dc88000088 The world is prepared to stand up against the power of darkness,
+and Dragonia Empire.
 --------------------------------
 [00000278][none]
-@lt1@dt2@db1@dc88000088だが、バルドルによるダークドラゴンの復活は
-着実に進み、帝国は、いまだ強大な力を秘めている。
+@lt1@dt2@db1@dc88000088 However, Balder is proceeding with DarkDragon's resurrection,
+and the Empire is still hiding much of its forces.
 --------------------------------
 [00000279][none]
-@lt1@dt2@db1@dc88000088レイジと「シャイニング・フォース」の真の戦いは、
-ここから始まる……。
+@lt1@dt2@db1@dc88000088 Rage and Shining Force's true battle has only just begun.
 --------------------------------

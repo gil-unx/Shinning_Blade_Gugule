@@ -1,1340 +1,1125 @@
 [0340]
 *****************
 [00000000][none]
-@lt1異世界からの仲間、トウカ、カノン、アインを加え、
-さらに戦力を増強した「シャイニング・フォース」は
-いよいよクラントールへの進撃を開始した。
+@lt1With allies from another world, Touka, Kanon, and Ein, increasing their 
+might, Shining Force now finally heads towards Crantor to begin their attack.
 --------------------------------
 [00000001][none]
-@lt1だが、追い込まれつつあるドラゴニア帝国は
-国境地帯の防備を固め、
-万全の態勢で彼らを迎え撃つ。
+@lt1However, Dragonia Empire has fortified their defenses in the area, 
+prepared to intercept them.
 --------------------------------
 [00000002][none]
-@lt1結果として戦線は膠着。
-双方、これといった戦果のないまま
-事態は長期化の様相を呈し……。
+@lt1The result was a stand-off from both sides. If this were to be 
+prolonged...
 --------------------------------
 [00000003][none]
-@lt1レイジをはじめとした
-「シャイニング・フォース」の面々にも、
-さすがに焦りの色が浮かび始めていた。
+@lt1It was the first time since the forming of Shining Force that Rage is 
+starting to show anxiety.
 --------------------------------
 [00000004][none]
-第８章 月光のレクイエム
+Chapter 8 Moonlight Requiem
 --------------------------------
 [00000005][none]
-@lt1@fs16@dt2@db1@dcFF000000―　ポルトの酒場　―
+@lt1@fs16@dt2@db1@dcFF000000― Porto Bar―
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-クララ姫や、リーベリアのみんなも来てくれた。
-それだけじゃない。
-姉ちゃんやトウカ先輩も、エルデから来てくれた。
+Princess Clala has brought everyone from Riveria here. Not only that. Big sis
+and senior Touka have come from Elde as well.
 --------------------------------
 [00000007][レイジ,レイジ,レイジ]
-なのにどうして、いつまで経っても
-クラントールに入れないんだ？
-まだ敵陣を突破できないなんて。
+Why are we still unable to enter Crantor even now? We still haven't broken
+through enemy lines.
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-オレたち、いったいどうすればいいんだ？
-どうやったら、クラントールを取り戻せるんだ？
+What are we supposed to do? What can we do before we get Crantor back?
 --------------------------------
 [00000009][フェンリル,,フェンリル]
-レイジ。気持ちはわかるが少し落ち着け。
-すぐにでもクラントールに攻め込んで
-取り返したい気持ちはみんなだって同じだ。
+Rage, I understand how you feel, but try to calm down. Everyone wants to take
+back Crantor as soon as possible too.
 --------------------------------
 [00000010][フェンリル,,フェンリル]
-だが、クラントール国境には、
-かなり大規模な守備隊が配備されている。
-国境を守っているのはアルベリッヒのようだが……。
+But the surrounding areas of Crantor have large armies protecting them. The one
+protecting the region seems to be Alberich...
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-アルベリッヒか……。
-やっかいな相手だな。
+Alberich, huh.... that guy is trouble.
 --------------------------------
 [00000012][フェンリル,,フェンリル]
-ああ。アルベリッヒの奴、
-国境地帯全域をガチガチに固めてやがる。
-ちょっとやそっとじゃ抜けそうにない。
+Yeah. Alberich is keeping a tight reign over the region. It would not be easy
+getting it back.
 --------------------------------
 [00000013][フェンリル,,フェンリル]
-とにかく、今は奴らが隙を見せるのを待つしかない。
-敵の動きを見極めて、戦線の弱いところを……
-おい、どこへ行く？
+In any case, we have no choice but to try to find a weakness in their ranks.
+When the enemy moves, their position will weaken and... hey, where are you
+going?
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-敵の弱点を見つけだすには、国境に陣取ってる連中に
-ちょっかいを出してみるのが一番じゃないか。
-だから、さっそくやってみようと思ってさ。
+To find the weakness of the enemy, the best idea would be to stir a commotion
+with their formation. So it is best if we start early.
 --------------------------------
 [00000015][フェンリル,,フェンリル]
-……そうか。だが、無茶はするなよ？
+I see.... But, don't get careless, okay?
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-わかってる！
+I got it!
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-よう、リック。調子はどうだ？
+Hey, Rick. How are you doing?
 --------------------------------
 [00000018][リック,エルウッド,リック]
-………………。
+.....
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-……おい、リック？
-どうした？　具合でも悪いのか？
+...Hey, Rick? What's wrong? Not feeling well?
 --------------------------------
 [00000020][リック,エルウッド,リック]
-……うるさい！　どうしたもこうしたもあるか。
-俺はお前と……誰とも話したくないだけだ。
-あっちへ行け。
+....Shut up! What does it matter? I don't have anything to say to you, or to
+anyone! Go that way.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-な、なんだよ？　どうしたんだよ急に。
-なにを荒れてるんだ？
+W...what? What's with you all of a sudden? What's bothering you?
 --------------------------------
 [00000022][リック,エルウッド,リック]
-荒れる理由が聞きたいのか？
-だったら聞かせてやる！
+You want to know what's bothering me? Then listen carefully!
 --------------------------------
 [00000023][リック,エルウッド,リック]
-国境の向こうには、アルベリッヒがいるんだぞ！
-なのにどうして俺たちは、ここで足踏みしてるんだ。
-いつになったら奴と戦えるんだ！
+Alberich is there at the borders! But we can never get close. How long must I
+wait to fight that bastard?!
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-それは……仕方ないじゃないか。
-敵の守りが堅くて、なかなか前進できないんだ。
-それはお前だってわかってるだろ？
+That... really can't be helped. The enemy has fortified their defenses. It will
+be impossible to advance. Even you must know that, right?
 --------------------------------
 [00000025][リック,エルウッド,リック]
-そんなことは聞いてない。
-いつになったらアルベリッヒと戦える！
-そいつを教えろって言ってるんだ！
+I don't want to hear any more. I have to battle Alberich! I told you that
+before!
 --------------------------------
 [00000026][フェンリル,,フェンリル]
-落ち着けリック。
-そう先の話じゃないかもしれんぞ。
+Calm down, Rick. It might be related to what I heard just now.
 --------------------------------
 [00000027][リック,エルウッド,リック]
-フェンリルさん？
-なにかいい情報でもつかんだのか!?
+Fenrir-san? Did you get any information?!
 --------------------------------
 [00000028][フェンリル,,フェンリル]
-国境地帯の外れに、さびれた港町がある。
-ここ数日、偵察隊を貼り付けてこの街を
-見張らせていたんだが……。
+Outside of the border, at the port, scouts have been stationed there keeping
+watch.
 --------------------------------
 [00000029][フェンリル,,フェンリル]
-どうやら街とその周辺は、敵の守りが手薄らしい。
-自軍の部隊を動かすにも不便なところだから、
-狙われることもあるまいと放置していたようだ。
+Around the area, enemies have been keeping a tight defense. We will not be able
+to advance easily, it is a position where we will be easily attacked.
 --------------------------------
 [00000030][フェンリル,,フェンリル]
-だが、こっちの拠点として使うにはもってこいだ。
-この街を取れば、そこから少しずつ
-敵の守りを切り崩していくこともできる。
+But, if we use this basepoint, and if we can get back the street, we will be
+able to break through the enemy's defense.
 --------------------------------
 [00000031][フェンリル,,フェンリル]
-やりようによっては、アルベリッヒを
-引きずり出して決戦に持ち込むこともできるぞ。
+Therefore, we must draw out Alberich and make this a decisive battle.
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-リック！　いい話じゃないか！
-フェンリルさん、今すぐ行けるのか？
+Rick! Isn't that good? Fenrir-san, can we go now?
 --------------------------------
 [00000033][フェンリル,,フェンリル]
-ああ。準備はできている。
-お前たちさえその気なら、いつでも出撃できるぞ。
+Yes, begin preparations. As soon as you're ready, we set off.
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-もちろん、オレたちはいつでも出撃できるぜ！
-リック！　がんばろうな！
+Of course, we are always ready to go! Rick! Do your best!
 --------------------------------
 [00000035][リック,エルウッド,リック]
-ああ！
+Yeah!
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-お！　さすがに気合入ってんな！
+Ah! That's the spirit!
 --------------------------------
 [00000037][リック,エルウッド,リック]
-…………っ！
-い、いや、なにも言ってない。行くぞ。
+....! I... have nothing more to say. Let's go.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-おいおい、今さらなにを照れてんだよ。
-そういう柄かっつーの！　ははっ！
+Hey hey, what are you feeling shy about now? Haha.
 --------------------------------
 [00000039][リック,エルウッド,リック]
-…………ぐっ！　う、うるさい……！
+......gh! Sh.... shut up...
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-ははは、悪かった悪かった！
-それじゃあリック、さっそく行こうぜ！
+Hahaha, sorry, sorry. Okay, Rick, let's hurry and move out!
 --------------------------------
 [00000041][フェンリル,,フェンリル]
-ふふっ……。レイジ、リック。
-２人で協力して、見事に街を分捕れよ！
+Hehe.... Rage, Rick. The two of you, help each other and get that street!
 --------------------------------
 [00000042][フェンリル,,フェンリル]
-レイジ！　ちょうどいいところに！
-ちょっと来てくれ、
-リックがとんでもないことを言い出した！
+Rage! Good timing! Come here! Rick is saying something unbelievable!
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-リックが？　いったいなんなんだ……？　
+Rick? What happened?
 --------------------------------
 [00000044][リック,エルウッド,リック]
-邪魔しないでくれ！　俺は行く！
+Don't get in my way! I'm going!
 --------------------------------
 [00000045][フェンリル,,フェンリル]
-いかん！　１人で行くのは危険すぎる！
-敵は血まなこでお前を探してるんだぞ！
+You must not! One person going alone is far too dangerous! The enemy is still
+out for your blood!
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-リック？　いったいなにがあったんだ？
+Rick? What's going on?
 --------------------------------
 [00000047][リック,エルウッド,リック]
-お前には関係ない！
+None of your business!
 --------------------------------
 [00000048][フェンリル,,フェンリル]
-レイジ、お前もリックを止めてくれ！
-こいつ、１人で敵陣に行くと言ってる！
+Rage, you have to stop Rick! He wants to go into enemy territory alone!
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-なんだって!?
+What?!
 --------------------------------
 [00000050][フェンリル,,フェンリル]
-……いいか、リック、落ち着いて考えろ。
+...listen, Rick, calm down and think.
 --------------------------------
 [00000051][フェンリル,,フェンリル]
-お前は最近、良くも悪くも活躍しすぎだ。
-敵にすっかり顔が割れちまってる。
-こいつを見てみろ。
+For better or worse, you have been too active lately. They already know your
+face. And so has that guy too.
 --------------------------------
 [00000052][フェンリル,,フェンリル]
-こいつは、敵が占領地でばらまいたビラだ。
-生死を問わず、お前を帝国軍に引き渡せば
-賞金が出ると書いてある。
+That guy has posted posters all over enemy territory. There's a bounty placed on
+you, dead or alive.
 --------------------------------
 [00000053][フェンリル,,フェンリル]
-そんな状況で、のこのこ出歩いてみろ！
-あっという間に捕まるのがオチだぞ！
+Under these circumstances, you still intent to calmly walk out. You'll be
+captured for sure!
 --------------------------------
 [00000054][リック,エルウッド,リック]
-だけど、俺は行かなきゃならないんだ。
-ネリスを探しにいかないと！
+Even so, I have to go! I must search for Neris!
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-ネリスって……。
-お前がずっと探してた、あのネリスか？
+Neris.... the girl you have been searching for, that Neris?
 --------------------------------
 [00000056][リック,エルウッド,リック]
-そうだ。廃墟になった村で、ネリスを見かけたって、
-アミルとエアリィに聞いた！
-だから探しに行くんだ。邪魔をするな！
+Yes. Neris has been seen in the ruins of the village, I heard that from Amil and
+Airy! That's why I'm going. Don't try to stop me!
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-邪魔はしないさ。お前が、ずっと探してた友達と
-また会えるかもしれないんだからな。
-ただし……オレも一緒に行くぞ。
+I won't stop you. You have been searching for this friend, hoping to see her one
+day. However... I am going too.
 --------------------------------
 [00000058][リック,エルウッド,リック]
-なんだと？　いや、待て。
-お前まで来る必要はない。
-こいつは俺の問題だ。
+What? No, wait. There is no need for you to come. This is my problem.
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-いまさらなに言ってんだ。オレとお前は、
-ずっと一緒に戦ってきたんじゃないか。
+What are you talking about. You and I have been fighting together for a long
+time, haven't we.
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-言ってみれば、オレはずっと
-お前がネリスを探すのを手伝ってたようなもんだ。
-だから最後まで、付き合わせてもらうぜ。
+And I remembered that I promised to help you search for Neris. That's why I'm
+sticking with you to the end.
 --------------------------------
 [00000061][リック,エルウッド,リック]
-…………。
-……つ、ついてくるなら、勝手にしろ……！
+....... If you coming, do as you please... !
 --------------------------------
 [00000062][サクヤ,マキシマ,サクヤ]
-２人とも、少し落ち着きなさい。
+The two of you, calm down a little.
 --------------------------------
 [00000063][リン,シャオメイ,リンリン]
-まあ、仕方ないわね。リックがずっと探してきた、
-ネリスの手がかりが見つかったんですものね。
-こういうことになるのも当然よ。
+Well, this can't be helped. Rick has been searching for any trace of Neris for
+so long. This is not unexpected.
 --------------------------------
 [00000064][フェンリル,,フェンリル]
-それはそうだろうが、しかしだな……！
+Even though you say so, this is still...!
 --------------------------------
 [00000065][リン,シャオメイ,リンリン]
-フェンリル。リックたちを行かせてやって。
-この子たちなら、なにが起きても切り抜けられるわ。
+Fenrir. Let Rick and them go. If it's these kids, they'll be able to deal with
+whatever comes up.
 --------------------------------
 [00000066][フェンリル,,フェンリル]
-いや……俺だってそう思いたいが……。
+No.... even though I believe so too...
 --------------------------------
 [00000067][サクヤ,マキシマ,サクヤ]
-心配は無用よ。私とリンリンも同行するわ。
-教え子たちの面倒はちゃんと見ないとね。
+There is no point in worrying. I and Rinrin will go too. I have to look after
+these students of mine.
 --------------------------------
 [00000068][リック,エルウッド,リック]
-……師匠!?
+...teacher?!
 --------------------------------
 [00000069][フェンリル,,フェンリル]
-サクヤさんがそうおっしゃるなら……。
-だが、お前たち、くれぐれも気をつけるんだぞ。
+If even Sakuya-san says so... However, you all must be careful.
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-了解です！
-じゃ、ちょっとネリスを探してきます！
+Understood! Well, let's go search for Neris!
 --------------------------------
 [00000071][アミル,アーデット,アミル]
-レイジ……みんな……！
-ありがとう……！
+Rage... everyone...! Thank you...!
 --------------------------------
 [00000072][エアリィ,マナフレア,エアリィ]
-よかった……。リックが自分だけで行きたがるから、
-私たちも心配してたの……。
+This is great... We were so worried that Rick was going to go alone...
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-アミル!?　エアリィ？
+Amil?! Airy?
 --------------------------------
 [00000074][リック,エルウッド,リック]
-来ていたのか……？
+You're here...?
 --------------------------------
 [00000075][アミル,アーデット,アミル]
-ええ。さっきからね。
-まったくもう……だから、
-最初からみんなに相談しようって言ったのに。
+Yeah, since just now. Good grief... that's why I said you should talk to
+everyone first.
 --------------------------------
 [00000076][エアリィ,マナフレア,エアリィ]
-そう……。みんなと一緒なら……きっと、
-どんな相手にも負けないからって……。
+Yeah... As long as you're with everyone... you will definitely not lose to
+whatever enemy that shows up...
 --------------------------------
 [00000077][リック,エルウッド,リック]
-だけど、それは……。
+But, that...
 --------------------------------
 [00000078][サクヤ,マキシマ,サクヤ]
-リック。エアリィの言うとおりよ。
-私たちが力を合わせれば、
-きっとネリスを取り戻せるわ。
+Rick, Airy is right. If we all combine our strengths, we will definitely be able
+to get Neris back.
 --------------------------------
 [00000079][サクヤ,マキシマ,サクヤ]
-迷惑だなんて考えちゃだめ。
-こういう時こそ、みんなを頼りなさい？
+Don't even think that this is trouble for us. In times like this, you should
+rely on us.
 --------------------------------
 [00000080][リック,エルウッド,リック]
-師匠……。
+Teacher...
 --------------------------------
 [00000081][リック,エルウッド,リック]
-わかった……。
-みんな。よろしく頼む……。
+I understand. Everyone, I'm counting on you...
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-おう！　任せとけって！
-それじゃあ、さっそく出発だ！
-アミル！　エアリィ！　案内頼むぜ！
+Oh! Leave it to me! Well then, let's set of now! Amil! Airy! I'm counting on
+you!
 --------------------------------
 [00000083][レイジ,レイジ,レイジ]
-ネリスを見かけたっていうのは、
-この辺なのか？
+The place where Neris has been seen, is it around here?
 --------------------------------
 [00000084][アミル,アーデット,アミル]
-ええ。このあたりよ。
-確か、こっちの方で……。
+Yeah, this is the place. It should be in this direction...
 --------------------------------
 [00000085][リック,エルウッド,リック]
-いったい、どこに……。
+Exactly where...
 --------------------------------
 [00000086][ユキヒメ,ユキヒメ,ユキヒメ]
-お、おい！　レイジ！　リック！
-あれを見ろ！
+H...hey! Rage! Rick! Look over there!
 --------------------------------
 [00000087][リック,エルウッド,リック]
-な……!?　あ、あれは……！
+Wha...?! Th.... that is...!
 --------------------------------
 [00000088][ネリス,フィリアム,ネリス]
-リック……。
+Rick...
 --------------------------------
 [00000089][リック,エルウッド,リック]
-ネリスっ！
+Neris!
 --------------------------------
 [00000090][エアリィ,マナフレア,エアリィ]
-間違いないわ……。あれは、ネリス……。
+There's no mistake... that is Neris...
 --------------------------------
 [00000091][リン,シャオメイ,リンリン]
-…………え？　ちょ、ちょっと待って？
-あれは……。
+....eh? W... wait? That...
 --------------------------------
 [00000092][リック,エルウッド,リック]
-待ってろネリス！　今そっちに……。
+Wait for me, Neris. I'm coming...
 --------------------------------
 [00000093][リン,シャオメイ,リンリン]
-リック、ダメ！　それは……！
+Rick, stop! That is...!
 --------------------------------
 [00000094][リック,エルウッド,リック]
-……え？
+...eh?
 --------------------------------
 [00000095][リック,エルウッド,リック]
-うぁあっ！
+Uwaah!
 --------------------------------
 [00000096][エアリィ,マナフレア,エアリィ]
-リック!?
+Rick?!
 --------------------------------
 [00000097][レイジ,レイジ,レイジ]
-しまった！　いつの間にか敵が……！
-完全に囲まれてる!?
+Oh no! Since when did the enemy...! Have we been surrounded?!
 --------------------------------
 [00000098][アミル,アーデット,アミル]
-リック、大丈夫!?
-ネリスは!?
+Rick, are you okay?! Where's Neris?!
 --------------------------------
 [00000099][リック,エルウッド,リック]
-こっちは大丈夫だ！
-しかし、ネリスが……。
+I am fine! But Neris is...
 --------------------------------
 [00000100][リック,エルウッド,リック]
-ネリス！　どこへ行ったんだ！　ネリスーっ！
+Neris! Where did you go? Neris!
 --------------------------------
 [00000101][アルベリッヒ,,アルベリッヒ]
-……ふふふふふふ。
-はーっはっはっはっはっは！
+Hmhmhmhm. Hahahahahahahaha!
 --------------------------------
 [00000102][アルベリッヒ,,アルベリッヒ]
-ネリスだと……？　バカめ。
-こうもあっさりとひっかかってくれるとはな。
+Neris, right...? Idiot. It was so easy luring you here.
 --------------------------------
 [00000103][リック,エルウッド,リック]
-お前は……アルベリッヒ！
+You are.... Alberich!
 --------------------------------
 [00000104][リン,シャオメイ,リンリン]
-やっぱり……！　あのネリスは幻影……。
-アルベリッヒ！　あなたの仕業ね！
+I knew it...! That shadow of Neris.... Alberich! This is your doing!
 --------------------------------
 [00000105][アルベリッヒ,,アルベリッヒ]
-やっと気付いたか。だがもう遅い。
-ちょこまかと我が軍を悩ませるリックとやらを
-始末するための罠だったのだが……。
+You finally noticed. But it's too late. The Rick who has been tireless causing
+problems for my army will finally be dealt with in my trap...
 --------------------------------
 [00000106][アルベリッヒ,,アルベリッヒ]
-他の霊刃使いどもが、
-２匹も一緒にひっかかるとはな。
-これは思わぬ収穫だったな。
+And the other SpiritSword user is here too. To have lured the two here, this is
+an unexpected reward.
 --------------------------------
 [00000107][リック,エルウッド,リック]
-じゃ、じゃあ、ネリスは……！
+T... then, Neris is...!
 --------------------------------
 [00000108][アルベリッヒ,,アルベリッヒ]
-ネリス？　ネリスなぁ……。ああ、思い出した。
-こいつのことだろう？　ほら、受け取れ！
+Neris? Neris... Ah, I remember. This one, right? Here, take it!
 --------------------------------
 [00000109][サクヤ,マキシマ,サクヤ]
-…………これは！
+..... this is!
 --------------------------------
 [00000110][リン,シャオメイ,リンリン]
-……ソウルクリスタル!?
-人の魂の結晶じゃないの……。
+.... Soulcrystal?! Isn't that a crystallized human soul...
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-魂!?　じゃ、じゃあ、まさか……。
+Soul?! T... then, don't tell me...
 --------------------------------
 [00000112][リック,エルウッド,リック]
-………………それが……ネリスか？
+.......... this is.... Neris?
 --------------------------------
 [00000113][アミル,アーデット,アミル]
-そ、そんなことって……。
-ネリスだけでも生きててくれたんだって……。
-そう思ってたのに……！
+How can this be... I thought for sure that Neris survived... that's what I
+thought...!
 --------------------------------
 [00000114][エアリィ,マナフレア,エアリィ]
-……こんな形で再会するなんて……！
-ネリス…………！
+...to be seeing each other again like this...! Neris...!
 --------------------------------
 [00000115][リック,エルウッド,リック]
-うっ……うううううううっ！
-うあああああ℃――――￥っ！
-ネリス℃――――――――￥っ！
+Uu... uuuuuuuuuuuuaaaa---! NERIS-----!
 --------------------------------
 [00000116][アルベリッヒ,,アルベリッヒ]
-つらいか？　悲しいか？　もっと苦しめ！
-殺される前に、負の感情で魂を満たせ！
+Is it pain? Is it sorrow? Suffer even more! Before you die, I want your soul
+filled with more regret!
 --------------------------------
 [00000117][リック,エルウッド,リック]
-うっ……。くぅぅ…………っ！
-アルベリッヒ……！　貴様という奴は……！
+Ugh... Khh....! Alberich....! So this is how it's going to be...!
 --------------------------------
 [00000118][アルベリッヒ,,アルベリッヒ]
-以前、お前に言われて例の村のことを
-思い出してな……。なにかの役に立つだろうと、
-その娘を探させた。
+Previously, I remembered what you said about the village. So I thought I'd help
+out in finding this girl.
 --------------------------------
 [00000119][アルベリッヒ,,アルベリッヒ]
-我が軍の戦利品倉庫に、
-そのソウルクリスタルは転がっていた。
-魔術兵にでも支給するつもりだったのだろうが……。
+It's actually one of my armies spoils of war. I had this Soulcrystal transported
+here. To think I actually wanted to use this as payment for my magic troops.
 --------------------------------
 [00000120][アルベリッヒ,,アルベリッヒ]
-まさかここまで役立ってくれるとはな！
-死んだ方が役に立つ人間というのはいるものだな！
+I never thought it would be this useful! Even though they're already dead, they
+can be so useful!
 --------------------------------
 [00000121][アルベリッヒ,,アルベリッヒ]
-さて……種明かしも終わったところで。
-そろそろ死んでもらった方がよさそうだな。
-者ども！　やれい！
+Well then, now that you know the whole story, it's time for you to die. All of
+you! Do it!
 --------------------------------
 [00000122][レイジ,レイジ,レイジ]
-くそっ！　そう簡単にやられてたまるか！
-リック！　戦うぞ！　ネリスの仇を取るんだ！
+Damn! We're not going to go down this easy! Rick! Fight on! Take revenge for
+Neris!
 --------------------------------
 [00000123][アミル,アーデット,アミル]
-そうよ、リック！　わたしたちと……。
+That's right, Rick! With us...
 --------------------------------
 [00000124][リック,エルウッド,リック]
-ああ……。やってやる……。
-やってやるぞ……アルベリッヒ……！
+Yes.... I'll do it.... I will do it... Alberich...!
 --------------------------------
 [00000125][ネリス,フィリアム,ネリス]
-待って！　リック！
+Wait! Rick!
 --------------------------------
 [00000126][アミル,アーデット,アミル]
-え!?
+Eh?!
 --------------------------------
 [00000127][エアリィ,マナフレア,エアリィ]
-ネリス!?
+Neris!?
 --------------------------------
 [00000128][ネリス,フィリアム,ネリス]
-ええ！　わたしよ！
-サクヤさんが、戦えるようにしてくれたの！
+Yes, it's me! Sakuya-san has enabled me to battle!
 --------------------------------
 [00000129][ネリス,フィリアム,ネリス]
-リック！　わたしと一緒に、
-あいつをやっつけて！
+Rick! Together with me, we'll finish them!
 --------------------------------
 [00000130][リック,エルウッド,リック]
-ネリス……！　わかった、行くぞ！
-アルベリッヒ！　今度こそお前を……！
+Neris...! I understand, let's go! Alberich! This time, you will...!
 --------------------------------
 [00000131][アルベリッヒ,,アルベリッヒ]
-ふふふふふ……。無駄なあがきを……。
-ファフナー！　お前も出て来い！
-こいつらを始末するぞ！
+Hahahaha.... Pointless struggling... Fafner! Come out now! It's time to deal
+with these guys!
 --------------------------------
 [00000132][ファフナー,,ファフナー]
-承知した。
+Understood.
 --------------------------------
 [00000133][ローゼリンデ,フレイア,ローゼリンデ]
-…………。
+.....
 --------------------------------
 [00000134][レイジ,レイジ,レイジ]
-ファフナー……？
-それに、ローゼリンデも……!?
+Fafner...? And, Roselinde too...?!
 --------------------------------
 [00000135][リン,シャオメイ,リンリン]
-レイジ！　今はローゼリンデのことを
-気にしている余裕はないわ！
-とにかく、脱出することを考えて！
+Rage! We don't have the time to worry about Roselinde now! Regardless, we have
+to focus on getting out of here!
 --------------------------------
 [00000136][レイジ,レイジ,レイジ]
-わ、わかってる。
-わかってるよ……。
-くそ……っ！　なんでこんなところで……！
+I... I understand. Damn! Why did this have to...!
 --------------------------------
 [00000137][リン,シャオメイ,リンリン]
-レイジ！　みんながすぐそこまで来てるよ！
+Rage! Everyone will reach here soon!
 --------------------------------
 [00000138][レイジ,レイジ,レイジ]
-ふぅ……。一時はどうなることかと……。
+Whew.... just in time...
 --------------------------------
 [00000139][ユキヒメ,ユキヒメ,ユキヒメ]
-どうにか、助かったようだな。
+We're saved somehow.
 --------------------------------
 [00000140][アルティナ,メル・シルフィス,アルティナ]
-レイジ！　リック！　無事ね？
-もうすこしがんばって！
+Rage! Rick! Are you okay? Just hold on a little more!
 --------------------------------
 [00000141][ユキヒメ,ユキヒメ,ユキヒメ]
-む!?
+Hm?!
 --------------------------------
 [00000142][ローゼリンデ,フレイア,ローゼリンデ]
-う……！
+U...!
 --------------------------------
 [00000143][レイジ,レイジ,レイジ]
-な、なんだ？　今の？
-今、お前光らなかった!?
+W...what was that? Did you just shine?!
 --------------------------------
 [00000144][ユキヒメ,ユキヒメ,ユキヒメ]
-あ、ああ……。そのようだ。
+Y... yeah, looks that way.
 --------------------------------
 [00000145][エルミナ,ローデリア,エルミナ]
-レイジさん、リックさん……！
-負けないでください……！
+Rage-san, Rick-san.... don't give up...!
 --------------------------------
 [00000146][ミストラル,ネレイス,ミスティ]
-まったく、手をわずらわせてくれるのう。
-それぐらいの敵、さっさと蹴散らしてこい！
+Geez, you're such a bother. We're going to mop up the rest of the enemies!
 --------------------------------
 [00000147][ユキヒメ,ユキヒメ,ユキヒメ]
-またか!?　これはいったい……？
+How can it be?! What is this...?
 --------------------------------
 [00000148][ローゼリンデ,フレイア,ローゼリンデ]
-うぅぅ……！
+Ugh...!
 --------------------------------
 [00000149][レイジ,レイジ,レイジ]
-……なんだ？　ローゼリンデの様子が……。
+...what? Roselinde looks....
 --------------------------------
 [00000150][リン,シャオメイ,リンリン]
-これは、この間と同じ…………？
-もしかして……！
+This is... the same as before...? Could it be...!
 --------------------------------
 [00000151][トウカ,クレハ,トウカ]
-もうすぐそちらに行くわ！
-ちょっと待っててね！
+We're coming now! Wait for us!
 --------------------------------
 [00000152][ユキヒメ,ユキヒメ,ユキヒメ]
-お、おお……。
-こ、これは……!?
+O...oh... t... this is...?!
 --------------------------------
 [00000153][ローゼリンデ,フレイア,ローゼリンデ]
-ぅ……くっ……！
+U....gh....!
 --------------------------------
 [00000154][レイジ,レイジ,レイジ]
-ローゼリンデ？　どうしたんだ!?
-ローゼリンデ！
+Roselinde? What's wrong?! Roselinde!
 --------------------------------
 [00000155][リン,シャオメイ,リンリン]
-そうか……。やっぱりこれは……。
+I see... I knew it...
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-リンリン、わかるのか？
-ローゼリンデとユキヒメに何が起きてるんだ？
+Rinrin, do you know something? What is happening between Roselinde and Yukihime?
 --------------------------------
 [00000157][リン,シャオメイ,リンリン]
-たぶん、共鳴よ。歌姫たちと、雪姫の。
-「シャイニング・ブレイド」の解放が
-進んでいることと……。
+Most likely, they're resonating to each other. The Loreleys, and Yukihime. To
+release the seal of Shining Blade...
 --------------------------------
 [00000158][リン,シャオメイ,リンリン]
-５人の歌姫が一定の範囲内に全員集まっていること。
-それが影響しているんだと思うわ。
+If all five of the Loreleys are gathered in the same place, they will affect
+each other.
 --------------------------------
 [00000159][ファフナー,,ファフナー]
-……ローゼリンデ。行くぞ。
+...Roselinde. Let's go.
 --------------------------------
 [00000160][ローゼリンデ,フレイア,ローゼリンデ]
-………………っ。
-……はい。
+............. yes.
 --------------------------------
 [00000161][アルベリッヒ,,アルベリッヒ]
-待て！　ファフナー！　どこへ行く!?
+Wait! Fafner! Where are you going?!
 --------------------------------
 [00000162][ファフナー,,ファフナー]
-このままではローゼリンデは戦えない。
-一度撤退し、対策を講じなくては。
+Roselinde cannot battle like this. We have to retreat for now.
 --------------------------------
 [00000163][アルベリッヒ,,アルベリッヒ]
-なにを言っている!?　お前たちが抜けたら、
-我が軍の方が劣勢になるではないか！
-おい、待て！　ファフナーっ！
+What are you talking about?! If you pull out now, our forces will be severely
+weakened! Hey, wait! Fafner!
 --------------------------------
 [00000164][アルベリッヒ,,アルベリッヒ]
-くっ……。やむをえん。
-こうなれば私も……。
+Kh... this can't be helped. I too must...
 --------------------------------
 [00000165][リン,シャオメイ,リンリン]
-にゃーっ！　リック！　アルベリッヒが逃げるよ！
+Nyaa! Rick! Alberich is getting away!
 --------------------------------
 [00000166][リック,エルウッド,リック]
-逃がすかっ！　副隊長！
-アルベリッヒを阻止してくれ！
+You won't get away! Vice-captain! Stop Alberich!
 --------------------------------
 [00000167][フェンリル,,フェンリル]
-了解だ！　第３、第４小隊！
-アルベリッヒ隊の背後に回り込め！
-後退を阻止するんだ。
+Understood! Third and fourth squad! Surround Alberich's squad and do not let
+them escape!
 --------------------------------
 [00000168][アルベリッヒ,,アルベリッヒ]
-ぐっ……お、おのれ！
-こうなれば、全員まとめて返り討ちにするまで！
+Gh... damn you! You're bringing the whole group against me!
 --------------------------------
 [00000169][レイジ,レイジ,レイジ]
-やったな、リック……！
+You did it, Rick...!
 --------------------------------
 [00000170][リック,エルウッド,リック]
-…………ああ！　とうとう、
-村のみんなの仇を……！
+.....yeah! Finally, I have avenged all the villagers...!
 --------------------------------
 [00000171][リック,エルウッド,リック]
-………………。
+.....
 --------------------------------
 [00000172][レイジ,レイジ,レイジ]
-どうした？　
+What's wrong?
 --------------------------------
 [00000173][リック,エルウッド,リック]
-…………世話になったな、レイジ。
-いろいろと迷惑をかけて、悪かった。
+...... you've helped me, Rage. I'm sorry for causing you trouble.
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-え？　い、いや、オレは別になにも……。
-っていうか、どうしたんだ？
-急にあらたまって。
+Eh? I... it's nothing, really. And, what's wrong? You're acting different.
 --------------------------------
 [00000175][リック,エルウッド,リック]
-いや。お前には一度、
-きちんと謝っておく必要があると思ってな。
+No. I feel that I need to properly apologise to you.
 --------------------------------
 [00000176][リック,エルウッド,リック]
-初めてお前に会ったとき、俺はお前に
-冷たく当たった。俺の村で起きたことを、
-まるでお前のせいみたいに言った。
+The first time I met you, I was cold towards you. It was as if I blamed you for
+what happened to my village.
 --------------------------------
 [00000177][リック,エルウッド,リック]
-だけど、俺は本当は、
-最初からそうじゃないことなんかわかってた。
-俺が、みんなを守りきれなかったんだ。
+But, the truth is I knew it wasn't your fault to begin with. I was the one who
+wasn't able to protect everyone.
 --------------------------------
 [00000178][リック,エルウッド,リック]
-そうだよ、お前じゃない……！
-俺がみんなを死なせたんだ！
+That's right, it wasn't you...! I was the one who let everyone die!
 --------------------------------
 [00000179][レイジ,レイジ,レイジ]
-リック!?　それは違うぜ！　だって……。
+Rick?! That's not true! Because...
 --------------------------------
 [00000180][リック,エルウッド,リック]
-いや、それ以上なにも言うな。　
-……黙って最後まで言わせてくれ。頼む。
+No, don't say anything. Wait and listen to everything I have to say, please.
 --------------------------------
 [00000181][レイジ,レイジ,レイジ]
-あ、ああ……。
+A... ah...
 --------------------------------
 [00000182][リック,エルウッド,リック]
-……あの時の俺は、認めたくなかったんだ。
-俺のせいで、アミルやエアリィたちが死んで、
-ネリスも行方不明なんだってことを。
+... at that time, I wasn't able to accept it. That Amil and Airy died because of
+me, and Neris went missing too.
 --------------------------------
 [00000183][リック,エルウッド,リック]
-だから俺はお前にあんな風に……。
-すまなかった、レイジ……。
+That's why I was like that to you... I'm sorry, Rage...
 --------------------------------
 [00000184][レイジ,レイジ,レイジ]
-リック、いいんだ、そんなこと。気にしないでくれ。
-それに……お前がどう言ってくれても……。
+Rick, it's fine. Don't worry about such things. Besides, about what you said...
 --------------------------------
 [00000185][レイジ,レイジ,レイジ]
-オレもやっぱり……守るべき人を
-守りきれなかったことには違いないんだからな。
+I too have someone I needed to protect.... but wasn't able to.
 --------------------------------
 [00000186][リック,エルウッド,リック]
-おい、レイジ……。
+Hey, Rage...
 --------------------------------
 [00000187][レイジ,レイジ,レイジ]
-でもさ、だからこそ、オレたちはこれ以上、
-悲しむ人たちが出ないように
-できるだけのことをしなきゃいけないんだ。
+But, that is why I won't let there be any more sad people. I will do whatever I
+can to stop it.
 --------------------------------
 [00000188][レイジ,レイジ,レイジ]
-そのためには、まず帝国をぶっ潰さなきゃいけない。
-オレは、そう心に決めてるんだ。
+For this purpose, the Empire has to fall. I have decided it long ago in my
+heart.
 --------------------------------
 [00000189][リック,エルウッド,リック]
-レイジ……！
+Rage...!
 --------------------------------
 [00000190][レイジ,レイジ,レイジ]
-だから、リック。これからも一緒にやろう。
-これからも、オレやみんなと一緒に、
-帝国を倒すために、がんばっていこう！
+That's why, Rick. From here on too, let's fight together, with me and everyone,
+to defeat the Empire!
 --------------------------------
 [00000191][レイジ,レイジ,レイジ]
-それで……いいだろう？　リック。
-罪の意識を感じるのは後でもいい。今大事なのは、
-過去のことより、これからのことだぜ。
+Is that.... fine, Rick? We can feel the guilt and regret afterwards. Worrying
+about the present is more important than worrying about the past.
 --------------------------------
 [00000192][アミル,アーデット,アミル]
-そうだよ、リック！
-わたしも一緒に、がんばるよ。
+That's right, Rick! I too will do my best.
 --------------------------------
 [00000193][エアリィ,マナフレア,エアリィ]
-お願い、リック。みんなのためにも、
-わたしたちのためにも、もう悩まないで……。
+Please, Rick. For everyone, and for us too, don't feel sad any more...
 --------------------------------
 [00000194][ネリス,フィリアム,ネリス]
-こうしてわたしたち、また会えたんだから……。
-今はそれでいいじゃない！
+To be able to finally meet with everyone again, isn't this great!
 --------------------------------
 [00000195][ネリス,フィリアム,ネリス]
-もう、わたしたちみたいに悲しむ人を出さないこと、
-それが、今は大事なんだと思うよ。
+To prevent more people from suffering like us ever again, we have important
+things to do.
 --------------------------------
 [00000196][リック,エルウッド,リック]
-…………。そうか……。そうだな……。
-お前たちの言うとおりだな。
+..... You're right.... I see.... What you say is correct.
 --------------------------------
 [00000197][リック,エルウッド,リック]
-わかった。レイジ。
-こんな俺にでも、できることがあるんなら……。
-これからも、全力で戦い続ける！
+I understand, Rage. I will do whatever I can.... From here on too, I will fight
+with all my might!
 --------------------------------
 [00000198][リック,エルウッド,リック]
-帝国軍に苦しめられる人たちを救うために。
-そして……。
+To save everyone from the Empire, and...
 --------------------------------
 [00000199][リック,エルウッド,リック]
-お前の友達の、ローゼリンデを助け出すためにな！
+To save your friend, Roselinde!
 --------------------------------
 [00000200][レイジ,レイジ,レイジ]
-リック……。ありがとう……。
-よろしく頼むぜ……！
+Rick.... thank you.... I'm counting on you...!
 --------------------------------
 [00000201][レイジ,レイジ,レイジ]
-サクヤさん！　話を聞いて飛んできました！
-ローゼリンデが見つかったんですか!?
-どこにいるんです？
+Sakuya-san! I got here as soon as I heard! Is Roselinde seen?! Where is she now?
 --------------------------------
 [00000202][サクヤ,マキシマ,サクヤ]
-巨大な霊樹のそそり立つ、クラントールの聖地。
-「エターニア」よ。先行していた偵察部隊から
-さっき報告が入ったわ。
+Eternia, where the great Spirit Tree stands, in Crantor sacred grounds. The
+scouts sent ahead reported.
 --------------------------------
 [00000203][サクヤ,マキシマ,サクヤ]
-……ねえ、レイジ。
-この前現れたローゼリンデの様子……見たわね？
+...hey, Rage. Did you see what happened to Roselinde previously?
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-はい。歌姫たちと雪姫が共鳴して、
-ローゼリンデもそれに反応するように……。
-あれは、いったい……。
+Yeah, the Loreleys resonated with Yukihime. Roselinde too had such a reaction.
+Exactly what was that...
 --------------------------------
 [00000205][リン,シャオメイ,リンリン]
-そうね。ズバリ言うけど、あれはいい兆候よ。
-ローゼリンデの中に残された心が、
-見失った部分を捜し求めている……。
+Well, that is a definite sign. Roselinde is all that remained of what we had
+been searching for...
 --------------------------------
 [00000206][リン,シャオメイ,リンリン]
-なんとかして自分を取り戻そうと、
-戦っている姿なのよ。
+We have to get her back to normal.
 --------------------------------
 [00000207][レイジ,レイジ,レイジ]
-そ、それ、ホントか!?
-じゃあ、ローゼリンデは……。
+Th...that, really?! So, Roselinde can...
 --------------------------------
 [00000208][リン,シャオメイ,リンリン]
-ええ。元に戻りつつあるわ。
-古き盟約によってつながる歌姫同士の共鳴と、
-大事な友達、つまり、あなたからの呼びかけ……。
+Yeah, we can get her back to normal. With the Loreleys resonating, and her
+important friend, in other words, you, calling out to her...
 --------------------------------
 [00000209][リン,シャオメイ,リンリン]
-こうした刺激が、いい方向に働いているのね。
+Such a shock might turn her back to us.
 --------------------------------
 [00000210][レイジ,レイジ,レイジ]
-じゃ、じゃあ、
-もしローゼリンデを連れ戻したら……。
-あいつを元通りにしてやることができるんだな!?
+So... once we get her, there is a way to turn her back into normal?!
 --------------------------------
 [00000211][リン,シャオメイ,リンリン]
-ええ。この状態なら必ず……！
+Yeah, definitely for sure...!
 --------------------------------
 [00000212][レイジ,レイジ,レイジ]
-そうか……！　戻せるのか……！
-だったら今度こそ、ローゼリンデを
-こっちに連れ戻さないと!!
+I see...! Return her to normal...! Then this time for sure, I will get Roselinde
+back!!
 --------------------------------
 [00000213][レイジ,レイジ,レイジ]
-サクヤさん！　お願いです！
-オレをエターニアに……。
+Sakuya-san! Please! Let me go to Eternia...
 --------------------------------
 [00000214][カノン,シーナ,カノン]
-ちょ～～～っと待ったぁ！
+Waaaaaaaait!
 --------------------------------
 [00000215][レイジ,レイジ,レイジ]
-げ！　ね、姉ちゃん！
-どうしてそこに!?
+Gh! Big sis! Why are you here?!
 --------------------------------
 [00000216][カノン,シーナ,カノン]
-なに言ってんの！　これから弟が、
-一世一代の大勝負に出ようって時に……。
-手を貸さずして、なにが姉かっ！
+What are you talking about! What kind of big sister would I be, if my brother
+were to take on the biggest challenge of his life without my help!
 --------------------------------
 [00000217][レイジ,レイジ,レイジ]
-いや、別に、無理に手を貸してもらわなくても……。
+No, you don't really have to force yourself with this, really...
 --------------------------------
 [00000218][カノン,シーナ,カノン]
-いいから！　あたしも行くわよ！
-サクヤさん！　あたしがしっかり！
-ビシっと！　レイジの面倒を見ますから！
+No complains! I'm going too! Sakuya-san! I'll look after Rage! I'll make sure he
+looks sharp!
 --------------------------------
 [00000219][サクヤ,マキシマ,サクヤ]
-ええ。お姉さんとして、
-しっかりサポートしてあげてね。ふふふっ。
+Well, you are the big sister after all, I'm sure you will support him well.
+Hehehe.
 --------------------------------
 [00000220][カノン,シーナ,カノン]
-はい！　まかせてください！
+Yes! Leave it to me!
 --------------------------------
 [00000221][カノン,シーナ,カノン]
-さあ、行くわよ、レイジ！
-あんたの大事なローゼリンデを、
-今度こそ助け出すの！
+Okay, let's go, Rage! Let's go save your important Roselinde now!
 --------------------------------
 [00000222][レイジ,レイジ,レイジ]
-ちょ、ちょっと！　姉ちゃん！　引っ張るな！
-自分で歩くから！　いてっ！　いででででぇっ！
+W...wait! Big sis! Stop pulling me! I can walk on my own! Ow! Ow ow ow!
 --------------------------------
 [00000223][サクヤ,マキシマ,サクヤ]
-ふふっ、はりきってるわね。２人とも！
-さあ、私たちも行きましょう！
-聖地エターニアへ！
+Hehe, those two are always like that. Well, I'm going too! Sacred grounds
+Eternia!
 --------------------------------
 [00000224][ローゼリンデ,フレイア,ローゼリンデ]
-…………ぅぅっ。……くっ……！
+.....ugh....kh...!
 --------------------------------
 [00000225][サクヤ,マキシマ,サクヤ]
-ファフナー！　もういいわ！
-もう、元に戻せるんでしょう？　お願い！
+Fafner! That's enough. Can you return her to normal now? Please!
 --------------------------------
 [00000226][レイジ,レイジ,レイジ]
-え!?　サクヤさん？　なにを……？
+Eh?! Sakuya-san? What are you...?
 --------------------------------
 [00000227][ファフナー,,ファフナー]
-わかりました。
+I understand.
 --------------------------------
 [00000228][ローゼリンデ,フレイア,ローゼリンデ]
-ファフナー？　なにをする？
+Fafner? What are you doing?
 --------------------------------
 [00000229][ファフナー,,ファフナー]
-心配ないよ。君のものを返すだけだ。
+Do not worry. I am simply returning something that belongs to you.
 --------------------------------
 [00000230][ローゼリンデ,フレイア,ローゼリンデ]
-……っ！
+...!
 --------------------------------
 [00000231][レイジ,レイジ,レイジ]
-な、なんだ!?　あいつ、
-ローゼリンデになにをしてるんだ！
+W...what?! What is that guy doing to Roselinde!
 --------------------------------
 [00000232][リン,シャオメイ,リンリン]
-落ち着きなさい。ソウルブレイドを……。
-彼女の心を、彼女自身に戻しているだけよ。
+Please calm down. The Soulblade.... the girl's heart, is returning to her body.
 --------------------------------
 [00000233][ローゼリンデ,フレイア,ローゼリンデ]
-うっ！　うぁああああ…………あうっ！
+Ugh! Uwaaaa....aa!
 --------------------------------
 [00000234][レイジ,レイジ,レイジ]
-でも、ずいぶん苦しそうだぞ!?
-本当に、平気なのか？
+But, she seems to be in pain?! Is she really okay?
 --------------------------------
 [00000235][リン,シャオメイ,リンリン]
-今まで不完全にしか入っていなかった心が、
-急に全部戻ってきたんだものね。
-多少は抵抗があるかも知れないわ。
+She didn't have a complete heart before, and now it's all returning. It's
+possible there is some resistance.
 --------------------------------
 [00000236][リン,シャオメイ,リンリン]
-でも、見て？　ちゃんと、彼女の体に
-収まったでしょう？　大丈夫なのよ。
-元々、彼女の心なんだから。
+But, you see? Her body is accepting it normally. That's why its fine. It is her
+heart after all.
 --------------------------------
 [00000237][レイジ,レイジ,レイジ]
-でも……。
+But...
 --------------------------------
 [00000238][リン,シャオメイ,リンリン]
-ファフナー！　彼女をこっちに連れてきて！
-レイジが、すごく心配してるみたいだから。
+Fafner! Bring that girl to us! Rage has been so worried.
 --------------------------------
 [00000239][ファフナー,,ファフナー]
-ああ、わかった。今そっちへ……。
+I got it, I'm coming over...
 --------------------------------
 [00000240][アイザック,,伯爵]
-……やはり、そういうことか。
+I knew it would be so.
 --------------------------------
 [00000241][サクヤ,マキシマ,サクヤ]
-あれは……伯爵っ!?　
-ファフナー！　気をつけて！
+That is... Earl?! Fafner! Be careful!
 --------------------------------
 [00000242][ファフナー,,ファフナー]
-え？　
+Eh?
 --------------------------------
 [00000243][ファフナー,,ファフナー]
-うあっ!!
+Uwa!!
 --------------------------------
 [00000244][レイジ,レイジ,レイジ]
-え!?　あれは……!?
+Eh?! That is...!?
 --------------------------------
 [00000245][カノン,シーナ,カノン]
-えええええっ!?　ウソぉっ！
+Eeeeh?! It can't be!
 --------------------------------
 [00000246][レイジ,レイジ,レイジ]
-カ、カイト先輩!?
+K...Kaito senior?!
 --------------------------------
 [00000247][カイト,キリヤ,カイト]
-…………くっ！　伯爵め……。
-俺を見張ってたのか……！
+....tch! Earl.... you were watching me the whole time....!
 --------------------------------
 [00000248][カノン,シーナ,カノン]
-カイト!?　大丈夫なの？
+Kaito?! Are you okay?
 --------------------------------
 [00000249][カイト,キリヤ,カイト]
-ああ！　カノン！　レイジ！　こっちは平気だ。
-それよりあっちを見ろ！
+Yeah! Kanon! Rage! I am fine. More importantly, look there!
 --------------------------------
 [00000250][アイザック,,伯爵]
-仕留めそこねたか……。運のいい男だ。
-ならば、魔竜に始末を付けてもらうとしよう！
+You survived. What a lucky man. Well then, this Magic Dragon will have to take
+care of you!
 --------------------------------
 [00000251][レイジ,レイジ,レイジ]
-魔竜だって!?　とんでもねぇものを
-出してきやがって！
+Magic Dragon?! Doesn't matter what you throw at us!
 --------------------------------
 [00000252][アイザック,,伯爵]
-ふっ、ファフナーの命を助けたいのなら、
-そいつを倒してみるがいい。
-できればの話だがな！　さらばだ！
+Hmph, if you want to save Fafner, you will have to defeat this guy. That is, if
+you can do it. Farewell!
 --------------------------------
 [00000253][レイジ,レイジ,レイジ]
-あ！　待て、伯爵！　逃げる気か！
+Ah! Wait, Earl! Don't you run!
 --------------------------------
 [00000254][カイト,キリヤ,カイト]
-そっちはいい！　とにかく魔竜を！
+Enough about him! Deal with the Magic Dragon first!
 --------------------------------
 [00000255][レイジ,レイジ,レイジ]
-わかりました！　みんな、やるぞ！
+I understand! Everyone, let's do this!
 --------------------------------
 [00000256][レイジ,レイジ,レイジ]
-カイト先輩、どうしてこんなとこに……？
+Senior Kaito, why are you here...?
 --------------------------------
 [00000257][ユキヒメ,ユキヒメ,ユキヒメ]
-ファフナーの正体が、
-レイジの知り合いだったとはな……。
-まったく、世間は狭いものだ。
+Fafner's real identity is actually someone Rage knows... it really is a small
+world.
 --------------------------------
 [00000258][ユキヒメ,ユキヒメ,ユキヒメ]
-……というか、だな。
-普通に考えて、いくらなんでも狭すぎぬか？
+...that's what I would like to say. But when you think about it, there's no way
+it's this coincidental?
 --------------------------------
 [00000259][レイジ,レイジ,レイジ]
-だよな。剣道部の顧問のサクヤさんがこっちにいて、
-部の先輩までこっちにいるっていうのは、
-ちょっと出来過ぎ……？
+Indeed. The instructor for our kendo group Sakuya is here, and now another
+senior from the same group is also here, this is really far too...?
 --------------------------------
 [00000260][レイジ,レイジ,レイジ]
-……ははーん。カイト先輩。
-なにか事情があるんですね？
+Aha, senior Kaito. You have a reason to be here, right?
 --------------------------------
 [00000261][カイト,キリヤ,カイト]
-いや、それは、その……。
+Well, that is...
 --------------------------------
 [00000262][カノン,シーナ,カノン]
-なによ！　はっきりしないわね！
-いったいどうなってるわけ？
-カイト！　きちんと説明しなさいよ。
+What's wrong now! What is the meaning of all this? Kaito! Explain yourself now.
 --------------------------------
 [00000263][カノン,シーナ,カノン]
-急にあんたがいなくなって、あたしが……。
-あたしとトウカが、どんだけ心配したと思ってんの？
+You disappeared all of a sudden... I was... I and Touka were really worried, you
+know?
 --------------------------------
 [00000264][カイト,キリヤ,カイト]
-お、おい！　ちょっと落ち着いてくれよ、カノン！
+H...hey! Calm down, Kanon!
 --------------------------------
 [00000265][カイト,キリヤ,カイト]
-えーと……言っちゃっていいですか？　サクヤさん。
+Let's see, maybe you could tell them? Sakuya-san.
 --------------------------------
 [00000266][サクヤ,マキシマ,サクヤ]
-ふふふ、もうバレてるみたいだし。
-説明した方がよさそうね。リンリン、教えてあげて。
+Hehehe, looks like the cat's out of the bag. We really would have to explain
+this. Rinrin, if you'd please.
 --------------------------------
 [00000267][リン,シャオメイ,リンリン]
-わかったわ。簡単に言うと、事情はこういうこと。
-実は、カイトはサクヤからの指示で、
-ずっと帝国軍に潜り込んでいたのよ。
+I understand. To put in simple terms, Kaito was following Sakuya's instructions
+to infiltrate the Empire.
 --------------------------------
 [00000268][リン,シャオメイ,リンリン]
-最後の歌姫、ローゼリンデの身を守るためと、
-機会を見てこちらに……レイジのそばに、
-連れ戻すためにね。
+To wait for a chance to meet and protect the last Loreley, Roselinde, as well as
+to return her to Rage.
 --------------------------------
 [00000269][レイジ,レイジ,レイジ]
-そうだったのか……。
+So that's it...
 --------------------------------
 [00000270][ユキヒメ,ユキヒメ,ユキヒメ]
-なんとも大掛かりな……。
+What a large-scale plan...
 --------------------------------
 [00000271][レイジ,レイジ,レイジ]
-でも先輩、潜入して、なにをやってたんです？
-っていうか、さっき、ローゼリンデの心剣と
-合わせてたのは……。
+But senior, how did you infiltrate? And speaking of which, just now, Roselinde
+and the heartsword merged...
 --------------------------------
 [00000272][カイト,キリヤ,カイト]
-ああ、あれは、ローゼリンデの「心」……というか、
-その一部だよ。あれを敵に奪われてたせいで、
-ローゼリンデは奴らの言いなりになっていた……。
+Ah, that is Roselinde's heart. ...or rather, part of it. She became like this
+because the enemy took part of that away.
 --------------------------------
 [00000273][カイト,キリヤ,カイト]
-つまり、自分の意思で
-行動することができなかったんだ。
+In short, she had no will of her own.
 --------------------------------
 [00000274][レイジ,レイジ,レイジ]
-それを先輩が取り返してくれたんですか。
-いったい、どうやって……。
+So that means, senior must have returned it. Exactly how is that...
 --------------------------------
 [00000275][ローゼリンデ,フレイア,ローゼリンデ]
-うっ……ううん……。
+U.... ugh...
 --------------------------------
 [00000276][ユキヒメ,ユキヒメ,ユキヒメ]
-む？　おい、レイジ！
-ローゼリンデが目を覚ましたぞ！
+Hm? Hey, Rage! Roselinde is coming to!
 --------------------------------
 [00000277][カイト,キリヤ,カイト]
-ローゼリンデのところに行ってやれよ、レイジ。
-こっちの事情は、後で説明するからさ。
+Go to Roselinde, Rage. I'll explain all of the rest later.
 --------------------------------
 [00000278][レイジ,レイジ,レイジ]
-わかりました！
+I understand!
 --------------------------------
 [00000279][ローゼリンデ,フレイア,ローゼリンデ]
-んん……っ。こ、ここは……。
-私は、確かさっき……。
+Ung... this is.... I was...
 --------------------------------
 [00000280][レイジ,レイジ,レイジ]
-ローゼリンデ！
+Roselinde!
 --------------------------------
 [00000281][ユキヒメ,ユキヒメ,ユキヒメ]
-ローゼリンデ、大丈夫か？
+Roselinde, are you okay?
 --------------------------------
 [00000282][ローゼリンデ,フレイア,ローゼリンデ]
-……レイジ！　ユキヒメ！
-…………ダメ！　来ないで！
+... Rage! Yukihime! ....stop! Don't come here!
 --------------------------------
 [00000283][レイジ,レイジ,レイジ]
-え!?　どうして！
+Eh?! Why!
 --------------------------------
 [00000284][ローゼリンデ,フレイア,ローゼリンデ]
-だって私、今まであんなにひどいことを……！
-助けに来てくれたあなたにだって、
-あんなことを……。
+I have, been doing such horrible things...! To have you come all this way to
+help me, I just...
 --------------------------------
 [00000285][ローゼリンデ,フレイア,ローゼリンデ]
-必ず連れ戻す、必ず助けるって言ってくれたのに、
-そんなあなたに、私は……！
+You said you will get me back, you said you would help me, and yet, I ...
 --------------------------------
 [00000286][レイジ,レイジ,レイジ]
-いいんだ！　そんなことは！
-だって、お前がやろうと思ってしたことじゃ
-ないんだろ？
+That doesn't really matter now! Besides, you're weren't in your right mind,
+right?
 --------------------------------
 [00000287][ローゼリンデ,フレイア,ローゼリンデ]
-そんなこと、言い訳にならないわ！
-私がしたことに、変わりはないじゃない！
+Saying that doesn't change the facts! It doesn't change what I have done!
 --------------------------------
 [00000288][レイジ,レイジ,レイジ]
-そんなことはない！　全然違うじゃないか！
+That's not true! That's not true at all!
 --------------------------------
 [00000289][ローゼリンデ,フレイア,ローゼリンデ]
-違わないわ。私にはもう、あなたたちと話したり、
-一緒にいる資格なんかないのよ。
-世界を救おうとしているあなたたちとは……。
+It's not wrong. I don't have the right to be with you all. You all who are
+trying to save this world...
 --------------------------------
 [00000290][レイジ,レイジ,レイジ]
-違う！　そんなことはない！　絶対にないんだ！
-今までしてきたことを悔やんでいるんなら、
-これから取り返せばいいじゃないか！
+Wrong! That's not true! Definitely not! Even now, if you can feel regret, then
+we can make it better!
 --------------------------------
 [00000291][レイジ,レイジ,レイジ]
-お前には、まだまだできることがある……。
-いや、お前にしかできないことがあるんだ。
+You still have things you can do.... no, there are some things only you can do.
 --------------------------------
 [00000292][ローゼリンデ,フレイア,ローゼリンデ]
-私にしか……できないこと？
+Things... only I can do?
 --------------------------------
 [00000293][レイジ,レイジ,レイジ]
-そうだよ。だって、お前は歌姫なんだろ？
-その力を、世界を救うために使うんだ。
+Yeah. You are a Loreley, right? This power, you can use it to save the world.
 --------------------------------
 [00000294][レイジ,レイジ,レイジ]
-後のことは、それからゆっくり考えたっていい。
-オレも、お前と一緒に考える。
-とにかく、今オレたちにはお前の力が……。
+What happens after, you have plenty of time to think about it. We can think
+about it together. In any case, we need your strength right now...
 --------------------------------
 [00000295][レイジ,レイジ,レイジ]
-いや、お前が必要なんだよ。世界を救うために！
-だから、一緒に来てくれ！　頼む、ローゼリンデ！
+We need you. For this world! So, come with us! Please, Roselinde!
 --------------------------------
 [00000296][ローゼリンデ,フレイア,ローゼリンデ]
-でも、私、いったい何をしたら……。
+But, what can I do...
 --------------------------------
 [00000297][レイジ,レイジ,レイジ]
-……そうだな。
-まずは、お前の歌に反応する精霊王を探そう。
-たぶん、また卵になってるんだと思うけど……。
+... that's right. First, we have to search for the Spirit King that responds to
+your song. Most likely, it will be an egg now...
 --------------------------------
 [00000298][ローゼリンデ,フレイア,ローゼリンデ]
-……私が承認を得るべき相手は、月の精霊王よ。
-でも、帝国軍が先に
-その卵を見つけてしまっているはず……。
+...the one that should recognize me, the Moon Spirit King. But the Empire has
+previously searched for this egg, with no results...
 --------------------------------
 [00000299][カイト,キリヤ,カイト]
-いや、そうでもないぞ？
-精霊王の卵だったら……。
+No, that's not entirely true. About the Spirit King Egg...
 --------------------------------
 [00000300][カイト,キリヤ,カイト]
-ほら、ここにあるよ。
+Okay, here it is.
 --------------------------------
 [00000301][レイジ,レイジ,レイジ]
-ええええええっ!?
+Eeeeehhh?!
 --------------------------------
 [00000302][ローゼリンデ,フレイア,ローゼリンデ]
-ど、どうしてあなたが!?
+W... why do you?!
 --------------------------------
 [00000303][カイト,キリヤ,カイト]
-正直、俺もびっくりしたんだけど……。
-バルドルの命令で、探しに行くことになって……。
+To tell the truth, I myself was surprised. Under Balder's orders to search for
+this...
 --------------------------------
 [00000304][ユキヒメ,ユキヒメ,ユキヒメ]
-それで、見つけた卵をずっと隠し持っておった、
-というわけか？
+So, you have been hiding the egg yourself all this time, is that it?
 --------------------------------
 [00000305][カイト,キリヤ,カイト]
-まあ、そんなとこだね。
+Well, pretty much.
 --------------------------------
 [00000306][ローゼリンデ,フレイア,ローゼリンデ]
-はぁ……。
+Haa....
 --------------------------------
 [00000307][カイト,キリヤ,カイト]
-ほら、ローゼリンデ。いつまでも驚いてないで。
-こんなとき、どの歌を歌えばいいのか……。
-わかってるんだろ？
+Come on, Roselinde, you don't have to act so surprised. At such times, you
+should use your song. You know that, right?
 --------------------------------
 [00000308][ローゼリンデ,フレイア,ローゼリンデ]
-はい。では……。
+Yes. Okay then...
 --------------------------------
 [00000309][トウカ,クレハ,トウカ]
-刀身がまぶしく輝いて……。
-なんてきれいな光なの……。
+The blade is glowing... such a beautiful light...
 --------------------------------
 [00000310][ミストラル,ネレイス,ミスティ]
-刀身に浮かび上がった文様は……。
-どうやら、古代語のようじゃな。
-なにか、詩のようなものか……？
+Runes are appearing on the blade. Seems to be an ancient language. Is it some
+kind of poem...?
 --------------------------------
 [00000311][ユキヒメ,ユキヒメ,ユキヒメ]
-おお……！　これは……！
-レイジ！　わかるか……!?
+Oh...! This is...! Rage! Do you feel it?!
 --------------------------------
 [00000312][レイジ,レイジ,レイジ]
-ああ！　わかる！　わかるさ！
-これがお前の、本当の力なんだな!?　ユキヒメ！
+Yeah! I do! I feel it! Is this is your true power?! Yukihime!
 --------------------------------
 [00000313][エルミナ,ローデリア,エルミナ]
-では……これが
-「シャイニング・ブレイド」なのですね？
+Then... this is the Shining Blade?
 --------------------------------
 [00000314][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだ！　これこそ、先代と共に戦っていた、
-あのころの力……！　そうに違いない！
+Indeed! This was how I fought alongside the predecessor! This power! There's no
+mistaking it!
 --------------------------------
 [00000315][ミストラル,ネレイス,ミスティ]
-そうじゃったのか……。
-これが伝説の……！
+I see now... this is the legendary....!
 --------------------------------
 [00000316][アルティナ,メル・シルフィス,アルティナ]
-「シャイニング・ブレイド」の
-封印が解けたと言うことは……。
-いよいよ最後の決戦かしら？
+Shining Blade's final seal has been removed... It's now finally time for the
+final battle.
 --------------------------------
 [00000317][ローゼリンデ,フレイア,ローゼリンデ]
-クラントールへ、戻るのね？
+Shall we return to Crantor?
 --------------------------------
 [00000318][レイジ,レイジ,レイジ]
-もちろんだ、ローゼリンデ！
-一緒に、クラントールの王城を取り返そう！
-そして……。
+Of course, Roselinde! We shall take back Crantor castle together! And then...
 --------------------------------
 [00000319][レイジ,レイジ,レイジ]
-ドラゴニア帝国を、完全に叩き潰すぞ！
+We shall completely smite Dragonia Empire!
 --------------------------------
 [00000320][バルドル,,バルドル]
-どういうことだ！　この情報に間違いはないのか？
-「シャイニング・ブレイド」が復活したというのは！
+How could this be? Is this information correct? Shining Blade is completely
+revived!
 --------------------------------
 [00000321][アイザック,,伯爵]
-複数の偵察隊からの報告です。
-実際に、敵の攻撃力が格段に上がっているとか。
+Multiple scouts have made the same report. It is true, the enemy has been
+increasing in strength.
 --------------------------------
 [00000322][バルドル,,バルドル]
-なんということだ……！
-ようやく、ここまでこぎつけたというのに！
+How can this be...! To think we finally made it this far!
 --------------------------------
 [00000323][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFうろたえるでない、バルドルよ。
-たかが古びた刀１本、昔の力が目覚めたところで
-なにほどのことがあろうか。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFDo not be flustered, Balder.
+It is a mere ancient sword that reawakened its power.
 --------------------------------
 [00000324][バルドル,,バルドル]
-ですが、ダークドラゴン様！
-あの刀は、かつてダークドラゴン様を封印した
-いわくつきの物！　このままでは……。
+But, DarkDragon-sama! It was that same sword that sealed DarkDragon-sama away!
+At this rate...
 --------------------------------
 [00000325][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFバルドルよ。お前はたかが刀１本に、
-この私が不覚を取るとでも言いたいのか……？
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFBalder.
+Are you saying that a mere sword like this will result in my undoing...?
 --------------------------------
 [00000326][バルドル,,バルドル]
-ひっ！　め、めっそうもございません！
-そのようなことは決して……。
+Ack! F.. forgive me! Of course I meant no such thing...
 --------------------------------
 [00000327][アイザック,,伯爵]
-落ち着いてください、バルドル様。
-ダークドラゴン様のおっしゃるとおり、
-「シャイニング・ブレイド」とはいえ、刀１本。
+Please calm down, Balder-sama. As DarkDragon-sama has said, the Shining Blade is
+but one sword.
 --------------------------------
 [00000328][アイザック,,伯爵]
-そうまで恐れるほどの物ではありませんよ。
-ふふふふふ……。
+It is not something we need to be this afraid of. Hmhmhmhm....
 --------------------------------
 [00000329][ダークドラゴン,,ダークドラゴン]
-@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFそうだ。まあ、見ておれ。
-ふっ、ふふふふふふ……。
+@lt1@fs16@ll16@dt2@db2@dc88000000@fcFFFFFFFFIndeed. Just wait and see. Hahahahahaha...
 --------------------------------
 [00000330][バルドル,,バルドル]
-そ、そうだな。確かにそうだ。
-は、ははっ、ははははははははは！
+Y... you're right. That is true. Hahaha.... hahahahaha!
 --------------------------------
 [00000331][スルト,,スルト]
-ふん……。てことは……そろそろ奴も
-このあたりに来てるってことかい。
-いいだろう、上等だ。
+Hmph... And it seems that those fools are coming here right now. This is just
+perfect.
 --------------------------------
 [00000332][スルト,,スルト]
-今度こそ、俺の手で殺してやるぞ。
-フェンリル……！
+This time for sure, I will kill him with my own hands. Fenrir...!
 --------------------------------
 [00000333][none]
-@lt1@dt2@db1@dc88000088ユキヒメが真の力に目覚め、
-意気の上がる「シャイニング・フォース」は、
-レイジを先頭にクラントール中心部を目指した。
+@lt1@dt2@db1@dc88000088 Yukihime has awakened her true strength Shining Force,
+with heightened morale, heads towards the center of Crantor, led by Rage.
 --------------------------------
 [00000334][none]
-@lt1@dt2@db1@dc88000088「シャイニング・ブレイド」の力があれば、
-弱体化しつつある帝国軍を打ち破れる。
-ヴァレリアを、彼らの支配から解放できる。
+@lt1@dt2@db1@dc88000088 With Shining Blade's strength, the weaker Imperial Army were easily defeated.
+Valeria's liberation is now within reach.
 --------------------------------
 [00000335][none]
-@lt1@dt2@db1@dc88000088彼らはそう信じ、
-一刻も早くその目的を実現させようと、
-クラントール首都への進軍を急いだ。
+@lt1@dt2@db1@dc88000088 Believing in their purpose, they advanced towards the capital of Crantor.
 --------------------------------
 [00000336][none]
-@lt1@dt2@db1@dc88000088クラントールの首都は大きな島に位置し、
-「シャイニング・フォース」の拠点である港町とは
-狭い海峡だけで隔てられている。
+@lt1@dt2@db1@dc88000088 Crantor's Capital was a large island.
+A narrow sea lies between them and the port base point of Shining Force.
 --------------------------------
 [00000337][none]
-@lt1@dt2@db1@dc88000088だが、島への上陸を目指したレイジたちは、
-思いもよらぬ障害に行く手を
-阻まれることになるのだった……。
+@lt1@dt2@db1@dc88000088 However, on this island, someone is intent on stopping their advance.
 --------------------------------
 [00000338][サクヤ,マキシマ,サクヤ]
-準備はいい？
-よければ出かけましょうか。
+Are you ready?  If you don't mind, let's go out.
 --------------------------------
 [00000339][サクヤ,マキシマ,サクヤ]
-そろそろいいかしら？
-問題なければ出撃よ。
+Is it about time?  If there's no problem, let's sortie.
 --------------------------------

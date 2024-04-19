@@ -1,970 +1,786 @@
 [0226]
 *****************
 [00000000][none]
-@lt1ルーンベールを後にした一行は、銀の森に住むという
-木の精霊王の安否を確かめるため、
-エルフの国フォンティーナを目指す。
+@lt1Travelling from Runevale, everyone headed to the Silver Forest, where the 
+Wood Spirit King resided, towards the Elf Kingdom Fontina.
 --------------------------------
 [00000001][none]
-@lt1しかし、フォンティーナは依然として
-スレイプニル将軍率いる暗黒騎士団の制圧下にあり
-戦況はレイジたちが出発したときより悪化していた。
+@lt1However, Fontina was in a crisis, under attack from general Sleipnir, and 
+the situation had worsened since Rage's departure.
 --------------------------------
 [00000002][none]
-@lt1そこでアルティナはエルフ族以外誰も知らない
-秘密の抜け道を通り、エルフの避難民たちが
-暮らす「隠れ里」に一行を導いていく。
+@lt1Altina used a secret path no one except for the elves knew, and led 
+everyone to where the elves were hiding.
 --------------------------------
 [00000003][none]
-@lt1だが、それは彼女が何より重んじる
-エルフ族の掟とは、相反する行為だった……。
+@lt1However, in doing so, she went against the strict rules of the elf tribe.
 --------------------------------
 [00000004][none]
-第４章 妖精たちのアルペジオ
+Chapter 4 Fairies' Arpeggio
 --------------------------------
 [00000005][none]
-@lt1@fs16@dt2@db1@dcFF000000―　隠れ里の集会場　―
+@lt1@fs16@dt2@db1@dcFF000000― Hidden village gathering place―
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-へえ……フォンティーナにこんなところが
-あったのか。エルフ族ってすごいな。
+Wow, Fontina actually had such a place. The elf tribe is amazing.
 --------------------------------
 [00000007][アルティナ,メル・シルフィス,アルティナ]
-ここは、帝国軍の目を逃れるための「隠れ里」よ。
-生き残ったフォンティーナの民が、
-大勢ここで暮らしているの。
+This is an isolated village where everyone goes to evade the Empire. The
+renmants of Fontina have mostly gathered here.
 --------------------------------
 [00000008][アルティナ,メル・シルフィス,アルティナ]
-本当ならよそ者……まして、エルフ以外の者なんか
-ここには入れてはいけないのよ？
-今回は緊急事態だから仕方なく……。
+In truth, strangers... no, no one except for elves are allowed here. But this is
+an emergency, so there is no other way.
 --------------------------------
 [00000009][エルフの衛兵,,エルフの衛兵]
-待て！　そこの連中！　そこで止まれ！
-これ以上先には行かせん！
+Hold it! You people! Stop right there! You're not allowed beyond this point!
 --------------------------------
 [00000010][アルティナ,メル・シルフィス,アルティナ]
-警備、ご苦労様。ですが心配はいりません。
-この者たちは私の連れです。
+Good work, soldier. But you don't have to worry. These people are with me.
 --------------------------------
 [00000011][エルフの衛兵,,エルフの衛兵]
-ア、アルティナ王女！
-お帰りになられたのですか……。
+P... Princess Altina! Welcome back...
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-王女……？　アルティナ王女……？
-もしかして……お前のことか？
+Princess...? Princess Altina....? Could they be talking about you?
 --------------------------------
 [00000013][アルティナ,メル・シルフィス,アルティナ]
-他に誰がいるっていうのよ。
-だいたい、そんなこと今はどうでもいいでしょ。
-とにかく、中に入るわよ。
+Who else do you think he's talking about? Anyway, that's not really important
+right now. Let's just go in.
 --------------------------------
 [00000014][アルティナ,メル・シルフィス,アルティナ]
-……どうしたのです？　あなたたち。
-そこを通してください。　
+... What's wrong? Please let us through.
 --------------------------------
 [00000015][エルフの衛兵,,エルフの衛兵]
-いえ、アルティナ王女。
-お通しするわけにはまいりません。
-我々は長老会議よりの命令を受けております。
+I'm sorry, Princess Altina. I cannot let you through. These orders came from the
+Elder Council.
 --------------------------------
 [00000016][アルティナ,メル・シルフィス,アルティナ]
-命令？　どのような命令です？
+Orders? What kind of orders?
 --------------------------------
 [00000017][エルフの衛兵,,エルフの衛兵]
-王女がお戻りになられたら、
-すぐに議長の前に連行……いえ、お連れしろと。
-会議を招集し、お聞きしたいことがあると……。
+When the Princess returns, I am to take you to meet with the Elders immediately.
 --------------------------------
 [00000018][アルティナ,メル・シルフィス,アルティナ]
-……議長がそのようなことを？
-……わかりました。そういうことでしたら、
-まいりましょう。案内をお願いいたします。
+The chairman gave such an order? I understand, I will go there now. Lead the
+way.
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（なんだか、おかしなことになりそうだな……）
+@fcFFAAFFAA(Something doesn't seem right somehow...)
 --------------------------------
 [00000020][村人,村人,アルフェウス]
-困ったことをしてくれたな。
-アルティナ王女。我が従弟の娘よ。
-森全体が危機にある折だというのに。
+That's quite the trouble you caused us, Princess Altina, my apprentice's
+daughter. The whole forest is now in danger.
 --------------------------------
 [00000021][アルティナ,メル・シルフィス,アルティナ]
-どういうことです？　おじ様……いえ、議長。
-森が危機に陥っているからこそ、
-私は協力者を連れてフォンティーナに戻ったのです。
+What do you mean, Uncle... no, Chairman. About the forest being in danger? I
+came back to Fontina with people to help us.
 --------------------------------
 [00000022][村人,村人,アルフェウス]
-……いいかね？　アルティナ。我々エルフ族は、
-伝統と秩序を重んじる種族だ。問題の解決も、
-それにのっとって行わなければならぬ。
+Are you sure about that, Altina? We are the proud elf tribe. We treat our rules
+and system with the utmost importance. Having a problem that needs to be solved
+doesn't change that.
 --------------------------------
 [00000023][村人,村人,アルフェウス]
-あくまでもエルフらしく。
-よもや知らぬわけでもあるまい。
+After all, you too are an elf. There is no way you could not know.
 --------------------------------
 [00000024][アルティナ,メル・シルフィス,アルティナ]
-もちろんです。
-私はずっとそうしてきたつもりですし、
-これからだって……。
+Of course I do. I have always followed the system. But this time...
 --------------------------------
 [00000025][村人,村人,アルフェウス]
-では、なぜ彼らをここに連れて来た！
-異種族をこの隠れ里に引き入れるなど、
-秩序ある行動とはとうてい呼べぬ！
+Then why have you brought these people here?! Bringing other races into this
+isolated village is against our system!
 --------------------------------
 [00000026][アルティナ,メル・シルフィス,アルティナ]
-ですから、秩序を取り戻すための
-協力者たちをお招きしたのです！
-それが、伝統に反しているとは思いません！
+That is why I am trying to restore the system, by summoning people who could
+help us! I have no intention of going against our tradition!
 --------------------------------
 [00000027][村人,村人,アルフェウス]
-反しておらぬだと？　フォンティーナのエルフ族は、
-やむを得ず外の者に協力することはあっても、
-外からの協力者を必要としたことはない。
+Not going against it? Fontina Elf tribe has never once asked for the outsides
+for help, nor do we need their help!
 --------------------------------
 [00000028][村人,村人,アルフェウス]
-あくまでも我ら森に住む者たちの合議により、
-我らのみの力によって物事を解決する。
+As dwellers of this forest, we rely on our own strengths, and only our own
+strengths, to solve our problems.
 --------------------------------
 [00000029][村人,村人,アルフェウス]
-それがエルフ族の伝統であったはずだが、
-違うかな？　アルティナ。それに議員諸君。
+That has always been our tradition, is it not? Altina? And the council?
 --------------------------------
 [00000030][エルフ議員,,エルフ議員]
-いえ、議長のおっしゃる通りと考えます。
+The Chairman is correct.
 --------------------------------
 [00000031][アルティナ,メル・シルフィス,アルティナ]
-…………。
+......
 --------------------------------
 [00000032][村人,村人,アルフェウス]
-我が従弟は優れた指導者であったが、
-その娘たちはどうしてこのように
-勝手なことばかり繰り返すのか……。
+My apprentice has always been a kind leader. I never thought his daughters would
+be so wilful and rebellious.
 --------------------------------
 [00000033][村人,村人,アルフェウス]
-突然帰ってきたラナといいお前といい、
-そのようなことばかりしているから……。
+Whether it's you, or Ranah who has suddenly returned, you are both like this.
 --------------------------------
 [00000034][アルティナ,メル・シルフィス,アルティナ]
-議長！　今、なんと？
-姉さんが、帰ってきたのですか？
+Chairman, did you say, Big Sister has returned?
 --------------------------------
 [00000035][村人,村人,アルフェウス]
-そうだ。ラナは出て行ったときと同じく、
-なんの前触れもなくふらりと帰ってきた。
-つい、昨日のことだ。
+That's right. She goes as she pleases, comes as she pleases. It was just
+yesterday.
 --------------------------------
 [00000036][村人,村人,アルフェウス]
-そして、我々が止めるのも聞かず、
-一人で銀の森へと入っていった。
-地竜ベイルグランに話があるとか言ってな。
+And she didn't listen to a word I say. She stepped into the Silver Forest alone.
+Says she has to speak to the Earth Dragon Beilgran.
 --------------------------------
 [00000037][アルティナ,メル・シルフィス,アルティナ]
-大地の守護竜ベイルグランに？　姉さんが？
+The dragon protector of the earth, Beilgran? Big Sister?
 --------------------------------
 [00000038][村人,村人,アルフェウス]
-まったく、お前たちはなにを考えている。
-よいか、我々エルフ族は長きに渡って森と共に生き、
-森の営みに合わせて自分たちの暮らしを……。
+Good grief. What were the two of you thinking? Listen, we elves have been living
+in this forest together for a very long time. We will deal with our own
+problems...
 --------------------------------
 [00000039][アルティナ,メル・シルフィス,アルティナ]
-長く眠りについていた地竜が目覚めているのね。
-そのベイルグランと話を……姉さんが？
-いったい、なにを考えているの？
+The dragon in slumber has been awakened. And Big Sister when to speak with this
+Beilgran? What is she thinking?
 --------------------------------
 [00000040][村人,村人,アルフェウス]
-こら、アルティナ！　聞いているのか！
+Altina! Are you listening?!
 --------------------------------
 [00000041][龍那,,龍那]
-議長閣下。アルティナ王女様は、
-なにか大事な考えごとがおありの様子。
-代わりに、私からの発言をお許しいただけますか？
+Sir chairman. Princess Altina seems to have something important to consider. In
+her stead, please grant me permission to say a few words.
 --------------------------------
 [00000042][村人,村人,アルフェウス]
-エトワール神殿の巫女殿か……。
-よろしい、発言を許可しましょう。
+Etoile Shrine Miko... very well, you may speak.
 --------------------------------
 [00000043][龍那,,龍那]
-ありがとうございます。
-レイジさん、ユキヒメさんを……。
+Thank you. Rage-san. Have Yukihime-san...
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-え？　ああ。見せればいいのか？
-こいつだけど？
+Eh? Ah, you wish to see this fellow?
 --------------------------------
 [00000045][ユキヒメ,ユキヒメ,ユキヒメ]
-こら！　こいつとはなんだ、こいつとは！
+What? What do you mean by this fellow?!
 --------------------------------
 [00000046][龍那,,龍那]
-しかとご覧下さい。
-この刀こそ、クラントールに伝わる霊刀・雪姫……。
+Everyone, please look. This katana is the fabled Spirit Sword of Crantor,
+Yukihime.
 --------------------------------
 [00000047][龍那,,龍那]
-そして、雪姫を振るう資格を持つこの者こそ、
-異世界より召喚されし、新たなる勇者なのです。
+And this is the one who has earned the right to wield her, the hero from another
+world.
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-ど、どうも……。
+H... hello.
 --------------------------------
 [00000049][村人,村人,アルフェウス]
-……なんと！
-では、その刀があの……。
+...what? That means, this katana is....
 --------------------------------
 [00000050][ユキヒメ,ユキヒメ,ユキヒメ]
-お初にお目にかかる。我こそは霊刀・雪姫なり。
+How do you do. I am the Spirit Sword, Yukihime.
 --------------------------------
 [00000051][龍那,,龍那]
-……そのことをご理解いただいたうえで私たちや、
-アルティナさんの処遇をご検討いただけますと、
-大変にありがたいのですが……。
+Please understand our situation. You may not agree with Altina-san's methods,
+but we are in a dire situation.
 --------------------------------
 [00000052][村人,村人,アルフェウス]
-…………わかりました。そういうことであれば、
-無下に追い出すわけにもまいりません。
-あなた方の滞在を許可いたしましょう。
+.... I understand. We will allow you to remain in our forest. You have our
+permission.
 --------------------------------
 [00000053][村人,村人,アルフェウス]
-ただし、当方からの要請がある場合には、
-隠れ里の防衛にご協力いただきたい。
-よろしいですな？
+However, in return, I would like you to help defend our isolated village. Is
+that okay?
 --------------------------------
 [00000054][龍那,,龍那]
-承知いたしました。
-それでは、よろしくお願いいたします。
+Understood. It's been an honor.
 --------------------------------
 [00000055][アルティナ,メル・シルフィス,アルティナ]
-…………姉さん。姉さんが、どうして……。
+Big Sister.... why?
 --------------------------------
 [00000056][アルティナ,メル・シルフィス,アルティナ]
-まったく、姉さんったら……
-いつもいつも勝手なことを……！
-あの人のせいで、私がどれだけ苦労したと……。
+Jeez, Big Sister. She's always doing whatever she wants. Because of her, I have
+to work so hard.
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-おい、アルティナ。
-どこへ行くんだ？　オレたちも付き合うぜ。
+Hey, Altina, where are you going. We are coming with you.
 --------------------------------
 [00000058][アルティナ,メル・シルフィス,アルティナ]
-れ、レイジ？　なによ、あなたには、
-関係のないことでしょ？
+Rage? What are you doing? This has nothing to do with you, right?
 --------------------------------
 [00000059][エルミナ,ローデリア,エルミナ]
-関係なく……ないんじゃないかと思います。
-私たち、ここまで一緒に戦ってきましたよね？
-仲間ですよね？　ですから……。
+That's not untrue.. but shouldn't we fight together? We are comrades, right?
 --------------------------------
 [00000060][フェンリル,,フェンリル]
-姉さんを探しに、銀の森へ行くんだろ？
-地竜ベイルグランに出くわして「試練」を
-ふっかけられたらどうするつもりなんだ？
+Are you planning to look for your sister in the Silver Forest? Are you intending
+to take this Beilgran's "trial"?
 --------------------------------
 [00000061][アルティナ,メル・シルフィス,アルティナ]
-それは……。でも、これは
-私たち姉妹の問題だから……。
+That's... but this is a problem between us sisters...
 --------------------------------
 [00000062][レイジ,レイジ,レイジ]
-オレたちだって、ベイルグランってドラゴンから
-精霊王の話を聞く必要があるんじゃないのか？
-そっちはお前らだけの問題じゃない。そうだろ？
+We too have to speak with Beilgran about the Spirit King. This is our problem
+too, no?
 --------------------------------
 [00000063][アルティナ,メル・シルフィス,アルティナ]
-それはそうだけど……。
+That may be true...
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-……なあ、アルティナ。
-姉さんのことが気になってたまらないのは、
-オレにもよくわかるんだけどさ。
+Well, Altina. I'm not sure why you are so worried about your sister...
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-さっきエルミナが言ったとおりだぜ？
-オレたち、仲間じゃないか。
-もっと信頼して、頼ってくれよな。
+But as Elmina said, we are all allies. You should depend on us more sometime.
 --------------------------------
 [00000066][アルティナ,メル・シルフィス,アルティナ]
-なに言ってるのよ……エルフ族と他の種族が
-仲間だなんてそんなこと……ある……わけ……。
+What are you talking about? For elf tribe to be allies with other races is
+just....
 --------------------------------
 [00000067][アルティナ,メル・シルフィス,アルティナ]
-…………。あー、もう！
-す、好きにしなさいよ！　勝手にそう思ってなさい！
-まったく、人間って思い込みが激しくて困るわ！
+.... argh! Jeez. Do as you please! Good grief, letting a human influence me...
 --------------------------------
 [00000068][アルティナ,メル・シルフィス,アルティナ]
-もう付き合ってられない！　私、行くから！
-ついてきたかったら、勝手にすればいいのよ！
-それじゃあ！
+I don't need you coming with me. I'm going! Whether you come or not is up to
+you! I'm off!
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-はははっ。それじゃあ、勝手にさせてもらうぜ！
+Hahaha. Well then, we will do what we want then.
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-……あれからずいぶん歩いたぜ？
-お前の姉さん、どこにいるんだよ？
+We've walked quite the distance. Where is your big sister?
 --------------------------------
 [00000071][アルティナ,メル・シルフィス,アルティナ]
-黙って歩きなさい！　姉さんはぜったい、
-こっちの方にいるはずなんだから……。
+Keep quiet and walk. Big sister should be somewhere around here.
 --------------------------------
 [00000072][エルミナ,ローデリア,エルミナ]
-でも、ラナさんがどこにも見当たりません……。
-いったい、どこにいらっしゃるのでしょう？
+But, I don't see Ranah-san anywhere. Where could she be?
 --------------------------------
 [00000073][エルウィン,ラナ・シルフィス,ラナ]
-あら？　意外と近くにいたりするわよ？
+Oh my, aren't you closer than you think?
 --------------------------------
 [00000074][エルミナ,ローデリア,エルミナ]
-え？　……ラナさん!?
+Eh? Ranah-san?!
 --------------------------------
 [00000075][アルティナ,メル・シルフィス,アルティナ]
-姉さん!?
+Big sister?
 --------------------------------
 [00000076][エルウィン,ラナ・シルフィス,ラナ]
-はぁい、エルミナ！　それから、
-アイラに龍那にサクヤ……みんなお久しぶり！
-んでもって、もちろん……。
+Hello, Elmina! And Aira, Ryuna, Sakuya too. It's been quite a while. And of
+course....
 --------------------------------
 [00000077][エルウィン,ラナ・シルフィス,ラナ]
-アルティナもね。
-こんなに早く見つかっちゃうなんて、
-思ってなかったわ。
+Altina too. I didn't expect to see you so soon.
 --------------------------------
 [00000078][アルティナ,メル・シルフィス,アルティナ]
-………………。
+.....
 --------------------------------
 [00000079][エルウィン,ラナ・シルフィス,ラナ]
-やっぱり、しっかりしてるわねえ、アルティナ。
-あたしなんかとは大違い！　まあ、それだから、
-あたしもこうやって自由にやってられるんだけど。
+You're doing quite well, Altina! Quite different compared to me. Well, I'd
+always prefer to be free anyway.
 --------------------------------
 [00000080][エルウィン,ラナ・シルフィス,ラナ]
-もっとも、あたしが森にいたところで、
-かえってアルティナに迷惑かけるだけかも
-知れないけどね。ははははっ！
+Well, if I return to the forest, Altina might just give me even more trouble.
+Hahaha.
 --------------------------------
 [00000081][アルティナ,メル・シルフィス,アルティナ]
-…………な、なにを……。
-なにをのん気なことを言ってるのよ！
-姉さんって、いつもそう！
+....what are you.... why are you still so relaxed now?! Big sister, you're
+always like this!
 --------------------------------
 [00000082][アルティナ,メル・シルフィス,アルティナ]
-私の気持ちなんか全然知らないで、
-いつも自分で思った通りに、
-好き勝手に動き回って……！
+You don't care how I feel at all, and just do everything as you please!
 --------------------------------
 [00000083][アルティナ,メル・シルフィス,アルティナ]
-姉さんがそうやって、勝手に森を飛び出したせいで、
-私がどれだけ苦労して、心配してるかなんて、
-姉さんにはわからないんでしょ！
+You took off from the forest when you just feel like it! You don't care how much
+trouble I have, or how worried I was at all!
 --------------------------------
 [00000084][エルミナ,ローデリア,エルミナ]
-ア、アルティナさん！
-落ち着いてください……！
+A... Altina-san, please calm down!
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-そうだ！　落ち着けって！
-言いたいことがあるのはわかるけど、
-今は待て！　落ち着くんだ！
+Yeah, calm down. I know what you're saying, but please wait and calm down!
 --------------------------------
 [00000086][アルティナ,メル・シルフィス,アルティナ]
-ちょ、エルミナ！　レイジ！　離して！
-姉さんにはまだ言いたいことが……。
+Tch! Rage! Elmina! Let me go! I still have a lot of things to say!
 --------------------------------
 [00000087][エルウィン,ラナ・シルフィス,ラナ]
-ごめん！　あたし、急いでるから話は後でね？
-ベイルグランに大事な用があるの！
+Sorry! I'm in a hurry right now. Can we talk later? I have some important
+business with Beilgran!
 --------------------------------
 [00000088][エルウィン,ラナ・シルフィス,ラナ]
-じゃあ、卵をもらったら、
-また後で会いましょうね～！
+Well, I'm going to get the egg. See you later~!
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-え？　卵？　……お前の姉さん、今、
-卵って言ったか？
+Eh? Egg? Did you sister just say egg?
 --------------------------------
 [00000090][アルティナ,メル・シルフィス,アルティナ]
-え、ええ。確かに、私も聞いたわ。
-と、いうことは、やっぱり木の精霊王も……。
-姉さん、どこでそれを知ったのかしら。
+Y...yeah, I heard it too. That means, the Wood Spirit King too is... I wonder
+how did she know?
 --------------------------------
 [00000091][アルティナ,メル・シルフィス,アルティナ]
-っていうか、姉さん、まさか……！
-ベイルグランから、精霊王の卵をもらうつもり!?
+Wait a moment.... does that mean... Big sister intends to get the egg from
+Beilgran?!
 --------------------------------
 [00000092][アルティナ,メル・シルフィス,アルティナ]
-無茶よ姉さん！　１人でなんて！
-待って！　姉さん！　待って！
-レイジ！　姉さんを追わなきゃ！
+That's reckless! She's alone! Wait! Big sister! Wait! We have to go after her!
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-わかってる！　急ごう！
+Got it. Let's hurry!
 --------------------------------
 [00000094][アルティナ,メル・シルフィス,アルティナ]
-え……!?　ここは……。
-ここに、精霊王の卵があるの!?
-私、何度もここに来ていたのに！
+Eh?! This... this is where the Spirit King Egg is hidden? But I must have come
+here countless of times!
 --------------------------------
 [00000095][ベイルグラン,,ベイルグラン]
-うむ。知っておるよ、森の守り人殿。
-お前さんの友達とも、
-ワシはすっかり仲良くなったしのう。
+I know, guardian of the forest. I got along with your friend just fine.
 --------------------------------
 [00000096][ケフィア,,ケフィア]
-フフー！　フゥフフゥ～！
+Ffu! Fuffu~!
 --------------------------------
 [00000097][アルティナ,メル・シルフィス,アルティナ]
-ケフィア！　あはははははっ！
-ずっと、待っててくれたのね？
+Kefia! Ahahahaha! Have you been waiting here for me all this time?
 --------------------------------
 [00000098][ケフィア,,ケフィア]
-フゥフゥ～！
+Fufu~!
 --------------------------------
 [00000099][エルミナ,ローデリア,エルミナ]
-あなた、私のことも覚えていてくれたの？
-うれしい……。
+Do you remember me too? I'm so happy.
 --------------------------------
 [00000100][ベイルグラン,,ベイルグラン]
-その子も、ワシと一緒に卵を守ってくれて
-おったのじゃよ。この、木の精霊王の卵をな……。
+This child and I protected the egg together. Arise, Egg of the Wood Spirit King.
 --------------------------------
 [00000101][ベイルグラン,,ベイルグラン]
-さあ、受け取るがよい。妖精の姫よ。
+Now, accept this, princess of the elves.
 --------------------------------
 [00000102][アルティナ,メル・シルフィス,アルティナ]
-姉さん。卵を……。
+Nee-san, the egg.
 --------------------------------
 [00000103][エルウィン,ラナ・シルフィス,ラナ]
-え？　違うわよ。卵を受け取るのは、
-あたしじゃなくって、アルティナ。
-あ・ん・た・よ？
+Eh? Not me, Altina. It is you. You!
 --------------------------------
 [00000104][アルティナ,メル・シルフィス,アルティナ]
-…………え？
+Eh?
 --------------------------------
 [00000105][エルウィン,ラナ・シルフィス,ラナ]
-さあ、アルティナ。精霊王の卵を取って。
-それから……あの歌、覚えてる？
-ずっと前に、母さんから教わった歌。
+Now, Altina, take the egg. And, do you remember the song? The one mother taught
+us a long time ago?
 --------------------------------
 [00000106][アルティナ,メル・シルフィス,アルティナ]
-じゃあ、あの歌が、もしかして……。
-わかったわ。私……歌ってみる。
+Then, that song, could it be possible. I understand. I will sing...
 --------------------------------
 [00000107][アルティナ,メル・シルフィス,アルティナ]
-…………。
+....
 --------------------------------
 [00000108][エルウィン,ラナ・シルフィス,ラナ]
-アルティナ、とってもよかったわよ！
-立派な妹を持って、姉さん幸せよ。
+Altina! This is great! You're a wonderful little sister, makes me so proud.
 --------------------------------
 [00000109][アルティナ,メル・シルフィス,アルティナ]
-姉さん……。
-精霊王が……私の歌で……。
+Big sister... the Spirit King... by my song...
 --------------------------------
 [00000110][エルウィン,ラナ・シルフィス,ラナ]
-そ！　あんたは歌姫！　
-「シャイニング・ブレイド」の
-封印を解くために歌うのが、あんたの役目っ！
+Yeah! You are a Loreley! It is your duty to help remove the seal of the Shining
+Blade!
 --------------------------------
 [00000111][アルティナ,メル・シルフィス,アルティナ]
-……姉さん、それを知ってたの？
-それを知ってて、卵を取りに来たの？
-じゃあ、姉さん、もしかして私のために……？
+Big sister... have you know about this? That's why you came here to get the egg?
+Then, big sister, you were doing all of this... for me?
 --------------------------------
 [00000112][エルウィン,ラナ・シルフィス,ラナ]
-ま、まあ……ね。あたしにできるのは、
-せいぜいそれぐらいのことだし……。
-いつも苦労させてるんだから、それぐらいはね。
+W... well... I just did what I could, since you were always the one who did all
+the work...
 --------------------------------
 [00000113][アルティナ,メル・シルフィス,アルティナ]
-…………姉さんは……。
-もう……姉さんは……っ！　いつもそう！
-どうしていつもそうなの!?
+Big sister.... jeez, big sister is always... why are you always like this...?!
 --------------------------------
 [00000114][アルティナ,メル・シルフィス,アルティナ]
-なんでもかんでも自分で勝手に考えて
-自分で勝手に決めて、自分で勝手に動いて、
-私の気持ちなんか確かめようともしない……。
+Always, always, you just always do what you want to do, making decisions by
+yourself... you never asked how I feel...
 --------------------------------
 [00000115][アルティナ,メル・シルフィス,アルティナ]
-確かめもしないのに……それなのに……。
-どうして私のことをそんなにわかってるの？
-どうして私のために、そこまでしてくれるのよ！
+You never asked me anything.... yet still... why do you know so much? And why
+are you doing all this for me?
 --------------------------------
 [00000116][アルティナ,メル・シルフィス,アルティナ]
-そんなことするから、嫌いになれないんじゃない！
-姉さんのこと、嫌いになれないじゃないの！
-バカ！　バカバカバカ！　姉さんのバカ℃――￥っ！
+You make me... unable to hate you... unable to hate you at all!! Big sister you
+idiot! Idiot idiot idiot!!
 --------------------------------
 [00000117][エルウィン,ラナ・シルフィス,ラナ]
-あ、アルティナ！　落ち着いて落ち着いて！
-そんなに叩いたら痛いってば！
-アルティナぁ～！
+Altina! Calm down, calm down! That hurts! Altina!
 --------------------------------
 [00000118][アルティナ,メル・シルフィス,アルティナ]
-バカぁ～～～～～っ！
+Idiot!!
 --------------------------------
 [00000119][エルウィン,ラナ・シルフィス,ラナ]
-……えーと、アルティナ？　もう落ち着いた？
-大丈夫かな？
+Well Altina, have you calmed down yet? You okay?
 --------------------------------
 [00000120][アルティナ,メル・シルフィス,アルティナ]
-え、ええ。さすがにもう、落ち着いたわ。
-ごめんなさい、姉さん。
+Yeah, I'm calm now. Sorry, big sister.
 --------------------------------
 [00000121][レイジ,レイジ,レイジ]
-でもまあ、姉さんと無事に会えてよかったよな。
-アルティナ！
+Well, isn't it great that your sister is safe and all, Altina?
 --------------------------------
 [00000122][アルティナ,メル・シルフィス,アルティナ]
-そうね。どうもありがとう……。
-みんなのおかげよ。
+Yeah. All thanks to everyone. Thank you all.
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-……「ありがとう」？
+Thank you?
 --------------------------------
 [00000124][エルミナ,ローデリア,エルミナ]
-……「みんなのおかげ」？
+Thanks to everyone?
 --------------------------------
 [00000125][アルティナ,メル・シルフィス,アルティナ]
-なによ。どうしたの？
+What's wrong now?
 --------------------------------
 [00000126][レイジ,レイジ,レイジ]
-いや、まさかお前の口から、
-そんな言葉が出てくるとは思わなかったから。
-ちょっとびっくりして。
+Nothing. I just never expected those words to come out from you. It's
+surprising.
 --------------------------------
 [00000127][アルティナ,メル・シルフィス,アルティナ]
-な、なんですって！　あなたたち！
-私のことをなんだと思ってるのよ！
+W... what?! Exactly what kind of person did you think I was?
 --------------------------------
 [00000128][エルミナ,ローデリア,エルミナ]
-……ご、ごめんなさい……っ！
+S...sorry!
 --------------------------------
 [00000129][サクヤ,マキシマ,サクヤ]
-ふふふっ。アルティナはお姉さんのおかげで、
-いろいろなことが吹っ切れたみたいね。
-で？　お姉さんの方はどうするの？
+Hehe, thanks to Altina's big sister, we managed to solve another problem. What
+will you do now?
 --------------------------------
 [00000130][エルウィン,ラナ・シルフィス,ラナ]
-あたし？　あたしは……そうね。
-やっぱあんたたちと一緒に戦うことにするわ。
-いいわよね？
+Me? I.... well, I think it will be best if we all fight together. What do you
+guys think?
 --------------------------------
 [00000131][エルウィン,ラナ・シルフィス,ラナ]
-森をこんなにされて、家族や、
-罪もない仲間たちを大勢殺されて……。
+If left like this, all our families, our friends, will all be killed...
 --------------------------------
 [00000132][エルウィン,ラナ・シルフィス,ラナ]
-さすがに帝国の連中には、
-高いツケを払ってもらわなきゃ気がすまないわ。
-もちろん一括でね！
+We have to take care of that Empire. Of course we have to finish them!
 --------------------------------
 [00000133][サクヤ,マキシマ,サクヤ]
-もちろん大歓迎よ、ラナ。
-あなたの弓の援護があれば心強いわ。
+You're welcomed here, of course. Your bow will help us out.
 --------------------------------
 [00000134][エルウィン,ラナ・シルフィス,ラナ]
-まかせなさいって！　
-まずはフォンティーナの森から
-闇の手先どもを追っ払ってやるのよ！
+Leave it to me! Starting from Fontina forest, I will wipe the darkness out!
 --------------------------------
 [00000135][ベイルグラン,,ベイルグラン]
-勇敢な戦士たちにワシからもこの力を授けよう。
-森を守る緑の力じゃ。おぬしらの隊長ならば
-新たな力を使いこなせるであろう。
+Brave warriors, accept my aid to protect our forest. I will grant your captain a
+new power to use.
 --------------------------------
 [00000136][サクヤ,マキシマ,サクヤ]
-これは助かるわ。ありがとう、森と大地の守護者よ。
-それからラナ、ここでの指揮はあなたにあずけるわ。
-まずは、なにをしたらいい？
+This really helps, thank you, protector of the great earth. Ranah , is there
+anything you wish to do next?
 --------------------------------
 [00000137][エルウィン,ラナ・シルフィス,ラナ]
-そうね……こういうことは～
-しっかり者のアルティナに聞いてみましょ。
-ねえ、アルティナ？　あんたはどう思う？
+Well, I think we should ask Altina. What do you think?
 --------------------------------
 [00000138][アルティナ,メル・シルフィス,アルティナ]
-そんなの、決まってるわ。
-姉さん、暗黒騎士団を追い出しましょう！
+It's already been decided. Big sister, let's wipe the Dark Knights from here!
 --------------------------------
 [00000139][アルティナ,メル・シルフィス,アルティナ]
-あいつら、森を我が物顔で駆け回って、
-あちこちに隠れているエルフたちを
-狩り立てているのよ！　絶対に許せない！
+These guys have invaded our territory, and hunting our elves! I won't let them
+off!
 --------------------------------
 [00000140][エルウィン,ラナ・シルフィス,ラナ]
-わかったわ。だったら、逆にこちらから
-奴らを狩り出して、ギッタギタにしてやるのよ！
-みんな、いいわね！
+Understood. It's time to hunt the hunters. Let's go, everyone!
 --------------------------------
 [00000141][エルウィン,ラナ・シルフィス,ラナ]
-あたしたち姉妹が帰ってきたからには、
-森の中で好き勝手はさせないわ！
+Now that us sisters have returned, those guys won't have their way any more!
 --------------------------------
 [00000142][エルウィン,ラナ・シルフィス,ラナ]
-あ！　レイジ！　大変よ！
-避難場所から隠れ里に移動してくる途中だった
-村人たちが、暗黒騎士団に襲われたって！
+Ah! Rage! This is bad! The villagers moving from the shelter to the isolated
+village were attacked on the way by the the Dark Knights Order!
 --------------------------------
 [00000143][レイジ,レイジ,レイジ]
-暗黒騎士団？　例のケンタウロスたちか！
+The Dark Knights? Those Centaurs!
 --------------------------------
 [00000144][ユキヒメ,ユキヒメ,ユキヒメ]
-捨て置くわけにはいかんな。
-レイジ、ラナ、助けに行くのだな？
+We can't leave them alone. Rage, Ranah, shall we go?
 --------------------------------
 [00000145][エルウィン,ラナ・シルフィス,ラナ]
-もちろんよ！　行きましょ！
-村人たちに、手出しはさせないわ！
+Of course! Let's go. We have to help the villagers.
 --------------------------------
 [00000146][レイジ,レイジ,レイジ]
-アルティナ、お前がみんなに召集をかけるなんて
-珍しいな。なにかあったのか？
+Altina, it's unusual for you to call for everyone. What is it?
 --------------------------------
 [00000147][アルティナ,メル・シルフィス,アルティナ]
-……これから、長老会議との話し合いがあるの。
-もう一度、私たちと協力してくれるように
-頼んでみるつもり。
+...I have to speak to the elder council. I have to ask for their help again.
 --------------------------------
 [00000148][レイジ,レイジ,レイジ]
-できるのか？　あのガンコな議長が、
-納得するとは思えないけど……。
+Can it be done? Those stubborn council members, I don't think they will allow
+anything.
 --------------------------------
 [00000149][アルティナ,メル・シルフィス,アルティナ]
-かもしれない。でも、やらなきゃ！
-だって、このままじゃ森は……。
+Maybe. But we still have to try. At this rate, the forest will...
 --------------------------------
 [00000150][アルティナ,メル・シルフィス,アルティナ]
-だからみんな、私と一緒に集会場に来て。
-私が議員たちに掛け合うところを、見届けて。
-そうしてもらえれば、きっと……。
+That's why, you have to come with me together to the meeting. I will speak to
+the council, and try to get everyone to see with their own eyes. This time for
+sure...
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-……わかった！
-その話し合い、しっかり見届けさせてもらうぜ！
+I understand! I will get them to see it!
 --------------------------------
 [00000152][アルティナ,メル・シルフィス,アルティナ]
-……議長。それから議員のみなさんには
-これだけはご理解いただきたいのです。
+....chairman, and council members, please understand.
 --------------------------------
 [00000153][アルティナ,メル・シルフィス,アルティナ]
-これ以上エルフ族の力だけでは
-隠れ里を守り抜くことはできません。
+Just by the elves alone, we won't be able to protect this isolated village.
 --------------------------------
 [00000154][エルウィン,ラナ・シルフィス,ラナ]
-そう。いつまでも隠れ里に引きこもって
-ちまちまと身を守ってるだけじゃ
-らちが明かないわ。
+Indeed, just hiding out here in this small place, we won't be able to defend
+ourselves.
 --------------------------------
 [00000155][エルウィン,ラナ・シルフィス,ラナ]
-ここにいる、ヴァレリア解放戦線のみんなや、
-森の外にいる異種族たちと共同戦線を張るの。
-さもなきゃ、このままジリ貧になるだけよ！
+Even now, just like the Valeria Liberation Front, there are many other races
+outside fighting together for the same reasons.
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（アルティナ、張り切ってるなぁ。
-でも、あの頑固な議長を説得できるのか？
-難しいんじゃないかと思うけど……）
+(Altina is so enthusiastic. But will it be enough to convince the stubborn
+council? It's not going to be easy.)
 --------------------------------
 [00000157][村人,村人,アルフェウス]
-……ラナ王女。アルティナ王女。ご提案の件だが、
-我々にどのような協力が可能であろうか？
-詳しくご説明願いたい。
+Princess Ranah, princess Altina. You said that we would be able to help out.
+Give us the details.
 --------------------------------
 [00000158][アルティナ,メル・シルフィス,アルティナ]
-……え？　ど、どういうことですか？
+...Eh? What do you mean?
 --------------------------------
 [00000159][村人,村人,アルフェウス]
-どうしたのかね？　異種族、他国との協力は
-そちらからの提案ではないか。
-さらに詳しい内容の説明をお願いしたいのだが？
+What do I mean? You said that we have to help out the other races and the other
+countries first. Tell us what needs to be done.
 --------------------------------
 [00000160][アルティナ,メル・シルフィス,アルティナ]
-は、はい。もちろん説明はいたしますが……。
-でも、急にどうして？
+Y...yes. Of course I can explain that. But why suddenly...
 --------------------------------
 [00000161][エルウィン,ラナ・シルフィス,ラナ]
-なんか、今までとずいぶん態度が違うんじゃない？
+Strange, wasn't your attitude towards this different before?
 --------------------------------
 [00000162][村人,村人,アルフェウス]
-だろうな……。驚くのも無理はない。
-だが、お前が連れてきた仲間たちの、
-これまでの働きを目の当たりにし……。
+Perhaps.... Not surprising that you feel that way. But I have seen for myself
+what your group is doing.
 --------------------------------
 [00000163][村人,村人,アルフェウス]
-そして、縁もゆかりもない異種族の少女を救うため、
-自分たちの身を危険にさらす、
-その様子を我が孫から克明に聞かされては……。
+You risked your own lives to save a young girl from another race. My grandchild
+has already explained everything to me.
 --------------------------------
 [00000164][村人,村人,アルフェウス]
-我々はあまりに頑なであったと、
-反省せざるを得ないではないか。
+We have been far too stubborn. Indeed, we need to reflect on this.
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-助けた様子……？　孫……？
-……あ！　も、もしかして、この間の女の子！
+Save a young girl.... grandchild.... Ah! Don't tell me, it's that girl just now!
 --------------------------------
 [00000166][村人,村人,アルフェウス]
-そういうことだ。礼を言うぞ、レイジ殿。
-……さて、話を戻すぞ。我々にはなにができる？
+That is correct. I owe you my thanks, Rage-dono. Well, returning to the topic,
+what is it you wish for us to do?
 --------------------------------
 [00000167][エルウィン,ラナ・シルフィス,ラナ]
-なにができるかって？
-そんなの決まってるじゃない！
-戦うのよ！　みんなと一緒に！
+What do we want you to do? Isn't that obvious? Stand up and fight! Alongside
+everyone!
 --------------------------------
 [00000168][エルウィン,ラナ・シルフィス,ラナ]
-フォンティーナの森はエルフ族の故郷だけど、
-エルフ族だけのものじゃない。
-ヴァレリアに住むみんなのもの。
+Fontina Forest may be the home of the elves. But it doesn't just belong to
+elves. Valeria belongs to everyone.
 --------------------------------
 [00000169][エルウィン,ラナ・シルフィス,ラナ]
-だからこそ、あたしたちはフォンティーナを
-守らなきゃいけない。
-でもそれは、他の土地も同じこと。
+That's why we must protect Fontina. And we must do the same for the land.
 --------------------------------
 [00000170][エルウィン,ラナ・シルフィス,ラナ]
-シルディア、ルーンベール、ベスティア、
-それにクラントール……。ううん、ヴァレリア全体、
-エンディアス全部が同じことよ。
+Syldia, Runevale, Bestia, and Crantor. Yeah, the whole of Valeria, and Endias.
 --------------------------------
 [00000171][エルウィン,ラナ・シルフィス,ラナ]
-どこの土地だって、誰かの故郷でみんなのもの。
-だから、みんなで守り抜くの！
-私たちと、あなたたちと、他の誰かと！
+No matter where, everyone's homeland belongs to everyone! That's why we have to
+protect everyone. For us, for you, for everyone!
 --------------------------------
 [00000172][アルティナ,メル・シルフィス,アルティナ]
-姉の言うとおりです。
-議長、どうか……！
+My sister is correct. Chairman, please!
 --------------------------------
 [00000173][サクヤ,マキシマ,サクヤ]
-議長、私からもお願いします。
-力を貸してください。
+I am asking you all, please help us, lend us your strength.
 --------------------------------
 [00000174][村人,村人,アルフェウス]
-……承知した。
-我らフォンティーナのエルフ族は、
-あなた方ヴァレリア解放戦線と……。
+Understood. We, elves of Fontina, will now work with Valeria Liberation Front.
 --------------------------------
 [00000175][村人,村人,アルフェウス]
-そして、光の復活を待ち望む
-ヴァレリアの民と共に立ちましょう！
+We will patiently await for light to arise once again. We will stand together
+with the people of Valeria!
 --------------------------------
 [00000176][エルウィン,ラナ・シルフィス,ラナ]
-やった！
+Hurray!
 --------------------------------
 [00000177][アルティナ,メル・シルフィス,アルティナ]
-ありがとうございます！
+Thank you!
 --------------------------------
 [00000178][村人,村人,アルフェウス]
-では、サクヤ隊長、フェンリル副隊長。
-それから、ラナ王女にアルティナ王女。
-これより軍議に移りたい。別室の方へどうぞ。
+Well then, Captain Sakuya, Vice-captain Fenrir, as well as Princess Ranah and
+Princess Altina. This war meeting shall be moved, to another place.
 --------------------------------
 [00000179][サクヤ,マキシマ,サクヤ]
-了解しました。よろしく。
+Understood. Thank you.
 --------------------------------
 [00000180][フェンリル,,フェンリル]
-みんな、待たせたな。
-エルフ族との共同作戦だが、内容が決まった。
+Everyone, thank you for waiting. The elves are now working with us, and the
+workings decided.
 --------------------------------
 [00000181][フェンリル,,フェンリル]
-目標はフォンティーナの首都、エレンシア。
-敵に占領されているこの街を、
-こちらの手に取り戻す。
+The next target is Fontina capital, Elensia. We will take back the town from
+enemy hands.
 --------------------------------
 [00000182][アルティナ,メル・シルフィス,アルティナ]
-この街を無事取り返すことができれば、
-フォンティーナの民は希望を取り戻すことでしょう。
+In order for us to take back the town with the least harm done, we must get back
+the hopes of the citizens.
 --------------------------------
 [00000183][フェンリル,,フェンリル]
-全域の制圧は、エルフ族の戦士たちが担当。
-俺たちの役目は、ラナの指揮で中心部に
-突入することだ。
+The elf worriors will assault the castle. Our task is to infiltrate to the
+center under Ranah's command.
 --------------------------------
 [00000184][エルウィン,ラナ・シルフィス,ラナ]
-そういうこと！　みんな、
-あたしに手間をかけさせないように、
-がんばって戦うのよ！
+Like he said. Let us all work together, everyone!
 --------------------------------
 [00000185][エルウィン,ラナ・シルフィス,ラナ]
-それじゃあ、エレンシアに向けてしゅっぱーつ！
+Well then, let's set off to Elensia!
 --------------------------------
 [00000186][アルティナ,メル・シルフィス,アルティナ]
-姉さんったら、もう……。
+Big sister.... jeez...
 --------------------------------
 [00000187][村人,村人,アルフェウス]
-皆様のご協力で、首都エレンシアと、我らが聖地を
-取り戻すことができました。感謝いたします。
+Thanks to everyone's help, we have taken back our capital Elensia, and our holy
+land. Thank you all.
 --------------------------------
 [00000188][村人,村人,アルフェウス]
-美しかった都は、
-帝国軍の手ですっかり破壊されてしまったが……。
-なに、我らエルフ族の寿命は長い。
+It was unfortunate that our beautiful city was so damaged at the hands of the
+Empire. Oh well, we elves live very long.
 --------------------------------
 [00000189][村人,村人,アルフェウス]
-地道に、こつこつと、再建を進めていけば、
-私の命のあるうちには以前のように
-美しい姿を取り戻すことだろう。
+The tunnel, the city, we will rebuild them all. While I'm alive, I shall make
+the city even more beautiful than it was.
 --------------------------------
 [00000190][村人,村人,アルフェウス]
-しかし、その前にこのヴァレリアの地より
-ドラゴニア帝国の脅威を取り除くという
-難題が横たわっている。
+But before that, this entire land has to be first purged of the problem that is
+the Dragonia Empire.
 --------------------------------
 [00000191][村人,村人,アルフェウス]
-これを成し遂げるには、より賢明な指導者の下で、
-さらなるフォンティーナの民の団結と、
-他国との協力を推し進めねばならぬ。
+Fontina will form an alliance with the other countries and work together to
+achieve this goal.
 --------------------------------
 [00000192][村人,村人,アルフェウス]
-そのため我ら長老会議は、帰還された王族に
-国の舵取りをお返ししようと思うのだが……。
-ラナ王女、お受けいただけるかな？
+For this purpose, the council and I have decided that it is time to hand over
+the will of this country to its rightful leader. Princess Ranah, will you
+accept?
 --------------------------------
 [00000193][エルウィン,ラナ・シルフィス,ラナ]
-え!?　あたし？　どうしてあたし!?
-アルティナじゃないの？
+Eh? Me? Why me? Not Altina?
 --------------------------------
 [00000194][村人,村人,アルフェウス]
-これは、議会の総意による指名だ。
-ラナ王女よ、今回の戦いにおける
-あなたの指導ぶりには目覚しいものがあった。
+You have been unanimously chosen by the council. We believe that this battle had
+awakened your leadership.
 --------------------------------
 [00000195][村人,村人,アルフェウス]
-この国を預けるには、あなたをおいて
-他に適任の者はおらぬ。
-どうか、指名をお受けいただきたい。
+The future of this country can be entrusted to no one but you. Please accept.
 --------------------------------
 [00000196][エルウィン,ラナ・シルフィス,ラナ]
-で、でも、あたしは……フォンティーナのことも
-もちろん気になるけど、それより世界全体というか、
-他の土地のことも気になるし……。
+But.... of course I am concerned about Fontina.... but the whole world, all the
+lands is my concern too...
 --------------------------------
 [00000197][アルティナ,メル・シルフィス,アルティナ]
-だからよ、姉さん。それだから、姉さんが
-フォンティーナの次期女王にふさわしいの。
+That's why, big sister. You are most suitable person to be the next queen of
+Fontina.
 --------------------------------
 [00000198][アルティナ,メル・シルフィス,アルティナ]
-フォンティーナのエルフ族はこれから、
-森に引きこもっているばかりじゃなく、
-他の種族とも協力していかなきゃならない。
+You always tell us that our people have to go beyond this forest, living
+together with other races.
 --------------------------------
 [00000199][アルティナ,メル・シルフィス,アルティナ]
-そう言ったのは姉さんでしょ？
-ちゃんと、言ったことには責任を持って、
-みんなを導いてもらわなきゃ。
+That's what you said. Your words, your responsibility. You will guide everyone
+towards that goal.
 --------------------------------
 [00000200][エルウィン,ラナ・シルフィス,ラナ]
-そ、そう来たか……。
-そう言われると返す言葉もないわね。
+So you say.... I can't really argue with those words...
 --------------------------------
 [00000201][エルウィン,ラナ・シルフィス,ラナ]
-……わかったわ。議長。
-謹んでお受けいたしますっ！
+I understand, Chairman. I accept.
 --------------------------------
 [00000202][アルティナ,メル・シルフィス,アルティナ]
-姉さん！　女王即位、おめでとう！
+Big sister. Congrats on being Queen!
 --------------------------------
 [00000203][エルミナ,ローデリア,エルミナ]
-おめでとうございます……！
+Congratulations!
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-がんばれよ！　ラナ！　期待してるぜ！
+Do you best, Ranah! We're looking forward to it!
 --------------------------------
 [00000205][アイラ,ブランネージュ・ガルディニアス,アイラ]
-おめでとう。
-おまえなら、きっと立派な女王になれる。
-……少なくとも、財政面ではな。
+Congratulations. You will make an excellant queen. Financially, at least...
 --------------------------------
 [00000206][エルウィン,ラナ・シルフィス,ラナ]
-あははは、やだなあ。それはほめすぎだってば。
-え、えーと、それはさておき……。
-まずは、女王として当面の方針を……。
+Ahahaha, you're giving me too much credit. So as queen, my first order...
 --------------------------------
 [00000207][エルウィン,ラナ・シルフィス,ラナ]
-議会の皆さん。フォンティーナは引き続き、
-ヴァレリア解放戦線との同盟関係を維持して
-帝国軍との戦いを続けます！
+Dear council members. Continuing with the liberation for Fontina, we will form
+an alliance with the Valeria Liberation Army, along with all our allies, and
+continue our fight with the Empire!
 --------------------------------
 [00000208][エルウィン,ラナ・シルフィス,ラナ]
-帝国軍を、この森から、
-そして、ヴァレリアから追い出すまで！
-どうか皆さん、力を貸してください！
+We drove them out of this forest, we will drive them out of Valeria. Everyone,
+please lend us your strength!
 --------------------------------
 [00000209][エルウィン,ラナ・シルフィス,ラナ]
-そして女王であるあたしは、といいますと……。
-ヴァレリア解放戦線と行動を共にし、
-最前線での協力活動を行いますっ！
+And, my next order as queen... I will personally work together with Valeria
+Liberation Front. Right at the frontlines.
 --------------------------------
 [00000210][エルウィン,ラナ・シルフィス,ラナ]
-てなわけで、長老会議の皆さん、あたしが留守の間、
-フォンティーナをお願いします！　以上！
+Well then, dear council members. Please take care of Fontina while I am gone.
+That's all!
 --------------------------------
 [00000211][村人,村人,アルフェウス]
-ちょ、ちょっと待ちなさいラナ！
-それではわざわざ女王を決めた意味が……。
+W... wait, Ranah! To specifically make that a Queen's order without asking the
+council...
 --------------------------------
 [00000212][エルウィン,ラナ・シルフィス,ラナ]
-これは女王の決定です！　異議は認めませんっ！
+This is an order from the queen! I don't need to ask the council.
 --------------------------------
 [00000213][村人,村人,アルフェウス]
-やれやれ……まったく、お前ときたら……！
+Good gracious... you're always like this....
 --------------------------------
 [00000214][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ふふふ、ラナときたら。
-こんな時でも自分流を崩さないのだな。
-……実にラナらしい。
+When it comes to Rana, she always handle things with her own style. That's just
+her.
 --------------------------------
 [00000215][エルミナ,ローデリア,エルミナ]
-そうですね……。アイラ様とご一緒の時の、
-いつものラナさん、そのものです……。
+Indeed. When Ranah-san is together with Aira-sama, she's always...
 --------------------------------
 [00000216][アルティナ,メル・シルフィス,アルティナ]
-姉さんたら、もう……。
+Big sister... jeez....
 --------------------------------
 [00000217][フェンリル,,フェンリル]
-まあ、ラナのことはともかく……。
-フォンティーナが本格的に参戦となると、
-こちらの陣容も大規模になってくるな。
+Well, Ranah is one thing. With Fontina joining, this battle will be a much
+bigger scale.
 --------------------------------
 [00000218][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうだな。これでベスティアが健在で、
-戦いに本腰を入れてくれるのなら、
-帝国にも対抗しうる戦力が集まることになる。
+Indeed. This is where Bestia comes in. We need to gather their strength to fight
+with the Empire.
 --------------------------------
 [00000219][アイラ,ブランネージュ・ガルディニアス,アイラ]
-だが……ベスティアの状況がどうなっているのか、
-今のところまったくわかっていないからな。
-果たして、戦力を維持しているのか……。
+However, we currently do not know what is the situation with Bestia right now.
+As a result, we may have to wait.
 --------------------------------
 [00000220][龍那,,龍那]
-それに、ベスティアの火山島に棲む
-炎の精霊王のことも気になりますね。
+Furthermore, I'm concerned about the Flame Spirit King in Bestia's Volcano
+Island.
 --------------------------------
 [00000221][フェンリル,,フェンリル]
-では、次は百獣連合王国ベスティアに
-行ってみる必要があるな。
+Well then, we must go to the Beast Republic Bestia.
 --------------------------------
 [00000222][none]
-@lt1@dt2@db1@dc88000088この数日後、ラナの女王即位式が
-エルフの隠れ里において簡素ながらも執り行われ、
-彼女は名実共にフォンティーナの指導者となった。
+@lt1@dt2@db1@dc88000088 A few days later, the Coronation of Queen Ranah
+was done in the Elf Isolated Village in simple fashing.
+She has become the true leader of Fontina.
 --------------------------------
 [00000223][none]
-@lt1@dt2@db1@dc88000088レイジたちはその儀式に出席した後、
-早々にエルフの森を後にし、
-ラナと共にヴァレリア北方へと向かう。
+@lt1@dt2@db1@dc88000088 Rage and everyone leaves after the ceremony, out of the Elf Forest,
+along with Rana, towards Northern Valeria.
 --------------------------------
 [00000224][none]
-@lt1@dt2@db1@dc88000088目的地はヴァレリア随一の大国、ベスティア。
-荒野と砂漠に覆われた広大な土地を国土にする
-様々な獣人たちの部族の連合国家である。
+@lt1@dt2@db1@dc88000088 Their destination was a large country in Valeria, Bestia.
+It was a place with vast deserts.
+All races of beastfolk reside in this country.
 --------------------------------
 [00000225][none]
-@lt1@dt2@db1@dc88000088開戦以来、連絡を絶ったベスティアの地では、
-なにが起こっているのか？
-レイジたちは不安を胸に、北の大地を目指した。
+@lt1@dt2@db1@dc88000088 Ever since the war, all contact was lost.
+What has happened to them?
+Everyone heads towards the north, unease inside their hearts.
 --------------------------------

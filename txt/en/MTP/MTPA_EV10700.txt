@@ -1,759 +1,619 @@
 [0181]
 *****************
 [00000000][none]
-@lt1レイジが率いる「シャイニング・フォース」は、
-いまだ小競り合いの続くベスティアを抜け、
-敵の本拠となったクラントール王国を目指す。
+@lt1Rage leads Shining Force through skirmishes from Bestia, the target was 
+the enemy homebase in Crantor Kingdom.
 --------------------------------
 [00000001][none]
-@lt1だが、ベスティアの砂漠地帯を
-西に進軍する彼らを、
-思いもかけぬ障害が待ち受けていた。
+@lt1However, Bestia's desert region to the west holds an unexpected hazard 
+waiting for them.
 --------------------------------
 [00000002][none]
-@lt1それがエンディアスのみならず、
-異世界をも巻き込む危機の始まりだとは、
-この時のレイジたちには知る由もなかった……。
+@lt1And it wasn't just for Endias. This danger threatens the other world as 
+well. At this time, Rage and everyone is unaware of the impending threat...
 --------------------------------
 [00000003][none]
-第７章 混沌のセレナーデ
+Chapter 7 Serenade of Chaos
 --------------------------------
 [00000004][レイジ,レイジ,レイジ]
-クラントールへ行けない？
-どうしてなんだ？　フェンリルさん。
-砂漠を渡る準備は、ちゃんとできてたはずだぜ？
+We can't head towards Crantor? Why is that, Fenrir-san? Haven't we properly
+prepared to set out across the desert?
 --------------------------------
 [00000005][フェンリル,,フェンリル]
-いや、問題は砂漠の環境じゃない。
-……カオスゲートだ。
+No, the problem isn't with the desert environments. It's with the Chaos Gates.
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-カオスゲート？　なんだ、それ？
+Chaos Gate? What's that?
 --------------------------------
 [00000007][ユキヒメ,ユキヒメ,ユキヒメ]
-次元の裂け目だ。人々の歪んだ想いが集まってできた
-世界の傷……などといわれている。
+It's a tear in the dimensions. When the negative emotions of the people gather,
+they form a wound in the world. These are such things.
 --------------------------------
 [00000008][ユキヒメ,ユキヒメ,ユキヒメ]
-開いたまま放置しておけば、
-そこから不浄なエネルギーがあふれ出し、
-大地を汚染してしまう。
+They cannot be left alone. The unpure energy will pollute the land.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-なんだよ、それ。
-どうして砂漠にそんなものが開くんだ？
+How can that be. Why did these things open in the desert?
 --------------------------------
 [00000010][ユキヒメ,ユキヒメ,ユキヒメ]
-そこまで私が知るものか。
-フェンリル、お前はわかるか？
+Even I do not know that. Fenrir, do you know anything?
 --------------------------------
 [00000011][フェンリル,,フェンリル]
-俺にわかるわけないだろう。わかっているのは、
-そいつが砂漠のあちこちに開いてしまって、
-異変を引き起こしている、ということだけだ。
+I don't know either. What I do know is that after these gates appeared all over
+the desert, strange phenomenons are happening.
 --------------------------------
 [00000012][フェンリル,,フェンリル]
-とにかく、今はまず、カオスゲートを詳しく調査し、
-できることなら、
-そいつが現れた原因を探ることだな。
+In any case, for now, we must investigate these Chaos Gates more. If we can, we
+must track down the cause.
 --------------------------------
 [00000013][フェンリル,,フェンリル]
-もっともその前に、砂漠のまわりを
-うろうろしている帝国軍を始末しなきゃならんがな。
+But before that, we must defeat the wandering Imperial Army around these areas.
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-わかった。それじゃあ帝国軍をやっつけて、
-カオスゲートの調査にかかろうぜ！
+Got it. We will finish off the enemy, and investigate the Chaos Gate!
 --------------------------------
 [00000015][サクヤ,マキシマ,サクヤ]
-レイジ、ちょうどよかったわ。
-刃九郎が情報を持ってきてくれたの。
-あなたも聞いておいて。
+Rage, this is good. Jin-Crow has been waiting with new information. You need to
+hear this too.
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-情報？　どんな情報なんです？
+Information? What kind of information?
 --------------------------------
 [00000017][刃九郎,,刃九郎]
-我々が戦っている間、拙者の手の者が
-砂漠の様子を探っていたのだが……。
-なにやら奇妙なものを発見してな。
+During our battle, my subordinates had been searching the desert, and found
+something strange.
 --------------------------------
 [00000018][刃九郎,,刃九郎]
-これまであまり人々が足を踏み入れたことがない
-ベスティアの砂漠の秘境と言われる一角に
-調査隊を送り込んだところ……。
+Until now, Bestia desert has never been set foot upon. I have sent scouts over
+to investigate.
 --------------------------------
 [00000019][刃九郎,,刃九郎]
-ある一角に、四角い塔のようなおかしな建物が
-いくつか生えていたというのだ。
+There, strange structures resembling four-sided towers have grown there.
 --------------------------------
 [00000020][レイジ,レイジ,レイジ]
-四角い塔？　砂漠に？
+Four-sided towers? In the desert?
 --------------------------------
 [00000021][刃九郎,,刃九郎]
-ああ。しかし、その塔がなんなのか、
-我々には見当もつかん。
-そこでさらに詳しく調査を試みたのだが……。
+Yes. However, what these towers are for, we do not know. We have to investigate
+more.
 --------------------------------
 [00000022][刃九郎,,刃九郎]
-どうやら帝国軍もこの塔に興味を持っているらしく、
-調査隊もうかつに近づくことができなかったのだ。
+Somehow, it seems that the Empire are interested in these towers too. Our scouts
+are unable to get closer.
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-気になるな、帝国軍もそいつを調べてるのか？
-もしかして奴ら、精霊王の新しい手がかりを
-つかんだのかも知れないな。
+They are interested, so they are investigating those too? Could it be possible,
+they are after the new Spirit King as well.
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-サクヤさん、カオスゲートだけじゃなく、
-そっちも調べる必要があるんじゃないですか？
-オレたちも調査を手伝いましょうよ。
+Sakuya-san, not just for the Chaos Gates, we also need to check things out. We
+need to help the investigation.
 --------------------------------
 [00000025][サクヤ,マキシマ,サクヤ]
-ええ。そのつもりよ。
-刃九郎、さっそく調査に向かいましょう。
+Yeah, that was my plan. Jin-Crow, we will hurry over to investigate.
 --------------------------------
 [00000026][刃九郎,,刃九郎]
-かたじけない。
-では、現場までご案内しよう。
+We are grateful. Well then, we will guide you there.
 --------------------------------
 [00000027][刃九郎,,刃九郎]
-ここが、報告のあった「四角い塔」のある場所
-なのだが……。
-しかし、これはなんとも異様な光景だな。
+This is where the reported four-sided towers are. It really is a strange sight.
 --------------------------------
 [00000028][フェンリル,,フェンリル]
-そうだな……。本当に、
-砂漠の中に四角い不思議な塔が……。
-いったい、これはなんなんだ……？
+Indeed, it really is. Mysterious four-sided towers appearing in the desert.
+Exactly what are those?
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-「なんなんだ」って……ビルだろ!?　これ？
-なんでこんなものが、こんなところに？
+What are those? Aren't those Buildings?! Here? Why are these things here?
 --------------------------------
 [00000030][エルミナ,ローデリア,エルミナ]
-「びる」……ですか？
+Buildings?
 --------------------------------
 [00000031][ユキヒメ,ユキヒメ,ユキヒメ]
-なんだ？　その「びる」というのは。
+What are these buildings you speak of?
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-ああ。オレの世界……エルデじゃ、
-こういう建物のことを「ビル」って言うんだ。
+Ah, in my world, Elde, they call such structures Buildings.
 --------------------------------
 [00000033][ユキヒメ,ユキヒメ,ユキヒメ]
-エルデの建物……？　おかしいな。
-先代はそのようなことを話してはいなかったが……。
+Elde's structures? Strange, I have never heard of the predecessor mentioning
+anything like this before...
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-そりゃ先代のころには、こんなのなかっただろうし。
-エルデでもその時代っていったら、
-たぶんビルもなければテレビも飛行機もなくて……。
+I don't think these existed in his time. If these things existed then, so would
+television, and planes and such...
 --------------------------------
 [00000035][エルミナ,ローデリア,エルミナ]
-て、てれび……？　ひこうき……？
+Television? Planes?
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-あー……。そっか、わかんないか。
-ごめん、あんまり深く考えないでくれ。
+Ah, that's right, you don't know about such things. Sorry, don't worry too much
+about it.
 --------------------------------
 [00000037][クララクラン,クララクラン,クララクラン]
-こちらの世界では異世界エルデのものが、
-とても不思議に見えるのですわ。
+The things on Elde seem very incredible on this world.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-そりゃまあ、そうだろうな。
-いや、そんなことより、
-どうしてここにビルがあるんだ？
+Well, that may be. But more importantly, why are there buildings here in this
+place?
 --------------------------------
 [00000039][リン,シャオメイ,リンリン]
-カオスゲートのせいね。
-これは、かなり危険な状態だわ……。
+Must be the Chaos Gates. This is a very dangerous situation.
 --------------------------------
 [00000040][リン,シャオメイ,リンリン]
-次元の亀裂であるカオスゲートが
-あちこちに発生したことで、
-世界の境界線が崩れ出したんだわ。
+The rifts in the dimension, Chaos Gates are happening here and there. The
+balance between both worlds would collapse.
 --------------------------------
 [00000041][リン,シャオメイ,リンリン]
-完全に崩れてしまえばゲートでつながった
-２つの世界は徐々に崩壊し、やがて１つに融合する。
-だけど、ただ融合するだけじゃすまないわ。
+The gates are linked. The two worlds will collapse, and meld into one. However,
+it isn't just a simple melding.
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-そうなったら、いったい……？
+So then, what is this...?
 --------------------------------
 [00000043][リン,シャオメイ,リンリン]
-すべてのものが原形をとどめないほどに交わり、
-無の支配する世界になってしまうでしょうね。
+It is where everything return to their origin, a world of nothingness.
 --------------------------------
 [00000044][レイジ,レイジ,レイジ]
-無の世界だって!?　冗談じゃねえぞ！
-エンディアスも、それからオレが生まれたエルデも、
-そんな風にさせるもんか！
+World of nothingness?! Like hell! Endias, and Elde the world I come from, I
+won't let such a thing happen to them!
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-でも、それには、いったいどうすればいいんだ……？
+But, even so, what should we do?
 --------------------------------
 [00000046][リン,シャオメイ,リンリン]
-それは……。
+About that...
 --------------------------------
 [00000047][リン,シャオメイ,リンリン]
-……この音は……？　戦闘かしら？
+... this sound? A battle?
 --------------------------------
 [00000048][刃九郎,,刃九郎]
-あちらで誰かが戦っているようだ。
-行ってみよう！
+Someone is fighting over there. Let's go!
 --------------------------------
 [00000049][刃九郎,,刃九郎]
-いたぞ！　あそこだ！
+Look! Over there!
 --------------------------------
 [00000050][レイジ,レイジ,レイジ]
-……って、あれは！
-そんな……まさか……！
+... that is! How... could it be...!
 --------------------------------
 [00000051][フェンリル,,フェンリル]
-あれは……スレイプニルだと？
-スレイプニルがどうしてこんなところに!?
+That is Sleipnir? Why is Sleipnir here?!
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-い、いや、スレイプニルもそうなんだけど。
-それ以上にヤバい相手が……！
+N... no. That is Sleipnir... but I'm more worried about a worse opponent...!
 --------------------------------
 [00000053][ユキヒメ,ユキヒメ,ユキヒメ]
-スレイプニル以上の相手だと……？
-奴と戦っている、あの娘たちがか？
-確かに、なかなかの腕前ではあるが……。
+Worse opponent that Sleipnir? Those girls who are fighting Sleipnir? Indeed,
+they are skilled...
 --------------------------------
 [00000054][カノン,シーナ,カノン]
-あああああーっ！
-レイジっ！　なにやってるのよ、こんなところで！
+Aaaaah! Rage! What are you doing over there?!
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-ひっ！　や、やっぱり！
-姉ちゃんこそ、どうしてこんなところに……！
+Yikes! I knew it! Big sis, why are you in such a place!?
 --------------------------------
 [00000056][ユキヒメ,ユキヒメ,ユキヒメ]
-姉ちゃん!?　姉ちゃんだと？
-では、あれはお前の姉なのか？
+Big sis? Did you say big sis? So, that is your sister?
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-あ、ああ……まあな。
-姉というか天敵というか、その……。
+Ah, yeah... a worst enemy, so as to speak...
 --------------------------------
 [00000058][カノン,シーナ,カノン]
-なに１人でゴチャゴチャ言ってるのよ！
-状況は見ればわかるでしょ？
-か弱い女の子を手助けしようって気はないの!?
+What are you doing there mumbling to yourself? Can't you see the situation?
+Aren't you going to help us helpless girls?!
 --------------------------------
 [00000059][ゼクティ,アイン,アイン]
-この敵は、私たちだけでも撃退可能。
-ただし援護があれば戦闘時間の短縮ができる。
-簡単なこと。
+It is possible for us to defeat this enemy. But if we could receive assistance,
+the battle would be shorter. It's a simple matter.
 --------------------------------
 [00000060][トウカ,クレハ,トウカ]
-レイジくん、お願い。
-手を貸して……もらいたいの。
+Rage-kun, please. We need your help.
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-ああああ……。姉ちゃんに加えてアインまで……。
-優しいトウカ先輩がいてくれるのが、
-せめてもの救いだけど……。
+Ahhh... Big sis and Ein... and now the gentle Touka senior too. I have to at
+least save them but...
 --------------------------------
 [00000062][カノン,シーナ,カノン]
-レ～イ～ジ～ッ！　早くしなさいっての！
+RAGE~! Hurry up!
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-ひっ！　わ、わかったよ！
-すぐ行くから待ってくれって！
+Eek! I... I got it! I'm coming over now!
 --------------------------------
 [00000064][エルミナ,ローデリア,エルミナ]
-ど、どうしたんですか……？　レイジさん。
-そんなにおどおどして……まるで私みたいです。
+W... what's wrong, Rage-san? You look so jumpy.... like me.
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-だ、だってしょうがないだろ!?
-相手が姉ちゃんとその仲間たちじゃ……。
+I... I can't help it, okay?! It's my big sis and other allies...
 --------------------------------
 [00000066][レイジ,レイジ,レイジ]
-……って、そんなこと、どうでもいい！
-とにかく、行くぞ！
+Anyway, let's not worry about that now. Let's hurry!
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-トウカ先輩、こんにちは。
+Good afternoon, senior Touka.
 --------------------------------
 [00000068][トウカ,クレハ,トウカ]
-あ、レイジくん、いいところに。
-実は今、リンリンさんといろいろ
-相談していたところだったの。
+Ah, Rage-san, there you are. Rinrin-san says she has many things to discuss with
+you.
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-リンリンと？　
+Rinrin?
 --------------------------------
 [00000070][トウカ,クレハ,トウカ]
-少し前から、また精霊王の存在が強く
-感じられるようになってきたから。
-これからどうしようかって。
+A little while ago, I felt the strong presence of the Spirit King. Now I'm
+wondering what to do next.
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-精霊王ですか……。
-スレイプニルの動きも気になるし、できるだけ早く
-探しに行ったほうがよさそうですね。
+The Spirit King. Sleipnir is already on the move. We have to act soon to
+continue the search as well.
 --------------------------------
 [00000072][レイジ,レイジ,レイジ]
-だけど……。その前に
-ちょっと気になることがあるんですが。
+However, before that, I am concerned about something.
 --------------------------------
 [00000073][トウカ,クレハ,トウカ]
-なにかしら？
+What is it?
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-先輩を呼んでるっていう精霊王は、
-どんな精霊王なんですか？
+The Spirit King that called for senior, what kind of Spirit King is it?
 --------------------------------
 [00000075][リン,シャオメイ,リンリン]
-あら、あなたにしては
-いいところに気づいたわね。
-実はさっき、トウカやアインとその話もしてたのよ。
+Ah, it's good that you noticed. The truth is, Touka and Ein spoke about that
+earlier.
 --------------------------------
 [00000076][リン,シャオメイ,リンリン]
-トウカが存在を感じたのは、
-おそらくエンディアスの精霊王ではないわね。
-かといって、エルデの精霊王でもなさそう。
+What Touka felt earlier, was most likely not a Spirit King of Endias, but a
+Spirit King of Elde.
 --------------------------------
 [00000077][レイジ,レイジ,レイジ]
-どうしてそんなことがわかるんだ？
+How do you know this?
 --------------------------------
 [00000078][ゼクティ,アイン,アイン]
-私は精霊使いだから。
-精霊のことには詳しいの。
+Actually, I am a Spirit user. I know much about Spirits.
 --------------------------------
 [00000079][ゼクティ,アイン,アイン]
-エルデで暮らすトウカが存在を感じたということは、
-位置的にエルデと近い世界に棲む
-精霊王が呼んでいるんだと思う。
+Touka has been living in Elde. What she felt must have been a call from a Spirit
+king dwelling in the world near Elde.
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-エルデと近い世界の精霊王？
-誰だ？　それ。
+Spirit King of a world near Elde? Who is that?
 --------------------------------
 [00000081][ゼクティ,アイン,アイン]
-アストラル界に棲む、雷の精霊王。
+The Thunder Spirit King, dwelling in the Astral World.
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-アストラル界……。
-そういえば、龍那もそんなこと言ってたな。
-封印に関わっている精霊王の１人だって。
+Astral World... speaking of which, Ryuna did mention something about that. One
+more Spirit King there.
 --------------------------------
 [00000083][レイジ,レイジ,レイジ]
-ってことは……トウカ先輩が歌姫だっていう
-可能性が、ますます高くなってくるな。
+So that would mean, there is the high possibility of Senior Touka being a
+Loreley.
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-あ、でも、待てよ？
-そういえば、この間は聞きそびれたけど、
-アストラル界ってなんなんだ？
+Ah, but speaking of which, I have heard of this for quite a bit. But, what is
+the Astral World?
 --------------------------------
 [00000085][リン,シャオメイ,リンリン]
-エルデとエンディアスの間にある世界よ。
-死者の魂たちが生まれ変わりを待つところだと
-言われているわ。
+It's a world between Elde and Endias. It is a place where the souls of the dead
+wait to be reborn, so as to speak.
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-あ、そっか。間にあるんなら、
-確かにエルデとも位置的に近いよな。
+Ah, I see. Indeed, that is closer to Elde.
 --------------------------------
 [00000087][リン,シャオメイ,リンリン]
-そう考えてみると、いろいろ説明がつくわね。
-エルデとエンディアスをつなぐカオスゲートが
-こんな風に乱立しているのは……。
+When you think about it, this explains a lot. The Chaos Gates that connect Elde
+and Endias, appearing in such floods...
 --------------------------------
 [00000088][リン,シャオメイ,リンリン]
-２つの世界の間にある、
-アストラル界で異変が起きたからなのね。
+In between the two worlds, the Astral World must be having anomalies as well.
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-異変って？　どんなことだ？
+Anomalies? What kind?
 --------------------------------
 [00000090][リン,シャオメイ,リンリン]
-つまり、そこの精霊王が他の王たちと同じように、
-帝国に倒されてしまったことで、
-精霊力の変動が起きているんじゃないかしら。
+In short, the Spirit King there must have met the same fate as with the others,
+defeated by the Empire. The Spirit Energy fluctuated and caused this.
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-そういや、スレイプニルが「卵」って言ってたな。
-雷の精霊王も卵になってるってことか。
+Speaking of which, Sleipnir mentioned Egg. It must have been the Thunder Spirit
+King egg.
 --------------------------------
 [00000092][リン,シャオメイ,リンリン]
-そうね。そして、カオスゲートが開いたせいで、
-エルデのビルがエンディアスに現れたように……。
+Indeed. And the reason why the Chaos Gates appeared, Elde's buildings appearing
+in Endias...
 --------------------------------
 [00000093][リン,シャオメイ,リンリン]
-精霊王の卵もエンディアスに
-やってきてしまったんだと思うわ。
-きっと、精霊王を守るドラゴンもね。
+The Spirit King egg must have come to Endias. As well as the Dragon who guards
+him.
 --------------------------------
 [00000094][レイジ,レイジ,レイジ]
-あ、やっぱりアストラル界にもドラゴンがいるのか。
+Ah, so dragons do exist in the Astral World.
 --------------------------------
 [00000095][リン,シャオメイ,リンリン]
-ええ。雷竜ファンロンがいるわ。
-とりあえず、ファンロンの「試練」を受ける覚悟は
-しておいたほうがいいわよ。
+Yes, the Thunder Dragon Fanron. In any case, we must be prepared for the trial
+of Fanron.
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-アストラル界のドラゴンか……。でも、やることは
-結局、他のドラゴンたちと一緒なわけだよな？
-まかせとけって！　今回も試練をクリアしてやるさ！
+A dragon from the Astral World... But, he must be the same as the other dragons,
+right? Leave it to me! I will clear this trial as well!
 --------------------------------
 [00000097][レイジ,レイジ,レイジ]
-さあ、先輩！　スレイプニルに先を越される前に、
-精霊王の卵を探しに行きましょう！
+Okay, Senior! We must get ahead of Sleipnir, and find the Spirit King egg!
 --------------------------------
 [00000098][トウカ,クレハ,トウカ]
-そうね。がんばりましょう。
+You're right. Let's do our best.
 --------------------------------
 [00000099][フェンリル,,フェンリル]
-どうだ、みんな、
-何か手掛かりになるようなものは見つかったか？
+How is it, everyone? Did you spot anything?
 --------------------------------
 [00000100][レイジ,レイジ,レイジ]
-砂ばかりで何もないよ、フェンリルさん。
-精霊王どころか、ドラゴンがいるのかどうかさえ、
-わからないんだ。
+Only sand, Fenrir-san. We don't know where the Spirit King, or the dragon is.
 --------------------------------
 [00000101][カノン,シーナ,カノン]
-レイジ。あんた、ちゃんと探したんでしょうね？
-あたしが目を離すと、すぐにサボるんだから。
+Rage, are you searching properly? The moment I turn my head, you start to slack.
 --------------------------------
 [00000102][レイジ,レイジ,レイジ]
-サ、サボッてなんかねえよ！
-オレ、目を皿のようにして探しまわったんだぜ？
+I... I'm not slacking! I'm searching properly with my eyes like saucers!
 --------------------------------
 [00000103][ゼクティ,アイン,アイン]
-レイジの目は皿なの？
+Rage's eyes are saucers?
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-いや、そういう意味じゃないって！
-えーと、なんて言ったらいいのかな。
+That's not what I mean! Hmm, how should I say this.
 --------------------------------
 [00000105][トウカ,クレハ,トウカ]
-違うのよ。アインさん。
-今、レイジ君が言ったのは例えなの。
-目を大きく開くことを、お皿に例えたの。
+That's wrong, Ein-san. What Rage said was a metaphor. It means to open your eyes
+wide.
 --------------------------------
 [00000106][ゼクティ,アイン,アイン]
-例え？　なるほど、そうだったの……了解。
+Metaphor? I see, I get it.
 --------------------------------
 [00000107][レイジ,レイジ,レイジ]
-さすがトウカ先輩！
-アインに一発で言葉の意味を理解させるなんて……。
+That's amazing, senior Touka. Ein understood your explanation completely.
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（綺麗だし、頭はいいし……やっぱ違うよな）
+(She's smart, and beautiful...)
 --------------------------------
 [00000109][ユキヒメ,ユキヒメ,ユキヒメ]
-……レイジ。なに鼻の下を伸ばしているんだ……？
+...Rage, what are you thinking of now.
 --------------------------------
 [00000110][レイジ,レイジ,レイジ]
-え!?　い、いや！　なんでもない！
-なんでもないぞ！
+Eh?! N... nothing! It's nothing!
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-あ、そうだ！　先輩、どうですか？　
-精霊王の存在を感じますか？
+Ah, that's right! Senior, how is it? Do you feel the Spirit King?
 --------------------------------
 [00000112][トウカ,クレハ,トウカ]
-ううん、今はもう何も感じないの。
-もしかしたら、他の場所なのかしら……。
+Nope. I can't feel anything right now. Could it be possible, they've already
+moved elsewhere...
 --------------------------------
 [00000113][レイジ,レイジ,レイジ]
-そうですか……。
+I see...
 --------------------------------
 [00000114][フェンリル,,フェンリル]
-仕方がない。もうすぐ日が暮れる。
-ここは一度戻って、出直すしかないな。
+We have no choice but to return. The sun is already setting, we can't continue.
 --------------------------------
 [00000115][トウカ,クレハ,トウカ]
-わかりました……。すみません。
+I understand... I'm sorry.
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-いたいた！　トウカ先輩！
-……なんだ、姉ちゃんもいたのか。
+There you are, Senior Touka! Big sis is here too.
 --------------------------------
 [00000117][カノン,シーナ,カノン]
-なによ、いちゃ悪い？
+Is there a problem with that?
 --------------------------------
 [00000118][レイジ,レイジ,レイジ]
-別にそういうわけじゃ……。っていうか、
-そんな話をしてる場合じゃないんだ。
+I didn't say that. Anyway, this isn't the time for that now.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-先輩、フェンリルさんが、
-精霊王の件で情報をつかんだそうですよ！
+Senior, Fenrir-san has received some information about the Spirit King.
 --------------------------------
 [00000120][トウカ,クレハ,トウカ]
-ホント？　フェンリルさん、
-卵が見つかったんですか？
+Really? Fenrir-san, have you found the egg?
 --------------------------------
 [00000121][フェンリル,,フェンリル]
-卵、というよりは正確にいうとファンロンの情報だ。
-だが、ファンロンのいるところに、
-おそらく精霊王の卵があるはずだからな。
+Not the egg, it's about Fanron, rather. But where Fanron is, you can be sure the
+egg is there as well.
 --------------------------------
 [00000122][ユキヒメ,ユキヒメ,ユキヒメ]
-ブレイバーンの時は違ったが。
+It wasn't so with Blaeburn.
 --------------------------------
 [00000123][フェンリル,,フェンリル]
-あれはまぁ……特殊な例だ。今回は大丈夫だろう。
-ミスティのようなヤツが、
-そう何人もいるとは思えんからな。
+Well, that should be treated as an exception. It should be fine this time. I
+don't think there will be anyone else like Misty.
 --------------------------------
 [00000124][ミストラル,ネレイス,ミスティ]
-なんじゃ？　わらわに何か用か？
+What is it? Do you need me for something?
 --------------------------------
 [00000125][ユキヒメ,ユキヒメ,ユキヒメ]
-……いや、なんでもない。気にするな。
-フェンリル、話の腰を折って悪かった。
-続けてくれ。
+Nope, nothing. Don't mind it. Fenrir, sorry for the interruption, please
+continue.
 --------------------------------
 [00000126][フェンリル,,フェンリル]
-……ああ。ファンロンはこの間捜索した場所から
-少し進んだところにある、
-倒壊した……ビル……というんだったか？
+Yeah, our scouts have located Fanron. He's in a toppled.... building... that's
+what it's called.
 --------------------------------
 [00000127][フェンリル,,フェンリル]
-とにかく、その建物の間に
-棲みかをつくっているらしい。あたりを捜索していた
-複数の兵士たちが目撃している。
+Anyway, he is living in this structure. Our scouts have spotted him.
 --------------------------------
 [00000128][レイジ,レイジ,レイジ]
-そういうわけだから、トウカ先輩！　姉ちゃん！
-急いで現場に向かおう！
+Since that's the case, Senior Touka! Big sis! Let's hurry to the place!
 --------------------------------
 [00000129][レイジ,レイジ,レイジ]
-おっと、その前に……。
-向こうでは絶対にドラゴンと戦うことになるから、
-しっかり準備しておいてくれよ。
+Oh, and before that, we have to do battle with the dragon. We have to be
+prepared.
 --------------------------------
 [00000130][カノン,シーナ,カノン]
-ドラゴンと戦う？　卵をもらうんじゃなかったの？
-戦わなきゃいけないわけ？
+Battle with the dragon? We can't get the egg without doing so? Do we really have
+to fight?
 --------------------------------
 [00000131][レイジ,レイジ,レイジ]
-そうなんだ。タダじゃくれないんだよ、あいつら。
-まあ、先方にもいろいろ事情があるらしくてな。
+That's how it is. He isn't just going to listen. Well, there is a lot of things
+going on.
 --------------------------------
 [00000132][カノン,シーナ,カノン]
-あー、そうなんだ。
-そういうことなら、いいわ。
-やってやろうじゃないの！
+Ah, I see. Well, that's fine then. Let's do this!
 --------------------------------
 [00000133][ユキヒメ,ユキヒメ,ユキヒメ]
-……なんなのだ。
-この似たもの姉弟は……。
+... what is this. Like brother, like sister...
 --------------------------------
 [00000134][レイジ,レイジ,レイジ]
-よーし！　ファンロンの試練をクリアして、
-精霊王の卵とご対面だ！
+Okay! We will clear Fanron's trial, and get the Spirit King Egg!
 --------------------------------
 [00000135][レイジ,レイジ,レイジ]
-さあ、ファンロン。約束通り、卵を頼むぜ。
+Okay, Fanron. As promised, let us have the egg.
 --------------------------------
 [00000136][ファンロン,,ファンロン]
-よかろう。その前に……。
-この魔術プログラムを渡しておこう。
-この世界を導く者、サクヤよ。
+Very well. But before that... I shall hand over this Magic Program to Guide of
+this world, Sakuya.
 --------------------------------
 [00000137][サクヤ,マキシマ,サクヤ]
-……私に？　ありがとう！
-新しい力、活用させてもらうわ。
+...to me? Thank you! I shall put this new power to good use.
 --------------------------------
 [00000138][ファンロン,,ファンロン]
-では、次に……。
-お前か？　エルデの巫女というのは。
+And next... Are you the Miko of Elde?
 --------------------------------
 [00000139][トウカ,クレハ,トウカ]
-はい。
+Yes.
 --------------------------------
 [00000140][ファンロン,,ファンロン]
-では、手を出すがよい。
-これが、お前が存在を感じ、
-捜し求めていた雷の精霊王……その卵だ。
+Hold out your hand. This is the egg of the Spirit King, whose presense you have
+held, and who you are searching for.
 --------------------------------
 [00000141][トウカ,クレハ,トウカ]
-これが、精霊王の卵……。
+This is the Spirit King egg....
 --------------------------------
 [00000142][トウカ,クレハ,トウカ]
-あたたかい……心がとても落ち着いて……。
-それと同時に、体の底から不思議な力が
-わいてくるような……。
+So warm... I feel so calm... At the same time, I feel an incredible power rising
+in me.
 --------------------------------
 [00000143][リン,シャオメイ,リンリン]
-トウカ。いよいよ、この卵があなたを導いた、
-本当の意味がわかる時がきたわよ。
-さあ……歌ってみて。
+Touka. Finally, the egg has led you here. It's time for the real meaning of all
+this to be revealed. Now, try singing.
 --------------------------------
 [00000144][トウカ,クレハ,トウカ]
-歌……ですか？
-みんなの前で歌うんですか？
-えっと……何の歌を？
+Sing? In front of everyone? Let's see, what song shall I sing?
 --------------------------------
 [00000145][サクヤ,マキシマ,サクヤ]
-なんでもいいから。
-あなたの心に浮かんだ歌でいいわ。
-きっと、それが正解よ。
+Any is fine. What song are you thinking of right now? That has to be the right
+one.
 --------------------------------
 [00000146][トウカ,クレハ,トウカ]
-わ、わかりました。
-じゃあ……。
+I... I see. Okay...
 --------------------------------
 [00000147][レイジ,レイジ,レイジ]
-カオスゲートがどんどん消えていく……。
+The Chaos Gates are all disappearing...
 --------------------------------
 [00000148][リン,シャオメイ,リンリン]
-ゲートが閉じ始めたのよ。これで、エルデと
-エンディアスの境界線が崩れる危機を免れたわ。
-２つの世界を救うことができたの。
+The closing of the gates has begun. This way, the crisis of Elde and Endias
+collapsing is now averted. The two worlds have been saved.
 --------------------------------
 [00000149][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな。これでようやくクラントールへの
-道も開けよう。
-……いよいよだな、レイジ。
+Indeed. And the way to Crantor is now clear. It's finally time, Rage.
 --------------------------------
 [00000150][レイジ,レイジ,レイジ]
-ああ……。
+Yeah...
 --------------------------------
 [00000151][カノン,シーナ,カノン]
-よっし！　これでトウカの問題は解決ね！
-あとは、カイトだわ。
+Okay! This settled Touka's problem! Now, all that is left is Kaito.
 --------------------------------
 [00000152][カノン,シーナ,カノン]
-それにしても、あいつったら、
-いったいどこをほっつき歩いてんだか。
-見つけたら、ただじゃおかないんだから。
+Where has that guy wandered off to? When I find him, he's going to get more than
+just a scolding.
 --------------------------------
 [00000153][レイジ,レイジ,レイジ]
-姉ちゃん。そう怒るなよ。
-カイト先輩だって、なんか事情があっての
-ことなんじゃないのか？
+Big sis, no need to get so mad. Senior Kaito must have his reasons, right?
 --------------------------------
 [00000154][レイジ,レイジ,レイジ]
-トウカ先輩みたいに、
-なんかの目的で誰かに呼ばれたのかも……。
+Maybe like Touka who was called, he had somewhere he needed to be.
 --------------------------------
 [00000155][カノン,シーナ,カノン]
-だったら、なにか一言あってしかるべきでしょ？
-あたしがどれだけ心配してると思ってるのよ！
-あいつを見つけたらとっちめてやらなきゃ。うん！
+That's why he shouldn't just take off without saying anything! Doesn't he know
+I'll be worried?! When I find him, I'm going to let him have it, yeah!
 --------------------------------
 [00000156][レイジ,レイジ,レイジ]
-はぁ……。こうなってくると、
-カイト先輩を見つけたほうがいいのかどうか、
-微妙だな……。本人のためには……。
+Haa.... If that's how it's going to be, I think it's better if Senior Kaito
+isn't found. For his sake of course...
 --------------------------------
 [00000157][カノン,シーナ,カノン]
-なんか言った!?
+What did you say?!
 --------------------------------
 [00000158][レイジ,レイジ,レイジ]
-……い、いや、なんでもねえ。
+...nothing. Nothing at all.
 --------------------------------
 [00000159][カノン,シーナ,カノン]
-なんでもないんなら黙ってなさいよ。
-ったくもう……せっかく、あんたを
-見直しかけてたとこだったのに。
+If you have nothing to say, then don't say anything. Jeez, and to think I was
+starting to have a better impression of you.
 --------------------------------
 [00000160][レイジ,レイジ,レイジ]
-……え？　なんだろう。今、姉ちゃんの口から、
-信じがたい言葉が聞こえたような気がする……。
-き、気のせいだよな？　今の……。
+...eh? What? Did big sis just say something like she trusts me? Am I just
+imagining things? This...
 --------------------------------
 [00000161][カノン,シーナ,カノン]
-なによ、その妙な反応。
-別におかしなことは言ってないでしょ？
-あんたを見直した、って言っただけで。
+What's with that wierd reaction? I didn't say anything strange. I just said I
+have a better impression of you.
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-え!?　やっぱりそう言ったのか？
-姉ちゃんが!?　オレを？　まさか！
+Eh?! You did say that? Big sis?! To me?! It can't be!
 --------------------------------
 [00000163][カノン,シーナ,カノン]
-なによ。なに大げさに驚いてんのよ。
-さっきのファンロンとの戦いぶり、
-カッコよかったわよ？
+What is this. Why are you so surprised? Wasn't it cool the way you battled
+Fanron just now?
 --------------------------------
 [00000164][カノン,シーナ,カノン]
-わが弟よ！　よくぞここまで成長したな！
-ほめてつかわすっ！
+My kid brother! You have grown well! Commendable!
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-ぐほっ！　げほげほげほ！
+Gah! Cough cough!
 --------------------------------
 [00000166][カノン,シーナ,カノン]
-ちょっと！　なにむせてんのよ！
-軽くなでただけなのに、大げさなんだから……。
-見直した、ってのは言いすぎだったかな……。
+What? What's with that? Just a light tap, and you have such a big reaction.
+Maybe that better impression came too soon...
 --------------------------------
 [00000167][カノン,シーナ,カノン]
-やっぱりあんたは、お姉ちゃんがちゃんと
-面倒を見てあげないとダメみたいね！　でもいいわ！
-キッチリあたしたちが、手を貸してあげるから！
+Looks like you really have to be looked after by your big sis after all. Just as
+well. I will be watching you closely!
 --------------------------------
 [00000168][カノン,シーナ,カノン]
-いい？　みんな！
-ルミナスナイツ出陣よ！
+Okay? Everyone! Luminous Knights, move out!
 --------------------------------
 [00000169][トウカ,クレハ,トウカ]
-ふふ。なんだか、懐かしいわね？
-カノンさんの、その掛け声。
+Hmhm, just like the old times. Kanon, shouting out the orders.
 --------------------------------
 [00000170][ゼクティ,アイン,アイン]
-うん、とっても懐かしい。
-腕がうずうずしてくる……。
+Yeah, just like the old times. My hands are feeling it...
 --------------------------------
 [00000171][クララクラン,クララクラン,クララクラン]
-あのころのことが、まるで昨日のことのように
-思い出されますね……。
+Those times, it was as if it was just yesterday...
 --------------------------------
 [00000172][刃九郎,,刃九郎]
-しかし、またこの面々が顔を合わせるとは、
-夢にも思わなかった……。
-仲間との再会は、実にいいものだな。
+I had thought we would only see each other in a dream again... And yet here we
+are, this is all real.
 --------------------------------
 [00000173][カノン,シーナ,カノン]
-懐かしがってる場合じゃないわよ？
-クラントール……だっけ？　
-そこでも、いままで以上に大暴れしましょ、みんな！
+This isn't the place for that, is it? So, next is Crantor... right? Okay, we're
+going to unleash an even bigger hell, everyone!
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（そうか……いよいよ、
-クラントールへ進撃するんだな……。
-全ての始まりの地へ……ついに）
+(I see... finally we're going to assault Crantor.... the place where it all
+began.)
 --------------------------------
 [00000175][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（ローゼリンデ……。
-もうちょっとだけ待っててくれ。
-オレが……絶対に救い出してやるからな）
+(Roselinde... wait for me just a little more... I will definitely save you.)
 --------------------------------
 [00000176][none]
-@lt1@dt2@db1@dc88000088カノン、トウカ、アインを仲間に加え、
-なんとかカオスゲートを消滅させることに
-成功したレイジたち。
+@lt1@dt2@db1@dc88000088 With Kanon, Touka, Ein joining their ranks,
+they were somehow able to successfully destroy the Chaos Gates.
 --------------------------------
 [00000177][none]
-@lt1@dt2@db1@dc88000088同時にそれは、エンディアスとエルデが
-崩壊の危機を免れたことを意味した。
+@lt1@dt2@db1@dc88000088 This also meant that they have ended
+the crisis of the collapse of Endias and Elde.
 --------------------------------
 [00000178][none]
-@lt1@dt2@db1@dc88000088危機回避と同時に、彼らは当初の目的である
-クラントール解放を目指して再び進軍を開始。
+@lt1@dt2@db1@dc88000088 In addition to the end of the crisis,
+they are able to continue to advance towards Crantor to liberate it.
 --------------------------------
 [00000179][none]
-@lt1@dt2@db1@dc88000088しかし、当然ながら帝国軍は彼らの攻撃を予期し、
-万全の体制で待ち構えている。
+@lt1@dt2@db1@dc88000088 However, the Empire would of course be lying in preparation for them.
 --------------------------------
 [00000180][none]
-@lt1@dt2@db1@dc88000088ドラゴニア帝国と「シャイニング・フォース」。
-２つの勢力が、最後の決戦の時を
-迎えようとしていた……。
+@lt1@dt2@db1@dc88000088 Dragonia Empire and Shining Force.
+These final battle between these two great forces draw close...
 --------------------------------

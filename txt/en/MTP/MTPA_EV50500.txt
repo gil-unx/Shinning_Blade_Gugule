@@ -1,405 +1,340 @@
 [0106]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-大丈夫だ。近くには敵兵の姿は見えない。
+Coast is clear. No enemies in sight.
 --------------------------------
 [00000001][ユキヒメ,ユキヒメ,ユキヒメ]
-……どうやら、うまく忍び込めたようだな。
+We managed to sneak in somehow.
 --------------------------------
 [00000002][リック,エルウッド,リック]
-ああ。今なら警備兵の不意をつける。
-……やるぞ!
+The soldiers don't seem to be alert. Let's do this!
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-警備は全員片付けたな。
-捕まってる人たちはどっちだ？
+The patrol is dealt with. Where are the prisoners?
 --------------------------------
 [00000004][リック,エルウッド,リック]
-向こうだ。鍵は取ったか？
+Over there. Did you get the key?
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-もちろんだ！　助けに行こう！
+Of course! Let's go save them!
 --------------------------------
 [00000006][none]
-ev50504　ボス登場演出（アルベリッヒ）
+ev50504 Boss appearance production (Alberich)
 --------------------------------
 [00000007][リック,エルウッド,リック]
-来たか……。アルベリッヒ……！
+You've come, Alberich!
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-リック。いいか、みんなの逃げる時間を稼いで、
-それからオレたちも脱出する。それが目的だぞ。
+Listen, Rick. We are to buy everyone time for their escape. After that, we will
+retreat. That is our goal.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-アルベリッヒと因縁があるのはわかるけど、
-それは次の機会にしてくれ。頼む。
+I'm aware of your vendetta with Alberich. You will get another chance, I
+promise.
 --------------------------------
 [00000010][リック,エルウッド,リック]
-…………それぐらいのこと、俺だってわかってる。
-余計なことを言うな。
+....I understand that. Save your breath.
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-そうか、悪かったな。それじゃあ……やるぞ！
+I see. Sorry then. Let's do this!
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-リック、時間はたっぷり稼いだ。
-みんなは安全圏まで行けたはずだ
-オレたちもそろそろ逃げよう！
+Rick, we bought some time. Everyone made it to safety. It's our turn to escape.
 --------------------------------
 [00000013][リック,エルウッド,リック]
-俺に指図するな！　言われなくてもそうする！
+Don't order me around! I will do it even without you saying!
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-じゃあ、行くぞ！
+Then, let's go!
 --------------------------------
 [00000015][アルベリッヒ,,アルベリッヒ]
-……行ったか。まあよかろう。
-ネズミは、さっさと追い出すに限る。
+There they go. So be it. Saves the trouble of chasing the mice.
 --------------------------------
 [00000016][アルベリッヒ,,アルベリッヒ]
-これ以上うろちょろされては、
-迷惑この上ないからな……。
+I won't have you giving me any more problems.
 --------------------------------
 [00000017][ディラン,ローエン,ディラン]
-……よし、みんな。乗り移ったか？
+Okay, everyone, all aboard?
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-全員いるぜ。
-合図があれば、いつでもいける。
+All aboard. Ready as always.
 --------------------------------
 [00000019][イサリ,ジェラード,イサリ]
-敵は……こちらに気づいてない。
+The enemy.... has not noticed us yet.
 --------------------------------
 [00000020][ディラン,ローエン,ディラン]
-よし！　それじゃあ、おっぱじめるぞ。
-この船を丸ごと分捕ってやれ！
+Okay then, let's begin! Capture this ship!
 --------------------------------
 [00000021][ディラン,ローエン,ディラン]
-レイジ！　遠慮はいらねえぞ！
-思いっきり暴れてやれ！
+Rage! No need to hold back, smash everything!
 --------------------------------
 [00000022][イサリ,ジェラード,イサリ]
-海賊らしく……威勢良く……。
+Just like a pirate...
 --------------------------------
 [00000023][レイジ,レイジ,レイジ]
-海賊じゃないんだけどな、オレ……。
+I'm not a pirate....
 --------------------------------
 [00000024][ディラン,ローエン,ディラン]
-はっはっはぁ！　やったぜ！　イサリ！
-見ろよ、いい船じゃねえか！　なあ！
+Hahhahhah! We did it! Isari! Look, not a bad ship isn't she! Hah!
 --------------------------------
 [00000025][イサリ,ジェラード,イサリ]
-俺は興味ない……船は浮かべばいい…。
+I don't really mind..... as long as it floats...
 --------------------------------
 [00000026][ディラン,ローエン,ディラン]
-なに言ってんだ。沈められた船の代わりとしちゃ、
-上等すぎるぐらいだぜ。みんな！　ありがとよ！
+What are you saying? This ship is a far better replacement than the one they
+sunk! Everyone, thanks a lot!
 --------------------------------
 [00000027][レイジ,レイジ,レイジ]
-まったく、さすがは海賊って感じだな。
-でもこれで、火山島に渡れるな！
+Good grief, I'm starting to feel like a pirate too. Anyway, with this, we can
+get to the Volcano Island!
 --------------------------------
 [00000028][ディラン,ローエン,ディラン]
-おう！　海の上は俺たちに任せときな。
-さあ、野郎ども！　出港するぜ！
+Gotcha! Leave the seas to me! Alright you scallywags! Time to leave harbor!
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-これが火山島か、すごい熱気だな。
+So this is the volcano, it's really hot.
 --------------------------------
 [00000030][ディラン,ローエン,ディラン]
-おいレイジ！　あれを見ろ！
-帝国軍の奴らだ！
+Hey Rage, look over there. It's the Empire bastards.
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-くそっ、先に上陸されてたのか？
-こりゃまずいぜ！
+Damn, did they reach land first? This is bad!
 --------------------------------
 [00000032][フェンリル,,フェンリル]
-精霊王を確保しに来たんだろうが、
-先を越されるわけにはいかん！　急ぐぞ！
+If we want to protect the Spirit King, we must overtake them. Let's hurry!
 --------------------------------
 [00000033][ディラン,ローエン,ディラン]
-帝国軍は、今の連中だけか？
+Is that all of the Imperial Army?
 --------------------------------
 [00000034][リック,エルウッド,リック]
-そのようだ。
-他に敵兵の姿はない。
+It should be. No other enemies are here.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-ふう、なんとか阻止できたな。
-ブレイバーンのところへ急ごう！
+Whew, we have to do this somehow. Let's hurry to Blaeburn!
 --------------------------------
 [00000036][レイジ,レイジ,レイジ]
-それにしても……ブレイバーンって、
-どんなヤツなんだ？
+Even so, what kind of guy is Blaeburn?
 --------------------------------
 [00000037][刃九郎,,刃九郎]
-詳しくは知らんが……。
-血の気が多く好戦的な性格だとは聞いている。
+I don't know the details, but he is said to be one who loves to fight, and has
+strong bloodlust.
 --------------------------------
 [00000038][ディラン,ローエン,ディラン]
-そうだな。かなりケンカっぱやくて危ねぇ奴だ。
-もっとも、ブレイバーンに限らず
-この島に住んでるヤツはだいたいそうだがな。
+Indeed. You don't want to pick a fight with this guy. After all, Blaeburn is
+someone who can live in a place like this.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-この島に住んでるヤツって……。
-例のセイレーンだっけ？
+Someone who lives here, isn't the Siren the same?
 --------------------------------
 [00000040][イサリ,ジェラード,イサリ]
-……あいつと……その手下だ。
-かなり……危険。
+That Siren, and the underling.... very dangerous...
 --------------------------------
 [00000041][ディラン,ローエン,ディラン]
-なにしろしょっちゅう噴火してて、
-これだけ暑い島だろ？　住んでるだけで
-イライラするんじゃねえのか？　ははははっ！
+Well if you don't consider the fire being spit at you, it's actually just a
+tropical island, right? Not that bad a place to live, right? Hahahaha!
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-まあ、冗談はともかく……。
-いちおう、気をつけとくよ。
+Well, jokes aside, we should still be careful.
 --------------------------------
 [00000043][ディラン,ローエン,ディラン]
-もうすぐブレイバーンの棲みかだ！　急ぐぜ！
+We will reach Blaeburn's dwelling soon! Let's hurry!
 --------------------------------
 [00000044][刃九郎,,刃九郎]
-心得た！
+Understood!
 --------------------------------
 [00000045][イサリ,ジェラード,イサリ]
-ブレイバーンがすぐそこに……。
-もうすぐ……戦える……！
+Blaeburn.... soon.... we will fight...!
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-……イサリ？　どうしたんだ？
-急に鼻息荒くして……。
+Isari? What is it? You seem excited...
 --------------------------------
 [00000047][ディラン,ローエン,ディラン]
-イサリはドラゴンハンターでもあるからな。
-強そうなドラゴンと戦えるのが、
-嬉しくてしょうがねえんだよ。
+Isari is kinda like a dragon hunter. He's just happy he gets to fight a tough
+dragon.
 --------------------------------
 [00000048][イサリ,ジェラード,イサリ]
-うん……！　ワクワクする……！
+Yeah.... I'm excited....
 --------------------------------
 [00000049][none]
-ev50517　ボス登場演出（ブレイバーン）
+ev50517 Boss appearance production (Braeburn)
 --------------------------------
 [00000050][レイジ,レイジ,レイジ]
-あんたがブレイバーンだな？
-ちょっと聞きたいことがあるんだ！
-あんた、もしかして精霊王の……。
+You must be Blaeburn, right? We have to speak to you. The Spirit King, is he....
 --------------------------------
 [00000051][ブレイバーン,,ブレイバーン]
-やかましいわ！　黙れチビ共！
-ぐだぐだ言ってんじゃねえよ！
-なにか話があるのなら……。
+Enough talk! Silence! Don't keep yapping about. If you have something to say....
 --------------------------------
 [00000052][ブレイバーン,,ブレイバーン]
-まず俺と戦え！ 
-卵のこともそれからだ！
+Then fight me! Then I'll talk about the egg!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-そう来ると思ったよ！　
-いいじゃねえか、上等だぜ！　あんたに勝って、
-精霊王のことを聞かせてもらうからな！
+I thought just as much. Fine, exactly what I'm expecting! After we win you,
+we'll talk about the Spirit King!
 --------------------------------
 [00000054][ブレイバーン,,ブレイバーン]
-くっ……。負けちまったぁ……！
-お前ら、強ぇじゃねえか……！
+Ugh.... I've lost. Aren't you guys strong....
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-へへっ！　どんなもんだ！
+Hehe! You bet we are!
 --------------------------------
 [00000056][イサリ,ジェラード,イサリ]
-……これは……いいカタだ。俺の新記録……。
+This... is a good one. A new record for me...
 --------------------------------
 [00000057][ディラン,ローエン,ディラン]
-感激に浸るのは後にしとけよ、イサリ。
-おい、レイジ。聞くべきことを聞いちまおうぜ。
+Leave the victory celebrations for later, Isari. Hey, Rage. Let's hear what we
+need to hear.
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-そっか。それじゃあ、さっそく……。
+I see. Well then...
 --------------------------------
 [00000059][フェンリル,,フェンリル]
-目標は収容所の中枢部だ！
-まわりは気にせず、突っ込め！
+The target is the interior of the holding camp! Ignore the surrounding areas and
+clear a path through!
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-そこに装置があるんだな？
-わかった、ぶっ壊してやろうぜ！
+Is that where the device is? Understood, we'll smash it!
 --------------------------------
 [00000061][刃九郎,,刃九郎]
-心得た！
+Understood!
 --------------------------------
 [00000062][フェンリル,,フェンリル]
-いよいよ中枢部だぞ！　ひるまず行け！
+We're finally at the center! Let's go!
 --------------------------------
 [00000063][リック,エルウッド,リック]
-わかってる！　一気に突っ込む！
+Understood! Break through!
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-オレも行くぜ！　
-あの装置は、絶対に潰してやる！
+I'm going to! We will smash that device!
 --------------------------------
 [00000065][フェンリル,,フェンリル]
-あの大きな装置が見えるか？
-あれが目標の収集装置だ。
-そいつを完全に破壊しろ！
+Do you see those huge devices? Those are the targets. Destroy every single one!
 --------------------------------
 [00000066][フェンリル,,フェンリル]
-しかし、敵の攻撃も激しさを増すはずだ。
-作業中にも、周囲には充分気を付けろ！
+However, the enemy is increasing in numbers. Make sure you deal with those as
+well!
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-了解だ！　やるぜ、ユキヒメ！
+Understood! Let's do this, Yukihime!
 --------------------------------
 [00000068][ユキヒメ,ユキヒメ,ユキヒメ]
-うむ！　存分に私を振るうがいい！
+Yes! Don't hold back!
 --------------------------------
 [00000069][アルベリッヒ,,アルベリッヒ]
-奴らをこれ以上行かせるな！
-装置を死守するのだ！
+Don't let them succeed! Defend them with your lives!
 --------------------------------
 [00000070][リック,エルウッド,リック]
-あれは……アルベリッヒ！
+It's... Alberich!
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-どうした!?　リック！　危ないぞ！
-いきなり飛び出すな！
+What's wrong, Rick! It's dangerous charging out like that!
 --------------------------------
 [00000072][リック,エルウッド,リック]
-アルベリッヒ！　よくもアミルとエアリィを……！
-それに、ネリスをどこへやった！
+Alberich! What you did to Amil and Airy...! Where is Neris!?
 --------------------------------
 [00000073][アルベリッヒ,,アルベリッヒ]
-むう……!?　誰だ？　お前は。
-ネリスとはなんだ？
+Hm?! Who are you? And who is Neris?
 --------------------------------
 [00000074][リック,エルウッド,リック]
-オレの名はリック！
-クラントールでお前に襲われた村は俺の故郷だ！
-俺は、そこで自警団員をやっていた……。
+My name is Rick! The village you attacked in Crantor was mine! I was the
+defending soldier.
 --------------------------------
 [00000075][リック,エルウッド,リック]
-お前が襲ってきた時に、
-行方不明になった女の子がいる！
-その子をいったいどうしたんだ！
+When you attacked, one girl went missing! Where did she go?!
 --------------------------------
 [00000076][アルベリッヒ,,アルベリッヒ]
-襲った村の娘だと？　バカかお前は。
-そんなもの、私が知るはずがなかろう。
+A girl from a village I attack? Are you an idiot? How should I know something
+like that?
 --------------------------------
 [00000077][アルベリッヒ,,アルベリッヒ]
-だいたい私がこれまで、村をいくつ滅ぼしたと思う？
-あまりに多すぎて、
-１つ１つの村の名前すら覚えておらんぞ！
+What I am after is the annihilation of all the villages. Do you think I'll
+remember each and every one of them?
 --------------------------------
 [00000078][リック,エルウッド,リック]
-こいつ……っ！
+Why, you!
 --------------------------------
 [00000079][アルベリッヒ,,アルベリッヒ]
-ちっ……これ以上は危険だな。
+Tch! It's dangerous to continue.
 --------------------------------
 [00000080][アルベリッヒ,,アルベリッヒ]
-そこの愚か者。リックといったな。
-お前の名前、いちおう覚えておいてやる。
-光栄に思うのだな。
+The fool over there. Your name, Rick, I will remember it. You should feel
+honored.
 --------------------------------
 [00000081][リック,エルウッド,リック]
-……アルベリッヒ！　待て！
-お前にはまだ用がある……！
-アルベリッヒ℃――――￥ッ！
+Alberich! wait! I'm not done with you yet! Alberich!!
 --------------------------------
 [00000082][刃九郎,,刃九郎]
-いかん、リック！　今はこらえろ！
-次の機会が必ずある！
+No, Rick! Bear with it for now! You will get your chance next time!
 --------------------------------
 [00000083][リック,エルウッド,リック]
-次だと？　次っていつだ！
-俺は、何度そうやって待てばいいんだ！
-こうしている間にも、ネリスは……!!
+Next time? How many more next times must there be! How long have I waited?! And
+all this while, still no Neris!!
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-リック……。
+Rick....
 --------------------------------
 [00000085][リン,シャオメイ,リンリン]
-アルベリッヒは逃げたのね……？
+Alberich has escaped?
 --------------------------------
 [00000086][レイジ,レイジ,レイジ]
-……リンリン？　ああ、逃げられちまった。
-あと一歩だったのに……。
+Rinrin? Yeah, he escaped. Just a little more and...
 --------------------------------
 [00000087][リン,シャオメイ,リンリン]
-リックには悪いけど、今は仕方ないわ……。
-追撃にまで手が回らないもの。
+I feel bad for Rick, but there is no choice. We don't have enough people to go
+after him.
 --------------------------------
 [00000088][リン,シャオメイ,リンリン]
-せめて今は、被害が拡大する前に、
-装置を破壊できたこと、
-それだけでよしとしましょう。
+At the very least, we can suppress the damage before it gets out of hand, once
+we destroyed these devices.
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-……ああ。
-もう二度と、こんなものは作らせやしない。
-絶対にな！
+Yeah. I won't these be used again a second time! For certain!
 --------------------------------
 [00000090][レイジ,レイジ,レイジ]
-ファフナーと言ったな！　そこをどけ！
-ローゼリンデを、これ以上利用するな。
-ローゼリンデが……泣いてるじゃねえかよっ！
+You're Fafner! Get out of my way! I won't let you use Roselinde any more!
+Roselinde.... she's crying!
 --------------------------------
 [00000091][ファフナー,,ファフナー]
-歌姫の歌をさまたげるならば……斬る。
+If you disturb the Loreley's song, I will cut you down.
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-ふざけんじゃねえっ！　
-これ以上彼女を苦しめるんなら、
-オレがお前を叩き斬ってやるぜ！
+Don't mess with me! If you hurt her any further, I will cut you to pieces!
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-え……!?　な、なんだ！　これ……！
+Eh?! W...What is this?!
 --------------------------------
 [00000094][アルティナ,メル・シルフィス,アルティナ]
-雪姫の刀身が……!?　ど、どうなってるの？
-エルミナ？
+Yukihime is... what is this, Elmina?
 --------------------------------
 [00000095][エルミナ,ローデリア,エルミナ]
-わ、わかりません！　でも、刀身に刻まれた
-呪文が光っているようで……。
+I... I don't know. But, runes are appearing on the blade body...
 --------------------------------
 [00000096][ユキヒメ,ユキヒメ,ユキヒメ]
-ど、どうしたというのだ……？
-私に、なにが……。
+W... what is this? I am...
 --------------------------------
 [00000097][ローゼリンデ,フレイア,ローゼリンデ]
-……！
+...!
 --------------------------------
 [00000098][ローゼリンデ,フレイア,ローゼリンデ]
-うっ……。
-ううう…………っ！
+Ugh... Ugh....!
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（…………!?　な、なんだ？
-ローゼリンデが、急に苦しみ出した！）
+(...?! What is this? Roselinde seems to be suffering?!)
 --------------------------------
 [00000100][リン,シャオメイ,リンリン]
-もしかして…………！
+Don't tell me...!
 --------------------------------
 [00000101][ローゼリンデ,フレイア,ローゼリンデ]
-ぅうう……っ！
+Ugh...!
 --------------------------------
 [00000102][ファフナー,,ファフナー]
-これは……。そうか……。
-思ったよりも解放が進んでいるのか……。
+This is... I see. She advanced more than I thought.
 --------------------------------
 [00000103][ファフナー,,ファフナー]
-ローゼリンデ。今日はここまででいい。
-引き揚げるとしよう。
+Roselinde, that's it for today. Let's pull out.
 --------------------------------
 [00000104][ローゼリンデ,フレイア,ローゼリンデ]
-はい。
+Yes.
 --------------------------------
 [00000105][レイジ,レイジ,レイジ]
-あ！　ま、待て！　ローゼリンデ！
-ローゼリンデ℃―――――￥ッ！
+Ah! Wait! Roselinde! Roselinde!!
 --------------------------------

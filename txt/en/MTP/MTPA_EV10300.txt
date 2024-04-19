@@ -1,1106 +1,900 @@
 [0270]
 *****************
 [00000000][none]
-@lt1ヴァレリア地方東部に位置するルーンベールは、
-温暖な気候で知られる平和な農業国である。
+@lt1Runevale, set in the east of Valeria, was a place with warm weather and 
+famed peace.
 --------------------------------
 [00000001][none]
-@lt1しかし今は、領内全域が猛烈な寒波に襲われ、
-国土の７割が雪と氷に閉ざされていた。
+@lt1But now, the place was hit by a cold wave, and the land was cracked apart 
+by ice.
 --------------------------------
 [00000002][none]
-@lt1この現象は、精霊力の極端な低下と
-なにか関連があるのだろうか？
+@lt1This phenomenon, does the decline of the spiritual power has anything to 
+do with it?
 --------------------------------
 [00000003][none]
-@lt1レイジたちはその謎を探るため、
-そして精霊王に会い「シャイニング・ブレイド」
-解放の承認を得るため……。
+@lt1Rage and everyone investigate this mystery, for the sake of meeting with 
+the Spirit King to unseal the Shining Blade.
 --------------------------------
 [00000004][none]
-@lt1吹き荒れる吹雪を突いて、
-ルーンベール領内に足を踏み入れる。
+@lt1With the Winds howling in the cold wasteland, they set foot into 
+Runevale.
 --------------------------------
 [00000005][none]
-第３章 蒼天に響くアリア
+Chapter 3 Aria that echoes in the blue sky
 --------------------------------
 [00000006][none]
-@lt1@fs16@dt2@db1@dcFF000000―　クレリアの酒場　―
+@lt1@fs16@dt2@db1@dcFF000000―Cleria's Bar―
 --------------------------------
 [00000007][エルミナ,ローデリア,エルミナ]
-み、み、皆様……ルーンベールへようこそ。
-ルーンベールにいる間、この街を拠点として……。
-拠点……は、は、は……くちゅん！
+E... everyone... welcome to Runevale. This town in Runevale is known for...
+known for... achoo!
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-風邪か？　大丈夫か？　
+Did you catch a cold? Are you okay?
 --------------------------------
 [00000009][エルミナ,ローデリア,エルミナ]
-だ、大丈夫です。すみません。
-いつもなら、このあたりがこのように
-寒くなることはないのですが……。
+Please excuse me, I'm okay. I'm just not used to this cold.
 --------------------------------
 [00000010][龍那,,龍那]
-確かに、この気温の低下は尋常ではありません。
-この地に住むという氷の精霊王の力が
-おかしくなっているのではないでしょうか？
+Indeed, this sudden drop in temperature is not normal. Did something strange
+happen to the Spirit King?
 --------------------------------
 [00000011][エルミナ,ローデリア,エルミナ]
-アイラ様も、そのようなことを
-おっしゃっていました。
-でも、どうしてそのようなことが……。
+Aira-sama did mention something about this. But I don't know what happened.
 --------------------------------
 [00000012][龍那,,龍那]
-そうですね。例えば……精霊力の源である精霊王が、
-その役目を果たせない状態にあるとか、
-あるいは……すでに存在していないとか。
+I see. Maybe... the Spirit King lost his source of power. Or perhaps, he's not
+even there any more...
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-存在していない？　いないのか？
-それってまずいじゃないか！　ユキヒメっていうか
-「シャイニング・ブレイド」を解放するには……。
+Not even there any more? That would be bad. We won't be able to undo the seal of
+Shining Blade...
 --------------------------------
 [00000014][レイジ,レイジ,レイジ]
-精霊王の承認とかが必要なんだろ？
-もしいなくなってたら、承認どころじゃないぜ？
+We do need the approval of the Spirit Kings, right? How are we going to do that
+if they're not there?
 --------------------------------
 [00000015][フェンリル,,フェンリル]
-精霊王の安否を、確かめる方法はないのか？
+Isn't there any other way if they are not there?
 --------------------------------
 [00000016][龍那,,龍那]
-そうですね……。確かこの国には、
-古代種のドラゴンが住んでいるはずですね？
+I see. There is indeed an Ancient Dragon living here, right?
 --------------------------------
 [00000017][エルミナ,ローデリア,エルミナ]
-はい。霊峰グレイシアに、氷竜エールブランが……。
+Yes. In Spirit Peak Glacier, there is Ice Dragon AileBlan.
 --------------------------------
 [00000018][龍那,,龍那]
-古竜たちと精霊王には、深い関わりがあります。
-ルーンベールを守護する氷の精霊王については、
-エールブランに尋ねてみるのがいいでしょう。
+The Ancient Dragons and Spirit Kings share a deep bond. If we are to search for
+the Spirit King that protects Runevale, we have to search for Aile Blan.
 --------------------------------
 [00000019][龍那,,龍那]
-もしかしたらアイラ姫も、同じように考えて
-行動しているのかもしれませんね。
-やはり北の山に何かが……。
+Most likely, Princess Aira was also thinking the same thing, so she went to the
+North mountains.
 --------------------------------
 [00000020][フェンリル,,フェンリル]
-霊峰グレイシアか……。アイラ姫は、
-そこで待っているんだったな？
+Spirit Peak Glacier, huh. Is that where Princess Aira is waiting for us?
 --------------------------------
 [00000021][エルミナ,ローデリア,エルミナ]
-はい。山の方はここより気候が厳しく、
-しかも敵の勢力圏内にあります。
-その中にアイラ様はたった１人で……。
+Yes. The weather in the mountains was really bad, and there were enemies. Still,
+Aira-sama chose to go alone...
 --------------------------------
 [00000022][フェンリル,,フェンリル]
-と、すると、いずれにしても山には
-行かなければならないわけだな。
+Well then, looks like we will have to go up the mountains too.
 --------------------------------
 [00000023][フェンリル,,フェンリル]
-まずやるべきことは、山に近づくルートの安全確保。
-その上で山に登り……ドラゴンと、アイラ姫に会う。
+We'll have to pick the safest route up the mountain top to meet the Dragon, and
+Princess Aira.
 --------------------------------
 [00000024][エルミナ,ローデリア,エルミナ]
-はい。よろしくお願いいたします……。
+Yes. Please do.
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-よし、わかった！　なら、やることは決まりだな。
-まずは、このあたりから敵を片付けて行こうぜ！
+Then it's settled. We'll wipe out any enemies and go!
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-副隊長？　こんなところにみんなで集まって
-なんの話をしてるんだ？
+Vice-captain? Why are we gathered here to talk?
 --------------------------------
 [00000027][フェンリル,,フェンリル]
-レイジか。ちょうどよかった。
-お前もエルミナの話を聞いておけ。
-ルーンベールの騎士団から得た情報だ。
+Rage? You came at the right time. You and Elmina need to hear this. We got this
+information from Runevale Knights.
 --------------------------------
 [00000028][エルミナ,ローデリア,エルミナ]
-はい。この国の聖騎士団のみなさんから
-色々な情報をうかがってきました。
-えっと……なにから、お話しましょうか？
+This kingdom's Knights Order gathers all kind of information. What is it about?
 --------------------------------
 [00000029][リック,エルウッド,リック]
-まずはこのあたりの帝国軍の様子を教えてくれ。
-特に敵の指揮官が誰なのか知りたい。
-アルベリッヒという名前は出てこなかったか？
+He described the Imperial Army being sighted. The enemy general seems to be
+identified. Have you heard the name Alberich?
 --------------------------------
 [00000030][エルミナ,ローデリア,エルミナ]
-アルベリッヒ……ですか？　いえ、その名前は
-出てきませんでした。私が聞いたお話では、
-相手側の指揮官は、スルトという狼の獣人だとか。
+Alberich? No, I haven't heard this name. The only general whose name I've heard
+of is a Beastfolk named Surt.
 --------------------------------
 [00000031][フェンリル,,フェンリル]
-スルト……だと？
+Did you say Surt?
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-どうしたんだ？
-そいつに心当たりでもあるのか？
+What's wrong? Do you know him?
 --------------------------------
 [00000033][フェンリル,,フェンリル]
-……ああ。ちょっとした心当たりがな……。
+Yes. I happen to know a bit.
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-何だ？　警報か!?
+What was that? The alarm?
 --------------------------------
 [00000035][リン,シャオメイ,リンリン]
-こちらの補給部隊が、
-狼の獣人の率いる部隊に襲われたそうよ！
-今すぐ救援に向かって！
+It's the supply troops. A wolf Beastfolk is attacking them. We need to back them
+up now.
 --------------------------------
 [00000036][フェンリル,,フェンリル]
-狼の獣人……！　……スルトか！
-まさか、こんなに早く出てくるとはな！
+Wolf Beastman? Surt! I didn't think he would show up so soon!
 --------------------------------
 [00000037][フェンリル,,フェンリル]
-奴が出てきたとなると、補給部隊の連中が危ない！
-みんな、行くぞ！
+If that bastard shows up, the supply troops are in great danger! Let's go!
 --------------------------------
 [00000038][フェンリル,,フェンリル]
-遅かったか！
+We're too late!
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-なんてこった……全滅じゃないか。
-なにもここまでやらなくたって……。
+It's terrible. They were all wiped out. Nothing left...
 --------------------------------
 [00000040][ユキヒメ,ユキヒメ,ユキヒメ]
-なんだ……？　なんなのだ、これは……。
-これほどの戦いがあったのに、どうして……？
-龍那、どうだ？　お前には見えるか？
+What the... This is strange. I am not seeing anything. Ryuna, what do you think
+of this?
 --------------------------------
 [00000041][龍那,,龍那]
-い、いえ、私にも、まったく……気配すら。
-いったい、どういうことなのでしょう。
+No, I too feel worried. I can't see any of them either. Exactly what does this
+mean?
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-どうしたんだ？　ユキヒメ。
-見えないって、なにが見えないんだ？
+What is it, Yukihime. What is it you can't see?
 --------------------------------
 [00000043][ユキヒメ,ユキヒメ,ユキヒメ]
-魂だ。このように非業の死を遂げた魂は、
-その無念さから霊界に行くこともできず、
-その場に漂っていることが多い。だが……。
+Souls. When people die like this, sometimes their souls remain. It is true that
+some will immediately go to the Spirit world, but this...
 --------------------------------
 [00000044][龍那,,龍那]
-この場所からは、霊魂のかけらすら感じとることが
-できません。まるで、
-誰かがきちんと霊魂を導いた後のように……。
+I cannot feel any souls at all in this place. It's like they have all been
+guided away...
 --------------------------------
 [00000045][サクヤ,マキシマ,サクヤ]
-導いたわけではないと思うわ。
-たぶん……奪われたのよ。帝国軍にね。
+They are not guided away. More like snatched away. By the Imperial Army.
 --------------------------------
 [00000046][ユキヒメ,ユキヒメ,ユキヒメ]
-なにっ!?
+What?!
 --------------------------------
 [00000047][龍那,,龍那]
-なんということを……！
-
+How horrible!
 --------------------------------
 [00000048][リック,エルウッド,リック]
-魂を奪う……!?　サクヤさん、それは本当ですか？
-間違いないんですか？
+Stealing souls? Sakuya-san, is this true? There's no mistake about it?!
 --------------------------------
 [00000049][サクヤ,マキシマ,サクヤ]
-以前、似たような例を見たことがあるわ。
-奴らは、なにかに利用するために魂を持ち去るのよ。
-たぶんダークドラゴン復活に必要なんだと思うわ。
+Something like that has happened before. Those fiends are gathering souls to
+revive the DarkDragon.
 --------------------------------
 [00000050][リック,エルウッド,リック]
-まさか、そんなことが……！
-いくらなんでも、それは……！
+So that means... how long does this have to go on!?
 --------------------------------
 [00000051][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……え？　あのリックが、冷静さを失ってる？）
+@fcFFAAFFAA(Eh? Rick is losing his cool?)
 --------------------------------
 [00000052][フェンリル,,フェンリル]
-……スルト……！　あの野郎……!!
-あの、くそったれがっっっ!!
+Surt, you bastard!! You'll pay for this!!
 --------------------------------
 [00000053][レイジ,レイジ,レイジ]
-副隊長!?
+Vice-captain?!
 --------------------------------
 [00000054][フェンリル,,フェンリル]
-やるに事欠いて、魂にまで手をかけるとは……！
-ここまで堕ちたのか！　ここまで腐っちまったのか！
+All your horrible deeds, and now you are stealing souls too? Exactly how low
+will you go?! How far will you rot?!
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-こんなに怒った副隊長、初めて見た……。
-魂を奪うって……いったい、どういうことなんだ？
+This is the first time I see the Vice-captain this angry. Exactly what is
+happening?
 --------------------------------
 [00000056][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ。このエンディアスは、エルデよりも
-魂というものにずっと重みがある世界だ。
+Rage, this is Endias, compared to Elde, it is a world where souls have more
+existence.
 --------------------------------
 [00000057][ユキヒメ,ユキヒメ,ユキヒメ]
-例えば、アミルとエアリィのことを
-考えてみるがいい。そうすれば、
-あの２人の反応も理解できるのではないか？
+Take Amil and Airy for instance. Think about it. Do you understand that they
+actually feel and think the way they do?
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-そうか……。そういえばあの子たちも、
-一度は帝国軍に殺されて……。って、待てよ？　
-それじゃあ、魂を奪うっていうのは……。
+I see. As you said, those girls have been killed once. So, wait? The souls been
+taken...
 --------------------------------
 [00000059][レイジ,レイジ,レイジ]
-つまり、アミルやエアリィみたいな人を、
-もう一度殺すようなもの……！
-そういうことなのか!?
+So that means, these souls are just like Amil and Airy! They are killed a second
+time! Is that what it means?
 --------------------------------
 [00000060][ユキヒメ,ユキヒメ,ユキヒメ]
-……その通りだ。
+That is correct.
 --------------------------------
 [00000061][レイジ,レイジ,レイジ]
-なんてこった……！　ひどすぎるぜ！
-帝国軍は、そこまでやるのか!?
-それが、あいつらのやり口なのかよ！
+This is atrocious! The Empire would actually go this far. So this is their way
+of handling things!
 --------------------------------
 [00000062][レイジ,レイジ,レイジ]
-許せねえ！　絶対に許しちゃおけねえ！
-なにがなんでも、やめさせてやる！
+I won't forgive them! I'll never forgive them. No matter what it takes, I will
+stop them at all costs!
 --------------------------------
 [00000063][フェンリル,,フェンリル]
-レイジ！　戦いでその怒りをぶつけてやれ！
-行くぞ！　帝国軍はこの先にいるはずだ！
+Rage! Release your anger in battle! Let's go! The Imperial Army could not have
+gone far!
 --------------------------------
 [00000064][フェンリル,,フェンリル]
-奴らを追い詰めて、二度とこんなことが
-できないようにしてやる！
+We'll hunt them down and make sure they won't be doing the same thing again!
 --------------------------------
 [00000065][レイジ,レイジ,レイジ]
-わかった！　行こう！
+Understood! Let's go!
 --------------------------------
 [00000066][フェンリル,,フェンリル]
-……おい。ビールをもう一杯だ。
-いや、樽ごと持ってきてそこに置いとけ。
+Hey. Give me another beer. Wait... give me the whole thing.
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-副隊長……。もうやめといた方がいいぜ。
-だいたい、こんなに荒れるなんて、
-副隊長らしくもないよ。
+Vice-captain, it's better if you stop. To be so angry, this isn't like you at
+all.
 --------------------------------
 [00000068][フェンリル,,フェンリル]
-…………なんだと？
+What did you say?
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-うっ……！
+Ah...
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（な、なんだ？　副隊長のこの目……。
-いつもの副隊長とは違うぞ……？）
+(W... what? His eyes. He's not the same as usual.)
 --------------------------------
 [00000071][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（にらまれた瞬間、心臓を冷たい手で
-わしづかみにされたみたいだ……。
-副隊長にこんな面があったなんて……）
+(For a moment, I felt my heart freeze when I saw his face...)
 --------------------------------
 [00000072][フェンリル,,フェンリル]
-レイジ……。お前になにがわかる。
-仇を目の前にしながら、取り逃しちまった俺の
-気持ちがわかるのか？
+Rage... You understand nothing! The one chance for vengeance, right in front of
+me, and I just let it slip. Do you know how that feels?
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-いや、わかるのか、って言われると困るけど……。
+I can't exactly say I do, but...
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-自分と同じ狼の獣人なのに、
-スルトが帝国についてることが許せないとか、
-そういうことなのか？
+Surt is the same wolf Beastfolk as you. Is that the reason why you can't forgive
+him for working with the Empire?
 --------------------------------
 [00000075][フェンリル,,フェンリル]
-……それも無くはないが、それだけじゃない。
-俺と奴との因縁は、もう少し深い。
+That's but a small part of it. The bad blood between me and him goes way deeper.
 --------------------------------
 [00000076][フェンリル,,フェンリル]
-奴と俺は、かつて同じ師の下で修行を積み、
-より強くなろうと誓い合った仲間だ。
-……親友だったといってもいい。
+He and I trained under the same teacher. We were closer than friends.
 --------------------------------
 [00000077][フェンリル,,フェンリル]
-だが、あいつは己を磨くことで得られる、
-まっとうな強さだけでは満足できなかった。
-さらなる強さを求めて掟を破り……。
+But his bloodlust got the better of him. No matter how strong he was, he was
+never satisfied. To become stronger, he broke every rule.
 --------------------------------
 [00000078][フェンリル,,フェンリル]
-そして、奴をいさめようとした
-俺たちの師を、スルトはその手で……！
+And then finally, with his own hands, he killed our teacher!
 --------------------------------
 [00000079][レイジ,レイジ,レイジ]
-…………。
+....
 --------------------------------
 [00000080][フェンリル,,フェンリル]
-……まあ、そういうことだ。
-世間にはままある、つまらん話だ。
+And that is the gist of our story. The rest is unimportant.
 --------------------------------
 [00000081][フェンリル,,フェンリル]
-だが、俺にとっては、生涯かけてでも
-決着をつけねばならない因縁なんだ。
+But I have long decided that I will end this Karma between us.
 --------------------------------
 [00000082][フェンリル,,フェンリル]
-殺された師匠のために、
-そして……一門の掟を守るためにもな。
+For the sake of my fallen teacher, and to uphold the rules.
 --------------------------------
 [00000083][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（そうか……そんなことがあったのか……。
-それで、副隊長があんな風に……）
+(So that was it. That's why the Vice-captain is...)
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（みんなそれぞれ、自分なりに帝国軍と
-戦う理由があるってことなんだな……）
+(Everyone here has each of their own reasons why they fight the Empire.)
 --------------------------------
 [00000085][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（いや、理由ならオレにもあるんだ！
-あの子を少しでも早く助け出すために……
-明日もがんばって戦わなきゃな！）
+(I too have my own reasons. I have to save her. That is why I will fight with
+everything that I have!)
 --------------------------------
 [00000086][サクヤ,マキシマ,サクヤ]
-さっき、偵察に出した部隊が戻ってきたわ。
-どうやら、あなたたちの頑張りのおかげで
-このあたりからは敵を追い払えたみたい。
+The scouts have just returned. Thanks to everyone's efforts, we have managed to
+drive the enemies back.
 --------------------------------
 [00000087][サクヤ,マキシマ,サクヤ]
-どうにかフィラルド山脈までの道は切り開けたわね。
+Somehow, the road to the Firald mountain range is now open.
 --------------------------------
 [00000088][サクヤ,マキシマ,サクヤ]
-さっそく、氷竜エールブランと
-アイラ姫に会いに、
-霊峰グレイシアを目指しましょう。
+He have to set off at once, to meet the Ice Dragon AileBlan and Princess Aira,
+at the top of Spirit Peak Glacier.
 --------------------------------
 [00000089][サクヤ,マキシマ,サクヤ]
-ただし、雪山では油断は禁物。
-決して自然をあなどってはいけないわ。
-敵の伏兵にも注意するのよ。
+Do not be careless at the snowy mountains. Not only is nature itself a danger,
+enemy troops will be waiting to ambush us.
 --------------------------------
 [00000090][サクヤ,マキシマ,サクヤ]
-各員、気を引き締めてかかりなさい。
-それでは出発！
+Please be careful, everyone! Let's set off!
 --------------------------------
 [00000091][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エールブランに打ち勝つとは、たいした実力だ。
-さすがはサクヤのお眼鏡にかなった、
-選りすぐりの猛者ども……というところか。
+It takes true strength to defeat one like AileBlan. Sakuya chose the right
+person, it appears.
 --------------------------------
 [00000092][エルミナ,ローデリア,エルミナ]
-アイラ様!!!!
+Aira-sama!!
 --------------------------------
 [00000093][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ふふっ、エルミナ。久しぶりね。
-元気そうでよかったわ。
+Hehe, Elmina, it's been a while. How have you been?
 --------------------------------
 [00000094][アイラ,ブランネージュ・ガルディニアス,アイラ]
-で、こちらが、クラントールの勇者殿……。
-「シャイニング・ブレイド」の持ち主かな？
+And this must be the Hero of Crantor, the one who wields the Shining Blade.
 --------------------------------
 [00000095][エルミナ,ローデリア,エルミナ]
-はい、レイジさんです。
+Yes, this is Rage-san.
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-あ、ああ。オレはレイジ。この刀がユキヒメだ。
-よろしく……。
+Ah... I am Rage. This katana is Yukihime. Pleased to meet you.
 --------------------------------
 [00000097][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ああ。こちらこそよろしく。
-ふふふふっ……。
+Ah, me too. Hehehe.
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（……？　なんだ？　この人。
-オレとエルミナを見比べてニヤニヤして……？）
+(...? What's with her? She's smiling at me more than Elmina?)
 --------------------------------
 [00000099][レイジ,レイジ,レイジ]
-なあ？　オレがどうかしたのか？
+Hm? Is there something about me?
 --------------------------------
 [00000100][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ああ、いや、なんでもない。
-気にしないで欲しい。
-それより、精霊王のことが知りたいのだろう？
+Ah, it's nothing, don't worry about it. More importantly, do you wish to know
+about the Spirit King?
 --------------------------------
 [00000101][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そのことなら、エールブランから説明がある。
-説明というより……弁解かな？
+About that, AileBlan has already explained to me. Could you please explain
+again?
 --------------------------------
 [00000102][エールブラン,エールブラン,エールブラン]
-……やれやれ。なんとも意地が悪いな、アイラは。
-だが、彼女の言う通りだ。
+My my. You really love to give me more work, Aira. But it is as she says.
 --------------------------------
 [00000103][エールブラン,エールブラン,エールブラン]
-私は「シャイニング・ブレイド」の解放に関わる、
-氷の精霊王を守りきることができなかった。
+The Spirit King of Ice, the one who can release the seal of Shining Blade, I was
+not able to protect him.
 --------------------------------
 [00000104][エルミナ,ローデリア,エルミナ]
-え……！　そ、そんな……！　どうして……！
+Eh? But how?
 --------------------------------
 [00000105][エールブラン,エールブラン,エールブラン]
-帝国軍の操る巨大な機械が、
-何の前触れも無くこの山に侵入してきたのだ。
+The Imperial Army was controlling giant robots. They invaded the castle that no
+one else has before.
 --------------------------------
 [00000106][エールブラン,エールブラン,エールブラン]
-私が対応する間もなく奴らは精霊王を倒し、
-その全てを吸収してしまった……。
+While I was busy dealing with them, they defeated the Spirit King, and absorbed
+everything.
 --------------------------------
 [00000107][レイジ,レイジ,レイジ]
-くそ……やっぱりか！　それじゃ、
-「シャイニング・ブレイド」はどうなるんだ？
+Damn! So, what should we do about Shining Blade?
 --------------------------------
 [00000108][エールブラン,エールブラン,エールブラン]
-話は最後まで聞くことだ。
-確かに、氷の精霊王は消滅した。
-しかし、氷の精霊王はここにいる。
+Hear the rest of my words. Indeed, the Ice Spirit King was destroyed. However,
+the Ice Spirit King is here.
 --------------------------------
 [00000109][レイジ,レイジ,レイジ]
-な、なんだ？　なに言ってんだ？
+Huh? What do you mean?
 --------------------------------
 [00000110][エルミナ,ローデリア,エルミナ]
-……よく……わかりません。
+I... don't understand.
 --------------------------------
 [00000111][龍那,,龍那]
-もしかして……。
-次世代の精霊王ということですか？
+Don't tell me, you are talking about the next Spirit King?
 --------------------------------
 [00000112][エールブラン,エールブラン,エールブラン]
-さすがに白竜教団の巫女は察しがいいな。
-その通りだ。次世代の精霊王がここにいる。
-私が、時が来るまで大事に守ってきた。
+As expected of the White Dragon Clan Miko. It is as you say. It is the next
+generation Spirit King. I have been staying guard here for that very purpose.
 --------------------------------
 [00000113][レイジ,レイジ,レイジ]
-じゃあ、「シャイニング・ブレイド」の封印を
-解いてもらうことはできるんだな？
-だったら頼む。精霊王に会わせてくれ！
+Then, the Seal on the Shining Blade can be released? Please, let us meet with
+the Spirit King!
 --------------------------------
 [00000114][エールブラン,エールブラン,エールブラン]
-いいだろう。お前たちは、私の試練を
-見事乗り越えたのだからな。
+Very well. You all have passed my test impressively.
 --------------------------------
 [00000115][エールブラン,エールブラン,エールブラン]
-そこの娘、エルミナと言ったな？
-もう少し近くに来るがいい。
-次世代の精霊王を、お前に託そう。
+Girl. You are Elmina, correct? Come closer. I will entrust the next Spirit King
+to you.
 --------------------------------
 [00000116][エルミナ,ローデリア,エルミナ]
-わ、私に……ですか!?
+Me... Me?!
 --------------------------------
 [00000117][エールブラン,エールブラン,エールブラン]
-その通り。お前にだ。お前にしか託せないのだ。
+Exactly. To you, and only you.
 --------------------------------
 [00000118][エルミナ,ローデリア,エルミナ]
-わかりました……。お願いいたします。
-でも、精霊王さんはどちらに？
+I understand. Please do. But, where is the Spirit King?
 --------------------------------
 [00000119][エールブラン,エールブラン,エールブラン]
-うむ。それでは、手を出すがいい。
+Hold you hand out.
 --------------------------------
 [00000120][エルミナ,ローデリア,エルミナ]
-手をですか？　は、はい。
+Like this?
 --------------------------------
 [00000121][エールブラン,エールブラン,エールブラン]
-いいだろう。さあ、しっかりと受け取るがよい。
-これが、次世代の精霊王だ。
+Good. Now, accept the next generation Spirit King.
 --------------------------------
 [00000122][エルミナ,ローデリア,エルミナ]
-…………え？
-こ、これは……卵……ですか？
+...hm? Is this an egg?
 --------------------------------
 [00000123][エールブラン,エールブラン,エールブラン]
-その通り。次世代の精霊王とは、
-この精霊王の卵のことだ。
+That is correct. This is the egg of the next Spirit King.
 --------------------------------
 [00000124][エルミナ,ローデリア,エルミナ]
-で、でも、これではお話ができません！
-お話ができないと、承認をいただくことが……。
+But, we can't speak with him like this. If we can't speak with him, we can't
+undo the seal...
 --------------------------------
 [00000125][アイラ,ブランネージュ・ガルディニアス,アイラ]
-大丈夫よ。エルミナ。
-心配はいらないわ。たとえ卵のままでも、
-あなたなら精霊王と話ができるの。
+It's okay, Elmina, you don't have to worry. Even if it's an egg, you can still
+speak with the Spirit King.
 --------------------------------
 [00000126][エルミナ,ローデリア,エルミナ]
-私がですか？　そんな、無理です……。
-そのようなこと、とてもとても……！
+Me? It's impossible, something like that.
 --------------------------------
 [00000127][アイラ,ブランネージュ・ガルディニアス,アイラ]
-いいえ、あなたにはその力があるのよ。
-ねえ、エルミナ。小さい頃いつも聞かせてくれた
-あの歌を覚えてる？
+No, you do indeed have such a power. Elmina, do you remember the song that you
+used to sing when you were young?
 --------------------------------
 [00000128][エルミナ,ローデリア,エルミナ]
-え……。は、はい。ルーンベールに
-古くから伝わるという……あの歌ですね？
+Eh? Yes. It was an old song of Runevale... That song?
 --------------------------------
 [00000129][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうよ。その歌を、歌ってみてくれる？
-そうしたら、きっとわかるはずだから……。
+That's right. That song, could you sing it? When you do, you will understand.
 --------------------------------
 [00000130][エルミナ,ローデリア,エルミナ]
-…………。
+.....
 --------------------------------
 [00000131][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ね？　エルミナ。歌ってちょうだい。
-私を信じて。
+So, Elmina, would you please sing for us? I believe in you.
 --------------------------------
 [00000132][エルミナ,ローデリア,エルミナ]
-アイラ様……。
-……わかりました。私、歌ってみます。
+Aira-sama... I understand. I will sing.
 --------------------------------
 [00000133][エルミナ,ローデリア,エルミナ]
-で、では……。始めますね？
+So... here I go.
 --------------------------------
 [00000134][エルミナ,ローデリア,エルミナ]
-わ、わ、わた、私……私がこんなこと……。
-私が歌ったら、精霊王の卵が……。
-それに、ユキヒメさんが……。
+I.... this.... My song... the Egg.... Yukihime-san too...
 --------------------------------
 [00000135][ユキヒメ,ユキヒメ,ユキヒメ]
-マナの歌を歌うことができるとは……。
-……歌姫（ローレライ）か。
-そうか……お前が、歌姫だったのか……。
+Only a Loreley can sing a Mana Song... I see... You are a Loreley...
 --------------------------------
 [00000136][エルミナ,ローデリア,エルミナ]
-ロ、ローレ……ライ？
+Lore...ley?
 --------------------------------
 [00000137][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そう。それがあなたの力。
-そして、あなたの役目なのよ。エルミナ。
+That's right. That is your ability. As well as your duty, Elmina.
 --------------------------------
 [00000138][アイラ,ブランネージュ・ガルディニアス,アイラ]
-マナの歌を通して精霊王に承認を求めることで、
-「シャイニング・ブレイド」の封印を解く鍵となる
-「歌姫」……。
+The Mana Song is key to getting the Spirit King to remove the seal on Shining
+Blade.
 --------------------------------
 [00000139][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それがあなたに与えられた役目なの。
+That is your duty.
 --------------------------------
 [00000140][エルミナ,ローデリア,エルミナ]
-そうでしたか……。私は……歌姫……。
+I see.... I am... a Loreley....
 --------------------------------
 [00000141][エルミナ,ローデリア,エルミナ]
-……わ、私が!?
+.... Me?!
 --------------------------------
 [00000142][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうよ。私も驚いたわ。今回の事件で
-精霊王のことを古い文献で調べていたら
-あなたが歌姫の血筋であることがわかったの。
+Indeed. Imagine my surprise too. I only just found out that you have the Loreley
+bloodline in you.
 --------------------------------
 [00000143][エルミナ,ローデリア,エルミナ]
-そうだったのですか……。
+So that's how it is...
 --------------------------------
 [00000144][アイラ,ブランネージュ・ガルディニアス,アイラ]
-あなたに、レイジとユキヒメを連れてきて欲しいと
-頼んだのは、大いなる使命を背負う者への試練なの。
-でも……ずいぶん苦労させてしまったようね。
+You worked hard for Rage and Yukihime for this trial. You did well.
 --------------------------------
 [00000145][エルミナ,ローデリア,エルミナ]
-それは、その……。
-も、申し訳ございません……。
-お役目をいただいたのに私、とろくて……。
+This... please excuse me.... this duty for me is a bit...
 --------------------------------
 [00000146][レイジ,レイジ,レイジ]
-いや、エルミナはがんばったんだしさ。
-結局はここに連れてきてくれたんだから、
-結果オーライってことでいいだろ？
+Elmina, you did very well. You got us all here. Isn't this result good?
 --------------------------------
 [00000147][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ふふふ、そうね。もちろんわかっているわ。
-エルミナ、ごめんなさいね。
-あなたを困らせるつもりではなかったのよ？
+That's right.... Of course I knew. I'm sorry, Elmina. Did I gave you too much
+trouble?
 --------------------------------
 [00000148][エルミナ,ローデリア,エルミナ]
-い、いえ！　そのようなこと……！
-わ、私はアイラ様のために、この国のために、
-せいいっぱい、あの、その……。
+No.. No! For Aira-sama, for this country, I will do anything I can... so...
 --------------------------------
 [00000149][アイラ,ブランネージュ・ガルディニアス,アイラ]
-落ち着いて、エルミナ。
-精霊たちも感謝しているわ。氷と雪の精霊の力が
-この地に戻ってきたのを感じる。
+Calm down, Elmina. To thank you, the Spirit King of Ice and Snow will return the
+land to normal.
 --------------------------------
 [00000150][アイラ,ブランネージュ・ガルディニアス,アイラ]
-これで自然も落ち着きを取り戻すでしょう。
-少しずつ寒さも和らいでいくはず。
-エルミナのおかげよ。
+Nature will return to it's normal self. All thanks to you, Elmina.
 --------------------------------
 [00000151][エルミナ,ローデリア,エルミナ]
-そ、そんな。私なんか……。
-こ、困ります、そんな風に、過分なおほめを
-いただいてしまっては、私……。
+My... you're giving me too much credit... I didn't do much, really...
 --------------------------------
 [00000152][エルミナ,ローデリア,エルミナ]
-で、ですが……その……。
-あ、ありがとうございます……。
+So.... thank you...
 --------------------------------
 [00000153][アルティナ,メル・シルフィス,アルティナ]
-………………。
+.....
 --------------------------------
 [00000154][サクヤ,マキシマ,サクヤ]
-どうしたの？　アルティナ。
-急に心配そうな顔をして……。
+What's wrong, Altina? You seem worried all of a sudden.
 --------------------------------
 [00000155][アルティナ,メル・シルフィス,アルティナ]
-実は……なんだかフォンティーナのことが
-心配になって……。
+The truth is... I am somehow worried about Fontina...
 --------------------------------
 [00000156][アルティナ,メル・シルフィス,アルティナ]
-エルフの森に異変が起きているのも、
-銀の森に棲む「木の精霊王」の力が
-弱まっているからだと言われているんですが……。
+The Elf forest is changing. Could it be because the Wood Spirit King in the
+Silver Forest is losing his power?
 --------------------------------
 [00000157][アルティナ,メル・シルフィス,アルティナ]
-もしかして木の精霊王も、氷の精霊王のように、
-帝国軍にやられてしまったんじゃないかと……。
+Don't tell me... like the Ice Spirit King, the Wood Spirit King was also done in
+by the Empire...
 --------------------------------
 [00000158][サクヤ,マキシマ,サクヤ]
-確か、木の精霊王は封印に関わっているのよね。
-……それは、安否を確かめてみる必要があるわね。
-でも、今すぐはちょっと……。
+Indeed, the Wood Spirit King is also related to the seal. We will have to check
+on this. We have to hurry.
 --------------------------------
 [00000159][アルティナ,メル・シルフィス,アルティナ]
-はい、わかっています。
-ルーンベールの帝国軍をおとなしくさせなければ
-自由に動けないことぐらい、私にも……。
+I understand. Runevale has suppressed much of the Empire's control here. I
+too....
 --------------------------------
 [00000160][サクヤ,マキシマ,サクヤ]
-そういうことね。それじゃあみんな、
-いったん砦に戻りましょう。
+I understand. Everyone, let's return to the fortress.
 --------------------------------
 [00000161][エールブラン,エールブラン,エールブラン]
-そうだ……サクヤといったな。
-お前にも渡しておきたいものがある。
-我らが古代から守り続けてきた秘宝の一つだ。
+Ah, one more thing. You are Sakuya, correct? I have something to give to you. It
+is a sacred treasure that I have always guarded.
 --------------------------------
 [00000162][エールブラン,エールブラン,エールブラン]
-ソウルを武器に練成する力を持つお前なら、
-きっと使いこなせることだろう。
+You, who have the power to shape souls into weapons, use it well.
 --------------------------------
 [00000163][サクヤ,マキシマ,サクヤ]
-これは氷の精霊力を制御する魔術プログラム……。
-ありがとう、古代の叡智を守護するものよ。
-これからの戦いで、必ず役立ててみせるわ。
+This is the Magic Program that can control the Spirit Energy.... It bears the
+knowledge of the ancient times, this will be very useful in our battle.
 --------------------------------
 [00000164][サクヤ,マキシマ,サクヤ]
-レイジ、作戦会議を始めるわよ。
-みんな集まっているはずだから、
-酒場に行きましょう。
+The war meeting is about to begin. Gather with everyone at the bar.
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-あ、はい。わかりました。
+Understood.
 --------------------------------
 [00000166][サクヤ,マキシマ,サクヤ]
-みんな、お待たせ。
-さっそく会議を始めましょう。
-まずは現状についてだけど……。
+Thank you for waiting. This meeting will begin. We are in a bad situation right
+now, but...
 --------------------------------
 [00000167][サクヤ,マキシマ,サクヤ]
-戦況自体はだいぶ落ち着いてきていると思うわ。
-ただ問題は、やっかいな相手が
-まだルーンベールに居座っていることね。
+The war itself seemed to have slowed down. The problem is the enemy may target
+Runevale again.
 --------------------------------
 [00000168][フェンリル,,フェンリル]
-やっかいな相手……。
-……スルトですか。
+Is that enemy Surt?
 --------------------------------
 [00000169][サクヤ,マキシマ,サクヤ]
-そう。スルト将軍と、
-その指揮下にある主力部隊が
-後方で温存されてるのよ。
+Yes. General Surt and his main force are focussed on the warmer areas.
 --------------------------------
 [00000170][サクヤ,マキシマ,サクヤ]
-主力部隊を叩かない限り、
-この戦いに勝利はないわ。
+We have limited troops, so we cannot win this battle.
 --------------------------------
 [00000171][フェンリル,,フェンリル]
-俺も、なんとか奴を引きずり出そうと
-いろいろやってはいますが……。
-なかなか乗ってきませんね。
+I can draw him out. The rest we can figure out.
 --------------------------------
 [00000172][フェンリル,,フェンリル]
-この前の戦いで用心深くさせてしまったのか。
-それとも……。
+He will be more wary then the last battle though.
 --------------------------------
 [00000173][フェンリル,,フェンリル]
-俺たちなんかいつでも始末できると、
-たかをくくってやがるのか。
+He and I have a score to settle!
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-なんとか、いい手はないのかな。
+Can we even reach him?
 --------------------------------
 [00000175][アイラ,ブランネージュ・ガルディニアス,アイラ]
-ふむ……。動かぬ相手を引きずり出すのなら、
-やはり囮が効果的だと思うのだが。
+Hmm, the enemy is trying to lure us by staying put...
 --------------------------------
 [00000176][サクヤ,マキシマ,サクヤ]
-敵が食らいつくような、いい餌があればね。
-でも、そんなに都合のいい餌があるのかしら。
+We'll have to use bait to lure them out. But what kind of bait is suitable?
 --------------------------------
 [00000177][アイラ,ブランネージュ・ガルディニアス,アイラ]
-精霊王の卵を持ったルーンベールの王女……では、
-餌として不足かな？
+The Runevale princess who holds the egg of the Spirit King. Is that a bait good
+enough?
 --------------------------------
 [00000178][レイジ,レイジ,レイジ]
-え!?　それって……つまり……。
+Eh? So that means you are...
 --------------------------------
 [00000179][サクヤ,マキシマ,サクヤ]
-あなたが囮になるってこと!?
-確かに、作戦としては効果的だけど……。
+You're going to use yourself as bait? That would be effective but still...
 --------------------------------
 [00000180][アイラ,ブランネージュ・ガルディニアス,アイラ]
-私のことなら心配はいらない。
-こう見えても「氷刃の魔女」などと呼ばれる身だ。
-実力はあなたもよくご存知だと思うが？
+Do not worry about me. I am not called the Witch of Ice Blades for no reason.
+You don't know my true power, do you?
 --------------------------------
 [00000181][アイラ,ブランネージュ・ガルディニアス,アイラ]
-それに、この隊の実力も信頼できるものだ。
-皆が影から守ってくれているのならば、
-私は安心して囮になれる。
+Besides, I believe in you guys. I know you will watch over me.
 --------------------------------
 [00000182][エルミナ,ローデリア,エルミナ]
-で、でも、アイラ様！
-アイラ様が囮なんて、そんな……！
+But still! To have Aira-sama as a decoy...
 --------------------------------
 [00000183][アイラ,ブランネージュ・ガルディニアス,アイラ]
-エルミナ、心配しないで。
-さっきも言ったように、みんなを信じていれば
-大丈夫だから。それにこの国を守るためよ。
+Elmina, don't worry about me. As I said, I believe in everyone, so it will be
+okay. And I have to protect this country as well.
 --------------------------------
 [00000184][エルミナ,ローデリア,エルミナ]
-……で、でも……うーん……。
+But... um...
 --------------------------------
 [00000185][エルミナ,ローデリア,エルミナ]
-……わかりました。
-アイラ様が囮になるというのでしたら……。
-私も一緒にまいります！
+I understand. If Aira-sama is going to become the decoy, then so will I!
 --------------------------------
 [00000186][アイラ,ブランネージュ・ガルディニアス,アイラ]
-え、エルミナ!?
+Eh? Elmina?
 --------------------------------
 [00000187][エルミナ,ローデリア,エルミナ]
-私だって、ずっと皆さんと一緒に戦ってきたんです！
-アイラ様のお邪魔はいたしません！
-ですから……。
+I too have been fighting along with everyone. I won't get in Aira-sama's way! So
+please...
 --------------------------------
 [00000188][アイラ,ブランネージュ・ガルディニアス,アイラ]
-……止めても無駄なようね。
-それじゃあ……私から離れないようにするのよ。
+There's no way I can talk you out of this, is there? Very well, make sure you
+never leave my side.
 --------------------------------
 [00000189][エルミナ,ローデリア,エルミナ]
-はいっ！　アイラ様！
+Yes! Aira-sama!
 --------------------------------
 [00000190][レイジ,レイジ,レイジ]
-よーし、わかった！　２人とも、
-オレたちがしっかり守ってやるぜ！
+Okay, understood. We will protect you two!
 --------------------------------
 [00000191][サクヤ,マキシマ,サクヤ]
-生き残ったルーンベールの王女の情報ならば
-必ずスルトも動いてくるでしょうね。
+The last remaining princess of Runevale is bound to get Surt to move.
 --------------------------------
 [00000192][サクヤ,マキシマ,サクヤ]
-それじゃ、さっそく準備にかかりましょう。
-段取りが決まり次第出発よ！
+Well then, everyone please get ready to move out!
 --------------------------------
 [00000193][フェンリル,,フェンリル]
-くそっ！　またスルトを取り逃がした！
-隊長！　追わせてくれ
-あいつをこのまま見逃すわけには……。
+Damn it! Surt got away again! Captain, we have to go after him, or he will get
+away.
 --------------------------------
 [00000194][エルミナ,ローデリア,エルミナ]
-待ってください！
-向こうから新手が……！
+Please wait! There seems to be new enemies.
 --------------------------------
 [00000195][フェンリル,,フェンリル]
-ちっ……！
+Tch!
 --------------------------------
 [00000196][レイジ,レイジ,レイジ]
-大丈夫だ、副隊長！
-急いで新手を片付けちまえばいいんだ！
-どんな奴が来てたって、この勢いなら！
+It's fine, Vice-Captain. Doesn't matter who they are, we'll take care of them.
 --------------------------------
 [00000197][ユキヒメ,ユキヒメ,ユキヒメ]
-……待て、レイジ！
-相手を見てみろ！
-あれは……！
+Wait! Rage! Look at them! It's....
 --------------------------------
 [00000198][レイジ,レイジ,レイジ]
-なんだ？　ユキヒメ。
-どうしたんだよ、そんなに驚いて……。
+What is it, Yukihime. You look shocked.
 --------------------------------
 [00000199][レイジ,レイジ,レイジ]
-あれは!?
-な、なんてこった……!!
+What the? How could this be?!
 --------------------------------
 [00000200][レイジ,レイジ,レイジ]
-ローゼリンデ!?
+Roselinde?!
 --------------------------------
 [00000201][フェンリル,,フェンリル]
-あれは……歌姫か!?
-敵にも歌姫がいるのか……？
+Is that... a Loreley?! The enemy has a Loreley?
 --------------------------------
 [00000202][エルミナ,ローデリア,エルミナ]
-帝国の……歌姫ですか？
+The Empire's Loreley?
 --------------------------------
 [00000203][サクヤ,マキシマ,サクヤ]
-…………。
+.....
 --------------------------------
 [00000204][ユキヒメ,ユキヒメ,ユキヒメ]
-バカな……！　どうしてあの娘が……
-ローゼリンデが……帝国軍などに……！
+How can this be? Why is she... why is Roselinde with the Empire?
 --------------------------------
 [00000205][レイジ,レイジ,レイジ]
-そんなことあるはずない……。
-あるはずがないんだ。
-あの子が、あんな連中に味方するなんて……。
+This can't be.... This can't be! How could she be with those guys?
 --------------------------------
 [00000206][レイジ,レイジ,レイジ]
-ローゼリンデ……っ！
+Roselinde...
 --------------------------------
 [00000207][レイジ,レイジ,レイジ]
-……つまり、ドラゴニア帝国ってのから、
-この国を守ればいいんだな？
-わかったよ。オレに任せとけって！
+So, I just have to protect this country from Dragonia Empire? I understand. Just
+leave it to me.
 --------------------------------
 [00000208][ローゼリンデ,フレイア,ローゼリンデ]
-は、はぁ……。で、ですが……。
-よ、よろしいの……ですか？
+Okay... So, is it really okay?
 --------------------------------
 [00000209][レイジ,レイジ,レイジ]
-え？　「よろしいのですか？」って……。
-どういうことだ？　そのために、
-オレをこの世界に呼んだんじゃなかったのか？
+Eh? Is it really okay? What do you mean? Wasn't I called to this world for this?
 --------------------------------
 [00000210][ローゼリンデ,フレイア,ローゼリンデ]
-い、いえ、確かにそうなのですが……。
-お呼びして早々、そのようにご承諾いただけるとは
-思ってもいなかったものですから……。
+Wait... that is true... but do you remember the consent?
 --------------------------------
 [00000211][ローゼリンデ,フレイア,ローゼリンデ]
-ですが、ご承諾いただけたのは何よりです。
-私は戦巫女として、これより陰に日向に、
-レイジ様にお仕えいたします……。
+This consent most important. I am the war Miko. From now on, I am in your
+service, please command me.
 --------------------------------
 [00000212][レイジ,レイジ,レイジ]
-お、お仕え……？　君が？　オレに？
+C... command you?
 --------------------------------
 [00000213][ローゼリンデ,フレイア,ローゼリンデ]
-はい。私では、ご不満でしょうか？
+Yes! Am I not okay?
 --------------------------------
 [00000214][レイジ,レイジ,レイジ]
-あ、いや、そういうことじゃないんだ！
-でも、オレ、自分の世界じゃただの一般人だし。
-「お仕え」されるほど大層な人間じゃないからさ。
+No, it's not that. Where I come from, I'm just a simple person. We don't
+actually "command" other people.
 --------------------------------
 [00000215][ローゼリンデ,フレイア,ローゼリンデ]
-では、どうしたら……。
+So, how...
 --------------------------------
 [00000216][レイジ,レイジ,レイジ]
-そうだなぁ……。
-あ！　そうだ、こういうのはどうだ？
-友達として、手助けしてくれるっていうのは？
+I see.... Ah, I got it! So, let's just think of us as friends helping each
+other!
 --------------------------------
 [00000217][ローゼリンデ,フレイア,ローゼリンデ]
-と、友達……ですか。わかりました。
-では、私はレイジ様のお友達として……。
+As friends? I understand. Rage-sama and I are now friends.
 --------------------------------
 [00000218][レイジ,レイジ,レイジ]
-おっとっと！　友達なんだから、
-「様」は無しだぜ？
+Wait wait. As friends, we don't use "sama", right?
 --------------------------------
 [00000219][ローゼリンデ,フレイア,ローゼリンデ]
-……………………。
+........
 --------------------------------
 [00000220][ローゼリンデ,フレイア,ローゼリンデ]
-ふふっ……うふふふっ……。
-あなた……おかしな方ですね。うふふふっ。
-でも、わかりました……レイジ様……。
+Haha....hahaha..... You really are strange.... hahaha. But I understand,
+Rage-sama....
 --------------------------------
 [00000221][レイジ,レイジ,レイジ]
-いやいやいや、そうじゃないだろ？
+No no no, you're doing it again.
 --------------------------------
 [00000222][ローゼリンデ,フレイア,ローゼリンデ]
-あ！　そ、そうですね……。ごめんなさい。
-私、その……友達というのに、
-慣れていないものですから……。
+Ah! You're right. Sorry. I... don't really have friends, so I'm not used to
+this...
 --------------------------------
 [00000223][レイジ,レイジ,レイジ]
-え？　そうなのか？
+Eh? Really?
 --------------------------------
 [00000224][ローゼリンデ,フレイア,ローゼリンデ]
-ええ。幼いころから、ずっと巫女としての修行や、
-務めを果たすことに一生懸命で……。
-友達と呼べるような相手なんて、ほとんど……。
+Yes. Since I was young, I have been training to be the Miko. My duty has been my
+whole life. There isn't really anyone I can call my friend...
 --------------------------------
 [00000225][レイジ,レイジ,レイジ]
-そっか……。そうだったんだ……。
-でもさ、それだったら、
-逆にちょうどいいじゃないか！
+I see. That's how it is. But from now, it won't be the same any more.
 --------------------------------
 [00000226][ローゼリンデ,フレイア,ローゼリンデ]
-……え？　どういうこと……ですか？
+Eh? What do you mean?
 --------------------------------
 [00000227][レイジ,レイジ,レイジ]
-だからさ、オレは、
-お前の初めての友達になるわけだろ？
+After all, I am your first friend, right?
 --------------------------------
 [00000228][レイジ,レイジ,レイジ]
-でもって、オレにとっても、
-この世界で初めての友達が、
-お前ってことになるわけだ。
+And, well, you are my first friend in this world.
 --------------------------------
 [00000229][レイジ,レイジ,レイジ]
-初めての友達同士、
-いろいろと助け合えるじゃないか。
-そうだろ？　ローゼリンデ。
+First friends should be helping each other out in many things, right? Roselinde.
 --------------------------------
 [00000230][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ……。
+Rage...
 --------------------------------
 [00000231][ローゼリンデ,フレイア,ローゼリンデ]
-……わかったわ、レイジ。あなたと私は友達。
-……初めての友達同士。
+I understand, Rage. You are my friend. We are first friends...
 --------------------------------
 [00000232][ローゼリンデ,フレイア,ローゼリンデ]
-いっしょにがんばりましょう！　レイジ！
+Let's both do our best together, Rage!
 --------------------------------
 [00000233][レイジ,レイジ,レイジ]
-…………。
+………….
 --------------------------------
 [00000234][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ！　なにをぼうっとしている！
-目の前に敵がいるぞ！
+Rage! What are you doing just standing there? The enemy is in front of us!
 --------------------------------
 [00000235][レイジ,レイジ,レイジ]
-えっ!?
+Eh?!
 --------------------------------
 [00000236][ファフナー,,ファフナー]
-…………行くぞ。
+Let's go.
 --------------------------------
 [00000237][レイジ,レイジ,レイジ]
-ローゼリンデ!!
+Roselinde!!
 --------------------------------
 [00000238][ローゼリンデ,フレイア,ローゼリンデ]
-レイジ℃―――――￥っ！
+Rage!!
 --------------------------------
 [00000239][バルドル,,バルドル]
-ええい、暴れるでないわ！
-黙ってこちらに来いと言っているのだ！
+Arh, stop resisting! Just come over here quietly!
 --------------------------------
 [00000240][ローゼリンデ,フレイア,ローゼリンデ]
-嫌です！　放しなさい！
-誰があなたたちの言うことを、聞くものですか！
+I won't! Let go of me! I won't listen to anything you say!
 --------------------------------
 [00000241][レイジ,レイジ,レイジ]
-ローゼリンデ！
-待ってろ！　今、助けに……。
+Roselinde! Wait for me! I'm coming!
 --------------------------------
 [00000242][ローゼリンデ,フレイア,ローゼリンデ]
-っ!!
-レイジ、危ないっ！　後ろよっ！
+Ah!! Rage, look out! Behind you!
 --------------------------------
 [00000243][レイジ,レイジ,レイジ]
-くっ！
+Gh!
 --------------------------------
 [00000244][バルドル,,バルドル]
-おぬしたち！　その若造を始末しておけ！
+All of you, get rid of that young one!
 --------------------------------
 [00000245][ローゼリンデ,フレイア,ローゼリンデ]
-やめて！　私の友達に、ひどいことしないで！
-レイジ！　レイジーっ！
+Stop it! I won't let you hurt my friend! Rage! Rage!!
 --------------------------------
 [00000246][レイジ,レイジ,レイジ]
-くそっ……お前らジャマなんだっ！
-そこをどけ！　ローゼリンデが……！
-ローゼリンデ℃―――――￥っ！
+Damn! Out of my way! Roselinde... Roselinde!!
 --------------------------------
 [00000247][レイジ,レイジ,レイジ]
-ローゼリンデを……。
-今度こそローゼリンデを……。
+Roselinde.... this time... Roselinde
 --------------------------------
 [00000248][レイジ,レイジ,レイジ]
-ローゼリンデ℃――――――――――――￥っ！
+Roselinde---!!
 --------------------------------
 [00000249][フェンリル,,フェンリル]
-レイジ！　どこへ行く！
+Rage! Where are you going?!
 --------------------------------
 [00000250][エルミナ,ローデリア,エルミナ]
-レイジさん、冷静になってください……！
+Rage-san! Please calm down!
 --------------------------------
 [00000251][レイジ,レイジ,レイジ]
-エルミナ！　副隊長！　止めないでくれ！
-ローゼリンデを助けなきゃ！
+Elmina! Vice-captain! Don't try to stop me! I have to rescue Roselinde!
 --------------------------------
 [00000252][フェンリル,,フェンリル]
-やめるんだ！　今は無理だ！
+Stop it. There's nothing you can do now!
 --------------------------------
 [00000253][リック,エルウッド,リック]
-たいした入れ込みようだな。
-勢いだけならあの子を取り戻せそうだ。
-……勢いだけで戦いに勝てるんならな。
+You're letting your emotions get in the way. Courage alone isn't going to get
+that girl back. Courage alone won't win the war.
 --------------------------------
 [00000254][レイジ,レイジ,レイジ]
-黙ってろ、リック！
-オレは……！
+Shut up, Rick! I...
 --------------------------------
 [00000255][サクヤ,マキシマ,サクヤ]
-レイジ！　いい加減にしなさい！
-今は無理だっていうのが、わからないの？
+Rage! Please stop it. Don't you know that there's nothing you can do now?
 --------------------------------
 [00000256][レイジ,レイジ,レイジ]
-サクヤさんまで！　でも……！
+Sakuya-san too.... but...!
 --------------------------------
 [00000257][リン,シャオメイ,リンリン]
-……いいから、ちょっと落ち着いて。話を聞いて。
-残念だけど、今の状況ではあの子を連れ戻すために
-戦力を割くわけにはいかないわ。
+That's enough, just calm down and listen. It's really unfortunate. But given the
+current situation, if we try to get her back, it will reduce our numbers.
 --------------------------------
 [00000258][リン,シャオメイ,リンリン]
-それに、たとえ連れ戻したところで、
-今の状態では昔のあの子に戻すことはできない。
-ここは我慢して、次の機会を狙いなさい。
+Moreover, even if you get her back now, she won't return to her normal self. I'm
+asking you to be patient, we will get another chance.
 --------------------------------
 [00000259][リン,シャオメイ,リンリン]
-それに、今、あなたの力を必要としてるのは
-あの子だけじゃないの。
-ここにいる仲間たちだって同じことよ。
+In addition, that girl is not the only one who needs you. All of us here are
+your allies, and we need your strength.
 --------------------------------
 [00000260][リン,シャオメイ,リンリン]
-今、無茶をしてあなたに何かあれば、
-あの子だけじゃなく、
-仲間たちみんなも困ることになるわ。
+If you're reckless, it won't be just her, it will affect all of us too.
 --------------------------------
 [00000261][サクヤ,マキシマ,サクヤ]
-リンリンの言う通りよ。
-だから……今は耐えて。
-つらいかもしれないけど、でも耐えて。
+Rinrin is right. That's why... please bear with it for now. I know it hurts, but
+please bear with it.
 --------------------------------
 [00000262][レイジ,レイジ,レイジ]
-……わかり……ました。
-今は……そうします。
-でも、いつか必ず……！
+I.... understand.... For now, I will... but I definitely....
 --------------------------------
 [00000263][リック,エルウッド,リック]
-………………。
-いつか必ず……か……。
+...... definitely, huh.
 --------------------------------
 [00000264][リック,エルウッド,リック]
-…………。
+......
 --------------------------------
 [00000265][none]
-@lt1@dt2@db1@dc88000088教会跡での戦いの後、
-スルト将軍はルーンベールから撤退。
-帝国軍は、この地からほぼ掃討された。
+@lt1@dt2@db1@dc88000088 After the battle at the church ruins, general Surt retreats from Runevale.
+The Imperial Army had scattered from the land.
 --------------------------------
 [00000266][none]
-@lt1@dt2@db1@dc88000088ヴァレリア解放戦線は、ルーンベールの防衛を
-再編された聖騎士団に任せ、次の目的地である
-エルフの国・フォンティーナを目指す。
+@lt1@dt2@db1@dc88000088 Valeria Liberation Front had left Runevale's defense
+to the charge of the Holy Knights Order.
+Their next destination was the Elf Kingdom Fontina.
 --------------------------------
 [00000267][none]
-@lt1@dt2@db1@dc88000088エルフの森に棲むという木の精霊王は、
-果たして無事なのであろうか？
-古き因習に縛られた森の王国に危機が迫っていた。
+@lt1@dt2@db1@dc88000088 The Wood Spirit King that resides in the Elf Forest, is he really safe?
+The ancient forest now faces a crisis.
 --------------------------------
 [00000268][none]
-@lt1@dt2@db1@dc88000088アルティナは、複雑な思いを胸に、
-仲間たちを故郷の森へと導いていく……。
+@lt1@dt2@db1@dc88000088 Altina, with mixed emotions inside,
+leads her companions to her hometown in the forest.
 --------------------------------
 [00000269][サクヤ,マキシマ,サクヤ]
-準備はいいかしら？
-よければ出撃しましょう。
+Are you ready?  If you like, let's sortie.
 --------------------------------

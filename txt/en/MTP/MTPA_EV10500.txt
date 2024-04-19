@@ -1,1496 +1,1228 @@
 [0361]
 *****************
 [00000000][none]
-@lt1ヴァレリア地方北西部に位置するベスティアは
-この地方最大の勢力を持つ軍事大国である。
+@lt1Towards the north of Valeria, Bestia had the most military power.
 --------------------------------
 [00000001][none]
-@lt1しかし帝国軍の侵攻によって
-国土の大半を戦火に焼かれ、
-人的被害も多数に上っている。
+@lt1However, after the invasion from the Empire, they lost more than half 
+their numbers, and the casualty was still rising.
 --------------------------------
 [00000002][none]
-@lt1そんな壊滅的な打撃を受けたベスティア領内でも
-帝国軍に対して抵抗を続ける勢力があった。
+@lt1In danger of being exterminated, Bestia continued their resistance against 
+the Empire.
 --------------------------------
 [00000003][none]
-@lt1領内の情報を集めるため、
-一行は抵抗勢力の拠点に立ち寄り、
-指揮官との会談に臨む。
+@lt1Having gotten inside information, they prepare to meet with the 
+commander.
 --------------------------------
 [00000004][none]
-@lt1彼の口から語られる、驚くべき情報とは……？
+@lt1What shocking news will they hear?
 --------------------------------
 [00000005][none]
-第５章 灼熱のバルカローラ
+Chapter 5 Scorching Barcarolla
 --------------------------------
 [00000006][none]
-@lt1@fs16@dt2@db1@dcFF000000―　ローランの集会場　―
+@lt1@fs16@dt2@db1@dcFF000000―Rolan’s meeting hall―
 --------------------------------
 [00000007][none]
-@lt1@fs16@dt2@db1@dcFF000000―　セイレーンの隠れ家　―
+@lt1@fs16@dt2@db1@dcFF000000―　Siren’s Hideout　―
 --------------------------------
 [00000008][刃九郎,,刃九郎]
-よく来て下さった、サクヤ殿。
-そして、皆の衆も。
-この困難な状況下での援軍はありがたい。
+I am glad that you have come here, Sakuya-dono, as well as everyone. We are
+grateful to receive your help during such dire times.
 --------------------------------
 [00000009][サクヤ,マキシマ,サクヤ]
-久しぶりね、刃九郎。
-もっと早く来られればよかったんだけど。
-さっそくだけど、状況を聞かせてもらえる？
+It's been a while, Jin-Crow. We would have gotten here sooner if we could. Can
+you tell us about the situation?
 --------------------------------
 [00000010][刃九郎,,刃九郎]
-うむ。簡単に言ってしまえば、
-ベスティアは今、危機的状況にある。
-帝国軍の攻撃は予想以上に苛烈でな。
+I will give you the simple version. Bestia is now in a critical situation. The
+attack from the Imperial Army is far more aggressive than we thought.
 --------------------------------
 [00000011][刃九郎,,刃九郎]
-国王ディオクレス陛下は
-首都陥落の際に討ち死になされ、
-歴戦の獣王十二将もことごとく生死不明の有様。
+The king Diocres has died in the battle in the capital, and the twelve generals
+have gone missing, their status unknown.
 --------------------------------
 [00000012][刃九郎,,刃九郎]
-民の犠牲も数知れず、
-王城の地下深く封印されていた
-ダークドラゴンの体も敵の手に落ちた。
+We don't know the number of deaths. The sealed DarkDragon body that was in the
+castle was also taken.
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-やっぱり、ここでもそうか……。
+I see, here too...
 --------------------------------
 [00000014][刃九郎,,刃九郎]
-それに加え、精霊力の低下が原因とおぼしき
-干ばつが発生している。そちらの被害も甚大だ。
+In addition, the Spiritual Energy has decreased. Damage to our side is immense.
 --------------------------------
 [00000015][龍那,,龍那]
-大地の精霊力が弱まっているということは、
-この地に棲む炎の精霊王も帝国軍の手にかかった、
-と見てよさそうですね。
+If the land's spiritual energy has been weakened, it may mean that the Empire
+may already have its hands on the Flame Spirit King. We have to check.
 --------------------------------
 [00000016][龍那,,龍那]
-炎の精霊王の棲みかは、沖合いの火山島。
-そして、精霊王を守るドラゴンは、
-炎竜ブレイバーンでしたね。
+The Flame Spirit King resides in the Volcano Island. In addition, the dragon who
+guards him, Blaeburn is there too.
 --------------------------------
 [00000017][龍那,,龍那]
-とにかく、ブレイバーンに会ってみる
-必要があると思います。
+In any case, we will have to meet with Blaeburn.
 --------------------------------
 [00000018][刃九郎,,刃九郎]
-と言っても、港と船は帝国軍に押さえられている。
-ブレイバーンの棲む火山島には
-容易に近づくことができんぞ？
+Even though you say, the Empire has seized every ship from the harbor. Getting
+to the Volcano Island where Blaeburn is will not be easy.
 --------------------------------
 [00000019][刃九郎,,刃九郎]
-しかも、敵将のアルベリッヒという男が、
-あちこちで生存者を狩り集めていて、
-そちらへの対応もせねばならん。
+In addition, the enemy general Alberich has already captured a few prisoners.
 --------------------------------
 [00000020][リック,エルウッド,リック]
-アルベリッヒ？
-……今、そう言ったか？
-どこだ！　奴はどこにいる!?
+Alberich? Was that what you said? Where is he? Where is that bastard?!
 --------------------------------
 [00000021][刃九郎,,刃九郎]
-いや、それが……。
-あのダークエルフの将軍は神出鬼没でな、
-拙者も動きがつかめず困っているところなのだ。
+About that, that dark elf general comes and goes like a phantom. His movements
+were impossible for me to track.
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-落ち着けよ、リック。
-それよりも、先にすることがあるはずだろ？
+Calm down, Rick. This is more important.
 --------------------------------
 [00000023][リック,エルウッド,リック]
-「それよりも」とはなんだ？
-俺にとっては、こいつが一番大事なことだ！
+This is more important? That happens to be a big deal to me!
 --------------------------------
 [00000024][サクヤ,マキシマ,サクヤ]
-リック！　レイジ！　やめなさい！
-仲たがいしている時じゃないわ！
+Rick! Rage! Stop this please. Now is not the time to be fighting between
+ourselves.
 --------------------------------
 [00000025][リック,エルウッド,リック]
-…………。
+.....
 --------------------------------
 [00000026][サクヤ,マキシマ,サクヤ]
-気持ちはよくわかるわ。
-でも……もう少しだけ待って、リック。
+I understand your feelings.... but please, wait a little longer, Rick.
 --------------------------------
 [00000027][リック,エルウッド,リック]
-はい……。
+Okay...
 --------------------------------
 [00000028][リン,シャオメイ,リンリン]
-……では、話を戻しましょう。アルベリッヒが、
-生存者を生け捕りにしてなにを企んでいるのか
-それを探るのが先決ね。
+Well then, returning to the topic. We should investigate what is Alberich
+purpose in capturing live prisoners first of all.
 --------------------------------
 [00000029][リン,シャオメイ,リンリン]
-その人たちがまだ無事ならば、
-どこかに集められているんじゃないかしら。
-そういった場所の見当はついてる？
+If those people are still alive, we have to first find out where they are being
+kept.
 --------------------------------
 [00000030][刃九郎,,刃九郎]
-ある程度は。だが、当然そこは敵陣の更に後方でな。
-情報収集も思うに任せん。
+I see. That information is behind enemy lines. Leave the information gathering
+to me.
 --------------------------------
 [00000031][フェンリル,,フェンリル]
-そういうことなら、俺たちが波状攻撃をかけて
-敵の注意をそらす。その間にそっちは、
-敵陣に潜り込んで情報を集めてくれ。
+On that topic, we will lay an ambush to draw the enemy attention. Take this
+opportunity to infiltrate into enemy lines.
 --------------------------------
 [00000032][サクヤ,マキシマ,サクヤ]
-いい作戦だと思うわ。
-それじゃあみんな、さっそく取りかかって。
+That is a good plan. Well then, everyone, let's hurry up and prepare.
 --------------------------------
 [00000033][刃九郎,,刃九郎]
-レイジ、皆に伝えておきたいことがある。
-集会場に集まってくれ。
+Rage, please tell everyone to gather at the meeting place.
 --------------------------------
 [00000034][レイジ,レイジ,レイジ]
-わかった、すぐ行くよ。
+Understood, I'm going.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-で……。
-刃九郎さん、伝えておきたいことって、
-いったいなんなんだ？
+So... I've called everyone here. What is this about?
 --------------------------------
 [00000036][刃九郎,,刃九郎]
-捕えた敵兵からの情報だ。ここから遠くない場所に
-大勢の民間人を収容している施設があるらしい。
-施設の所在は、偵察隊により確認済みだ。
+I have information from the capture enemy soldiers. Not too far from here, there
+is a place where vast amounts of civillians are captured. The exact location,
+the scouts are still investigating.
 --------------------------------
 [00000037][リン,シャオメイ,リンリン]
-やっぱりね……。そこでなにをしているのかは
-わからないけど、放置しておいたら
-捕まっている人たちが危ないわ。
+So it's true... I don't know what they are up to, but it will be dangerous to
+leave the civillians with them.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-そうだよ、早く助けに行かないと！
-まわりの警備は厳重なのか？
+Indeed, we have to go help them! Is it heavily fortified?
 --------------------------------
 [00000039][刃九郎,,刃九郎]
-こちらが一気に打って出れば、
-対処できない規模ではないのだが……。
-正直それは難しい。
+To assault them without knowing the full situation, this will be hard...
 --------------------------------
 [00000040][刃九郎,,刃九郎]
-なにしろ人質を取られているも
-同然の状況だからな。下手を打てば、
-捕まった人たちがどんな目にあわされるか……。
+If they try to use hostages, we would be at a disadvantage.
 --------------------------------
 [00000041][レイジ,レイジ,レイジ]
-くそ……確かにそうだよな。
-捕まってる人たちを危険にさらしたんじゃ、
-本末転倒ってヤツだもんな……。
+True... the prisoners would be in danger...
 --------------------------------
 [00000042][リック,エルウッド,リック]
-でも、このまま見殺しにはできないだろ？
-なにか、いい手はないのか!?
+So are we to just do nothing but let everyone get killed? Is there nothing we
+can do?!
 --------------------------------
 [00000043][フェンリル,,フェンリル]
-そうだな。まず考えられるのは、
-少人数が敵の目を盗んで内部に侵入。
-奇襲攻撃で警備を排除する。
+Maybe. We can have a small group infiltrate without getting detected inside. The
+surprise attack will disable their defenses.
 --------------------------------
 [00000044][フェンリル,,フェンリル]
-そして、人質の安全を確保したところで、
-隠れて待機していた本隊が施設に突入。
-潜入班と捕まった人を救出する、というあたりだが。
+And it will guarantee the lives of the hostages. We have to hide and wait to
+infiltrate their ranks, and rescue the soldiers. It can be done.
 --------------------------------
 [00000045][フェンリル,,フェンリル]
-問題は誰が潜入するか、ということだな。
-かなり危険な任務になるからな。
+Question is who to infiltrate. It will be a very dangerous mission.
 --------------------------------
 [00000046][リック,エルウッド,リック]
-……だったら、俺が行く。
-１人で行けば、見つかる可能性は減るはずだ。
+...well then, I will go. If I go alone, the chances of getting discovered is
+reduced.
 --------------------------------
 [00000047][レイジ,レイジ,レイジ]
-ちょっと待て！　さすがに１人じゃ無茶だろ！
-オレも行くぜ。
+Wait! Going alone is just too reckless! I will go too.
 --------------------------------
 [00000048][リック,エルウッド,リック]
-必要ない。来るな。
+You're not needed. Don't come.
 --------------------------------
 [00000049][サクヤ,マキシマ,サクヤ]
-ちょっと待って、リック。さすがに１人で
-行かせることはできないわ。あなたの腕は認めるけど
-単独行動では危険が大きすぎるから。
+Wait, Rick. You may be able to do this alone, as you have proven. But this
+mission is too dangerous for you to take on alone.
 --------------------------------
 [00000050][サクヤ,マキシマ,サクヤ]
-だから、レイジと一緒に行きなさい。
-あなたたち、前にも組んだことがあるんだもの。
-ちょうどいいでしょう？
+That's why, Rage has to go with you. You two will also have to organise
+yourself, is that okay?
 --------------------------------
 [00000051][リック,エルウッド,リック]
-……わかりました。
-レイジ、足手まといになるな。
+.... I understand. Don't get in my way, Rage.
 --------------------------------
 [00000052][レイジ,レイジ,レイジ]
-何言ってんだ。前回はお前の足を
-ひっぱったりしなかっただろう？
-そのことを忘れたのか？
+What are you talking about? Have I ever gotten in your way before? Have you
+forgotten already?
 --------------------------------
 [00000053][リック,エルウッド,リック]
-…………。
-だったら……今回もなるな。いいな？
+.... make sure it stays that way, okay?
 --------------------------------
 [00000054][レイジ,レイジ,レイジ]
-へいへい、っと。
+Yeah, yeah.
 --------------------------------
 [00000055][リン,シャオメイ,リンリン]
-２人といわず、もう少し数が多くても大丈夫よ。
-見つかる可能性はたいして変わらないわ。
-レイジ、潜入班のメンバーを選びなさい。
+With the two of you, it will be safter. But you still pose a risk of getting
+discovered. Rage, please select the members for you infiltration party.
 --------------------------------
 [00000056][リン,シャオメイ,リンリン]
-あなたたちの活躍、期待してるわよ。
+We look forward to your performance.
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-……敵の姿は見えないな。
-どうにか、捕まってる人たちを救出できそうだ。
-本隊のみんなを呼ぶか。
+The enemy isn't here. In any case, we have to rescue the captured people. Call
+everyone here.
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-それにしても……ここはなんのための施設なんだ？
-あちこちに変な仕掛けがあったりして、
-ただの収容所じゃないみたいだけど。
+Speaking of which, what is the facility for anyway? There are these strange
+things. It doesn't just look like an ordinary holding camp.
 --------------------------------
 [00000059][リック,エルウッド,リック]
-……その通りだ。ここは、ただの収容所じゃない。
-人を集めて、効率よく殺す。そのための場所だ。
+Indeed. This is not just a holding camp. They gather the people, kill them more
+efficiently. That is what this place is for.
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-なんだって？　リック、お前なにか知ってるのか!?
+What did you say? Rick, what do you know about this?
 --------------------------------
 [00000061][リック,エルウッド,リック]
-さっき、捕まっていた人から話を聞いた。
-ここには毎日、ベスティアのあちこちから
-大勢の人が集められ……。
+Earlier, I heard from some of the captured people. Everyday, they gather huge
+groups of people from Bestia...
 --------------------------------
 [00000062][リック,エルウッド,リック]
-入ってきたのと同じぐらいの人数が、
-施設の中のどこかに連れていかれるそうだ。
-その後すぐに、大勢の悲鳴が聞こえ……。
+The send in the same amount of people in to the facility, and after that, all
+they hear are screams.
 --------------------------------
 [00000063][リック,エルウッド,リック]
-連れていかれた人は、冷たくなって戻ってくる。
-そして、残った人がそれを埋葬させられるんだ。
-そんなことがずっと続いていると……。
+Those who are taken here, never come out alive. The remaining people bury those.
+And this process just repeats.
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-……なんてこった！　いったい、奴らはなにを……。
+How terrible! What are these bastards...
 --------------------------------
 [00000065][リック,エルウッド,リック]
-……俺が知るか……！　いや、知りたくもない。
-だが、これだけはわかる。
+How should I know?! ....No, I don't want to know. But, I do know this.
 --------------------------------
 [00000066][リック,エルウッド,リック]
-奴ら、ルーンベールや、フォンティーナとは
-桁違いの規模で、戦えもしない普通の人たちを
-殺している……。
+These bastards, Runevale, Fontina, it makes no difference, they will kill all
+civillians who can't fight.
 --------------------------------
 [00000067][レイジ,レイジ,レイジ]
-ちくしょう……ひどすぎるぜ！
-帝国の奴ら、絶対に許せねえ……！
+Damn it! This is too cruel. The bastard Empire, I won't forgive them!
 --------------------------------
 [00000068][刃九郎,,刃九郎]
-レイジ！　リック！　そこにいたか！
-急いで本隊に合流しろ！
+Rage! Rick! There you are! We have to rendezvous with the rest!
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-刃九郎さん！　聞いてくれ！　ここは……。
+Jin-Crow-san! Listen, this place...
 --------------------------------
 [00000070][刃九郎,,刃九郎]
-悪いが話は後だ！　敵の大部隊が迫っている！
-アルベリッヒが増援を連れてきたらしい！
-すぐに生存者たちを連れて後退する！
+We'll have time for that later! The enemy is coming here in large numbers.
+Alberich is bringing reinfocements here! We have to take the survivors and get
+out of here now!
 --------------------------------
 [00000071][リック,エルウッド,リック]
-アルベリッヒ……！
+Alberich!
 --------------------------------
 [00000072][レイジ,レイジ,レイジ]
-……刃九郎さん。本隊のみんなに、
-急いで生存者を連れ出すように伝えてくれ！
-オレはここに残る！
+Jin-Crow-san, have the rest of us get everyone out of here! I am staying here!
 --------------------------------
 [00000073][刃九郎,,刃九郎]
-なに？　どういうことだ？
+What? What do you mean?
 --------------------------------
 [00000074][レイジ,レイジ,レイジ]
-捕まってた人たちは、かなり弱ってるんだ。
-その人たちを助けながら普通に後退してたんじゃ、
-アルベリッヒにすぐ追いつかれちまう。
+The captured people are all weak and tired. They will be slowed down, and
+Alberich will catch up.
 --------------------------------
 [00000075][レイジ,レイジ,レイジ]
-だから、オレがここで時間を稼ぐ！
-みんなが安全なところにたどりつくまで、
-絶対、奴らを食い止めてみせるぜ！
+That's why, I will stay here and buy everyone some time! Take everyone to
+somewhere safe! I will most definitely hold them back!
 --------------------------------
 [00000076][リック,エルウッド,リック]
-食い止める……？　……いや、そうじゃない。
-アルベリッヒはここで倒す。俺も残って、戦うぞ。
+Hold them back? No, not enough. I will defeat Alberich right here. I too will
+stay and fight.
 --------------------------------
 [00000077][刃九郎,,刃九郎]
-……承知した。だが、２人では危ない。
-他にも何人か連れていけ。
-くれぐれも無理はするなよ！
+... Understood. But the two of you are in danger. Take people with you. Be very
+careful!
 --------------------------------
 [00000078][レイジ,レイジ,レイジ]
-はぁ……はぁ……。
-サクヤさん。ただいま……。
+Hah.... hah.... Sakuya-san, we've returned.
 --------------------------------
 [00000079][サクヤ,マキシマ,サクヤ]
-お帰りなさい。リックも無事ね？
+Welcome back. Is Rick unhurt too?
 --------------------------------
 [00000080][リック,エルウッド,リック]
-はぁ……はぁ……。はい、師匠。
+Hah.... hah.... yes, teacher.
 --------------------------------
 [00000081][リン,シャオメイ,リンリン]
-２人ともお疲れ様。あなたたちのお陰で、
-捕まっていた人たちは全員無事よ。
-みんな、あなたたちに感謝していたわ。
+Good work, both of you. Thanks to your efforts, the capture people are now all
+safe. Everyone is grateful you.
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-いやー、感謝だなんて、そんな……。
-……なんていうか……まいったな、どうも！
+Aw, shucks... well, anytime!
 --------------------------------
 [00000083][義勇兵,,義勇兵]
-いやいや、たいしたもんだぞ、レイジ。
-お前の腕と度胸にかなうヤツは、
-隊の中にもそうはいねえよ。
+No, no, it really is a big deal. Because of your courage against those bastards,
+I get to live to return to my platoon.
 --------------------------------
 [00000084][義勇兵,,義勇兵]
-それから……リック。俺は、
-あんたに言わなきゃならないことがある。
+And, Rick. There is something which I have to say.
 --------------------------------
 [00000085][リック,エルウッド,リック]
-なんだ？
+What?
 --------------------------------
 [00000086][義勇兵,,義勇兵]
-俺は今まで噂を鵜呑みにしていた。
-あんたが何度も仲間を見殺しにして、
-ずっと１人で生き残ってきたと信じてたんだ。
+All this time, I believed in the rumors, that you killed your own allies, that's
+why you always returned back alive and alone.
 --------------------------------
 [00000087][義勇兵,,義勇兵]
-だけど、今度のことでよくわかった。
-あんたは、仲間を見殺しにするような奴じゃない。
-むしろ、その逆なんだって。
+But, after this. I know for certain, you are not someone who would kill your own
+allies. It's quite the opposite.
 --------------------------------
 [00000088][リック,エルウッド,リック]
-…………？
-何が言いたいんだ？
+...? What are you trying to say?
 --------------------------------
 [00000089][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ並みに鈍いな、お前は。つまりこの男は、
-もうお前を「死神」呼ばわりしないと、
-そう言っているのだ。
+You are just as slow as Rage. In other words, he won't be calling you Death God
+anymore. That's what it is.
 --------------------------------
 [00000090][リック,エルウッド,リック]
-…………っ！
+...uh!
 --------------------------------
 [00000091][義勇兵,,義勇兵]
-いや、俺だけじゃない。仲間たちの多くが、
-俺と同じことを思ってる。
+Nope, not just me. All our allies all feel the same way.
 --------------------------------
 [00000092][義勇兵,,義勇兵]
-俺はみんなを代表してそれを伝えるためと……。
-それから、詫びを入れるためにきた。
-……すまなかった。どうか、許してくれ。
+I will tell them all the truth. And also, apologise for misunderstanding you.
+We're sorry.
 --------------------------------
 [00000093][レイジ,レイジ,レイジ]
-……リック。よかったな。
+Rick, this is great.
 --------------------------------
 [00000094][リック,エルウッド,リック]
-…………ああ。まあ……な。
-レイジ、ありが…………。
+....ah, well.... Rage, than....
 --------------------------------
 [00000095][リック,エルウッド,リック]
-…………うっ！
+...Ugh!
 --------------------------------
 [00000096][レイジ,レイジ,レイジ]
-なんだ？　どうした？
+What is it?
 --------------------------------
 [00000097][リック,エルウッド,リック]
-……なんでもない！
-こっちを見るな。
+It's nothing! Don't stare at me!
 --------------------------------
 [00000098][レイジ,レイジ,レイジ]
-なんだよ。赤くなったりして？
+What's with you, turning red?
 --------------------------------
 [00000099][サクヤ,マキシマ,サクヤ]
-ふふ……。素直じゃないわねえ、リック。
+Hehe... you should be more honest, Rick.
 --------------------------------
 [00000100][リック,エルウッド,リック]
-し、師匠。なにか言いましたか!?
+T...teacher, what are you trying to say?!
 --------------------------------
 [00000101][サクヤ,マキシマ,サクヤ]
-さあ、フェンリル。次の作戦を練りましょう。
-収容所から押収した資料があるんでしょ？
-まずはそれを見せてちょうだい。
+Okay, Fenrir. We must continue the next battle. Do you have the information from
+the holding camp? Let us know what you find out.
 --------------------------------
 [00000102][フェンリル,,フェンリル]
-わかりました。では、行きますか。
+I understand. I'm going.
 --------------------------------
 [00000103][リック,エルウッド,リック]
-ま、待ってください！
-今、なんて言ったんですか、師匠！
+W... wait! What were you trying to say, teacher?!
 --------------------------------
 [00000104][レイジ,レイジ,レイジ]
-…………。
+.....
 --------------------------------
 [00000105][ユキヒメ,ユキヒメ,ユキヒメ]
-どうした、レイジ？　急に黙り込んで。
-気になることでもあるのか？
+What is it, Rage? Suddenly turning silent. Something bothering you?
 --------------------------------
 [00000106][レイジ,レイジ,レイジ]
-いや、収容所を見てたらさ。
-ローゼリンデのことを思い出して。
+Nothing, it's just when I saw the holding camps, I thought of Roselinde.
 --------------------------------
 [00000107][レイジ,レイジ,レイジ]
-あいつ、今は帝国の側についてるだろ？
-どうしてあいつが、あんなむごいことをする連中に
-味方してるんだろうって、そう思ってさ……。
+Is she, still with the Empire? Why is she with those people, who are capable of
+such terrible deeds? I wonder...
 --------------------------------
 [00000108][レイジ,レイジ,レイジ]
-どう考えたって、そんなことするヤツじゃないんだ。
-付き合いは短いけど、それだけはハッキリわかる。
+No matter how hard I think, there is just no way she could be such a person.
+Even though I wasn't with her very long, I know that for sure.
 --------------------------------
 [00000109][レイジ,レイジ,レイジ]
-ローゼリンデは……たとえ自分が殺されたって、
-あんな連中に味方するはずがない。
-きっと、敵に操られてるんだ。
+Roselinde would never be a part of them, even if it meant killing herself. She
+must be being controlled by the enemy.
 --------------------------------
 [00000110][ユキヒメ,ユキヒメ,ユキヒメ]
-そうだな。それは私もそう思っていた。
+Indeed. That is what I suspect too.
 --------------------------------
 [00000111][レイジ,レイジ,レイジ]
-くそ……。あの優しいローゼリンデが
-そんな目に……。あいつ今、
-どんな思いでいるんだろう……。
+Damn.... to turn that kind Roselinde into.... what were those guys thinking...
 --------------------------------
 [00000112][ユキヒメ,ユキヒメ,ユキヒメ]
-……だがな、レイジ。
-こう考えてみてはどうだ？
+However, Rage. Why not look at it this way?
 --------------------------------
 [00000113][ユキヒメ,ユキヒメ,ユキヒメ]
-今のところ、あの娘はどうにか
-帝国の連中に殺されずにいる。
-だから、いつか助け出すこともできる。
+Right now, the Empire won't kill her the way she is. That is why, we still have
+a chance to rescue her.
 --------------------------------
 [00000114][ユキヒメ,ユキヒメ,ユキヒメ]
-助け出せば……それ以上ローゼリンデを
-辛い目にあわせなくてもすむ。だから、一刻も早く
-助け出すことだけを考える。……どうだ？　レイジ。
+We will save her, and rescue her from her misery. That's why, think only of
+rescuing her. How's that, Rage?
 --------------------------------
 [00000115][レイジ,レイジ,レイジ]
-……そっか。そうだな。
-そういう考え方も、ありかもしれない。
+I see. That's right. What you say is possible.
 --------------------------------
 [00000116][レイジ,レイジ,レイジ]
-……あ。いや……待ってくれ。
-それじゃダメだ。それだけじゃ……足りないと思う。
+No, wait. That is not enough.
 --------------------------------
 [00000117][ユキヒメ,ユキヒメ,ユキヒメ]
-なぜだ？
+How so?
 --------------------------------
 [00000118][レイジ,レイジ,レイジ]
-もしオレがローゼリンデを助け出したとしても、
-帝国の連中がのさばってる限り、悲しい思いや
-苦しい思いをする人たちがまた出てくるだろ？
+If I rescue her, at the expense of sacrificing more victims to the Empire, it
+would only increase her pain.
 --------------------------------
 [00000119][レイジ,レイジ,レイジ]
-それじゃなんにもならない。
-そういう思いをする人をなくさなきゃいけないんだ。
-オレは、そのためにここに呼ばれたんだ。
+That is not the way it should be. I cannot do it that way. That is not the
+reason why I was called to this place.
 --------------------------------
 [00000120][レイジ,レイジ,レイジ]
-そして、みんなが平和に暮らせるようにするためには
-そのためには、帝国をぶっ潰すしかない。
-……オレは、そう思う。
+In addition, for the sake of peace for the land, the Empire has to fall. That is
+what I think.
 --------------------------------
 [00000121][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……。お前……。
+Rage... you...
 --------------------------------
 [00000122][レイジ,レイジ,レイジ]
-だいたい、ローゼリンデだけを救い出したって、
-他の人たちが苦しいままじゃ、
-あいつはよろこんでくれやしない。
+If I only rescue Roselinde, while letting other people continue to suffer, there
+is no way she would be happy.
 --------------------------------
 [00000123][レイジ,レイジ,レイジ]
-あいつは、本当に優しいヤツなんだから。
-……そう思うだろ……？　ユキヒメ……。
+She is really kind, after all. Isn't that right, Yukihime?
 --------------------------------
 [00000124][ユキヒメ,ユキヒメ,ユキヒメ]
-…………そうか。……そうだな。
-私も、そう思うぞ……。
+I see, you are right... I think so too.
 --------------------------------
 [00000125][フェンリル,,フェンリル]
-これが、押収した資料です。
-施設全体の大まかな図面と、その中に設置された
-装置の使い方が記されているようです。
+Those are the collected data. Inside of that facility, a device is being used.
 --------------------------------
 [00000126][フェンリル,,フェンリル]
-それからこちらは、
-施設建設の命令書のようです。
-指揮官のサインもありますね。
+The orders for building that facility, we have the commander's insignia.
 --------------------------------
 [00000127][サクヤ,マキシマ,サクヤ]
-このサインね？
-アルベリッヒと……もうひとり。
-なるほど……あの男が……。
+This Insignia? Alberich, and one person. ....I see, it is that man....
 --------------------------------
 [00000128][サクヤ,マキシマ,サクヤ]
-なんとなく嫌な予感はしていたけど……。
-伯爵が糸を引いているとはね。
+I had a bad feeling from the start, I didn't expect the Earl to be involved.
 --------------------------------
 [00000129][フェンリル,,フェンリル]
-伯爵？　隊長はそいつをご存知なんですか？
+Earl? Is it someone you know?
 --------------------------------
 [00000130][サクヤ,マキシマ,サクヤ]
-いえ、こっちの話。気にしないで。
+Nevermind, ignore that.
 --------------------------------
 [00000131][フェンリル,,フェンリル]
-…………？　……はあ。
+...? Okay.
 --------------------------------
 [00000132][サクヤ,マキシマ,サクヤ]
-とにかく、次の行動に移るまえに、
-このあたりの敵を一掃しておく必要があるわね。
-一度拠点に戻ってから、掃討作戦を始めましょう。
+In any case, we have to move for the next operation. We must clear them out in
+one clean sweep. Let's return to our gathering place, we must prepare our battle
+strategies.
 --------------------------------
 [00000133][サクヤ,マキシマ,サクヤ]
-あら、レイジ。ちょうどいいところで会ったわ。
-あなたにも、顔を合わせておいて欲しい人たちが
-来てるの。
+Ah, Rage, good timing. There is someone I would like you to meet.
 --------------------------------
 [00000134][レイジ,レイジ,レイジ]
-誰ですか？　もしかして、新しい仲間ですか？
+Who is it? Could it be, new allies?
 --------------------------------
 [00000135][サクヤ,マキシマ,サクヤ]
-そんなところね。集会場で待っているはずだから、
-そちらに行きましょう。
+Something like that. Wait at the meeting place, they will be there.
 --------------------------------
 [00000136][ディラン,ローエン,ディラン]
-よう！　あんたが隊長さんだね？
-へえ、噂どおりのべっぴんさんじゃねえか。
+Yoh! So you must be the captain. The rumors are true, you really are quite the
+beauty.
 --------------------------------
 [00000137][サクヤ,マキシマ,サクヤ]
-ふふふっ、ありがとう。どこでそんな噂を
-聞いたのかはしらないけれど、光栄だわ。
-そういうあなたはディランね。
+Hehe, thank you. I don't know where you heard the rumors, but I'm flattered. You
+must be Dyran.
 --------------------------------
 [00000138][ディラン,ローエン,ディラン]
-その通り。
-海賊騎士団「アークバッカニア」のリーダー、
-ディランだ。
+Correct. The Pirate Knights, leader of Arch Buccaneers, Dyran.
 --------------------------------
 [00000139][ディラン,ローエン,ディラン]
-で、こっちは相棒のイサリ。
-射撃と釣りの腕はピカイチだ。
+And, this is my partner, Isari. He's excellant with a gun and fishing rod.
 --------------------------------
 [00000140][イサリ,ジェラード,イサリ]
-………………どうも。
+.....hello.
 --------------------------------
 [00000141][レイジ,レイジ,レイジ]
-海賊騎士団って……いまひとつどんなもんだか
-想像がつかないんだけど。
-とにかく、この人たちを仲間に入れるんですね？
+Pirate knights... I've never quite heard of something like that before. Anyway,
+are these people here joining us?
 --------------------------------
 [00000142][サクヤ,マキシマ,サクヤ]
-そうよ。彼らの力が必要なの。
-ブレイバーンのいる、火山島に渡るためにね。
-ディラン、イサリ、力を貸してもらえるわよね？
+Yes. We need their strength. To reach Blaeburn, we have to get to the Volcano
+Island. Dyran, Isari, will you help us?
 --------------------------------
 [00000143][ディラン,ローエン,ディラン]
-ちょっと待ってくれ。
-確かに刃九郎からその話は聞いてるし、
-オレたちも、できることならお前らに協力したい。
+Wait just a moment. I have indeed heard about this from Jin-Crow. And
+truthfully, we would like to help you if we can.
 --------------------------------
 [00000144][ディラン,ローエン,ディラン]
-帝国軍ってのは、オレたちにとっても
-面白くねえ連中だからな。アイツらに一泡吹かせて
-やれるってんなら、ぜひとも一枚噛みたい。
+We aren't exactly on good terms with the Empire as well. We won't be sorry if
+they're gone.
 --------------------------------
 [00000145][レイジ,レイジ,レイジ]
-ならいいじゃねえか。仲間になってくれよ。
-なにか問題でもあるのか？
+Isn't that good then? You can join us. What seems to be the problem?
 --------------------------------
 [00000146][ディラン,ローエン,ディラン]
-ああ。ちょっとした問題がな……。
-実はこの間、アイツらにオレたちの船を
-沈められちまったんだよなぁ……。
+Well, there is one problem. You see, the truth is, they sunk our ship.
 --------------------------------
 [00000147][ディラン,ローエン,ディラン]
-帝国の船が俺たちの縄張りに入ってきやがってよ。
-痛い目にあわせてやろうとちょっかい出したら、
-返り討ちにあっちまって。ははは、ざまぁねえな。
+The Empire ships tried to enter our territory. We tried to chase them out by
+teaching them a painful lesson, but we got the tables turned on us. Haha, serves
+us right.
 --------------------------------
 [00000148][イサリ,ジェラード,イサリ]
-……そのせいで……沖釣りができない。
-…………帝国……許さない。
+....because of that.... I can't fish in the seas any more.... I won't forgive...
+the empire...
 --------------------------------
 [00000149][レイジ,レイジ,レイジ]
-えええっ!?　それじゃ、島に渡れないじゃねえか！
-いったいどうすればいいんだよ！
+Eeh?! That means we can't get to the island! What should we do?!
 --------------------------------
 [00000150][ディラン,ローエン,ディラン]
-と、言われてもなぁ……。いちおう刃九郎にも
-そのことは話したんだが、「考えがある」とか
-言ってここに俺たちを引っ張ってきたんだ。
+About that, Jin-Crow said he would figure out a way, and he dragged me here.
 --------------------------------
 [00000151][レイジ,レイジ,レイジ]
-刃九郎さんが？　考えがあるって、いったい……？
+Jin-Crow-san? He said he would figure out a way?
 --------------------------------
 [00000152][刃九郎,,刃九郎]
-いかにも。拙者にいい考えがある。
-ディラン、イサリ。おまえたちは海賊だろう？
+Indeed I did. I have thought of a good plan. Dyran, Isari, you are pirates,
+correct?
 --------------------------------
 [00000153][ディラン,ローエン,ディラン]
-「海賊騎士団」と言ってもらいたいとこだが、
-まあ、その辺は気にしねえことにする。
-そうだな、お前の言うとおり、オレたちゃ海賊だ。
+Pirate Knights to be exact. But yes, you are correct, we are pirates.
 --------------------------------
 [00000154][刃九郎,,刃九郎]
-だったら船の１艘ぐらい、
-ぶん捕ればいいだけの話ではないのか？
-港には、獲物がいくらでもあるが？
+Then you need a ship. Why not just take one? The harbor is full of such prey,
+isn't it?
 --------------------------------
 [00000155][ディラン,ローエン,ディラン]
-なに言ってんだお前。あれは帝国軍の軍船……。
-って、まさか!?
+What are you talking about? Those are Empire Ships.... wait, don't tell me?!
 --------------------------------
 [00000156][刃九郎,,刃九郎]
-だから、おまえたちは海賊なのだろう？
-欲しいものを奪い取る、
-そのことになんの不思議がある？
+Like I said, aren't you pirates? What you want, you take. Is this that hard to
+imagine?
 --------------------------------
 [00000157][ディラン,ローエン,ディラン]
-…………だとよ、イサリ。
-……まあ、言われてみりゃ、もっともな話だよなぁ。
+....what say you, Isari? ..... you should try to speak up more.
 --------------------------------
 [00000158][イサリ,ジェラード,イサリ]
-………………船は、必要だ。
+........we need a ship.
 --------------------------------
 [00000159][ディラン,ローエン,ディラン]
-……とは言っても、オレとイサリだけじゃあ、
-大勢の帝国軍を相手にゃできねえ。
-お前たちも、手を貸してくれるのか？
+....so you say, but it's just me and Isari, against the vast Imperial Army. Will
+you guys help us?
 --------------------------------
 [00000160][刃九郎,,刃九郎]
-もちろんだ。
+Of course.
 --------------------------------
 [00000161][ディラン,ローエン,ディラン]
-……よし！　交渉成立だな。
-さっそく、港に行って獲物を物色してくるぜ。
-いい船みつけたら連絡するからよ。
+Okay, you have a deal! We will scour the harbor for a good prey, then contact
+you when we find it.
 --------------------------------
 [00000162][レイジ,レイジ,レイジ]
-おう！　待ってるぜ！
-……なんだか、面白いことになってきたな！
+Okay! We'll be waiting! Somehow, this feels really interesting!
 --------------------------------
 [00000163][ディラン,ローエン,ディラン]
-おい！　大変だ！
-港を出る船の動向を探っていたら、
-とんでもない話に出くわした！
+Hey! We have problems! We checked the direction we were headed, and found
+something unexpected!
 --------------------------------
 [00000164][ディラン,ローエン,ディラン]
-帝国軍が、北の火山島に向けて出発するらしい！
+The Empire is also headed to the Volcano Island to the North!
 --------------------------------
 [00000165][レイジ,レイジ,レイジ]
-何だって？　どうしてやつらが火山島に……？
-……って、まさか！　やつら精霊王を!?
-そうか……港を押さえてたのはその準備のためか。
+What? Why to the Volcano Island? ....Don't tell me, they are after the Spirit
+King. I see, that's why they suppressed the port.
 --------------------------------
 [00000166][リン,シャオメイ,リンリン]
-……だとすると、まずいわね。
-こちらも、すぐに出発しなければ。
+That would be quite a problem. We must get ready to set off too.
 --------------------------------
 [00000167][ディラン,ローエン,ディラン]
-わかった。すぐに出港準備にかかる。
+Got it. We will begin preparations.
 --------------------------------
 [00000168][レイジ,レイジ,レイジ]
-何か手伝うことはあるか？
+Do you need help with anything?
 --------------------------------
 [00000169][ディラン,ローエン,ディラン]
-船のことは海賊に任せろ。それよりレイジ、
-海に出たらセイレーンに気をつけろよ。
+Leave the ships to us pirates. More importantly, Rage, when you are out at see,
+watch out for the Siren.
 --------------------------------
 [00000170][レイジ,レイジ,レイジ]
-セイレーン？　何だそりゃ。
+Siren? What's that?
 --------------------------------
 [00000171][イサリ,ジェラード,イサリ]
-船乗りの伝説……。女の姿をした化け物……。
-きれいな歌で船を惑わせて、難破させる……。
+It's an old sailor's tale. A monster in a form of a beautiful woman, enchants
+the ship with a beautiful song, causing it to sink...
 --------------------------------
 [00000172][ディラン,ローエン,ディラン]
-まあそうだな。だが、
-オレの言ってるセイレーンはちょっと違う。
+Well, there's that. But the Siren that I'm referring to is something else.
 --------------------------------
 [00000173][ディラン,ローエン,ディラン]
-ここらでセイレーンっていったら、
-火山島を本拠地にしてる、女海賊のあだ名さ。
-同業者の間じゃ、有名なんだぜ？
+The Siren that I'm talking about, is this female pirate that set up base in the
+Volcano Island. She's quite famous among us pirates.
 --------------------------------
 [00000174][レイジ,レイジ,レイジ]
-へえ……火山島にそんな奴が。
-でも、なんで、オレが気をつけなきゃならないんだ？
+Oh, so the Volcano Island has someone like that. Well, I'm going to be careful
+anyway, no need to worry.
 --------------------------------
 [00000175][ディラン,ローエン,ディラン]
-だってお前、戦いには強そうだけど
-女にはからっきし弱いだろ？　ははははは！
+It's because you're good at fighting, but weak when it comes to women, right?
+Hahahahaha!
 --------------------------------
 [00000176][ユキヒメ,ユキヒメ,ユキヒメ]
-……まったくだ。レイジ、気をつけろ！
+Good grief. Rage, be careful!
 --------------------------------
 [00000177][レイジ,レイジ,レイジ]
-ユキヒメまで!?
-ったく！　大きなお世話だっての！
+Yukihime too? Great, some help you turn out to be.
 --------------------------------
 [00000178][リン,シャオメイ,リンリン]
-さあ、おしゃべりはそのぐらいにして
-出航の準備を頼むわ。イサリ、ディラン、
-ここが、あなたたちの腕の見せどころよ。
+Well, if you have time to talk, let's hurry up and prepare for the journey. I'll
+be looking forward to seeing your performance.
 --------------------------------
 [00000179][ディラン,ローエン,ディラン]
-まかせとけって！　快適な航海を約束するぜ！
+Leave it to me! I promise you the express ride!
 --------------------------------
 [00000180][レイジ,レイジ,レイジ]
-あんたの試練を乗り越えたぞ、ブレイバーン！
-さあ、精霊王のことを教えてくれ！
+We passed your test, Blaeburn! Now tell us about the Spirit King!
 --------------------------------
 [00000181][レイジ,レイジ,レイジ]
-さっき「卵のこと」って言ってたよな？
-やっぱり炎の精霊王は、帝国にやられちまったのか？
+You said about the egg, didn't you? So it's true, the Flame Spirit King is
+killed by the Empire?
 --------------------------------
 [00000182][ブレイバーン,,ブレイバーン]
-ふ、ふふ、ふふふふふふ……。
+Hmhmhm, hahahahaha....
 --------------------------------
 [00000183][レイジ,レイジ,レイジ]
-な、なんだ？　なにがおかしい！
+W...what? What's so funny?
 --------------------------------
 [00000184][ブレイバーン,,ブレイバーン]
-……お前、なにか勘違いしてないか？
-確かに、俺は「戦え」とは言ったが
-試練を受けろとか……。
+Aren't you getting something wrong? I did say fight me.
 --------------------------------
 [00000185][ブレイバーン,,ブレイバーン]
-精霊王のことを教えてやるとか、
-卵をやるなんてこたぁ、一言も言ってないぞ？
+And I will tell you about the Spirit King. But that doesn't mean that I still
+have the egg.
 --------------------------------
 [00000186][レイジ,レイジ,レイジ]
-……え？　ええええっ!?　な、なんだってぇ!?
+Eh? Eeeeh?! What?!
 --------------------------------
 [00000187][リン,シャオメイ,リンリン]
-それは、どういうことかしら？
-まさか、卵はすでに帝国軍が!?
+What do you mean by that? Don't tell me, the Empire now has the egg?!
 --------------------------------
 [00000188][ブレイバーン,,ブレイバーン]
-違う。俺より頼りになる相手に渡しただけだ。
+No. I entrusted it to someone else.
 --------------------------------
 [00000189][レイジ,レイジ,レイジ]
-お前より頼りになるだって？
-それはいったい誰なんだ？
+You entrusted it to someone? Who exactly?
 --------------------------------
 [00000190][ブレイバーン,,ブレイバーン]
-お前らが来る前に女海賊とその護衛が現れて、
-卵をよこせと言ってきた。
-だから俺は、その連中に試練を課した。
+Before you came here, a female pirate and her guardian showed up. I gave them
+the trial.
 --------------------------------
 [00000191][ブレイバーン,,ブレイバーン]
-女海賊の方は「竜の血族」の末裔だったようでな。
-えらく強かった。実に楽しい戦いだった。
+That female pirate was a dragon-blood descendant. Really powerful. It was such
+an enjoyable fight.
 --------------------------------
 [00000192][レイジ,レイジ,レイジ]
-女海賊……？
-あ！　もしかして、例のセイレーンか!?
+Female pirate? Ah! Could it be, that Siren?!
 --------------------------------
 [00000193][ディラン,ローエン,ディラン]
-ああ。あの女以外にありえねえな。
-しかしあいつ、卵なんか持ってって
-どうするつもりなんだ？
+It has to be. There's no one else. But, what does she intend to do with the egg?
 --------------------------------
 [00000194][ブレイバーン,,ブレイバーン]
-宝石かなんかと思い込んでいたらしい。
-ずいぶんと強欲な姐さんだったが……。
-島から卵を持ち出すこともなさそうだったからな。
+She probably thought it was a gemstone. She's quite the greedy girl. Probably
+doesn't think it's possible for an egg to exist on this island.
 --------------------------------
 [00000195][レイジ,レイジ,レイジ]
-だからって、渡すなよ……。
-悪いヤツかもしれないだろうが。
+And you just handed it over? She could be a bad person!
 --------------------------------
 [00000196][ブレイバーン,,ブレイバーン]
-だってお前、相手は「竜の血族」だぞ？
-俺たち古代種ドラゴンの上位種なんだからな。
-邪悪な相手のわけがないだろうが。
+But you know, she is a dragon-blood. And one from one of our elites. She could
+not be the evil sort.
 --------------------------------
 [00000197][ブレイバーン,,ブレイバーン]
-必要なら、あの女海賊と直に会って、
-話をつけてくればいい。
-この島の南に、隠れ家があるそうだ。
+If you really need to, you can meet up with that female pirate and talk to her.
+She has a hidden home to the north of this island.
 --------------------------------
 [00000198][レイジ,レイジ,レイジ]
-……しょうがない、行くしかなさそうだな。
+Looks like we have no choice but to go.
 --------------------------------
 [00000199][ブレイバーン,,ブレイバーン]
-ああ、ちょっと待て。
-さすがにドラゴン倒してお宝もないんじゃ、
-野暮ってもんだろ！
+Ah, wait a moment. Defeating a dragon does earn you a right to a treasure.
 --------------------------------
 [00000200][ブレイバーン,,ブレイバーン]
-そこの姐さん。あんたにこれをやるよ。
-あんたなら、こいつを役に立てられるだろうよ。
-ヤケドするくらい燃える力だぜ！
+The missy over there. This is for you. You will be able to make use of this, I'm
+sure. This power really burns!
 --------------------------------
 [00000201][サクヤ,マキシマ,サクヤ]
-確かにこれは熱いプレゼントね……ふふっ。
-ありがたく使わせてもらうわ。
+Ah, this is quite a hot present. Hehe, thank you, I will put this to good use.
 --------------------------------
 [00000202][ブレイバーン,,ブレイバーン]
-おう。それじゃあな。せいぜいがんばるこった。
+That's all. Be sure to do your best!
 --------------------------------
 [00000203][レイジ,レイジ,レイジ]
-……意外と親切なところもあるんだな。
+He's surprisingly friendly now.
 --------------------------------
 [00000204][レイジ,レイジ,レイジ]
-ここが、女海賊の住処なのか？
-この洞窟の奥に？
+Is this where the female pirate lives? Deep in the cave?
 --------------------------------
 [00000205][リン,シャオメイ,リンリン]
-そのようね。かなり地中深くにあるみたいだから、
-足元に気をつけて。
+Seems that way. It seems this place leads to somewhere. Watch your step.
 --------------------------------
 [00000206][レイジ,レイジ,レイジ]
-なんだ？　ここ。降りれば降りるほど、
-なんだか暑くなってくるぞ？
-それに湿気もかなりあるし。
+What? This place. We've dropped to somewhere. What's with this mist and
+dampness?
 --------------------------------
 [00000207][ユキヒメ,ユキヒメ,ユキヒメ]
-火山島だからな。地熱が高いのだろう。
-湿気はおそらく地下水が温められ、
-熱い湯になっているせいだと思うが。
+It is a volcanic island after all. The temperature is high, and this dampness is
+from the underground water. This makes the water hot.
 --------------------------------
 [00000208][レイジ,レイジ,レイジ]
-それって、つまり温泉ってことか？
-へぇ……地下に温泉があるのか。
+So it's like hot springs? Oh, so hot springs do exist underground.
 --------------------------------
 [00000209][フェンリル,,フェンリル]
-…………ん？　ちょっと待て。その話は後だ。
-耳を澄ませてみろ。
+Hm? Wait, you can talk later. Listen, do you hear something?
 --------------------------------
 [00000210][リン,シャオメイ,リンリン]
-……歌声ね。女の人が歌っているようだけど……。
+... sounds like singing. A woman singing.
 --------------------------------
 [00000211][フェンリル,,フェンリル]
-……静かに！　誰か来る！
+Quiet! Someone is coming!
 --------------------------------
 [00000212][ガデム,,ガデム]
-おぬしら、何者だ！
-ここを海賊ミスティ様の住居と知っての狼藉か！
+Who are you people? This is the home of Misty-sama!
 --------------------------------
 [00000213][レイジ,レイジ,レイジ]
-すまない、でも、オレたちは
-怪しい者じゃないんだ。
-ただ、精霊王の卵のことで頼みがあって……。
+We're sorry, but we're not bad people. We are here to ask about a Spirit King
+egg.
 --------------------------------
 [00000214][ガデム,,ガデム]
-精霊王の卵だと？　それがなにかは知らんが、
-おぬしたちの頼みなど聞く耳もたん。
-早々に引き取れい！
+Spirit King egg. I don't know anything about that. I don't have to listen to
+your request. Hurry up and go back where you came from!
 --------------------------------
 [00000215][ガデム,,ガデム]
-もし素直に引き取らぬとあらば、刀にかけても……。
+If you are not going to leave, then by my blade...
 --------------------------------
 [00000216][ユキヒメ,ユキヒメ,ユキヒメ]
-……レイジ。相手はなかなかの使い手と見た。
-油断するなよ。
+Rage, your opponent is someone powerful. Do not be careless.
 --------------------------------
 [00000217][レイジ,レイジ,レイジ]
-ちょっと待てよ、ユキヒメ。
-オレたちは戦いにきたわけじゃないんだ。
-油断するとかしないとかそういう問題じゃ……。
+Wait, Yukihime. We didn't come here to fight. It's not a problem of being
+careless.
 --------------------------------
 [00000218][ガデム,,ガデム]
-ほほう。口をきく刀か……。それに、その形……。
-クラントールに伝わる、霊刀・雪姫と見た。
+Hoho, a Katana that can talk. And this shape, you must be the fabled Spirit
+Sword of Crantor, Yukihime.
 --------------------------------
 [00000219][ユキヒメ,ユキヒメ,ユキヒメ]
-いかにも。
+Indeed I am.
 --------------------------------
 [00000220][ガデム,,ガデム]
-やはりか！　霊刀とその使い手ならば
-相手にとって不足なし！　参る！
+I thought so! The wielder of the Spirit Sword would make a worthy opponent!
+Draw!
 --------------------------------
 [00000221][？？？,,？？？]
-何事じゃ騒々しい！
-わらわの入浴の邪魔をするでない！
+What's with this ruckus? You interrupt my bath!
 --------------------------------
 [00000222][ガデム,,ガデム]
-これは、ミスティ様。
+Ah, Misty-sama.
 --------------------------------
 [00000223][レイジ,レイジ,レイジ]
-ミスティ様……？　って！
-ふ、風呂入ってるぅ!?
+Misty-sama? Ah! Y.... you're in the bath?!
 --------------------------------
 [00000224][ユキヒメ,ユキヒメ,ユキヒメ]
-む！　あれは……！
-おい！　レイジ！　……はダメか。
+What? That is! Hey, Rage! ...no good, huh?
 --------------------------------
 [00000225][ユキヒメ,ユキヒメ,ユキヒメ]
-リンリン！　あいつの持っているものを見てみろ！
+Rinrin! Look at what she is holding!
 --------------------------------
 [00000226][リン,シャオメイ,リンリン]
-……精霊王の卵だわ。
-あれが、ブレイバーンから受け取った
-「炎の精霊王」の卵なのね。
+... The Spirit King egg. That must be what she got from Blaeburn, the Flame
+Spirit King egg.
 --------------------------------
 [00000227][ユキヒメ,ユキヒメ,ユキヒメ]
-そういうことだ。
-あの娘とは少し話をしてみる必要があるな。
+Indeed. We will have to speak to that girl.
 --------------------------------
 [00000228][ユキヒメ,ユキヒメ,ユキヒメ]
-そこの女海賊！　確かミスティといったな？
-我が名は雪姫。クラントールの霊刀なり。
+You there, pirate girl! Are you Misty? My name is Yukihime, Spirit Sword of
+Crantor.
 --------------------------------
 [00000229][ミストラル,ネレイス,ミスティ]
-うむ。先ほどの話は聞こえておったぞ。
-して、その霊刀が何の用じゃ？
+I heard you just now. So, what does the Spirit Sword wish from me?
 --------------------------------
 [00000230][ユキヒメ,ユキヒメ,ユキヒメ]
-お前の持っている炎の精霊王の卵について、
-少しばかり話がある。
-その他にも１つ、今すぐに頼みたいことが。
+What you hold in your hands is the Flame Spirit King egg. We have a request.
 --------------------------------
 [00000231][ミストラル,ネレイス,ミスティ]
-ほほう？　なんじゃ？
+Hoho? What is it?
 --------------------------------
 [00000232][ユキヒメ,ユキヒメ,ユキヒメ]
-……まず、湯から上がって服を着てくれ。
-このままでは、我が所持者たるレイジが、
-まともにそちらを向けんのでな……。
+First, can you come up from your bath and put some clothes on? That way, my
+wielder will be able to look at you normally.
 --------------------------------
 [00000233][レイジ,レイジ,レイジ]
-悪ぃ……。頼む……。
+Sorry... please...
 --------------------------------
 [00000234][ミストラル,ネレイス,ミスティ]
-…………。
-やれやれ、めんどくさいのう……。
+My my, what a troublesome bunch...
 --------------------------------
 [00000235][ミストラル,ネレイス,ミスティ]
-……ほれ、お前の言うとおり着替えてきたぞ。
-それで……卵というのはこれのことじゃな？
+..... Okay, I'm fully clothed as you requested. And, you are here to talk about
+the egg, correct?
 --------------------------------
 [00000236][レイジ,レイジ,レイジ]
-そう、それなんだ。帝国と戦うために、
-どうしてもそいつが必要なんだよ。
-頼む、そいつを譲ってくれ！
+Yes, that's right. To fight with the Empire, we need it no matter what. Please,
+let us have it.
 --------------------------------
 [00000237][ミストラル,ネレイス,ミスティ]
-帝国と……？　そのようなこと、
-わらわに何の関係がある？
+The Empire? What does that have to do with me?
 --------------------------------
 [00000238][ユキヒメ,ユキヒメ,ユキヒメ]
-関係はあるぞ。このまま帝国を野放しにしては
-お前のこの島ですら脅かされるかもしれぬ。
-現に、帝国軍はこの島に上陸していたのだぞ。
+It has everything to do with you. If the Empire is allowed to go on, it will
+only be a matter of time before they threaten this island. Even as we speak,
+they have already set foot here.
 --------------------------------
 [00000239][ミストラル,ネレイス,ミスティ]
-それはわらわが見逃していたまでのこと。
-その気になれば帝国軍ごとき、軽くひねりつぶせる。
-島を脅かされるなど、いらぬ心配というものじゃ。
+I chose to overlook that. The Empire you are so concerned with is but a small
+matter. You don't have to worry about them disturbing this island.
 --------------------------------
 [00000240][ユキヒメ,ユキヒメ,ユキヒメ]
-ぬぬぬぬぬ……！
+Unggg...!
 --------------------------------
 [00000241][ミストラル,ネレイス,ミスティ]
-…………と、普通ならば言うところなのじゃが……。
-今回に限り、協力してやってもよい。
+Well, that is what I would normally say. However, for this time only, I can help
+you.
 --------------------------------
 [00000242][ユキヒメ,ユキヒメ,ユキヒメ]
-……へ？　い、いきなり……なにを……？
-それはまた……どういうことなのだ？
+Huh? Suddenly... agreeing? What do you mean?
 --------------------------------
 [00000243][ミストラル,ネレイス,ミスティ]
-なに、おかしな話なのじゃがな。
-先ほどからどうも……この卵とやらが、
-お前たちと行きたがっているような気がしてな。
+It's nothing strange. This egg wants to go with you.
 --------------------------------
 [00000244][リン,シャオメイ,リンリン]
-……え？　あ、あなた……。
-卵の意思がわかるの……？
+Eh? You.... understand what the egg wants?
 --------------------------------
 [00000245][ミストラル,ネレイス,ミスティ]
-それはもちろん、この卵はわらわのものじゃからな。
-それぐらい、わかっても不思議はなかろう。
+But of course. This egg belongs to me. It's not something impossible for me.
 --------------------------------
 [00000246][レイジ,レイジ,レイジ]
-そうかなぁ……。
+I see...
 --------------------------------
 [00000247][ミストラル,ネレイス,ミスティ]
-じゃが卵の望みとはいえ、一度手に入れたものを
-黙ってお前たちに渡してしまうのは惜しい。
-よって、わらわも卵と同行するぞ。
+That may be what the egg wants, but it would be a shame if I were to just hand
+it over without asking for anything. Therefore, I'm coming along with the egg.
 --------------------------------
 [00000248][ミストラル,ネレイス,ミスティ]
-名高きクラントールの守護刀という、
-大層なお宝を携えた間抜けそうな男に、
-同行してみるのも面白そうじゃしな！　はははは！
+Having the famous sword of Crantor, and the dim-witted man who holds her, search
+for treasures for me, now that would be interesting! Hahahaha!
 --------------------------------
 [00000249][レイジ,レイジ,レイジ]
-な……！
+Wha...!
 --------------------------------
 [00000250][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……！　こらえろ！
-本当のことを言われて怒る気持ちもわかるが、
-ここはこらえるのだぞ……！
+Rage! Bear with it. I know you're angry, but I'm bearing it, so you have to bear
+with it now too!
 --------------------------------
 [00000251][レイジ,レイジ,レイジ]
-……てか、お前もたいがい失礼だよな……。
-いや、いい。わかってる。オレだってわかってる。
-ここはぐっとこらえて卵をもらわなきゃ。
+... she was rude to you too.... fine, I get it. I understand. For the sake of
+the egg, I will bear with it.
 --------------------------------
 [00000252][レイジ,レイジ,レイジ]
-卵をもらって、そいつをかえせる歌姫を
-見つけるまでは……怒らない怒らない……！
+Until we get the egg, and find the Loreley who could release it, I must not get
+angry! I must not get angry!
 --------------------------------
 [00000253][リン,シャオメイ,リンリン]
-歌姫か……。歌姫ねぇ……。
-ねえ？　サクヤ。ミスティはもしかして……。
+Loreley, huh. The Loreley. Hey, Sakuya. Could Misty be...
 --------------------------------
 [00000254][サクヤ,マキシマ,サクヤ]
-そうね。私も、そう思ったわ。
-ちょっと、試してみたら？
+Perhaps. I was thinking the same thing too. Shall we try?
 --------------------------------
 [00000255][リン,シャオメイ,リンリン]
-……それがいいかもね。じゃあ、やってみるわ。
+...good idea. Well, here we go.
 --------------------------------
 [00000256][リン,シャオメイ,リンリン]
-ねえ、ミスティ？　仲間に入った記念に、
-自慢ののどを聞かせてくれない？
-できれば、知ってる中で出来るだけ古い歌を。
+Hey, Misty? Let's make this more memorable. Why not let us here the voice you
+are so proud of. If you can, perhaps you can sing an old song?
 --------------------------------
 [00000257][ミストラル,ネレイス,ミスティ]
-なんじゃ、わらわの美声を聞きたいと言うのか？
-……ふん。よかろう。
+Ah, so you want to hear my beautiful voice? Hm, very well.
 --------------------------------
 [00000258][ミストラル,ネレイス,ミスティ]
-な、なんじゃ!?　なんなのじゃ？　今のは！
-なにが産まれたのじゃ!?
+W...what? What is this. Is something being hatched?
 --------------------------------
 [00000259][レイジ,レイジ,レイジ]
-そっか……。そうだったのか。
+I see, that's how it is.
 --------------------------------
 [00000260][リン,シャオメイ,リンリン]
-卵の意思がわかるというのを聞いて
-もしかして、と思ったんだけどね。
-でも、大正解だったわ。
+When she said she understood the egg, I kind of suspected. Turns out I was
+right.
 --------------------------------
 [00000261][ユキヒメ,ユキヒメ,ユキヒメ]
-なるほど……。噂のセイレーンが、
-実は歌姫だったというわけか……。
+I see. So the rumored Siren, is actually a Loreley.
 --------------------------------
 [00000262][レイジ,レイジ,レイジ]
-でも、さすがにいい声だったな。
-ちょっとびっくりしたけど。
+Still, to think she had such a good voice. Surprised me.
 --------------------------------
 [00000263][レイジ,レイジ,レイジ]
-とにかく、やれやれだぜ。
-歌姫を探しに行く手間が省けたな。
+Anyway, that settles it. Saves us the trouble of finding the Loreley.
 --------------------------------
 [00000264][リン,シャオメイ,リンリン]
-ええ。火山島に来たかいがあったわね。
-とりあえず帰りましょうか。
+Yeah, we came to the Volcano Island just for this. Anyway, we should return now.
 --------------------------------
 [00000265][レイジ,レイジ,レイジ]
-おう。
+Right.
 --------------------------------
 [00000266][ミストラル,ネレイス,ミスティ]
-ちょ……ちょっと待て！
-これはなんじゃ！
-どういうことだか事情を説明せんか！
+W...wait! What is this? Explain what is going on first!
 --------------------------------
 [00000267][レイジ,レイジ,レイジ]
-ああ？　めんどくせえな……。
-あとで説明してやるよ。
+Ah? So troublesome. I'll explain later.
 --------------------------------
 [00000268][ミストラル,ネレイス,ミスティ]
-なにぃ？
+What did you say?
 --------------------------------
 [00000269][レイジ,レイジ,レイジ]
-どーせオレは間抜けそうだもんな。
-ええ、どうせ間抜けですから。
-詳しい事情なんか、なんにもわからないですよ～だ。
+After all, I am just a dim-witted man. Since I am dim-witted, I don't know
+anything about details.
 --------------------------------
 [00000270][ミストラル,ネレイス,ミスティ]
-な！　お前、先ほどのことを根に持っておるのか？
-それとこれとは別じゃろう！
-こら、待て、待てと言っておるに！
+What? You're still upset over just now? This is a completely different thing
+anyway. Hey, wait! I said wait!
 --------------------------------
 [00000271][ミストラル,ネレイス,ミスティ]
-説明せい！　わらわの納得が行くように、
-きっちりと説明せ～い！
+Explain it! I didn't say you can go yet! Explain it now!
 --------------------------------
 [00000272][レイジ,レイジ,レイジ]
-ここが、武器庫だ。それからあっちが……。
+This is the weapons storage. And over there is...
 --------------------------------
 [00000273][ミストラル,ネレイス,ミスティ]
-なんじゃ、カネ目のものがないではないか。
-ええい、つまらぬ！
+What, this stuff is all worthless. Boring!
 --------------------------------
 [00000274][レイジ,レイジ,レイジ]
-つまらないって……拠点を案内しろって言ったのは、
-お前の方じゃないか？
+Boring? You're the one who said you wanted to tour our base.
 --------------------------------
 [00000275][ミストラル,ネレイス,ミスティ]
-たわけが。案内しろとは言ったが、
-武器を見たり火薬を見たりして何が面白い？
-お前には、女心というものが理解できぬようじゃな。
+What a fool. This is what you call a tour, checking our where you store your
+weapons and gunpowder? You will never understand a woman's heart.
 --------------------------------
 [00000276][レイジ,レイジ,レイジ]
-ほっとけ！　っていうかミスティ。
-お前いったい、なにが見たいんだよ！
+I didn't ask for your opinion! Misty, why don't you just tell me what you are
+looking for?
 --------------------------------
 [00000277][ミストラル,ネレイス,ミスティ]
-見るとしたら、金銀財宝にきまっておろうが！
+What about where you store your money and treasures?
 --------------------------------
 [00000278][レイジ,レイジ,レイジ]
-そんなもん、あるわけないだろ……。
-ここをどこだと思ってんだよ…やれやれ。
+We don't have any thing like that. What makes you think we have something like
+that, sheesh.
 --------------------------------
 [00000279][ユキヒメ,ユキヒメ,ユキヒメ]
-ふふふ。
-なんとも大変な歌姫が仲間になったようだな。
-これは先が思いやられる。
+Hohoho, looks like we have quite the troublesome Loreley joining us, like I
+thought.
 --------------------------------
 [00000280][ミストラル,ネレイス,ミスティ]
-大きなお世話じゃ。だいたい、その歌姫というのは
-なんなのじゃ？　ここに来るときにも聞いたが、
-結局いまだに教えてもらっておらんぞ！
+First off, what is this Loreley you speak of? You said you would explain when we
+come here, but in the end you told me nothing!
 --------------------------------
 [00000281][レイジ,レイジ,レイジ]
-ああ。そっか。悪い。歌姫っていうのは……。
+Ah, sorry. About that, the Loreley is...
 --------------------------------
 [00000282][レイジ,レイジ,レイジ]
-……っていうわけで「シャイニング・ブレイド」の
-鍵を解くためには歌姫の力が必要なんだ。
+.... And so you see, to release the key to break the Shining Blade seal, the
+Loreley's power is needed.
 --------------------------------
 [00000283][レイジ,レイジ,レイジ]
-そのほかにも、歌姫は戦いのとき、歌の力で
-仲間を勇気付けてくれたりもする。
-そういう、重要な役目なわけだよ。
+In addition, during battle, the Loreley's song is able to boost the morale of
+the allies. That's why it is a very important job.
 --------------------------------
 [00000284][ミストラル,ネレイス,ミスティ]
-なるほどのう。歌姫とはそのような者か……。
-で、あれば、似たような者の噂を
-聞いたことがあるぞ。
+I see. So that's what the Loreley is. I've heard that there are people with such
+similar power.
 --------------------------------
 [00000285][レイジ,レイジ,レイジ]
-ホントか!?　それはどこで？
+Really? Where?
 --------------------------------
 [00000286][ミストラル,ネレイス,ミスティ]
-帝国軍じゃ。なんでも、竜騎士とかいうものと
-一緒にこのあたりの戦場に現れては、
-美しい声で歌う娘がおるそうな。
+In the Empire. She was with this Dragon Knight in battle. A girl with a
+beautiful voice.
 --------------------------------
 [00000287][ミストラル,ネレイス,ミスティ]
-ただ、そやつはお前の言う歌姫とは違って、
-その歌声で死者の魂を吸い寄せていくとか……。
+But, there is one slight difference. Her voice takes away the souls of the dead.
 --------------------------------
 [00000288][レイジ,レイジ,レイジ]
-帝国側？　竜騎士？　それは、もしかして……。
-ローゼリンデか!?
-ローゼリンデが……ベスティアに!?
+Empire? Dragon Knight? Don't tell me, it's Roselinde? Is Roselinde in Bestia?!
 --------------------------------
 [00000289][ミストラル,ネレイス,ミスティ]
-なんじゃ？　そやつとは知り合いなのか？
+Why? Is this person someone you know?
 --------------------------------
 [00000290][レイジ,レイジ,レイジ]
-あ、ああ……。まあ……な。
+Y...yeah, you could say that.
 --------------------------------
 [00000291][レイジ,レイジ,レイジ]
-@fcFFAAFFAA（ローゼリンデ……。
-やっぱり、まだそんなことを……。
-早く……助け出してやらないと！）
+@fcFFAAFFAA(Roselinde, I see, you are still.... 
+I have to rescue you soon!)
 --------------------------------
 [00000292][リック,エルウッド,リック]
-……なんだ？　レイジ。お前も師匠に呼ばれたのか？
+...what? Rage, were you called here by teacher too?
 --------------------------------
 [00000293][レイジ,レイジ,レイジ]
-ああ。お前もか？
-サクヤさん、いったいなにがあったんです？
+Yeah, you too? Sakuya-san must have something planned.
 --------------------------------
 [00000294][サクヤ,マキシマ,サクヤ]
-たった今、報告が入ったわ。
-アルベリッヒが配下の部隊を、
-例の収容所に集めているみたい。
+We just finished this report. Alberich seems to have gathered his troops at the
+holding camp.
 --------------------------------
 [00000295][レイジ,レイジ,レイジ]
-収容所に？　
-奴ら、あそこでなにをするつもりなんです？
+At the holding camp? What is that bastard still planning there?
 --------------------------------
 [00000296][リック,エルウッド,リック]
-まさか、またあそこに人を狩り集めて……。
+Don't tell me, they captured more people?
 --------------------------------
 [00000297][サクヤ,マキシマ,サクヤ]
-……最終的にはそうするでしょうね。
-実は、あの収容所の奥には、彼らにとって
-大事な装置が隠されていることがわかったの。
+That may be possible. The truth is, inside the holding camp, they have set up an
+important device hidden inside.
 --------------------------------
 [00000298][リック,エルウッド,リック]
-大事な装置？
+Important device?
 --------------------------------
 [00000299][サクヤ,マキシマ,サクヤ]
-……人間の魂を大量に、
-しかも効率的に集めるためのものよ。
+It is used to absorb and gather large amounts of human souls.
 --------------------------------
 [00000300][リック,エルウッド,リック]
-魂を集める……？　それはつまり……。
-敵側の歌姫が持っている、
-あのランタンみたいなもの……ですか？
+Gather souls? So.... it is the same thing as the lantern that the enemy Loreley
+was using, right?
 --------------------------------
 [00000301][レイジ,レイジ,レイジ]
-…………っ！
+...!
 --------------------------------
 [00000302][サクヤ,マキシマ,サクヤ]
-……そういうことになるわ。
-奴らの目的はダークドラゴンの復活よ。
-そのためには、大量の魂が必要みたいね。
+That my be correct. Their purpose is the revival of DarkDragon. For that
+purpose, they need large amounts of souls.
 --------------------------------
 [00000303][サクヤ,マキシマ,サクヤ]
-それも、できるだけ悲しみや、苦しみ、怒りといった
-負の感情に満たされた魂がね……。
+In fact, souls filled with sadness, pain, anger, are better for them.
 --------------------------------
 [00000304][リン,シャオメイ,リンリン]
-だから、この装置を使って、多くの人を
-さんざん苦しめておいてから……。
-次々と生きたまま魂を抜き取っていたのよ。
+That is why with this device, they make lots of people suffer, and they extract
+the soul right away.
 --------------------------------
 [00000305][リン,シャオメイ,リンリン]
-そしてそれだけでは足りずに、
-多くの人が悲惨な死に方をする戦場で、
-そこにさまよっている魂を集めるようになって……。
+This is more effective than gathering souls from a battlefield.
 --------------------------------
 [00000306][リン,シャオメイ,リンリン]
-……ごめんなさい。これ以上は無理。
-説明していて、気分が悪くなってきたわ……。
+...I'm sorry, I can't go on explaining any more...
 --------------------------------
 [00000307][レイジ,レイジ,レイジ]
-くそ……。そうだったのか……！
-そのためにあれだけの人を集めて……。
-次々に魂を奪って……！
+Damn... that's how it is... they would gather people and take their souls just
+for that!
 --------------------------------
 [00000308][レイジ,レイジ,レイジ]
-……アルベリッヒ……。許せない……。
-絶対に、許せないぞ……！
+Alberich.... you won't get away... I won't forgive you!
 --------------------------------
 [00000309][リック,エルウッド,リック]
-……師匠。
-俺が必ず、アルベリッヒを倒します！
-出撃の許可を。
+Teacher. I will defeat Alberich for certain! Give me the order to set off.
 --------------------------------
 [00000310][レイジ,レイジ,レイジ]
-オレも行かせてください！　サクヤさん！
-これ以上、あんなことをさせるわけには……！
+I will go too! Sakuya-san! I can't allow something like this to go on!
 --------------------------------
 [00000311][サクヤ,マキシマ,サクヤ]
-もちろんよ。戦いに加わってもらうために、
-あなたたちを呼んだんですもの。
+I called you here precisely because of that purpose.
 --------------------------------
 [00000312][サクヤ,マキシマ,サクヤ]
-全軍、ただちに収容所に向けて出撃！
-収集装置の再稼動を阻止するわよ！
+All troops are to assemble and to head for the holding camp! We must prevent
+them from using the device again!
 --------------------------------
 [00000313][ユキヒメ,ユキヒメ,ユキヒメ]
-魂を収集する装置か……。
-いったい、なにをどのようにしたら、
-こんなに恐ろしいものを考え付くのだろうな……。
+The soul harvesting device... I shudder to think of what else they could do with
+this...
 --------------------------------
 [00000314][レイジ,レイジ,レイジ]
-ああ。そうだよな。帝国の連中、
-どうかしてやがるぜ……ホントに！
+Yeah, the Empire, no matter what...
 --------------------------------
 [00000315][レイジ,レイジ,レイジ]
-……くそ……っ！　くそくそくそっ！
-人を大勢殺して……魂を集めて……。
-ダークドラゴンを復活させるだと……!?
+Damn it! Damn, damn damn! So many killed, souls absorbed, just for the revival
+of DarkDragon?!
 --------------------------------
 [00000316][レイジ,レイジ,レイジ]
-冗談じゃねえ！　冗談じゃねえよ！
-バカ野郎……！
+Enough bullshit! Enough bullshit! Bastards!
 --------------------------------
 [00000317][ユキヒメ,ユキヒメ,ユキヒメ]
-………………。
+.....
 --------------------------------
 [00000318][レイジ,レイジ,レイジ]
-……なあ、ユキヒメ。
-なぜだ？　……どうしてなんだ？
+Yukihime... why? Tell me....
 --------------------------------
 [00000319][レイジ,レイジ,レイジ]
-教えてくれ。
-……ローゼリンデが、どうしていつまでも
-こんなやつらに利用されなきゃならないんだ……。
+Tell me.... why does Roselinde let herself be used by these bastards....
 --------------------------------
 [00000320][レイジ,レイジ,レイジ]
-人一倍、親切で真面目で、
-いつも他人のことばっかり
-心配してたようなあいつがさ……。
+She was kinder and more honest than anyone else, always puts everyone before
+herself...
 --------------------------------
 [00000321][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ……。
+Rage...
 --------------------------------
 [00000322][アルティナ,メル・シルフィス,アルティナ]
-あ！　レイジ！　やっと見つけた！
-ちょっとこっちへ来て！
+Ah! Rage, found you! Come here quick!
 --------------------------------
 [00000323][レイジ,レイジ,レイジ]
-アルティナ……？　どうしたんだ？
+Altina? What is it?
 --------------------------------
 [00000324][アルティナ,メル・シルフィス,アルティナ]
-また現れたのよ！　帝国側の歌姫が！
+She's appeared again! The Empire's Loreley!
 --------------------------------
 [00000325][レイジ,レイジ,レイジ]
-……ローゼリンデが!?
+Roselinde?!
 --------------------------------
 [00000326][アルティナ,メル・シルフィス,アルティナ]
-なんてことを……！
-また、魂を集めてるのね！
+Goodness, she's collecting the souls again!
 --------------------------------
 [00000327][リック,エルウッド,リック]
-帝国め……。どんな手を使っても、
-魂を集めるつもりなのか！
+The Empire... they are going to harvest the souls no matter what it takes!
 --------------------------------
 [00000328][レイジ,レイジ,レイジ]
-……涙？
-ローゼリンデが涙を流してる……。
+Tears? Roselinde is crying...
 --------------------------------
 [00000329][レイジ,レイジ,レイジ]
-やっぱりあいつ、こんなこと、
-したいとは思ってないんだ……！
+I knew it, there's no way she's willingly doing this...!
 --------------------------------
 [00000330][レイジ,レイジ,レイジ]
-ローゼリンデッッッ！
+Roselinde!!
 --------------------------------
 [00000331][サクヤ,マキシマ,サクヤ]
-レイジ!?
+Rage?!
 --------------------------------
 [00000332][レイジ,レイジ,レイジ]
-お、おい！　ローゼリンデ！　
-オレの言うこと、聞こえるよな？
+Hey! Roselinde! Can you hear me?
 --------------------------------
 [00000333][レイジ,レイジ,レイジ]
-お前、こんなことしたいなんて
-本当は思ってないんだろ!?
-そうだよな？
+This is isn't what you want to do at all, right?
 --------------------------------
 [00000334][レイジ,レイジ,レイジ]
-そうだと言ってくれ！
-頼む！　ローゼリンデ！
+Say something! Please, Roselinde!
 --------------------------------
 [00000335][リン,シャオメイ,リンリン]
-……今はだめよ、レイジ。
-聞こえてはいるかも知れないけど、
-あの子の心にまでは届いていないわ。
+...It's no use, Rage. I don't know if she can hear you, but your voice won't
+reach her heart.
 --------------------------------
 [00000336][リン,シャオメイ,リンリン]
-あの子の心は……ここにはないわ。
-心を取り戻させてあげなければ……。
-あなたの声に応えることもできない。
+That girl's heart... isn't here. Her heart has been taken away. Your voice won't
+reach her.
 --------------------------------
 [00000337][レイジ,レイジ,レイジ]
-でも、ローゼリンデは涙を……っ！
-ローゼリンデ……。話を聞いてくれよ！
-ローゼリンデ℃――――――――￥っ！
+But, Roselinde is crying...! Roselinde, listen to me! Roselinde-!!
 --------------------------------
 [00000338][ミストラル,ネレイス,ミスティ]
-レイジ！　
-どんな事情があるかは知らんが、もうよせ！
-相手には、話をする気などありはせん！
+Rage
 --------------------------------
 [00000339][ミストラル,ネレイス,ミスティ]
-見ろ！　奴ら、戦う気満々で
-向かってくるではないか！
+Look! They are already prepared to fight us!
 --------------------------------
 [00000340][レイジ,レイジ,レイジ]
-…………くそぉ……っ！
-
+...damn it!
 --------------------------------
 [00000341][レイジ,レイジ,レイジ]
-ダメか……。やっぱり答えてくれないのか……！
+It's no use... she won't answer me...!
 --------------------------------
 [00000342][レイジ,レイジ,レイジ]
-リンリンの言った通り……心のないままじゃ、
-ローゼリンデは取り返せないのか……。
-どうすればいいんだ……いったいどうすれば……。
+Rinrin is right... if her heart isn't here, I can't get Roselinde back... What
+should I do... just what should I do?
 --------------------------------
 [00000343][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ。ローゼリンデが行ってしまうが……。
-いいのか？　このままで。
+Rage, Roselinde is going. Is this okay? Letting her go?
 --------------------------------
 [00000344][レイジ,レイジ,レイジ]
-……ま、待てよ……待ってくれ！
-せめて……呼びかけるだけでも……！
+W.... wait! At least... let me call out to her...!
 --------------------------------
 [00000345][リック,エルウッド,リック]
-おい！　よせ！
+Hey! Stop!
 --------------------------------
 [00000346][ユキヒメ,ユキヒメ,ユキヒメ]
-大丈夫だ、リック。レイジもわかっている。
-追いかけていったりはしない。
-だから……言わせてやってくれ。
+It's okay, Rick. Rage knows there is no point in chasing. So, just let him
+speak.
 --------------------------------
 [00000347][リック,エルウッド,リック]
-…………なら……好きにしろ。
+...fine, do what you want.
 --------------------------------
 [00000348][レイジ,レイジ,レイジ]
-ローゼリンデ！　これだけは覚えといてくれ！
-今はなにも感じなくてもいい！　
-とにかく、覚えといてくれればいいんだ！
+Roselinde! At least remember this! Whatever you feel is fine! At least try to
+remember!
 --------------------------------
 [00000349][レイジ,レイジ,レイジ]
-どうすればいいのか、今はまだわからない。
-だけど、なんとかして……必ず……！　絶っっ対に！
-お前を、連れ戻してやるからな！
+What should I do, I don't know right now. But I do know that I will definitely
+return you to normal!
 --------------------------------
 [00000350][レイジ,レイジ,レイジ]
-いいか！　絶対にだ！　わかったな！
-だから……信じて、待っててくれ！
-お願いだ……！　ローゼリンデっ!!
+Got it?! I will do it! That's why, believe in me, and wait for me, please!
+Roselinde!!
 --------------------------------
 [00000351][ユキヒメ,ユキヒメ,ユキヒメ]
-……すまないな、リック。
+I'm sorry, Rick.
 --------------------------------
 [00000352][リック,エルウッド,リック]
-……気に……するな。
-……なあ、ユキヒメ。レイジは……。
+Don't mind me. So, Yukihime, Rage is...
 --------------------------------
 [00000353][リック,エルウッド,リック]
-………………いや、いい。
-忘れてくれ……。
+.... no, forget it.
 --------------------------------
 [00000354][ユキヒメ,ユキヒメ,ユキヒメ]
-…………そうか。
+..... I see.
 --------------------------------
 [00000355][none]
-@lt1@dt2@db1@dc88000088収容所での戦いの後、
-アルベリッヒはベスティアから撤退。
+@lt1@dt2@db1@dc88000088 After the battle at the holding camp, Alberich retreats from Bestia.
 --------------------------------
 [00000356][none]
-@lt1@dt2@db1@dc88000088からくも帝国軍の手を逃れた生存者たちは、
-抵抗組織のメンバーを中心に
-「ベスティア軍」を再編成することになる。
+@lt1@dt2@db1@dc88000088 The survivors who barely escaped from the Empire,
+form together back into the Bestia Army once again.
 --------------------------------
 [00000357][none]
-@lt1@dt2@db1@dc88000088レイジたちは、同盟軍の代表者と
-今後の方策を協議するため、刃九郎を伴って
-自分たちの根拠地であるシルディアへと帰還する。
+@lt1@dt2@db1@dc88000088 Rage and everyone will now work with the allies, together with Jin-Crow.
+They then return to Syldia.
 --------------------------------
 [00000358][none]
-@lt1@dt2@db1@dc88000088そして彼らは、シルディアの砦で
-思わぬ出迎えを受けることになるのだった。
+@lt1@dt2@db1@dc88000088 And there, Syldia Fortress greets them with an unexpected welcome.
 --------------------------------
 [00000359][サクヤ,マキシマ,サクヤ]
-そろそろいい？
-準備できたら出かけましょう。
+Is it about time?  Let's go out when you're ready.
 --------------------------------
 [00000360][サクヤ,マキシマ,サクヤ]
-用意はいいかしら？
-問題なければ出撃しましょう。
+Are you ready?  If there is no problem, let's sortie.
 --------------------------------

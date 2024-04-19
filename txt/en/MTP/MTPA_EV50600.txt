@@ -1,189 +1,154 @@
 [0047]
 *****************
 [00000000][フェンリル,,フェンリル]
-スレイプニルの突破を許すな！
-ここで阻止するんだ！
+Don't let Sleipnir break through! Stop him in his tracks!
 --------------------------------
 [00000001][レイジ,レイジ,レイジ]
-わかってる！　
-ここから先には一歩も通さねえぞ！
+Understood! We will get to him from here!
 --------------------------------
 [00000002][クララクラン,クララクラン,クララクラン]
-さすがは勇者様……！
-わたくしも聖女の盾で、皆さんを守ります。
+As expected of the hero! I and the Holy Shield, will protect everyone.
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-副隊長！　スレイプニルが逃げるぜ！
+Vice-captain! Sleipnir is escaping!
 --------------------------------
 [00000004][フェンリル,,フェンリル]
-なんとか撃退できたな……。
-一時はどうなることかと……。
+We have beaten them back somehow... this time again...
 --------------------------------
 [00000005][サクヤ,マキシマ,サクヤ]
-……安心するのは早いみたいよ、フェンリル。
-これを見て。今、伝令が持ってきた報告よ。
+It's still too early to relax, Fenrir. Look at this, the messenger's report.
 --------------------------------
 [00000006][フェンリル,,フェンリル]
-……これは……！　ベスティア、フォンティーナ、
-それにルーンベールでも!?　ヴァレリアの
-ほぼ全域で帝国軍が攻勢に出たというんですか？
+... what? Bestia, Fontina, and Runevale too? The whole of Valeria is under the
+attack from the Empire?
 --------------------------------
 [00000007][サクヤ,マキシマ,サクヤ]
-予想外だったわね。まさか、敵にそんな余力が
-あるとは思ってもみなかったわ。
+This is entirely unexpected. To think that the enemy still had this amount of
+military strength left.
 --------------------------------
 [00000008][フェンリル,,フェンリル]
-情勢を探る必要がありますね。
-レイジ、他の拠点を回って、
-なにが起きているのか確かめてみよう。
+We have to investigate the situation. Rage, scout out the other places, just in
+case anything is happening.
 --------------------------------
 [00000009][レイジ,レイジ,レイジ]
-わかった！　すぐに出発したほうがいいよな？
-急ごうぜ！
+Understood. I will set off right away!
 --------------------------------
 [00000010][スルト,,スルト]
-やっぱりお前が出てきたか。
-だろうとは思ったけどな。
+You finally showed up. Just like I knew you would.
 --------------------------------
 [00000011][フェンリル,,フェンリル]
-……ああ。お前を、
-俺の手で倒さなきゃならんからな。
+Indeed. I will defeat you with my own hands.
 --------------------------------
 [00000012][レイジ,レイジ,レイジ]
-副隊長、やろうぜ！
-今度こそ決着をつけるんだ！
+Vice-captain, let's do this! Time to settle things once and for all!
 --------------------------------
 [00000013][スルト,,スルト]
-ふん！　決着だと？　いいだろう。
-遠慮すんなよ、かかってこいよ。
+Heh! Settle things? Fine by me! Save the pleasantries and just bring it!
 --------------------------------
 [00000014][スルト,,スルト]
-お前らまとめてブチ殺してやるからよぉ！
+I'm gonna kill all of you!
 --------------------------------
 [00000015][フェンリル,,フェンリル]
-スルト。そろそろ観念したらどうだ。
-もう、勝負はついたも同然だ。
+Surt, it's time for you to give up. We have already won.
 --------------------------------
 [00000016][スルト,,スルト]
-なにを寝ぼけたことを言ってやがる。
-ちったぁ落ち着いて、あたりを見回してみろ？
+You're still dreaming, aren't you? Why don't you calm down, and take a look
+around you?
 --------------------------------
 [00000017][フェンリル,,フェンリル]
-なに……？
+What...?
 --------------------------------
 [00000018][フェンリル,,フェンリル]
-なんだ!?　今の攻撃はどこから……。
+What the?! Where did that attack come from?
 --------------------------------
 [00000019][スルト,,スルト]
-ふん、アルベリッヒの野郎。もたもたしやがって。
-もっと早く動けねえのかってんだ。
+Hmph, that bastard Alberich. He took his time. He should have moved sooner.
 --------------------------------
 [00000020][リック,エルウッド,リック]
-アルベリッヒだと……？
+Alberich?
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-副隊長！　新手だ！　すごい大群が来る！
-しかも、なんか大きな機械まで……。
-あれは、敵の新兵器か？
+Vice-captain, we've got company! A large group is coming here. And it looks like
+they have a big machine with them. Could it be a new weapon?
 --------------------------------
 [00000022][サクヤ,マキシマ,サクヤ]
-あれは……古代兵器！　いけない！
-みんな、急いで後退よ！
-これじゃ勝ち目がないわ！
+That is... an ancient weapon! This is bad! Everyone, please fall back! We have
+no chance of victory here!
 --------------------------------
 [00000023][サクヤ,マキシマ,サクヤ]
-フェンリル！　悔しいとは思うけど……。
-今は逃げて！　全滅したら、元も子もないわ！
-リックもよ！
+Fenrir, this is regrettable, but we have to escape from here! We won't be able
+to do anything if we get wiped out here! Rick too!
 --------------------------------
 [00000024][フェンリル,,フェンリル]
-……わかり……ました。
-全軍！　撤退だ!!
+I... understand. Fall back, everyone!!
 --------------------------------
 [00000025][リック,エルウッド,リック]
-くそっ……！　またなのか……！
-いつになったらアルベリッヒと……！
+Damn... once again... it's always the same with Alberich!
 --------------------------------
 [00000026][スルト,,スルト]
-はっはっはぁ！　逃げろ逃げろぉ！
-せいぜい惨めに逃げ回るがいいさ！
-後でゆっくり殺してやるからよ！
+Hahhahhahha! Run, run! Run as far as you can! You'll all be killed anyway!
 --------------------------------
 [00000027][アイラ,ブランネージュ・ガルディニアス,アイラ]
-援軍は、なかなか善戦しているようだな。
-いい傾向だ。
+The rescue troops are doing a fine job. We owe it to them
 --------------------------------
 [00000028][エルミナ,ローデリア,エルミナ]
-はい……。とてもありがたいです……。
+Yes... we are really thankful...
 --------------------------------
 [00000029][レイジ,レイジ,レイジ]
-こっちからも攻撃をかければ、敵は大混乱だ！
-一気に突っ込むぞ！
+The enemy is in disarray! Time to attack! Give it everything!
 --------------------------------
 [00000030][エルミナ,ローデリア,エルミナ]
-わ、わかりました……！　行きます……！
+U... understood! Here I go!
 --------------------------------
 [00000031][アルベリッヒ,,アルベリッヒ]
-押されている……？　我が軍が？
-……伯爵！
+We've been pushed back? My army? ...Earl!
 --------------------------------
 [00000032][アイザック,,伯爵]
-お困りのようですな。
-どうされますか？
+You seem to be in trouble. What do you need?
 --------------------------------
 [00000033][アルベリッヒ,,アルベリッヒ]
-この状況をどうにかしろ。
-例の兵器を使うぞ。
+Do what you need for this situation. Use the weapon.
 --------------------------------
 [00000034][アイザック,,伯爵]
-承知しました。少々お待ちを……。
+Understood. Please wait.
 --------------------------------
 [00000035][none]
-ev50610　ボス登場演出（古代兵器）
+ev50610 Boss appearance (ancient weapon)
 --------------------------------
 [00000036][エルミナ,ローデリア,エルミナ]
-あれは……？
-危険な敵が接近しています……！
+That is...? A dangerous enemy is coming!
 --------------------------------
 [00000037][アイラ,ブランネージュ・ガルディニアス,アイラ]
-この間の古代兵器……！
-やはり持ち出してきたか……。
-どうする？　サクヤ。
+The ancient weapon! They brought it out in the end. What now, Sakuya?
 --------------------------------
 [00000038][サクヤ,マキシマ,サクヤ]
-今回は逃げるわけには行かないわ。
-ここで叩くわよ。
+This time we can't run. We have to smash it.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-わかりました！　やろうぜ、みんな！
-いくら強そうなヤツだって、全員で力をあわせりゃ、
-どうってこたぁないさ！
+Understood! Let's too this, everyone! It doesn't matter how strong the enemy is.
+As long as we pool our strengths together, we can win this!
 --------------------------------
 [00000040][アルベリッヒ,,アルベリッヒ]
-ふん。無駄なあがきだ。
-古代兵器の力、思い知るがいい！
+Hmph. Futile struggling. Witness the might of the ancient weapon!
 --------------------------------
 [00000041][アルベリッヒ,,アルベリッヒ]
-なんということだ！　こちらの切り札が……！
-やむをえん。撤退するぞ。
+How could this be! That was our trump card! There's no point staying. Let's pull
+out.
 --------------------------------
 [00000042][アイザック,,伯爵]
-それがいいでしょう。
-次の作戦のためにも。
+That is just as well. For the next battle.
 --------------------------------
 [00000043][レイジ,レイジ,レイジ]
-やった……！　
-ようやく古代兵器を倒した……！
-みんな！　やったぞ！　オレたちの大勝利だ!!
+We did it! We finally defeated the ancient weapon! Everyone! We did it! It's our
+great victory!!
 --------------------------------
 [00000044][リック,エルウッド,リック]
-くそっ……アルベリッヒの奴が逃げる……！
+Damn! Alberich got away...
 --------------------------------
 [00000045][サクヤ,マキシマ,サクヤ]
-そうね。それにもう１人……。
-その背後にいる奴を逃がしたのが残念だわ……。
+Yes... the other person too. It's unfortunate letting get away when they were
+this close...
 --------------------------------
 [00000046][サクヤ,マキシマ,サクヤ]
-伯爵……やっぱりあの男が、
-暗躍しているのね……！
+Earl... you really are behind this...
 --------------------------------

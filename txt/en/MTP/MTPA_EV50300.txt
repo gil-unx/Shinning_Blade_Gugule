@@ -1,353 +1,297 @@
 [0092]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-副隊長！　敵がいるぜ!?
+Vice-captain! The enemy is here!
 --------------------------------
 [00000001][フェンリル,,フェンリル]
-ああ、見えてる！　
-だが、スルトの姿がないな……。
-この隊の指揮官は、スルトに間違いないんだな？
+I see them! But I don't see Surt. Is he really leading this group?
 --------------------------------
 [00000002][リン,シャオメイ,リンリン]
-間違いないよ！　黒い狼の獣人を見たって、
-情報があった！
+There's no mistake. A wolf Beastfolk is spotted, that was the intel.
 --------------------------------
 [00000003][フェンリル,,フェンリル]
-なら、スルトは敵の先行部隊と一緒か。
-目の前の連中を片付けて、スルトを追うぞ！
+Then Surt must be ahead. We will first smash these guys, then move forward after
+him!
 --------------------------------
 [00000004][リック,エルウッド,リック]
-副隊長、スルトは？
+Vice-captain, what about Surt?
 --------------------------------
 [00000005][フェンリル,,フェンリル]
-獣人の足跡を見つけた。
-この先にいるに違いない！
+There are Beastfolk footprints here. He has to be ahead!
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-わかった！　逃がすもんか！
+Understood! He won't get away!
 --------------------------------
 [00000007][none]
-ev50304　ボス登場演出（スルト）
+ev50304 Boss appearance production (Sult)
 --------------------------------
 [00000008][フェンリル,,フェンリル]
-スルト……。あれは、お前のやったことか？
-こちらの補給部隊を皆殺しにしたばかりか、
-魂まで手にかけたのは……！
+Surt... Were you behind this? You massacred the supply troops, then took away
+their souls!
 --------------------------------
 [00000009][スルト,,スルト]
-補給部隊？　ああ……あの連中のことか。
-その通り。殺ったのは俺だぜ。
-だったらどうした？　フェンリルさんよう！
+Supply troops? Oh, those guys. Correct! That was me. What are you going to do
+about it, Mr Fenrir?
 --------------------------------
 [00000010][フェンリル,,フェンリル]
-やはりか……この外道……っ！
+You fiend!
 --------------------------------
 [00000011][スルト,,スルト]
-ぐははは！　そいつは嬉しいほめ言葉だぜぇ！
-ほめてくれたお礼に……お前らも連中と、
-おんなじ目にあわせてやるよ!!
+Ghahahaha! Such kind words. Can't say the same for you though.
 --------------------------------
 [00000012][スルト,,スルト]
-ちっ！　分が悪いな。
-フェンリル！　勝負は預けた！
+Tch! Bad luck. Fenrir! We'll settle this again!
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-副隊長！　スルトが逃げる！
-追いかけなきゃ！
+Vice-captain, Surt is escaping, after him!
 --------------------------------
 [00000014][フェンリル,,フェンリル]
-逃がさんぞ、スルト……！
+You won't escape me, Surt!
 --------------------------------
 [00000015][サクヤ,マキシマ,サクヤ]
-フェンリル！　レイジ！　落ち着いて！
-深追いは危険よ！
+Fenrir, Rage! Calm down. It's too dangerous to go after him!
 --------------------------------
 [00000016][レイジ,レイジ,レイジ]
-サクヤさん！　追わせてください！
-あいつら、このままほっとくわけには……！
+Sakuya-san! We have to chase him down! If we let him go now, he would only...
 --------------------------------
 [00000017][サクヤ,マキシマ,サクヤ]
-気持ちはわかるけど、やめなさい！
-これ以上、戦力を消耗するわけにはいかないのよ！
+I understand your feelings, but please stop. We can't afford to thin out our
+forces right now!
 --------------------------------
 [00000018][フェンリル,,フェンリル]
-くっ……。
+Kh...
 --------------------------------
 [00000019][レイジ,レイジ,レイジ]
-でも……あいつら、ひどすぎます。この様子じゃ、
-オレの友達がどんな目にあわされてるか……。
+But... that guy was just cruel! Are we just suppose to let him go after what he
+did to our friends?
 --------------------------------
 [00000020][リック,エルウッド,リック]
-……そうだ……ネリスだって……！
-もし、あいつらに捕まってたら……。
+That's right... Neris too. He might have captured her...
 --------------------------------
 [00000021][サクヤ,マキシマ,サクヤ]
-…………レイジ、リック、フェンリル。
-……必ず、チャンスは作るわ。
-だから……お願い。今はこらえて！
+Rage, Rick, Fenrir, we will get another chance... but for now, please, just
+endure this for now!
 --------------------------------
 [00000022][レイジ,レイジ,レイジ]
-………………わかりました。
-……機会を待ちます。
+...... I understand. I will wait for another chance...
 --------------------------------
 [00000023][サクヤ,マキシマ,サクヤ]
-ごめんね……。みんな……。
+I'm sorry.... everyone...
 --------------------------------
 [00000024][レイジ,レイジ,レイジ]
-はぁ……山登りなんか、久しぶりだ。
-アイラ姫ってのは、どの辺にいるんだ？
+Whew, what a climb. Is Princess Aira near here?
 --------------------------------
 [00000025][エルミナ,ローデリア,エルミナ]
-この先にある洞窟を抜けた、
-山頂にいらっしゃるはずです。
-そこに、きっとエールブランも……。
+First we have to exit the caverns, the reach the summit. AileBlan also has to
+be...
 --------------------------------
 [00000026][レイジ,レイジ,レイジ]
-山頂に行けば、その両方に一度に会えるわけだな。
-おっしゃ！　気合入れて登るかぁ！
+So all we have to do is to reach the summit, and we can find both of them. Okay!
+I'm ready!
 --------------------------------
 [00000027][エルミナ,ローデリア,エルミナ]
-はい……がんばりましょう……！
+Let's do our best!
 --------------------------------
 [00000028][ユキヒメ,ユキヒメ,ユキヒメ]
-元気なのはいいが、なにやらこのあたり、
-嫌な気配を感じるぞ……。警戒も怠るなよ！
+It's good that you are so energetic. But I sense something. Be careful!
 --------------------------------
 [00000029][エルミナ,ローデリア,エルミナ]
-えと……確かこのあたりに……。
+Hm... it should be around here....
 --------------------------------
 [00000030][レイジ,レイジ,レイジ]
-どした？　なにをキョロキョロしてんだ？
+What's wrong, what are you looking for?
 --------------------------------
 [00000031][エルミナ,ローデリア,エルミナ]
-はい、洞窟の入り口は、
-確かこのあたりのはずだと思いまして……。
+The entrance to the caverns. It should be around here somewhere.
 --------------------------------
 [00000032][エルミナ,ローデリア,エルミナ]
-あ……。ありました。こちらへ……。
+Ah! There it is. Over here.
 --------------------------------
 [00000033][レイジ,レイジ,レイジ]
-うわ……。思ってたより、ずいぶん広い洞窟だな。
-これが、山頂に通じてるのか？
+Wow. The caverns were even bigger than I thought. Is this the way to the summit?
 --------------------------------
 [00000034][エルミナ,ローデリア,エルミナ]
-はい……。ここを歩いていきます……。
-足元にはお気をつけて……。
+Yes. Please walk this way. Watch your step.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-なんだか、すごいところだな。
-アイラ姫は、ここを１人で歩いていったのか……。
-ずいぶん度胸があるんだな……。
+This place is amazing. Princess Aira came through here alone. She's got guts.
 --------------------------------
 [00000036][エルミナ,ローデリア,エルミナ]
-はい……！　アイラ様はとても勇敢で、
-そして、お優しい方です。
+Yes! Aira-sama is not only brave, but kind too.
 --------------------------------
 [00000037][エルミナ,ローデリア,エルミナ]
-アイラ様、もう少しだけお待ち下さい……。
-もうすぐ、おそばに参ります……！
+Aira-sama, please hold on a bit more. I'm coming to you.
 --------------------------------
 [00000038][エルミナ,ローデリア,エルミナ]
-皆さん、もうすぐ山頂に出ます……。
-アイラ様のいらっしゃるところです……。
+Everyone, we're almost at the top. Aira-sama is waiting for us there.
 --------------------------------
 [00000039][アルティナ,メル・シルフィス,アルティナ]
-それに、ドラゴンもね。
+And the Dragon too.
 --------------------------------
 [00000040][レイジ,レイジ,レイジ]
-……もうすぐご対面ってわけか。
-ちょっとドキドキしてきたぜ……。
+We're finally going to meet. I'm getting a little excited.
 --------------------------------
 [00000041][ユキヒメ,ユキヒメ,ユキヒメ]
-……それは「ドラゴンに会えるから」だろうな？
-アイラ姫に会えるから……ではあるまいな？
+Excited? From meeting with the Dragon, or meeting with Princess Aira?
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-うっ……！　ド、ドラゴンの方に決まってんだろ？
-なに言ってんだよ、ユキヒメ。
-あは、あははははは……。
+Gh...! T... The Dragon, obviously! What a question to ask. Aha... hahaha....
 --------------------------------
 [00000043][ユキヒメ,ユキヒメ,ユキヒメ]
-まったく、お前ときたら……。
-わかりやすすぎて、怒る気にもなれん……。
+Good grief, you're always like this. Watching you is like reading an open book,
+no point in even getting angry...
 --------------------------------
 [00000044][none]
-ev50314　ボス登場演出（エールブラン）
+ev50314 Boss appearance production (Ale Blanc)
 --------------------------------
 [00000045][レイジ,レイジ,レイジ]
-これがドラゴンか……。
-さすがにすごい迫力だな……。
+This is the Dragon. Such a powerful presense.
 --------------------------------
 [00000046][エルミナ,ローデリア,エルミナ]
-こ、怖いです……。
-でも、ドラゴン相手に飲まれてちゃ
-アイラ様に合わせる顔がありませんから！
+I'm scared. But if we don't face the Dragon, we can't see Aira-sama!
 --------------------------------
 [00000047][エールブラン,エールブラン,エールブラン]
-私は氷竜エールブラン。定命の者たちよ。
-なにゆえ我が領域に足を踏み入れたのだ？
+I am the Ice Dragon Aile Blan. Destined ones, why have you set foot into my
+domain?
 --------------------------------
 [00000048][レイジ,レイジ,レイジ]
-エールブラン！　聞いてくれ！
-オレたちは氷の精霊王について、
-あんたに教えてもらいに来た。
+AileBlan! Please listen. We have come here in search of the Ice Spirit King.
+Please tell us where to find him.
 --------------------------------
 [00000049][レイジ,レイジ,レイジ]
-オレたちは「シャイニング・ブレイド」の封印を
-解くために、精霊王に会わなきゃならないんだ。
-あんたなら精霊王の居場所を知ってるんじゃないか？
+In order to remove the seal on the Shining Blade, we have to meet with the
+Spirit King. Do you know where he is?
 --------------------------------
 [00000050][エルミナ,ローデリア,エルミナ]
-そ、そうです……！　お願いします！
-精霊王のこと、教えてください……！
+Y... yes, that's right. Please tell us about the Spirit King.
 --------------------------------
 [00000051][エールブラン,エールブラン,エールブラン]
-……なるほど、事情はわかった。私は確かに、
-精霊王について、いろいろと知っている。
+So that is how it is. I understand the situation. I do indeed know where the
+Spirit King is.
 --------------------------------
 [00000052][エルミナ,ローデリア,エルミナ]
-ほ、本当ですか!?　では……！
+Really? Then...
 --------------------------------
 [00000053][エールブラン,エールブラン,エールブラン]
-だが、精霊王に会わせる前に
-お前たちが信頼に足るものかどうか、
-確かめさせてもらわねばな。
+However, before you can meet with the Spirit King, I will have to make sure that
+you can be trusted. I will test you all.
 --------------------------------
 [00000054][エルミナ,ローデリア,エルミナ]
-確かめる……ですか？
+Test us?
 --------------------------------
 [00000055][レイジ,レイジ,レイジ]
-それはかまわないけど……。
-いったいどうやって？
+I don't mind. What do you want us to do?
 --------------------------------
 [00000056][エールブラン,エールブラン,エールブラン]
-決まっている！　我が試練を受けるのだ！
-私に打ち勝ち、お前たちが光の加護の下にあることを
-証明して見せるがいい！
+What else could it be? Accept my trial! If you can defeat me, it will be proof
+that you all are favored by the light!
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-やった！　オレたちの勝ちだ！
+Yes! Victory!
 --------------------------------
 [00000058][エールブラン,エールブラン,エールブラン]
-見事だ……。
-まさしくお前たちは、光の加護を受けた者……。
+Impressive. There is no doubt. You are favored by the light.
 --------------------------------
 [00000059][エルミナ,ローデリア,エルミナ]
-あ、ありがとうございます……！
+T... thank you!
 --------------------------------
 [00000060][スルト,,スルト]
-ふふふふ……。情報どおりだな。
-行方がつかめなかったアイラ王女と、
-お供の娘が１人……。うまい具合に休憩中か。
+Hehehehe... the information was correct. Princess Aira is alone with one girl.
+Such a great opportunity.
 --------------------------------
 [00000061][スルト,,スルト]
-氷刃の魔女だかなんだか知らねえが、
-ろくな護衛もなしに王城に帰るとは……。
-油断したもんだな。
+She thinks that just because she is the Witch of Ice Blades, she can just leave
+the castle without any guards.
 --------------------------------
 [00000062][スルト,,スルト]
-だが、これを見逃す手はねえ。
-野郎ども！　かかれ！　お姫さんを片付けて、
-精霊王の卵とやらを分捕るんだ！
+I'm not going to let her get away. Listen up you miserable dogs! Get the
+princess and take the Spirit King Egg!
 --------------------------------
 [00000063][レイジ,レイジ,レイジ]
-おっと！　そう簡単にはいかないぜ！
+Hold it. You didn't think it would be that easy, did you?
 --------------------------------
 [00000064][フェンリル,,フェンリル]
-思ったより簡単にひっかかってくれたな！　スルト！
+I didn't realize it was that easy to reel you in, Surt!
 --------------------------------
 [00000065][スルト,,スルト]
-なに!?　包囲されてるだと……！
-てめえら！　ハメやがったな……！
+What? We're surrounded? You bastards! Don't you screw with me!
 --------------------------------
 [00000066][エルミナ,ローデリア,エルミナ]
-あなたに言われたくありません……っ！
+You shouldn't be the one to say that.
 --------------------------------
 [00000067][アイラ,ブランネージュ・ガルディニアス,アイラ]
-そうだ。だいたい、この程度の計略で
-だまされる方が悪いのだ。
-さあ、覚悟するがいい！
+For such a simple trap, it's your own fault for getting caught in it. Prepare
+yourself!
 --------------------------------
 [00000068][アイラ,ブランネージュ・ガルディニアス,アイラ]
-こちらが反撃態勢を整える間は、
-みんな、悪いが援護を頼む！
-それに、エルミナを守ってやってくれ。
+The enemy is counter-attacking. Please back us up. And protect Elmina.
 --------------------------------
 [00000069][レイジ,レイジ,レイジ]
-わかった！　任せとけ！
+Understood! Leave it to me!
 --------------------------------
 [00000070][エルミナ,ローデリア,エルミナ]
-アイラ様……私は大丈夫ですよ！
+Aira-sama! I am okay!
 --------------------------------
 [00000071][スルト,,スルト]
-くそ……！　どうにも状況がよくねえ。
-ここはいったん、退くとするか！
+Damn! This is a bad situation. I have to get out of here!
 --------------------------------
 [00000072][エルミナ,ローデリア,エルミナ]
-レイジさん！　フェンリルさん！
-敵が逃げていきます……！
+Fenrir-san, Rage-san! The enemy is escaping!
 --------------------------------
 [00000073][レイジ,レイジ,レイジ]
-あ！　待ちやがれっ！
+Ah! Hold it!
 --------------------------------
 [00000074][フェンリル,,フェンリル]
-スルト！　また逃げる気か！
-待て！　スルト℃―――――￥ッ！
+Surt! Are you running away? Hold it! Surt----!!
 --------------------------------
 [00000075][none]
-ev50321　ボス登場演出（ファフナー）
+ev50321 Boss appearance production (Fafner)
 --------------------------------
 [00000076][レイジ,レイジ,レイジ]
-おい！　お前、ローゼリンデになにをした！
-その剣はいったい……。
+Hey, you! What have you done to Roselinde? And what's that sword?
 --------------------------------
 [00000077][ファフナー,,ファフナー]
-これは心剣……。ローゼリンデの心だ。
-彼女を守るため、俺が借りている。
+This is a HeartSword. Roselinde's heart. To protect her, I am borrowing this.
 --------------------------------
 [00000078][レイジ,レイジ,レイジ]
-なに……？　お前はいったい……？
+What? Exactly who are you?
 --------------------------------
 [00000079][ファフナー,,ファフナー]
-我が名はファフナー。歌姫の守り手。
-……そういうお前は？
+My name is Fafner. Protector of the Loreley. And you are?
 --------------------------------
 [00000080][レイジ,レイジ,レイジ]
-オレはレイジ！　ローゼリンデの友達だ！
+I am Rage! A friend of Roselinde!
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-ローゼリンデを……返せ℃―――――￥っ！
+Give Roselinde back to me---!!
 --------------------------------
 [00000082][レイジ,レイジ,レイジ]
-ローゼリンデを……返せってんだよ！
+You will give Roselinde back!
 --------------------------------
 [00000083][ローゼリンデ,フレイア,ローゼリンデ]
-なにを言っているの？
+What are you talking about?
 --------------------------------
 [00000084][レイジ,レイジ,レイジ]
-……え？
+Eh?
 --------------------------------
 [00000085][ローゼリンデ,フレイア,ローゼリンデ]
-私はあなたなんて知らない。
+I do not know you.
 --------------------------------
 [00000086][ローゼリンデ,フレイア,ローゼリンデ]
-あなたの友達などではない。
+I am not your friend.
 --------------------------------
 [00000087][レイジ,レイジ,レイジ]
-くっ……！　ローゼリンデ！
+Kh.... Roselinde!
 --------------------------------
 [00000088][ファフナー,,ファフナー]
-そろそろいいだろう。
-ローゼリンデ、戻ろう。
+That's enough. Roselinde, come back.
 --------------------------------
 [00000089][ローゼリンデ,フレイア,ローゼリンデ]
-はい。
+Yes.
 --------------------------------
 [00000090][レイジ,レイジ,レイジ]
-な!?　おい、ローゼリンデ！
-どこへ行くんだ！　こっちに来てくれ！
-帰ってくるんだ！　ローゼリンデ！
+What? Hey, Roselinde! Where are you going? Come here! Come back! Roselinde!
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-ローゼリンデッ！
+Roselinde!
 --------------------------------

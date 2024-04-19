@@ -1,386 +1,328 @@
 [0096]
 *****************
 [00000000][レイジ,レイジ,レイジ]
-遺跡の地下はこんな風になってたのか……。
+To think that this is under the ruins...
 --------------------------------
 [00000001][リン,シャオメイ,リンリン]
-うんうん、いかにもって感じの地下遺跡だね。
-面白いものがいろいろありそう！
+Mmhm, it's quite the labyrinth. Lots of interesting things around!
 --------------------------------
 [00000002][レイジ,レイジ,レイジ]
-だよな？　さっそく探索を始めようぜ！
+I know right? Let's begin the search!
 --------------------------------
 [00000003][レイジ,レイジ,レイジ]
-ふぅ……なんか、思ったよりキツいぞ？　この迷宮。
-出てくるモンスターもかなり強いし。
+Whew... this is harder than I thought, this labyrinth. The monsters are also
+stronger.
 --------------------------------
 [00000004][ユキヒメ,ユキヒメ,ユキヒメ]
-潜って早々、弱音を吐く奴があるか！
-遺跡はまだまだ下に続いているのだぞ！
-しっかりせんか！
+We've barely just started, and already you're whining! There is still a long way
+to go, so get a grip on yourself!
 --------------------------------
 [00000005][レイジ,レイジ,レイジ]
-そっか。そうだな……。この遺跡になにがあるのか、
-ちゃんと確かめてこないとな。
+Yeah, you're right... There is something with these ruins, we have to
+investigate.
 --------------------------------
 [00000006][レイジ,レイジ,レイジ]
-あれ？　おかしいな。床に足跡が残ってる……。
-誰か、先にここに入ったのか？
+Huh? Strange, there are footprints here. Has someone already entered before us?
 --------------------------------
 [00000007][ユキヒメ,ユキヒメ,ユキヒメ]
-我々以外にこんなところに用があるのは……。
-もしかして、帝国軍の残党かも知れんぞ。
-レイジ、気をつけろ！
+Someone other than us has entered here before... could it be, the Imperial Army
+remnants? Rage, be careful!
 --------------------------------
 [00000008][レイジ,レイジ,レイジ]
-くそっ……。
-まだ悪さをしようとしてる連中がいるのか？
-ふざけんじゃねえ。絶対に止めてやるぞ！
+Damn it... Are they still planning to do more harm? I will stop them for sure!
 --------------------------------
 [00000009][ユキヒメ,ユキヒメ,ユキヒメ]
-レイジ！　あれを見ろ！
+Rage! Over there!
 --------------------------------
 [00000010][レイジ,レイジ,レイジ]
-な!?　あれは……帝国軍の魔竜!?
-どうしてこんなところに？
+Wha?! Is that... the Imperial Army's Magic Dragon?! What is it doing here?
 --------------------------------
 [00000011][レイジ,レイジ,レイジ]
-って、考えてる場合じゃないか！
-とにかく、倒さなきゃ先に進めないもんな！
+Tch, this is not the time for that! Anyway, we have to defeat it before we can
+proceed!
 --------------------------------
 [00000012][ユキヒメ,ユキヒメ,ユキヒメ]
-どうにか倒したか。
-しかし、こんなところで魔竜に出くわすとは。
-これも、帝国の残党の仕業なのか……？
+We defeated it somehow. However, for the Magic Dragon to appear here, is this
+too the work of the Empire Remnants...?
 --------------------------------
 [00000013][レイジ,レイジ,レイジ]
-ん？　これは……。
+Hm? That is...
 --------------------------------
 [00000014][ユキヒメ,ユキヒメ,ユキヒメ]
-どうした？　レイジ。
-なにか見つけたのか？
+What is it, Rage? Did you find something?
 --------------------------------
 [00000015][レイジ,レイジ,レイジ]
-なんか、円盤みたいなものが落ちてる。
-っていうか……データディスクみたいだな、これ。
+There's a disk-like object dropped here. This is... it looks like a data disc.
 --------------------------------
 [00000016][ユキヒメ,ユキヒメ,ユキヒメ]
-でえたでぃすく？　なんだ、それは？
+Deita deesk? What is that?
 --------------------------------
 [00000017][レイジ,レイジ,レイジ]
-エルデにある道具なんだけどさ。
-まあいいや、とにかく持って行こう。
+It's an item found on Elde. Oh well, I'll just hang on to it for now.
 --------------------------------
 [00000018][レイジ,レイジ,レイジ]
-で……これからどうします？　サクヤさん。
-先に進みますか？
+So... what should we do now, Sakuya-san? Shall we press on?
 --------------------------------
 [00000019][サクヤ,マキシマ,サクヤ]
-いえ、今の戦いでだいぶ消耗してしまったようだし。
-今日のところはいったん帰りましょう。
+No, this battle has taken quite the toll on us. For today, let us return.
 --------------------------------
 [00000020][サクヤ,マキシマ,サクヤ]
-この、ディスクみたいなものも気になるしね……。
+I'm a little curious about this disc.
 --------------------------------
 [00000021][レイジ,レイジ,レイジ]
-それじゃ、探索に出発だ。
-今回も、なにが出てくるか見当がつかないからな。
-みんな、充分気をつけてくれ。
+Okay, let's set off to investigate. This time, we don't know what we are going
+to find. Everyone, be careful.
 --------------------------------
 [00000022][リン,シャオメイ,リンリン]
-わかってるって！　準備の方もだいじょーぶ！
-いつでも出発できるよ！
+I got it! Everything is prepared! We can set off anytime!
 --------------------------------
 [00000023][サクヤ,マキシマ,サクヤ]
-こっちも大丈夫。
-それじゃあみんな、行きましょう！
+Everything is okay on my side. Okay, everyone, let's go!
 --------------------------------
 [00000024][ユキヒメ,ユキヒメ,ユキヒメ]
-まったく……どうしてこの遺跡には、
-こうもモンスターが多いのだ？
-倒しても倒してもキリがないぞ。
+Good grief... why are there so many monsters in these ruins? There's just no end
+to them.
 --------------------------------
 [00000025][レイジ,レイジ,レイジ]
-そうだな……。いったい、どうなってるんだか。
-いいかげん疲れてくるな……。
+You're right... I wonder why. It's pretty tiring...
 --------------------------------
 [00000026][ケルベロス,クイーン EX-Xｅｃｔｙ,ケルベロス]
-そう？　ケルベロス、全然疲れないよ？
-まだまだへーきっ！
+Really? Kerberos is not tired at all! Still okay!
 --------------------------------
 [00000027][レイジ,レイジ,レイジ]
-……元気だな、お前は。
-こっちも負けるわけにはいかねぇか……。
-おっしゃ！　元気出していくぞぉ！
+...you're really energetic. I can't lose out... Okay! Let's move on with full
+power!
 --------------------------------
 [00000028][レイジ,レイジ,レイジ]
-ちっ！　また魔竜が出てきたか！
-やっぱりこの遺跡、なんかおかしいぜ！
+Tch! Another Magic Dragon! There is definitely something strange with these
+ruins!
 --------------------------------
 [00000029][アイラ,ブランネージュ・ガルディニアス,アイラ]
-今さらなにを言っている。
-この遺跡がおかしいことぐらい、
-最初からわかっていたはずだろう
+Why are you talking about that now? We all knew there was something strange
+about these ruins right from the start.
 --------------------------------
 [00000030][ユキヒメ,ユキヒメ,ユキヒメ]
-その通り！　まずは目の前の敵を倒すことだ！
-レイジ、やるぞ！
+That is correct! First, we defeat the enemy in front of us! Rage, do it!
 --------------------------------
 [00000031][レイジ,レイジ,レイジ]
-わかったよ！　やってやるぜ！
-魔竜め、かかって来やがれ！
+I got it! Let's do this! Come on, Magic Dragon!
 --------------------------------
 [00000032][レイジ,レイジ,レイジ]
-あれ？　これは……。
-またディスクが落ちてる。
+Huh? This is... another disc was dropped.
 --------------------------------
 [00000033][ユキヒメ,ユキヒメ,ユキヒメ]
-そうか。では、今回はそれを持って
-いったん拠点に戻らないか？
+I see. Well then, this time, let's take it back with us to base, shall we?
 --------------------------------
 [00000034][ユキヒメ,ユキヒメ,ユキヒメ]
-お前も皆も、だいぶ疲れているようだ。
-これ以上無理をしては危ない。
+You and everyone else are definitely exhausted. If you press on recklessly, it
+will be dangerous.
 --------------------------------
 [00000035][レイジ,レイジ,レイジ]
-そうだな。いったん戻って、
-ディスクを解析してもらおう。
-アイラ姫とか、こういうの得意だろうし。
+You're right. Let's go back, and analyze that disc. Princess Aira is good with
+that.
 --------------------------------
 [00000036][サクヤ,マキシマ,サクヤ]
-例によって、遺跡は下へ続いているけど……。
-解析が終わるまでは、近寄らないほうがよさそうね。
+As said, this ruins do go deeper... but until the analysis is complete, it is
+better if we stop here.
 --------------------------------
 [00000037][サクヤ,マキシマ,サクヤ]
-それまでは、
-地上の異変に対応することにしましょう。
+That way, we can react to the changes on the surface as well.
 --------------------------------
 [00000038][レイジ,レイジ,レイジ]
-ったく……足跡があったり、帝国軍の魔竜がいたり、
-なんかおかしいとは思ってたんだ。
+Damn... these footprints, it has to be the Imperial Army Magic Dragon. I knew it
+was strange.
 --------------------------------
 [00000039][レイジ,レイジ,レイジ]
-やっぱり、先に入り込んでたのは
-帝国の残党なんだろうな。
-どこかで待ち伏せしてやがるに違いないぜ。
+As I thought, there are more of the Empire remnants further ahead. They could be
+waiting to ambush us anywhere.
 --------------------------------
 [00000040][サクヤ,マキシマ,サクヤ]
-それはまだなんとも言えないけど、
-誰かが先に来ているのは事実よ。
-……あたりに注意しながら行きましょう。
+What you say may be correct, but it is a fact that someone came before us. ...It
+would be wise to proceed with caution.
 --------------------------------
 [00000041][サクヤ,マキシマ,サクヤ]
-みんな、今のところは大丈夫みたいね。
-でも、この先にも危険なモンスターがいるはずよ。
-気を抜かないで、注意して進んでね。
+Everyone, this place looks okay. However, beyond here, there will be more
+dangerous monsters. Don't lose your guard, and proceed with caution.
 --------------------------------
 [00000042][レイジ,レイジ,レイジ]
-わかりました。サクヤさんも気をつけて！
+Understood. Be careful too, Sakuya-san!
 --------------------------------
 [00000043][リン,シャオメイ,リンリン]
-大丈夫大丈夫！　あたしがついてるから！
-にゃはははっ！
+No problem, no problem! I'm right with her! Nyahahaha!
 --------------------------------
 [00000044][リン,シャオメイ,リンリン]
-また魔竜？　サクヤ、やっぱりこれは……。　
+Magic Dragon again? Sakuya, as I thought, this is...
 --------------------------------
 [00000045][サクヤ,マキシマ,サクヤ]
-……そうね。裏で糸を引いている奴がいるわね。
-確実に……！　でも、まずはこいつを倒すわよ！
+...you're right. The one pulling the strings must be close by. It has to be...!
+But first, we have to defeat this guy!
 --------------------------------
 [00000046][レイジ,レイジ,レイジ]
-了解！　こいつをやっつけて、
-黒幕とやらに会いに行きましょう！
+Understood! First we defeat this guy, then we face the one behind this!
 --------------------------------
 [00000047][ローゼリンデ,フレイア,ローゼリンデ]
-サクヤさん！　あそこにいるのは……！
+Sakuya-san! Look over there...!
 --------------------------------
 [00000048][サクヤ,マキシマ,サクヤ]
-……伯爵!?　やっぱりあなたが！
+...Earl?! I knew it was you!
 --------------------------------
 [00000049][アイザック,,伯爵]
-お前たちも来たのか。
-だが、少々遅かったようだな。
-これは、私がいただいていく。
+You all came. But, you are too late. I am taking this.
 --------------------------------
 [00000050][サクヤ,マキシマ,サクヤ]
-あれは……ディスク!?
-待ちなさい！　伯爵！
+That is... a disc?! Wait! Earl!
 --------------------------------
 [00000051][アイザック,,伯爵]
-……さらばだ。また会おう。
+...Farewell. We will meet again.
 --------------------------------
 [00000052][アルティナ,メル・シルフィス,アルティナ]
-き、消えた!?
+He... vanished?!
 --------------------------------
 [00000053][サクヤ,マキシマ,サクヤ]
-……しまった！　転移魔法か……！
-仕方ないわ。今日のところは引き揚げましょう。
+...This is bad! Teleportation...! This can't be helped. We will pull out of here
+for now.
 --------------------------------
 [00000054][サクヤ,マキシマ,サクヤ]
-でも、決してあなたの思い通りにはさせないわよ！
-伯爵！
+But, I will never let allow you to succeed! Earl!
 --------------------------------
 [00000055][サクヤ,マキシマ,サクヤ]
-この件に伯爵が絡んでいるとはっきりした以上、
-あまりのんびりしてはいられないわ。
+Now that we are caught up in the Earl's plans, we cannot afford to get careless.
 --------------------------------
 [00000056][レイジ,レイジ,レイジ]
-そうですね。のん気にかまえてたら、
-ホントに世界が滅ぼされちまう。
+Indeed. If we don't do anything, this world will really be destroyed.
 --------------------------------
 [00000057][レイジ,レイジ,レイジ]
-そうなる前に、あいつを止めないと！
-とにかく遺跡の奥へ急ぎましょう！
+We will stop that guy before that happens! We must hurry into the depth of the
+ruins!
 --------------------------------
 [00000058][レイジ,レイジ,レイジ]
-今のところ、伯爵の奴は出てこない
-みたいですけど……。
+It looks like that bastard Earl won't show up right now...
 --------------------------------
 [00000059][サクヤ,マキシマ,サクヤ]
-でも、あいつがこの先、
-なにを仕掛けてくるかわからないわ。
-くれぐれも気をつけて。
+However, you can be certain that he is planning something beyond here. We have
+to be careful.
 --------------------------------
 [00000060][レイジ,レイジ,レイジ]
-はい！
+Yes!
 --------------------------------
 [00000061][ユキヒメ,ユキヒメ,ユキヒメ]
-魔竜だ！　こいつも伯爵が放ったものか？
+A Magic Dragon! Is this one also released by the Earl?
 --------------------------------
 [00000062][サクヤ,マキシマ,サクヤ]
-たぶんね。ここで時間をかけるわけにはいかないわ。
-急いで片付けましょう！
+Most likely. We cannot afford to waste too much time here. We must hurry and
+deal with them!
 --------------------------------
 [00000063][ユキヒメ,ユキヒメ,ユキヒメ]
-心得た！　行くぞ、レイジ！
+Agreed! Let's go, Rage!
 --------------------------------
 [00000064][レイジ,レイジ,レイジ]
-おう！
+Yeah!
 --------------------------------
 [00000065][アイザック,,伯爵]
-残念だったな、サクヤ。
-今回も私の勝ちだよ！
+Most unfortunate for you, Sakuya. This victory is mine!
 --------------------------------
 [00000066][サクヤ,マキシマ,サクヤ]
-しまった……！
-また、ディスクがあいつの手に……！
+This is bad...! He has once again another disc...!
 --------------------------------
 [00000067][アイザック,,伯爵]
-そういうことだ。参考のために教えておくが、
-このディスクの中に、
-最後の封印を解くための鍵がある。
+That is how it is. But in case you are wondering, this disc contains the key
+that will unlock the last seal.
 --------------------------------
 [00000068][レイジ,レイジ,レイジ]
-なんだと!?　そんなもの、
-お前に渡すわけにはいかない！
-こっちによこせ！
+What did you say!? There's no way I'm letting you take something like that! Hand
+it over!
 --------------------------------
 [00000069][アイザック,,伯爵]
-おっと。
+Not so fast.
 --------------------------------
 [00000070][レイジ,レイジ,レイジ]
-うわっ!!
+Uwaa!!
 --------------------------------
 [00000071][サクヤ,マキシマ,サクヤ]
-しまった……！　リンリン！　伯爵は!?
+Oh no...! Rinrin! Where is the Earl?!
 --------------------------------
 [00000072][リン,シャオメイ,リンリン]
-ダメ……。もう、いなくなってる。
+No good... He's already gone.
 --------------------------------
 [00000073][サクヤ,マキシマ,サクヤ]
-また逃げられた……。今度こそ、本格的に
-まずいことになったわね……。
-拠点に戻って、対応策を考えないと……！
+He got away again... This time, it is really bad... we must return to base, and
+think of a counter-offensive...!
 --------------------------------
 [00000074][none]
-ev51049　ボス登場演出（EXボス）
+ev51049 Boss appearance production (EX boss)
 --------------------------------
 [00000075][アイザック,,伯爵]
-……サクヤ。今回も来たか。
-だが、いいところにやってきたものだな。
-ああ、実にいいタイミングだよ。
+...Sakuya, you've come. But I have everything prepared. Indeed, your timing is
+perfect.
 --------------------------------
 [00000076][アイザック,,伯爵]
-なにしろ、私がこの古き悪しき世界をぶち壊し、
-新たなる世界と素晴らしき秩序を打ち立てるための
-第一歩を踏み出す瞬間……。
+Very soon, I shall unleash this ancient evil upon the world. It will be the
+first step in shaping the new world, forged from a magnificent order...
 --------------------------------
 [00000077][アイザック,,伯爵]
-つまり私が、神となるための第一歩を踏み出す、
-まさにその瞬間に間に合ったのだからな！
+In other words, the first step for me to become a god, will happen at exactly
+the same time!
 --------------------------------
 [00000078][アイザック,,伯爵]
-さあ、そこでじっくりと見物するがいい！
-お前たちが愚かにも守ろうとしていた、
-その世界が滅び行く様子を！
+Now, stand there and behold! Watch as this world you foolishly struggle to
+protect perish!
 --------------------------------
 [00000079][アイザック,,伯爵]
-もっとも、お前たちもその滅びに巻き込まれ、
-消えていく運命なのだがな！
+And of course, you all along with it. It is your fate to be erased!
 --------------------------------
 [00000080][サクヤ,マキシマ,サクヤ]
-なにをふざけたことを……！
+What kind of bullshit are you spouting...!
 --------------------------------
 [00000081][レイジ,レイジ,レイジ]
-そんなこと、オレたちが許さねえ！
-絶対に止めてやる！
+I'll never let something like that happen! I will stop you!
 --------------------------------
 [00000082][アイザック,,伯爵]
-しかし、わからんな。サクヤ。どうしてお前は、
-こんな世界にここまで肩入れする？
+Still, I do not understand, Sakuya. Why are you struggling so hard for a world
+like this?
 --------------------------------
 [00000083][サクヤ,マキシマ,サクヤ]
-この世界は私にとって、守る価値がある！
-だから、あなたに滅ぼさせはしない！
-それだけよ！
+To me, this world is worth protecting for! That is why I will never let you
+destroy it! That's all there is to it!
 --------------------------------
 [00000084][アイザック,,伯爵]
-この世界に……価値が？
-ほほう……面白い考え方だ。
-お前は、まったくもって面白いな……。
+This world.... worth? Hahah... interesting words. You are as intriguing as
+always...
 --------------------------------
 [00000085][サクヤ,マキシマ,サクヤ]
-悪いけど、こっちは大真面目なのよ！
-あなたの妄想みたいな計画に、
-いつまでも付き合ってはいられないわ！
+Sorry, but I'm dead serious here! I will never go along with your demented
+ambitions!
 --------------------------------
 [00000086][サクヤ,マキシマ,サクヤ]
-とっととあきらめて、どこへなりと消えなさい！
+Just hurry and give it up, then go disappear somewhere else!
 --------------------------------
 [00000087][レイジ,レイジ,レイジ]
-……伯爵！
-お前が目覚めさせたモンスターはやっつけたぞ！
-次はお前の番だ!!
+...Earl! The monster you have awakened is now finished! Now it's your turn!!
 --------------------------------
 [00000088][アイザック,,伯爵]
-しょせん失敗作は失敗作……。
-ダークドラゴンの代わりは務まらんか。
-と、なると、やはり「箱」が必要だな……。
+A failed project is still a failed project after all... Unsuitable to be a
+replacement for DarkDragon. So, it would appear that I would need the "box"
+after all...
 --------------------------------
 [00000089][レイジ,レイジ,レイジ]
-なにをぶつぶつ言ってやがる？
-さっさとかかって来いってんだ！
+What are you blabbering about? Come on and face me!
 --------------------------------
 [00000090][アイザック,,伯爵]
-悪いが、そこまでお前たちの相手をする義理はない。
-私は、これで失礼させてもらう。
+Apologies, but I have no intentions of fighting you beyond this point. Pardon my
+departure.
 --------------------------------
 [00000091][レイジ,レイジ,レイジ]
-なにぃ？
+What?
 --------------------------------
 [00000092][レイジ,レイジ,レイジ]
-うわっ！　ちくしょう、また……！
+Uwaa! Damn it, again...!
 --------------------------------
 [00000093][ユキヒメ,ユキヒメ,ユキヒメ]
-……また、取り逃がしたか……。
-サクヤ、どうする？
+...He escaped from us again... Sakuya, what next?
 --------------------------------
 [00000094][サクヤ,マキシマ,サクヤ]
-……残念だけど、今はどうしようもないわ。
-放っておくしかないわね。
-これ以上は、あちらにも手駒はないでしょうし。
+...It is unfortunate, but there is nothing we can do. We have to let him go for
+now. He doesn't have any more pawns he can use either.
 --------------------------------
 [00000095][サクヤ,マキシマ,サクヤ]
-でも、次に会ったら必ず……！
+However, the next time we meet, I will...!
 --------------------------------
