@@ -6,6 +6,7 @@ def unpack_iso():
         import pycdlib
     except:
         os.system("pip install pycdlib")
+        import pycdlib
     print("Making isofiles directory")
     os.makedirs("./isofiles", exist_ok=True)
     iso_name = None
