@@ -2,7 +2,7 @@ from bin.python.fun import *
 
 unpack_iso()
 
-patch_eboot()
+decrypt_eboot()
 
 pgdecrypt()
 
